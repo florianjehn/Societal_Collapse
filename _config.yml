@@ -111,17 +111,17 @@ keywords: "Societal Collapse,Apocalypse,Nuclear Winter,Anthropocene,Collapse,Cli
 #747C92 slate gray
 
 
-navbar-col: "#5b3d91"
-navbar-text-col: "#777777"
-navbar-border-col: "#DDDDDD"
-page-col: "#EEEEEE"
-text-col: "#777777"
-link-col: "#404040"
-hover-col: "#404040"
-footer-col: "#C9B1BD"
+navbar-col: "#dcdcdc"
+navbar-text-col: "#404040"
+navbar-border-col: "#dcdcdc"
+page-col: "#dcdcdc"
+text-col: "#404040"
+link-col: "#5b3d91"
+hover-col: "#5b3d91"
+footer-col: "#dcdcdc"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#404040"
+footer-link-col: "#5b3d91"
+footer-hover-col: "#5b3d91"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
