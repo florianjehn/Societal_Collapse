@@ -3,18 +3,10 @@ layout: page
 
 ---
 
-Hi, I'm Florian,
+Hey there, I'm Florian, and here I run a constantly updated literature review about societal collapse. You can find the review here, but if you want to join in on the conversation, feel free to check out [Existential Crunch]((https://existentialcrunch.substack.com/) where you can comment and subscribe to the newsletter.
 
-I use this place here to try to understand the world and my thoughts.
+The idea behind this project is to make research on societal collapse more accessible to anyone who's interested in the topic. If I come across new information that changes any of my previous conclusions, I'll update the review herey. This also means that I greatly appreciate if you send papers which might be relevant to the posts you will read here.
 
+A little about me - I have a PhD in environmental science, but in recent years I have switched more to existential risk research, though still from an environmental perspective. For example, I have done [research about the focus of the IPCC](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EF002876). Besides this formal education, I also have been very interested in all things history for decades. Combining these skills lead me to this project here, as societal collapse often works through interactions of human behaviour and environmental factors. 
 
-555
-I see myself as an agreeable and curious person, who likes to explore the world in a playful manner. My main interests are climate change, existential risks, feminism, history, forecasting and food security. 
-
-After doing a bachelor, master and doctor in environmental science I am currently trying to explore how I can work on more impactful topics as those that I have covered in the past. 
-
-If I am not engaged in one of the topics above, it is likely that you find me doing sport, meditation, reading, going for a walk or enjoying time with the wonderful people in my life.
-
-See you around :)
-
-P.S. you can find an updated version of my academic CV [here](https://florianjehn.github.io/assets/misc/Florian_Jehn_Academic_CV_June_22.pdf).
+The project is funded by [Open Philantrohpy Project](https://www.openphilanthropy.org/). 
