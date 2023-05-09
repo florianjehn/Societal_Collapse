@@ -1,7 +1,3 @@
----
-layout: page
-
----
 ## About This Project
 
 Hey there, I'm Florian, and here I run a constantly updated literature review about societal collapse. You can find the review here, but if you want to join in on the conversation, feel free to check out [Existential Crunch](https://existentialcrunch.substack.com/) where you can comment and subscribe to the newsletter.
