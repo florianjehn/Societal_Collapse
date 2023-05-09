@@ -2,3 +2,6 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 
 ### Climate Change
 * [Global warming above 2°C](https://florianjehn.github.io/Societal-Collapse-Living-Literature-Review/2022-06-29-climate_2_degrees/)
+
+### Famine
+* [Escaping the Malthusian Trap](https://florianjehn.github.io/Societal-Collapse-Living-Literature-Review/2023-01-13-famine/)
