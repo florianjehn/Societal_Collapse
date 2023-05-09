@@ -66,7 +66,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: fediscience.org/@florianjehn
 #  ORCID: your ORCID ID
   google-scholar: citations?user=OoD5gYoAAAAJ&hl
 #  discord: invite/invite_code or users/userid 
@@ -101,7 +101,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Societal Collapse,Apocalypse,Nuclear Winter,Anthropocene,Collapse,Climate Change,Tipping Points"
 
 # --- Colours / background image --- #
 
@@ -111,12 +111,12 @@ post_search: true
 #747C92 slate gray
 
 
-navbar-col: "#C9B1BD"
-navbar-text-col: "#5b3d91"
+navbar-col: "#5b3d91"
+navbar-text-col: "#777777"
 navbar-border-col: "#DDDDDD"
 page-col: "#EEEEEE"
-text-col: "#5b3d91"
-link-col: "#5b3d91"
+text-col: "#777777"
+link-col: "#404040"
 hover-col: "#404040"
 footer-col: "#C9B1BD"
 footer-text-col: "#777777"

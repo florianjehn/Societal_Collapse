@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are the potato famine and the revolutions of 1848 an example for the fragility of the modern world?
+title: Potatoes and revolution
 subtitle: Cascading catastrophe from food to society
 tags: [History, Collapse, Food Security]
 comments: true
