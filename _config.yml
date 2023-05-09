@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Living Literature Review on Societal Collapse
+# title: Living Literature Review on Societal Collapse
 
 # Your name to show in the footer
 author: Florian U. Jehn
@@ -37,7 +37,7 @@ avatar: "/assets/img/logo.png"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/logo.png"
 
 
 # --- Footer social media links --- #
