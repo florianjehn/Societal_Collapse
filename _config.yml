@@ -14,10 +14,10 @@ author: Florian U. Jehn
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About This Project: "aboutme"
   Overview Posts: overview
   Influence Factors: factors
   Case Studies: casestudies
+  About This Project: "aboutme"
   
 
   
