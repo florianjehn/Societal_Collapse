@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Unknown Knowns
+title: Living Literature Review on Societal Collapse
 
 # Your name to show in the footer
 author: Florian U. Jehn
@@ -14,7 +14,8 @@ author: Florian U. Jehn
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About This Project: "aboutme"
+  
 
   
 #  Resources:
@@ -69,7 +70,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website contains a collection of thoughts by Florian Jehn
+rss-description: This website contains a living literature review on societal collapse
 
 # --- General options --- #
 
@@ -112,12 +113,12 @@ navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#EEEEEE"
 text-col: "#404040"
-link-col: "#5D2A42"
-hover-col: "#5D2A42"
+link-col: "#5b3d91"
+hover-col: "#5b3d91"
 footer-col: "#C9B1BD"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#5D2A42"
+footer-hover-col: "#5b3d91"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
