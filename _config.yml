@@ -15,6 +15,9 @@ author: Florian U. Jehn
 
 navbar-links:
   About This Project: "aboutme"
+  Overview Posts: overview
+  Influence Factors: factors
+  Case Studies: casestudies
   
 
   
@@ -109,16 +112,16 @@ post_search: true
 
 
 navbar-col: "#C9B1BD"
-navbar-text-col: "#404040"
+navbar-text-col: "#5b3d91"
 navbar-border-col: "#DDDDDD"
 page-col: "#EEEEEE"
-text-col: "#404040"
+text-col: "#5b3d91"
 link-col: "#5b3d91"
-hover-col: "#5b3d91"
+hover-col: "#404040"
 footer-col: "#C9B1BD"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#5b3d91"
+footer-hover-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
