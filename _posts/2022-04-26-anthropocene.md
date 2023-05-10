@@ -2,7 +2,7 @@
 layout: post
 title: The universal Anthropocene
 subtitle: Things we can learn from exo-civilisations, even if we never meet any
-tags: [Science, Fermi-Paradox]
+tags: [Overview Post, High Level]
 comments: true
 readtime: true
 ---

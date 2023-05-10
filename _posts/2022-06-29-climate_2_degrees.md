@@ -2,7 +2,7 @@
 layout: post
 title: Global warming above 2°C
 subtitle: How concerned should we be?
-tags: [Climate Change, Existential Risk]
+tags: [Influence Factors, Climate Change]
 comments: true
 readtime: true
 ---
