@@ -9,7 +9,7 @@ readtime: true
 
 Societal collapse has been with humanity since the agricultural revolution, but only during the enlightenment did humans gain the means to understand these cataclysms in a systematic way. This line of research continues today, and in this post, I will map out how the field of collapse research has developed over time, what different schools exist (Figure 1) and what factors they emphasize as leading to collapse. Much of this is based on Brozović (2023), who read and summarized an impressive amount of collapse research. We will first explore the different schools of collapse research in roughly chronological order. These schools can also be seen as representatives of how we should think about collapse in general. After introducing these major schools, we’ll use them as a lens to begin investigating two important questions: what even is a collapse? And what causes it?
 
-![Schools](/assets/img/collapse_schools.png)
+![Schools](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/collapse_schools.png)
 
 Figure 1: Schools of collapse research. 
 
@@ -75,13 +75,13 @@ Whereas the definition of collapse remains vague, the search for causes of colla
 
 Let’s begin with Jared Diamond’s work, one of the most well known collapse frameworks, which focuses on society’s interaction with its environment. Overall there are five factors Diamond sees as the main drivers of collapse (though note Diamond believes it is possible to take actions to mitigate each of these factors - for example, a well managed societal response can help mitigate a sudden shift in the climate). 
 
-![Factor Diamond](/assets/img/diamond_factors.png)
+![Factor Diamond](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/diamond_factors.png)
 
 Figure 2: Jared Diamond's main factors of collapse
 
 In addition to the five main factors, Diamond also identifies twelve environmental problems that are often connected to collapse. This framework has been used by others to create a conceptual model (Figure 3) (Carter, 2013). While no one has used it for further research yet, it highlights nicely the inherent complexity of trying to capture the essence of why collapse happens.
 
-![Model Carter](/assets/img/carter_model.png)
+![Model Carter](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/carter_model.png)
 
 Figure 3: Reproduced figure from Carter (2013) based on Diamond (2011). Red: Negative Feedback, Green: Positive Feedback, Purple: Positive/Negative Feedback, Grey boxes: Main Factors, White Boxes: Subfactors. 
 
@@ -91,7 +91,7 @@ While Diamond's focus on the environment and humanity’s interaction with it ma
 
 In contrast to Diamond, Karl Butzer focuses on the societal response instead of the environment (Butzer, 2012). The environment has a role in potentially triggering an economic crisis, but even this is only assumed to happen after an internally generated economic decline. When a crisis is triggered the reaction depends on whether society manages to end up in positive or negative feedback loops. In either case, reconstruction is possible, but is more likely to be incomplete after a collapse. Butzer further discriminates between a collapse and complete societal devolution, though he does not really define either. It reads as if you can still recover from a collapse, while a devolution leads to a complete dissolution of state-like structures. This focus on economic growth can also be found in other works, e.g. Samo Burja’s great founder theory (Burja, 2018).
 
-![Model Butzer](/assets/img/butzer_model.png)
+![Model Butzer](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/butzer_model.png)
 
 Figure 4: Karl Butzer’s Framework of societal collapse.
 
@@ -99,7 +99,7 @@ Figure 4: Karl Butzer’s Framework of societal collapse.
 
 The framework of Cumming & Peterson (2017) goes up one level in abstraction in comparison to the other two. While Butzer and Diamond are only interested in societal collapse, Cumming and Peterson see collapse as a more general phenomenon. Their examples they look at are ranging from Bronze Age collapse to the collapse of bee hives. They come to the conclusion that the type of collapse that happens is based on the structure of the system. For example, if you have a hierarchical and individualistic structure you get the kind of collapse as Peter Turchin describes in his ideas of secular cycles. Overall, I find it more convincing, as it is a more holistic picture. It is also even more abstract than the other models proposed, which makes it more difficult to apply. However, Cumming and Peterson articulate that they see their work as the basis of an interdisciplinary study of collapse, which sounds quite promising. 
 
-![Model Meta](/assets/img/meta_model.png)
+![Model Meta](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/meta_model.png)
 
 Figure 5: Types of collapse based on the structure of the system from Cumming and Peterson (2017) 
 
