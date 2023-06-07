@@ -2,7 +2,7 @@
 layout: post
 title: Mapping out collapse research
 subtitle: Understanding the ways societies end
-tags: [Overview Posts]
+tags: [Overview Posts, Summary]
 comments: true
 readtime: true
 ---
