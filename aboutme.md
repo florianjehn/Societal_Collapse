@@ -15,4 +15,4 @@ A little about me - I have a PhD in environmental science, but in recent years I
 The project is funded by [Open Philantrohpy](https://www.openphilanthropy.org/). 
 
 # Acknowledgement
-Thanks to Luke Kemp, Ekaterina Ilin and Matt Clancy for very valuable feedback on some of the posts here!
+Thanks to Luke Kemp, Ekaterina Ilin, Danilo Brozović, and Matt Clancy for very valuable feedback on some of the posts here!
