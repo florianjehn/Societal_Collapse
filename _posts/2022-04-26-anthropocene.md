@@ -101,6 +101,3 @@ Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman,
 
  
 
-## Acknowledgement
-
-Thanks to Ekaterina Ilin for giving lots of valuable feedback on how to improve this post. 
