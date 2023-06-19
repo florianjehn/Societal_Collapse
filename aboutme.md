@@ -12,6 +12,8 @@ The idea behind this project is to make research on societal collapse more acces
 
 A little about me - I have a PhD in environmental science, but in recent years I have switched more to existential risk research, though still from an environmental perspective. For example, I have done [research about the focus of the IPCC](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EF002876). Besides this formal education, I also have been very interested in all things history for decades. Combining these skills lead me to this project here, as societal collapse often works through interactions of human behaviour and environmental factors. If you want to learn about me and my work, just scroll down and you find links to all the places I regularly post. 
 
+# Funding
+
 The project is funded by [Open Phil](https://www.openphilanthropy.org/). They are also looking for more people who would be interested in working on such a living literature review for a variety of topics. More info [here](https://www.openphilanthropy.org/focus/innovation-policy/).
 
 # Acknowledgement
