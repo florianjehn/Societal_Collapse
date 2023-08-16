@@ -1,0 +1,66 @@
+---
+layout: post
+title: Participation, inclusion, democracy, and resilience
+subtitle: More perspectives makes for better decisions
+tags: [Resilience, Democracy]
+comments: true
+readtime: true
+---
+The risk of societal collapse is dependent not only on the problems a society faces, but also on the adaptation it makes to counter those problems. These adaptations can increase the resilience of a society and make it less vulnerable to potential hazards. This post will look at three papers that analyze past societies (1) to argue increased participation and inclusion among members of a society can increase resilience. 
+
+# Drawing conclusions from past societies to today’s existential risks
+
+Our first study, by Peter Peregrine, tries to learn about the factors that could help modern society survive a small-ish nuclear war, by studying how societies all around the globe reacted to the volcanic winter of the Late Antique Little Ice Age (Peregrine, 2021). Peregrine examines how different societies responded to the extreme environmental challenges during this period and what societal structures seemed to have a higher resilience. 
+
+Peregrine relies on data from the Seshat database on 20 societies around the globe, aiming to eliminate autocorrelation due to spatial proximity between cultures by including societies that never had the chance to interact with each other. The focus is on the Late Antique Little Ice Age (roughly 6th and 7th centuries AD), because he sees this as the best proxy for the kind of nuclear winter that would follow a small-ish nuclear war. During this period, several larger volcanoes erupted over the span of 10 years, which resulted in a global temperature drop of 1-2°C. This resulted in crop failures and large scale migrations. 
+
+![Peregrine Sample](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/peregrine.png)
+
+Figure 1: Spatial distribution of the sample in Peregrine (2021)
+
+Based on a review of past literature Peregrine hypothesizes that more flexible societies are more resilient, that this flexibility is mainly driven by participation, and that the degree of participation is governed by the amount of hierarchy in a society. To test this Peregrine creates an index that captures the hierarchy of a society. This index is the sum of five variables, graded on a 5 point scale, that assess privileges of leaders, how much leaders have unique identifiers (e.g. appearance), how much authority is shared and how many foreign contacts a society has. He also created an index to measure social change. This index is the sum of six variables, graded on a 3 point scale, that assess change in population, famine and disease, conflict and three variables that code different aspects of societal organization. This is meant to capture how well the given society coped with the Late Antique Little Ice Age. The results show that societies that had a low hierarchy index and allowed a greater degree of participation managed to adapt better to the new climatic circumstances and experienced less negative social change (like population loss). Peregrine’s explanation is that higher participation in political decision making makes a society more flexible and this higher flexibility in turn allows it to react better to the changes introduced by the hazards of a volcanic winter. He also links this to social capital, which means the social networks and interpersonal relationships that form a community together and make it more likely that people help each other. 
+
+# Understanding how past societies would fare with today's sustainability measures
+
+The second study is by Allen et al. (2022). I'll keep things short here as we already discussed this study in a [previous post](https://florianjehn.github.io/Societal_Collapse/2023-08-10-lessons_from_the_past/), but I wanted to highlight it again, because it can be seen as an independent verification of Peregrine’s results. Allen and coauthors turn the approach from Peregrine on its head. While Peregrine was trying to learn something from past societies for today, the study by Allen et al. tries to understand how past societies fared when it comes to today’s sustainability measures. The sustainability measures they focus on are the Sustainable Development Goals. Allen et al. determine that, in general, societies in the past that were able to live in line with the Sustainable Development Goals fared better overall. To make this assessment they look at a large variety of cultures and from history, paleoenvironment and archaeology based on a literature review. One key thing the Sustainable Development Goals promote is the broadening of diversity and inclusion. Allen and coauthors highlight a variety of studies that also find that in archeological and historical records those societies were more resilient, which had more diversity and inclusion. They even cite Peregrine’s study as another example of this.
+
+# How does this relate to democracy?
+
+We now have identified “participation” and “inclusion” as a key feature for resilient societies. One major thing that in today’s society allows for more participation and inclusion is democracy. Unfortunately, I did not find any research that directly looks at the relationship between democracy and societal collapse, likely due to the fact that no modern democracy so far has experienced a societal collapse. This is, itself, sort of comforting! But since modern democracies only started to exist around 200 years ago and only [became widespread starting in the 1950s](https://ourworldindata.org/democracy), we shouldn’t take too much comfort in this fact.
+
+*If you know of important studies I’ve missed here, please email me and I’ll update this article!*
+
+However, we can look at something similar: how do democratic and non-democratic societies react to natural hazards today? These hazards are smaller in scale than events that could cause societal collapse, but can be big enough to bring societies to a breaking point locally and there is a rich literature on this topic. The study I want to highlight is authored by Thung-Hong Lin and explores how modern states have reacted to natural hazards of varying scale (Lin, 2015). 
+
+Lin uses a dataset of 150 countries from 1995 to 2009 and looks at their state capacity, how democratic they are and how they reacted to disasters. To analyze this Lin used data from the [Emergency Event Database](https://www.emdat.be/) to get a number of affected people (this means people who either died from the disasters or were affected in their livelihood by things like injury or homelessness). To have a proxy for state capacity Lin used government expenditure divided by the GDP of the country, while for democratic status Lin used the [Polity IV dataset](https://www.systemicpeace.org/polityproject.html). Lin then used multiple linear regression to detect the relationship between those variables. 
+
+In general Lin finds that less people are affected if you have more state capacity and you are a democracy. This holds true across all different disaster types like earthquakes, storms or floods. Lin argues his results show you need both state capacity and democracy to have the highest resilience against natural hazards. If you lack democracy, the state lacks the incentive to take care of everyone. If you lack state capacity, you simply cannot implement the interventions needed to make your society more resilient to hazards. This is also echoed in other studies about resilience to hazards and state capacity. For example, Omberg & Tabarrok (2022) found that state capacity is one of the few factors that decreased COVID-19 excess deaths.
+
+# What Can We Do?
+
+In this post we looked at three studies that tried to understand how societies reacted to difficult events which endangered their population. All three highlight participation, inclusion and democracy as being important to have a resilient society. Of all the factors considered, those came out on top. I cannot give you a specific number like “democracy decreases the risk of collapse by “x” %”, but I still think that the evidence is strong. Especially, as clear mechanisms exist on how democracy, inclusion and participation lead to more resilience. People are more able to voice grievances, are much more willing to help each other and the state has a stronger incentive to take care of everyone.
+
+What kinds of concrete adaptations do these studies suggest we should seek to implement? Peregrine (the study on Late Antiquity Little Ice Age resilience) proposes some very small-scale interventions; for example that local disaster management officials should regularly talk to their community members. For me, the results seem to call for different, bigger interventions like expanding democracy globally or making sure that our societies are inclusive enough to give everyone the chance of participation, for example by improving the rights of minorities (which was one of the ways participation was measured in Allen et al. 2022). The last study by Lin adds an important caveat that to really reap the benefits of participation, you also need a strong state to implement the measures needed to make life save for everyone. This also implies to me that neoliberalism could be a risk factor for societal collapse, as neoliberalism has tended to erode state capacity, for example, by offloading duties of the state to private actors and reducing the tax base to fund government operations (Hamm et al., 2012). 
+
+Overall, my take from this is that democracy is even more important than I previously thought. Promoting more democracy, inclusion and participation in combination with building states that also have the capacity to implement programs, could be an important intervention to avoid the collapse of our global civilization. 
+
+*Thanks for reading! If you want to talk about this post or societal collapse in general, I’d be happy to have a chat. Just send me a mail to florian.u.jehn at posteo.de and we can schedule something.*
+
+
+# Footnotes
+
+(1) For more on the comparability of past and present societies for the purposes of learning about societal collapse, see my earlier post [Lessons from the past for our global civilization](https://florianjehn.github.io/Societal_Collapse/2023-08-10-lessons_from_the_past/).
+
+# References
+
+Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
+
+Hamm, P., King, L. P., & Stuckler, D. (2012). Mass Privatization, State Capacity, and Economic Growth in Post-Communist Countries. American Sociological Review, 77(2), 295–324. https://doi.org/10.1177/0003122412441354
+
+Lin, T.-H. (2015). Governing Natural Disasters: State Capacity, Democracy, and Human Vulnerability. Social Forces, 93(3), 1267–1300.
+
+Omberg, R. T., & Tabarrok, A. (2022). Is it possible to prepare for a pandemic? Oxford Review of Economic Policy, 38(4), 851–875. https://doi.org/10.1093/oxrep/grac035
+Peregrine, P. N. (2021). Social resilience to nuclear winter: Lessons from the Late Antique Little Ice Age. Global Security: Health, Science and Policy, 6(1), 57–67. https://doi.org/10.1080/23779497.2021.1963808
+
+
+
