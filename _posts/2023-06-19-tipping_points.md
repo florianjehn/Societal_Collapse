@@ -36,6 +36,10 @@ There are a lot of studies that look into tipping elements. However, most of tho
 
 *If you know of important studies I've missed, please email me and I'll update this article!*
 
+# How could we detect tipping points?
+
+While the occurrence of tipping points is abrupt, there are still tools we can use to detect them before they happen. One paper which explores this is literature review by Dakos et al. (2023). The main way to detect tipping points are so-called Early-Warning Signals. They work by identifying changes in a system's behavior as it approaches a tipping point. This change is often marked by a phenomenon known as critical slowing down, where the system becomes less resilient to disturbances. This means once a disturbance happens it takes longer and longer to get back to its original state the closer it is to the tipping point. However, Early-Warning Signals do not predict all types of tipping points and can also appear in smoother transitions. Despite this, they have been successful in detecting tipping points in nearly 70% of cases which Dakos and co-authors looked at. 
+
 # How warm could it get?
 
 Assessing the ultimate temperature impact of tipping points is quite difficult, as the potential ranges of the additional warming caused by them are quite wide. However, we can still make a rough assessment. Armstrong McKay et al. (2022) provides a summary of estimates for the effects of the 15 tipping elements identified by Lenton et al.. If we naively add up all those values we end up with an additional warming of ~1.17°C. 
@@ -44,7 +48,7 @@ This is quite a lot, but does not tell the whole story, as the tipping elements 
 
 # How bad is our situation?
 
-This is the trillion dollar question and the honest answer might just be: we’re not exactly sure. As hopefully became clear in this post, there is not that much research about what would happen if we started a tipping cascade. However, given paleoclimatic evidence, we do know that the abrupt changes described here can happen. This has been acknowledged in the most recent reports by the IPCC and the overall state of knowledge about this was exhaustively explored in a 2022 literature review by Boers et al.. An example here would be the so-called Dansgaard-Oeschger Events. These events are characterized by a complex interaction of sea ice, atmospheric dynamics and the Atlantic Meridional Overturning Circulation which leads to an abrupt temperature increase of up to 16°C in high northern latitudes in less than ten years. 
+This is the trillion dollar question and the honest answer might just be: we’re not exactly sure. As hopefully became clear in this post, there is not that much research about what would happen if we started a tipping cascade. However, given paleoclimatic evidence, we do know that the abrupt changes described here can happen. This has been acknowledged in the most recent reports by the IPCC and the overall state of knowledge about this was exhaustively explored in a 2022 literature review by Boers et al.. An example here would be the so-called Dansgaard-Oeschger Events. These events are characterized by a complex interaction of sea ice, atmospheric dynamics and the Atlantic Meridional Overturning Circulation which leads to an abrupt temperature increase of up to 16°C in high northern latitudes in less than ten years. We also have further evidence for past tipping point behavior by looking into our paleoclimatic record. A recent paper by Setty et al. (2023) identified that three past temperature peaks in the Earth’s system are linked to significant changes in the carbon cycle. This indicates that a large amount of carbon dioxide was added to the atmosphere in a short period of time. Likely this was caused by a self-reinforcing loop of warmer temperatures and higher methane and carbon dioxide release from peatlands, submarine hydrates and permafrost.
 
 There have been calls for more research into this area and higher temperature climate change in general (see for example Kemp et al. (2022)) and there are also calls for creating a special report of the IPCC about exactly this topic (Boers et al., 2022). But at the moment, this research has yet to be produced and summarized. Wang et al. (2023) also highlights several times that many of the processes are not well understood, especially for time scales beyond 2100. This research could be challenging, as tipping points are not considered in most of the major models used to model climate change (Kemp et al., 2022). It’s not even clear whether the global climate models we use are even up to that task (Balaji et al., 2022). Boerst et al. highlight several times that most of our current models struggle to replicate abrupt transitions in our paleoclimatic record, due to a stability bias and insufficient spatial resolution. This means it is hard to trigger extreme events, even if you apply massive forcing. However, when it comes to tipping points, extreme events are exactly the thing we want to study. 
 
@@ -58,6 +62,8 @@ Balaji, V., Couvreux, F., Deshayes, J., Gautrais, J., Hourdin, F., & Rio, C. (20
 
 Boers, N., Ghil, M., & Stocker, T. F. (2022). Theoretical and paleoclimatic evidence for abrupt transitions in the Earth system. Environmental Research Letters, 17(9), 093006. https://doi.org/10.1088/1748-9326/ac8944
 
+Dakos, V., Boulton, C. A., Buxton, J. E., Abrams, J. F., Armstrong McKay, D. I., Bathiany, S., Blaschke, L., Boers, N., Dylewsky, D., López-Martínez, C., Parry, I., Ritchie, P., van der Bolt, B., van der Laan, L., Weinans, E., & Kéfi, S. (2023). Tipping Point Detection and Early-Warnings in climate, ecological, and human systems. EGUsphere, 1–35. https://doi.org/10.5194/egusphere-2023-1773
+
 Kemp, L., Xu, C., Depledge, J., Ebi, K. L., Gibbins, G., Kohler, T. A., Rockström, J., Scheffer, M., Schellnhuber, H. J., Steffen, W., & Lenton, T. M. (2022). Climate Endgame: Exploring catastrophic climate change scenarios. Proceedings of the National Academy of Sciences, 119(34), e2108146119. https://doi.org/10.1073/pnas.2108146119
 
 Lenton, T. M., Held, H., Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S., & Schellnhuber, H. J. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105(6), 1786–1793. https://doi.org/10.1073/pnas.0705414105
@@ -65,6 +71,8 @@ Lenton, T. M., Held, H., Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S., & 
 Ripple, W. J., Wolf, C., Lenton, T. M., Gregg, J. W., Natali, S. M., Duffy, P. B., Rockström, J., & Schellnhuber, H. J. (2023). Many risky feedback loops amplify the need for climate action. One Earth, 6(2), 86–91. https://doi.org/10.1016/j.oneear.2023.01.004
 
 Ritchie, P. D. L., Clarke, J. J., Cox, P. M., & Huntingford, C. (2021). Overshooting tipping point thresholds in a changing climate. Nature, 592(7855), 517–523. https://doi.org/10.1038/s41586-021-03263-2
+
+Setty, S., Cramwinckel, M. J., van Nes, E. H., van de Leemput, I. A., Dijkstra, H. A., Lourens, L. J., Scheffer, M., & Sluijs, A. (2023). Loss of Earth system resilience during early Eocene transient global warming events. Science Advances, 9(14), eade5466. https://doi.org/10.1126/sciadv.ade5466
 
 Wang, S., Foster, A., Lenz, E. A., Kessler, J. D., Stroeve, J. C., Anderson, L. O., Turetsky, M., Betts, R., Zou, S., Liu, W., Boos, W. R., & Hausfather, Z. (2023). Mechanisms and Impacts of Earth System Tipping Elements. Reviews of Geophysics, 61(1), e2021RG000757. https://doi.org/10.1029/2021RG000757
 
