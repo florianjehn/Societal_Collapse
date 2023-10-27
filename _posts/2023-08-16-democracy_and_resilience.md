@@ -6,7 +6,7 @@ tags: [Resilience, Democracy]
 comments: true
 readtime: true
 ---
-The risk of societal collapse is dependent not only on the problems a society faces, but also on the adaptation it makes to counter those problems. These adaptations can increase the resilience of a society and make it less vulnerable to potential hazards. This post will look at three papers that analyze past societies (1) to argue increased participation and inclusion among members of a society can increase resilience. 
+The risk of societal collapse is dependent not only on the problems a society faces, but also on the adaptation it makes to counter those problems. These adaptations can increase the resilience of a society and make it less vulnerable to potential hazards. This post will look at four papers that analyze past societies (1) to argue increased participation and inclusion among members of a society can increase resilience. 
 
 # Drawing conclusions from past societies to today’s existential risks
 
