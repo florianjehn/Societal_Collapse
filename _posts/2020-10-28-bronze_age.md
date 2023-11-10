@@ -6,7 +6,7 @@ tags: [Case Study, Pre-Modern]
 comments: true
 readtime: true
 ---
-
+# End of an age
 Why do civilizations collapse? For some civilizational collapses in the past there is one striking event that leads to a quick end, like environmental damage for the people on the Easter Islands. For other civilizations, several causes interact with each other, as it happened for the Maya, where environmental damage, climate change and hostile neighbors sealed their fate (Diamond, 2011). But the most mysterious case I came across is the simultaneous collapse of almost all major empires in the Mediterreanen during the late Bronze Age. In only around 50 years between 1200 and 1150 BCE the Mycenaean Kingdoms and the Hittite Empire dissolved, Egypt lost its control over the Levante and broke down shortly after. Only Elam and the Assyrian Empire survived somewhat intact. To put this into perspective, there weren’t many states around in this time of human history. Depending on how you count it this means that most existing states on Earth in this time either collapsed or declined. There is less data about China and India for the late Bronze Age, but there are some indications that they also struggled at a similar time, which would make this a global crisis that involved every state that existed at that time. However, as the data from India and China is very scarce I will focus on the Mediterranean, describe my current understanding of the Bronze Age collapse and what we might be able to learn from it today. 
 
 So, what happened? This is still debated much and there are many conflicting theories, but I try to tell here the story that seems most likely to me (I am not a historian, so maybe take this with a grain of salt). I’ve seen many papers that traced the collapse back to only one or a few causes, but it made more sense to me that basically all proposed causes are responsible to some degree and I try to highlight their connections in the text and Figure 2. 
@@ -19,6 +19,8 @@ Other research links these movements to a drought that led to widespread famines
 
 Figure 1:  Map of the Sea People invasions in the Aegean Sea and Eastern Mediterranean at the end of the Late Bronze Age (blue arrows). Some of the major cities impacted by the raids are denoted with historical dates. Inland invasions are represented by purple arrows. (Source: Kaniewski et al., 2011) 
 
+# Potential causes for the collapse
+
 But this climatic approach does not explain everything. The civilizations in this part of earth already survived similar events in the past. For example the destruction of the Minoan civilization on Crete (which is in the middle of the eastern Mediterranean) was caused by another major volcanic eruption (Marinatos, 1939). However, all other civilizations survived mostly unharmed. This indicates that also the societal structure comes into play. There are indications that the civilizations of that time were highly centralized, with the main cities and palaces collecting all of the output of the surrounding farms and workshops (Nakassis et al., 2011). The resources collected in this way were then used to trade and to satisfy key supporters of the ruling class. However, this system relies on the ability of the central government to collect the output of everyone else. This ability was disrupted by the changing climate. The cities in the Mediterranean usually had a higher need for food and other resources to maintain themselves than their immediate surroundings were able to deliver. Thus, they relied on the smaller cities to regularly provide them with food. With the changing climate, the smaller cities needed the food they produced for themselves and stopped their deliveries to the main cities (Knitter et al., 2019). Without those deliveries the central authority had two problems at once. Suddenly there is a shortage of daily everyday goods the citizens needed but, they also missed out on valuable trade goods. Those trade goods were quite important, as the states of that times were connected in a vast trade network reaching from Egypt to Scandinavia (Varberg et al., 2020). This trade network was essential, as all states of that time needed tin and copper to produce bronze. While copper is relatively abundant and can be mined in many places, large tin deposits are much rarer.   Major deposits can be found in present day Spain, Southwest England and Afghanistan (Berger et al., 2019). Therefore, without trade you lose the access to tin, which means you cannot smelt bronze anymore. As bronze was especially important for the production of weapons and armor, a loss of it means a reduced ability to defend yourself against invaders. Another important function of the trade network was to keep in connection with the other empires. There are several indications that the empires helped each other out with food and military aid during emergencies (Burlingame, 2011). What also made defense much harder was a series of earthquakes that hit the Mediterranean at that time. They likely destroyed much of the fortifications and palaces in the region, which left the cities defenseless and in chaos (Nur and Cline, 2000). All those factors were further enhanced by the impact of diseases. There are several indications that a kind of pandemic was rampant during this time as well. However, it is unclear which diseases it was. Likely candidates include the bubonic plague and smallpox (Norrie, 2016). This destabilized society and decreased the available resources, which led to migration and finally to pressure on other cities. The final contributing factor I found is civil war. There are several cities where only the palace is burned down, while the rest of the city remained unharmed, which is an indication of a violent uprising (Carlin, 2019). 
 
 All those factors draw a very complicated picture of the Bronze Age collapse (Figure 2). There is not a single defining cause for the collapse. Every factor on its own would likely not have been enough to topple several Bronze Age empires. However, their interaction led to a quick end of the Bronze Age, which had been relatively stable for centuries or even millennia. 
@@ -26,6 +28,8 @@ All those factors draw a very complicated picture of the Bronze Age collapse (Fi
 ![Arrow Diagram](/assets/img/arrow_diagram.png)
 
 Figure 2: Interaction of the different factors that led to the late Bronze Age collapse (own figure). 
+
+# Implications for today
 
 The reason I am trying to tell this story is that it reminds me of the current situation of the world. There are many factors contributing to a complex system of which we don't always have a deep understanding or overview of. It is really hard to pinpoint the date when it is too late for a system before it collapses. When was the point the fate of the people of the Bronze Age was sealed? When Mount Hekla erupted? When the centralized structure collapsed? When tin became unavailable? The causes that seem most likely to me is the eruption of Mount Hekla and the series of earthquakes.Those two events started a kind of chain reaction by interacting with the way the society of that time was organised. A volcanic eruption that hit a different kind of society would not have been so fatal, as was shown by the earlier eruption at Crete. However, it is almost impossible to pinpoint the main cause of or even determine if there is something like this. This highlights how difficult it is to really find the exact tipping point of a system. 
 
@@ -36,16 +40,12 @@ Imagine a person that was born 1230 BC in Ugarit, a prosperous city of the vast 
 I hope we can avoid such a fate for our current civilization. 
 
  
-
+# Acknowledgement 
  
 
 Thanks to Jan Wittenbecher, Peter Ruschhaupt, Lutz Breuer, Matteo Trevisan and Luise Wolf for proofreading this text and providing valuable comments!
 
-If you want to learn more about the topic you can find all the resources I used below. Also, there is a somewhat similar post from earlier this year. 
-
- 
-
-References 
+# References 
 
 Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockhoff, N. and Pernicka, E.: Isotope systematics and chemical composition of tin ingots from Mochlos (Crete) and other Late Bronze Age sites in the eastern Mediterranean Sea: An ultimate key to tin provenance?, edited by A. Zerboni, PLoS ONE, 14(6), e0218326, doi:10.1371/journal.pone.0218326, 2019.
 
