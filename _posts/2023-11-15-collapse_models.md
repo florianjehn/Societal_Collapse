@@ -12,7 +12,7 @@ The [first post](https://florianjehn.github.io/Societal_Collapse/2023-06-06-coll
 
 One helpful work about societal dynamic modelling is a literature review by Sabin Roman, which I will use here as the basis to give a first overview (Roman, 2023) (1).
 
-One thing that societal collapse research has shown is that we cannot attribute collapse to a single cause. However, we might track it back to a single process. Roman proposes here that to capture the complexities of collapse, we have to think in the form of feedback mechanisms. This means to understand collapse, we have to think in and model multi-causal relationships between a variety of societal variables. To give a more concrete example of such a feedback process, look at the self-reinforcing mechanism of famines, explained in an earlier post:
+One thing that societal collapse research has shown is that we cannot attribute collapse to a single cause. However, we might track it back to a single process. Roman proposes here that to capture the complexities of collapse, we have to think in the form of feedback mechanisms. This means to understand collapse, we have to think in and model multi-causal relationships between a variety of societal variables. To give a more concrete example of such a feedback process, look at the self-reinforcing mechanism of famines, explained in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2023-10-05-famine_2/):
 
 “
 
