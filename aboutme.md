@@ -18,7 +18,7 @@ The project is funded by [Open Phil](https://www.openphilanthropy.org/). They ar
 
 # Acknowledgement
 Over the time a lot of people have helped me with feedback on my posts. I try to keep this list up to date, but please remind me if I overlooked you here. 
-Thanks for very valuable feedback on a variety of the posts here!:
+Thanks for very valuable feedback on a variety of the posts here!
 * Luke Kemp
 * Ekaterina Ilin
 * Danilo Brozović
