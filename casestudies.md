@@ -11,3 +11,4 @@ While we never had a collapse of civilization on global scale, local or regional
 
 # Before the Industrial Revolution
 * [The end of the Bronze Age as an example of a sudden collapse of civilization](https://florianjehn.github.io/Societal_Collapse/2020-10-28-bronze_age/)
+* [Societal consequences of the Little Ice Age](https://florianjehn.github.io/Societal_Collapse/2023-11-21-case_study_volcanoes/)
