@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-# title: Living Literature Review on Societal Collapse
+# : Living Literature Review on Societal Collapse
 
 # Your name to show in the footer
-author: Florian U. Jehn
+author: Florian Ulrich Jehn
 
 # --- List of links in the navigation bar --- #
 
@@ -263,7 +263,15 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jekyll-seo-tag
+  
+ # Added some stuff to enable SEO
+tagline: This is a living literature review. The idea behind this project is to make research on societal collapse more accessible to anyone who’s interested in the topic and keep the updated.
+ 
+title: A living literature review on societal collapse
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+
+
 
