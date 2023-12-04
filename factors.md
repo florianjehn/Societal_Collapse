@@ -11,3 +11,6 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 # Famine
 * [Escaping the Malthusian Trap](https://florianjehn.github.io/Societal_Collapse/2023-01-13-famine/)
 * [Famine’s Role in Societal Collapse](https://florianjehn.github.io/Societal_Collapse/2023-10-05-famine_2/)
+
+# Bad Luck
+* [Is societal collapse just a random event?](https://florianjehn.github.io/Societal_Collapse/22023-12-04-bad_luck/)
