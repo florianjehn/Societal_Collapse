@@ -48,6 +48,8 @@ Lin uses a dataset of 150 countries from 1995 to 2009 and looks at their state c
 
 In general Lin finds that less people are affected if you have more state capacity and you are a democracy. This holds true across all different disaster types like earthquakes, storms or floods. Lin argues his results show you need both state capacity and democracy to have the highest resilience against natural hazards. If you lack democracy, the state lacks the incentive to take care of everyone. If you lack state capacity, you simply cannot implement the interventions needed to make your society more resilient to hazards. This is also echoed in other studies about resilience to hazards and state capacity. For example, Omberg & Tabarrok (2022) found that state capacity is one of the few factors that decreased COVID-19 excess deaths.
 
+If we want to get more theoretical, there is a recent book chapter by Luke Kemp (2023) which makes an argument for democracy as a safeguard for collapse by adapting [Tainter’s theory of complexity](https://existentialcrunch.substack.com/p/mapping-out-collapse-research#%C2%A7collapse-by-complexity). Kemp argues that states don’t collapse due to an increasing cost of adding complexity, but instead by diminishing returns on extraction. These diminishing returns are caused by societies not making a rational deliberation on what, where and how they want to extract resources, but are instead dictated by special interest groups. These group don’t use the state apparatus to increase overall wealth, but only their own capital. Kemp therefore proposes that the problem is not solved by finding new and better technical solutions, but by instead increasing deliberative democracy, to better account for negative feedback, redistribute wealth, and separate political power and wealth.
+
 # What Can We Do?
 
 In this post we looked at three studies that tried to understand how societies reacted to difficult events which endangered their population. All three highlight participation, inclusion and democracy as being important to have a resilient society. Of all the factors considered, those came out on top. I cannot give you a specific number like “democracy decreases the risk of collapse by “x” %”, but I still think that the evidence is strong. Especially, as clear mechanisms exist on how democracy, inclusion and participation lead to more resilience. People are more able to voice grievances, are much more willing to help each other and the state has a stronger incentive to take care of everyone.
@@ -68,6 +70,8 @@ Overall, my take from this is that democracy is even more important than I previ
 Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
 
 Hamm, P., King, L. P., & Stuckler, D. (2012). Mass Privatization, State Capacity, and Economic Growth in Post-Communist Countries. American Sociological Review, 77(2), 295–324. https://doi.org/10.1177/0003122412441354
+
+Kemp, L. (2023). Diminishing Returns on Extraction: How Inequality and Extractive Hierarchy Create Fragility. In How Worlds Collapse. Routledge.
 
 Lin, T.-H. (2015). Governing Natural Disasters: State Capacity, Democracy, and Human Vulnerability. Social Forces, 93(3), 1267–1300.
 
