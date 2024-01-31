@@ -38,6 +38,8 @@ Similar reports emerged from Northern Europe and Ireland, as well as more distan
 
 The data presented by Stoffel et al. unmistakably indicate that the 1630s and 1640s marked a challenging period for large parts of the world. However, it also prompts the question: To what extent can we attribute these difficulties to the volcanic eruptions and their climatic consequences? China was already grappling with an extensive drought, and Europe was entangled in conflicts. Therefore, the role of the volcanoes in these circumstances is not straightforward. The paper offers a clear answer: "it depends."
 
+The difficulty in attributing volcanism to societal problems in general is also highlighted in another study by Büntgen et al. (2020). Just like Stoffel and co-authors they use big paleoclimatic datasets to draw a direct line from volcanoes to societal effects and just like Stoffel they also conclude with an “it depends”. I mention this here to highlight just how difficult it is to make clear conclusions from paleoclimatic data. The uncertainties are large and it is easy to create a narrative to your liking by cherry picking.  
+
 The underlying fact is that the societies examined here were already facing pre existing issues before the volcanic eruptions occurred. While some of these problems were related to climate, particularly in the case of China, most of them were of human origin, arising from conflicts and societal processes that were not well-adapted. This indicates that the societies of that time had vulnerabilities in place, which made them more susceptible to the hazard of volcanic eruptions than they would have been otherwise.
 In this way, the abrupt climatic disruptions caused by episodes of intense volcanic activity, like the series of eruptions from 1636 to 1646, expose underlying problems. Such crises have the potential to unveil maladapted elements of the underlying cultural, geopolitical, and socioeconomic environments in which they happen. 
 
@@ -56,6 +58,8 @@ Finally, I wanted to showcase this paper, because it illuminates the major chall
 (2) The fog can be attributed to a dust veil caused by the volcanic eruption, while the red skies are caused by sulfur dioxide scattering the sunlight it gets hit by. This is also the reason for the red sky in “The Scream” painting. 
 
 # References
+
+Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
  
 Roser, M. (2014). Global deaths in conflict since the year 1400. Our World in Data. https://slides.ourworldindata.org/war-and-violence/#/6
 
