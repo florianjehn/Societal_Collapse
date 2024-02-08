@@ -25,7 +25,7 @@ A more recent study by Büntgen et al. (2020) goes a step further and directly l
 
 They summarize their results in an impressive figure (Figure 1). This figure brings together several datasets about temperature, eruptions and historical events (see figure description). We can see that significant events usually follow a major eruption. However, not all eruptions lead to major events, even if they are big. Usually, you have to have several major eruptions in a shorter time period to detect global, negative effects. The same effect could plausibly be caused by super-eruptions, but we have not experienced such an event in recorded history (yet). The biggest effects can be seen for the [Late Antiquity Little Ice Age](https://florianjehn.github.io/Societal_Collapse/2023-08-16-democracy_and_resilience/) and the [Little Ice Age](https://florianjehn.github.io/Societal_Collapse/2023-11-20-case_study_volcanoes/), which we both discussed in previous posts. 
 
-![Volcanoes and Climate over Time](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/buentgen.png)
+![Volcanoes and Climate over Time](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/buentgen.jpg)
 
 Figure 1: Visual summary of volcanic eruptions (brown line at the bottom), temperature (red line), important historic events (as labels) and periods of warmer (green shade) and colder (blue shade) temperatures (Büntgen et al., 2020). 
 
