@@ -7,7 +7,7 @@ comments: true
 readtime: true
 ---
 
-The tricky thing with collapse is that all the possible proximate causes can interact with and cause each other. In an [earlier post](https://florianjehn.github.io/Societal_Collapse/2023-12-04-bad_luck/) we discussed a literature review by Joseph Tainter (Tainter, 2023). Tainter lists three main kinds of events that have been identified as a cause for collapse: 1) external conflict, 2) internal conflict and 3) climate change. When we think about those it becomes clear that climate change could easily create external and internal conflict, but not the other way around. Might we therefore have just one ultimate cause for collapse: climate change?.
+The tricky thing with collapse is that all the possible proximate causes can interact with and cause each other. In an [earlier post](https://florianjehn.github.io/Societal_Collapse/2023-12-04-bad_luck/) we discussed a literature review by Joseph Tainter (Tainter, 2023). Tainter lists three main kinds of events that have been identified as a cause for collapse: 1) external conflict, 2) internal conflict and 3) climate change. When we think about those it becomes clear that climate change could easily create external and internal conflict, but not the other way around. Does this mean that climate change is the ultimate cause for societal collapse?
 
 # Climate changes with bad societal outcomes are mainly caused by volcanoes
 
@@ -100,6 +100,7 @@ Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennare
 Degroot, D., Anchukaitis, K., Bauch, M., Burnham, J., Carnegy, F., Cui, J., de Luna, K., Guzowski, P., Hambrecht, G., Huhtamaa, H., Izdebski, A., Kleemann, K., Moesswilde, E., Neupane, N., Newfield, T., Pei, Q., Xoplaki, E., & Zappia, N. (2021). Towards a rigorous understanding of societal responses to climate change. Nature, 591(7851), Article 7851. https://doi.org/10.1038/s41586-021-03190-2
 
 Kaniewski, D., & Van Campo, E. (2017). 3.2 ka BP Megadrought and the Late Bronze Age Collapse. In H. Weiss (Ed.), Megadrought and Collapse: From Early Agriculture to Angkor (p. 0). Oxford University Press. https://doi.org/10.1093/oso/9780199329199.003.0005
+
 Lenton, T. M. (2023). Climate Change and Tipping Points in Historical Collapse. In How Worlds Collapse. Routledge.
 
 Ljungqvist, F. C., Seim, A., & Collet, D. (2023). Famines in medieval and early modern Europe—Connecting climate and society. WIREs Climate Change, n/a(n/a), e859. https://doi.org/10.1002/wcc.859
