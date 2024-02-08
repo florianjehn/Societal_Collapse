@@ -7,6 +7,7 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 # Climate Change
 * [Global warming above 2°C](https://florianjehn.github.io/Societal_Collapse/2022-06-29-climate_2_degrees/)
 * [The trouble with tipping points](https://florianjehn.github.io/Societal_Collapse/2023-06-19-tipping_points/)
+* [Climate anomalies and societal collapse](https://florianjehn.github.io/Societal_Collapse/2024-02-08-climate_collapse/)
 
 # Famine
 * [Escaping the Malthusian Trap](https://florianjehn.github.io/Societal_Collapse/2023-01-13-famine/)
