@@ -27,3 +27,5 @@ Thanks for very valuable feedback on a variety of the posts here!
 * Sabin Roman
 * Markus Stoffel
 * Constantin Arnscheidt
+* David Denkenberger
+* Matt Boyd
