@@ -48,7 +48,7 @@ However, the picture is less clear for global catastrophic infrastructure loss. 
 
 The main problem when it comes to global catastrophes and cities is that food quickly runs out, as the local food stockpiles are not large enough to sustain the population of cities for long. Baum et al. (2015) did a literature review about the overall resilience of the food system against shortages and came to the conclusion that one of the main problems is that stockpiles run out quickly. Any densely populated areas do not have locally available natural resources that would be needed to grow food in the event of supply disruptions. Therefore, many cities would have much more people than they could realistically feed, which makes rural areas generally a better place to be after global catastrophes. 
 
-# Food exporter vs. food importer
+# Food exporter vs. food importer?
 
 Most countries are food importers; exporting is dominated by few major players like the United States for wheat and corn (4). This means that many countries will run into problems with food supplies when trade is hindered by catastrophes, as they lack the capacity (or sometimes the climate and soils) to grow the food that they need. Therefore, it is preferable to be in a country that exports food in normal circumstances, as this makes it more likely it will be able to produce enough food for its population after catastrophes. An example of an exporting nation that also fits the other criteria we have discussed so far is Australia. 
 
