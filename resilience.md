@@ -6,7 +6,8 @@ How a society reacts to a catastrophic event is important and it is strongly inf
 
 # Food
 
-* Upcoming: Resilient foods: snacks for the apocalypse
+* [The best places to weather global catastrophes](https://florianjehn.github.io/Societal_Collapse/2024-03-04-where_to_stay/)
+
 
 # Participitation
 
