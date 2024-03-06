@@ -71,9 +71,9 @@ Or to make a visual summary:
 
 (1) The paper does not describe in concrete numbers how much the temperature in the Northern and Southern Hemisphere differ, but they model how many days with a high enough temperature to grow any crops exist on the hemispheres. For the majority of the Northern Hemisphere the growing period is 0 days, while it remains 300 days and more for much of the Southern Hemisphere. 
 
-(2) For earlier posts about the effects of volcanoes see here and here. 
+(2) For earlier posts about the effects of volcanoes see [here](https://florianjehn.github.io/Societal_Collapse/2023-11-20-case_study_volcanoes/) and [here](https://florianjehn.github.io/Societal_Collapse/2024-02-08-climate_collapse/). 
 
-(3) Which is important for resilience, as discussed in an earlier post. 
+(3) Which is important for resilience, as discussed in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2023-08-16-democracy_and_resilience/). 
 
 (4) There are a lot of studies that look into these kinds of distribution, but I found Clapp (2023) especially interesting, as it also explains the history of how we ended up with this focus on so few major exporting nations
 
