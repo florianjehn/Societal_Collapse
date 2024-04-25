@@ -1,0 +1,106 @@
+---
+layout: post
+title: Trade collapse
+subtitle: Cascading risks in our global supply chains
+tags: [Influence Factors, Trade]
+comments: true
+readtime: true
+---
+
+Most things you use and particularly the food we consume rely on an intact global supply chain. Without trade, essential resources such as fertilizers would become inaccessible, making food production much harder. This post aims to provide an overview of the current trade system, highlighting its potential vulnerabilities and exploring the factors that have contributed to this state. The focus is on food trade given its importance and vulnerability. 
+
+# What is the status quo of the food trade?
+
+A good overview of the state of the trade system is given in D’Odorico et al. (2014), which tracks global flows of food via trade data from the Food and Agriculture Organization of the United Nations (FAO). They find that around a quarter of the food we produce is traded and that this share has increased in recent decades. Also the amount of food we trade increases quicker than the food we produce. This increase in food trade also comes with an increasing complexity of the system. Not only are we trading more in total, but we also have more and more trade connections between formerly unconnected countries. However, in parallel, the export of food has become increasingly concentrated, with the majority of food export now coming from a few major exporters like the United States, Australia, and Russia. So, even though we are increasing the overall complexity of the network, the dependence on those major exporters continues to increase as well. 
+
+A decade later, Ji et al. (2024) did a similar analysis with more recent data and came to the same conclusion. This is concerning, as these trends contribute to the vulnerability of our food trade system. 
+
+# What makes food trade so vulnerable?
+
+## Export bans
+
+Puma et al. (2015) is a key study when it comes to understanding the fragility of our food trade system; it was one of the first studies to look in detail at the potential effect of export bans on the stability of the trade network. Like the other studies mentioned here, they constructed a network model from trade data. To study the effect of export bans, they selectively removed nodes from the network to study how much this would affect the food system. Their results show that our food system can only remain stable as long as the main trading hubs continue to export. If a country like the United States stops exporting food, this would drastically reduce the food availability in many countries and also disrupt trade flows more generally, as many countries do not have a direct trade connection, and instead use hubs like the United States to export and import their food. 
+
+Besides this direct effect, Puma and co-authors also discuss the potential for export ban cascades. Historically we know that countries tend to introduce export bans for three main reasons: 1) A shortfall in their own food production, 2) a shortfall of production in one of their main import countries or 3) neighboring countries introducing export bans. In the case of global catastrophes like large volcanic eruptions, likely all of these three would become true, which could result in a cascade of export bans, as every country tries to ensure enough food for its own citizens. This could result in the tragic situation that enough food is available globally, but with almost all countries having introduced export bans, the food would not reach a majority of the global population. 
+
+## Chokepoints
+
+While we have many trade routes globally, our reliance on water transport for most food trade means these trade routes are forced by geography through so-called chokepoints. These are areas in which a majority of trade flows have to go through a very narrow passage. The influence of those choke points on food trade has been explored by Wellesley et al. (2017) by tracking the flow of goods globally. They identified a total of 13 chokepoints (Figure 1). 
+
+![Chokepoints](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/chokepoints.png)
+
+Figure 1: Chokepoints in food trade, as identified by Wellesley et al. (2017). 
+
+Especially important for food trade are the Panama Canal and the Straits of Malacca. For example, around a quarter of global maize trade goes through the Panama Canal and around a quarter of global rice trade is funneled through the Straits of Malacca. This means if such a chokepoint would be blocked, this would disrupt the flow of food considerably. 
+
+The blockage of a chokepoint can happen for a variety of reasons. A famous example is when the Ever Given container ship blocked the Suez Canal in 2021. 
+
+Wellesley and co-authors think there are two main reasons for blockage of the chokepoints in the future:
+
+* Climate: Some of the chokepoints like the Panama Canal are dependent on the local climate to function. The Panama Canal uses locks to bring ships across the height differences across it. These locks are dependent on the local water level being high enough to support the container ships going through. This means if a drought happens, the Canal is not usable anymore. Similar things can happen at other chokepoints as well and are expected to increase in the future due to global warming. 
+* Geopolitics: Many of the chokepoints could be blocked if regional geopolitical tensions are high. For example, the Turkish Straits were closed during the coup in Turkey in 2016 and the Strait of Bab-el-Mandeb is currently being harassed by Houthi rebels, making it more dangerous to use.
+
+## Concentration on all levels
+
+As mentioned in the beginning of this post, we are dependent on very few countries when it comes to food trade. However, this is not the only place where important goods and activities are concentrated into a few key players. A recent literature review by Clapp (2023) looked into which parts of the food system are concentrated and how we ended up in this place historically. Here, concentration means a small number of actors or items dominate certain areas and activities. Clapp identifies three main areas where such concentration makes us vulnerable:
+* The worldwide industrial food system depends heavily on a few key grains grown through advanced farming techniques, which leaves it vulnerable to disruptions affecting these specific crops and to the loss of farming inputs like fertilizer (1).
+* Only a few nations specialize in producing essential grains for export, upon which numerous other countries rely, including many of the world's poorest and most food-insecure nations.
+* The global grain trade is controlled by a handful of firms within highly financialized commodity markets, which are quite volatile.
+
+Clapp attributes these transformations to capitalism and colonialism. Our focus on a limited number of staple grains is driven by the efficiency gained from specializing in single crops. Historically, colonial powers like the United States lacked the workforce to cultivate the vast territories acquired through colonialism, which incentivised early mechanization and solidified their role as major food exporters. Post-colonial countries often inherited underdeveloped economies, leading to a reliance on cheaper imported foods over locally grown produce. This reliance has become deeply entrenched due to economic incentives favoring imports.
+
+Regarding the concentration of trade among a few firms, Clapp argues that the current market trends encourage monopolies. Food trade requires substantial investments with slim profit margins, making it very difficult for new competitors to enter.
+
+# The connection between trade collapse and societal collapse
+
+These papers show that we are currently in a difficult situation for food trade. If a major shock happens, it is possible that the food system could collapse in a cascading manner. In addition to those insights from today, we can also look at history to see how collapsing trade systems endanger the countries participating in them. One example here is the Late Bronze Age Collapse (2), as explored in Linkov et al. (2024). 
+
+Linkov et al. (2024) build a network model to map out trade links and political connections (Figure 2). A political connection in this context refers to things like signed treaties to form a defense pact. They then remove nodes from that network to test which ones had the biggest impact. They found that in the case of the Bronze Age, both political and trade networks strongly relied on the Hittite Empire and Ugarit to function. If you remove those nodes, as happened historically due to their collapse, the whole network unravels, as the eastern and western parts of the network lose a lot of their connections that kept them stable. This loss was especially problematic as the Bronze Age collapse economy was strongly reliant on tin, which was mainly mined on Cyprus. With the Hittite Empire and Ugarit gone, the only remaining political connection of Cyprus was Egypt, which itself was in crisis and therefore not in the state anymore to help maintain trade. As predicted by LInkov et al. (2024), the collapse of the Ugarit and Hittite empires led to a broader collapse as more distant regions lost access to trade via their linkages to these empires. The Late Bronze Age Collapse, which spanned the broader mediterranean region ensued.
+
+![Bronze Age Connections](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/bronze_age_connections.png)
+
+Figure 2: The Bronze Age network for trade and politics. 
+
+Our current food trade network is not that dissimilar. If for example, the United States would cease to trade food for some reason, this alone has the potential to completely unravel our food trade network. 
+
+# Comparing food trade to trade of other goods
+
+All this shows that our food trade system is susceptible to risks, highlighting the importance of increasing resilience. Interestingly, while the food system appears increasingly vulnerable, this trend does not necessarily extend to the broader trade system. Kang et al. (2024) examined trade flows over the past three decades. Their analysis involved systematically removing nodes from the network to simulate the redistribution of node load to neighboring nodes. They observed a gradual decrease in countries' reliance on others, particularly since the 2008 financial crisis. This shift is attributed to the decreasing significance of fossil fuels due to the emergence of alternative energy sources, alongside increased awareness among nations about supply line vulnerabilities and efforts to enhance resilience after recurring shocks to the system like COVID-19 or the financial crisis. However, the study also revealed that even the removal of a smaller country can cause significant disruptions, as neighboring nodes often lack sufficient capacity to absorb the loss. 
+
+# Are we modeling trade too simply?
+
+Most studies on trade model it as a directed graph and use various methods to assess the impact of removing a node from the network. This means trade only gets worse, as there is no way to introduce new connections. However, in real life any trade disruption leads to adaptations of some kind. 
+
+For example, after the Russian invasion of Ukraine there were fears that Ukraine would be lost completely as a wheat exporter, which would have been a big disruption. How this was prevented is explored in a paper by Kuhla et al. (2023). They show that there was a price spike, but not as high as was feared. The international community helped broker a deal with Russia that allowed some export via the Black Sea, while also allowing Ukraine to trade more grain via European rivers instead of the Black Sea. In addition, the global wheat harvest was exceptionally high in 2022, which further removed pressure from the system. This means that without this international agreement and the lucky weather, the effects could have been much worse. 
+
+The challenge lies in predicting the outcomes of such adaptations before they happen. Fortunately, we have not experienced the complete removal of major exporters like the United States or Russia, but this leaves us with limited data for modeling new trade connections after big shocks. So far I haven’t found a study which has a good model for the establishment of new trade connections after big disruptions.
+
+*If you know of important studies I’ve missed here, please email me and I’ll update this article!*
+
+In summary, the global trade system, particularly in the food sector, is inherently vulnerable and it is very difficult to predict how disruptions might turn out. This highlights that it should be a priority to increase resilience, so we don’t follow the same path as the empires of the Bronze Age.
+
+# Endnotes
+
+(1) [An earlier post](https://florianjehn.github.io/Societal_Collapse/2024-03-04-where_to_stay/) also mentions the problems of losing access to inputs for your agriculture in more detail. 
+
+(2) We discussed the Bronze Age Collapse in more detail in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2020-10-28-bronze_age/). 
+
+# References
+
+Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerability in the global industrial food system. The Journal of Peasant Studies, 50(1), 1–25. https://doi.org/10.1080/03066150.2022.2129013
+
+D’Odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feeding humanity through global food trade. Earth’s Future, 2(9), 458–469. https://doi.org/10.1002/2014EF000250
+
+Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
+
+Kang, H., Lee, K.-M., & Yang, J.-S. (2024). The potential for cascading failures in the international trade network. PLOS ONE, 19(3), e0299833. https://doi.org/10.1371/journal.pone.0299833
+
+Kuhla, K., Puma, M., & Otto, C. (2023). Stabilizing international wheat prices through international cooperation after the Russian invasion of Ukraine [Preprint]. In Review. https://doi.org/10.21203/rs.3.rs-3316541/v1
+
+Linkov, I., Galaitsi, S. E., Trump, B. D., Pinigina, E., Rand, K., Cline, E. H., & Kitsak, M. (2024). Are civilizations destined to collapse? Lessons from the Mediterranean Bronze Age. Global Environmental Change, 84, 102792. https://doi.org/10.1016/j.gloenvcha.2023.102792
+
+Puma, M. J., Bose, S., Chon, S. Y., & Cook, B. I. (2015). Assessing the evolving fragility of the global food system. Environmental Research Letters, 10(2), 024007. https://doi.org/10.1088/1748-9326/10/2/024007
+
+Wellesley, L., Preston, F., Lehne, J., & Bailey, R. (2017). Chokepoints in global food trade: Assessing the risk. Research in Transportation Business & Management, 25, 15–28. https://doi.org/10.1016/j.rtbm.2017.07.007
+
+
