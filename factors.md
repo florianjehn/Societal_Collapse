@@ -15,3 +15,6 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 
 # Bad Luck
 * [Is societal collapse just a random event?](https://florianjehn.github.io/Societal_Collapse/2023-12-04-bad_luck/)
+
+# Trade
+* [Trade collapse](https://florianjehn.github.io/Societal_Collapse/2024-04-25-trade_collapse/)
