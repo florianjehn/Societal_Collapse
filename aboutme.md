@@ -30,3 +30,4 @@ Thanks for very valuable feedback on a variety of the posts here!
 * David Denkenberger
 * Matt Boyd
 * Rachel Ainsworth
+* Peter Søgaard Jørgensen
