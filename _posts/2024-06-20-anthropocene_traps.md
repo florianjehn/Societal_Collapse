@@ -95,9 +95,13 @@ Another other recent paper by Rockström et al. (2023) makes additional suggesti
 
 # Endnotes
 (1) This is especially emphasized in explanations like the one by Jared Diamond, but it can be found in pretty much all societal collapse schools of thought (see the [intro post](https://florianjehn.github.io/Societal_Collapse/2023-06-06-collapse_overview/) to this living literature review). 
+
 (2) The economics equivalent would probably be something like a prisoner's dilemma. 
+
 (3) This sounds quite similar to the diminishing returns of complexity idea by Joseph Tainter, explained [here](https://florianjehn.github.io/Societal_Collapse/2023-06-06-collapse_overview/). 
+
 (4) We discussed tipping points in detail in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2023-06-19-tipping_points/). 
+
 (5) Maybe it’s just me, but this made me think of [Pale Blue Dot](https://www.planetary.org/worlds/pale-blue-dot): “...on a mote of dust suspended in a sunbeam.” 
 
 
