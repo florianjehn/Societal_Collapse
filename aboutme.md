@@ -31,3 +31,4 @@ Thanks for very valuable feedback on a variety of the posts here!
 * Matt Boyd
 * Rachel Ainsworth
 * Peter Søgaard Jørgensen
+* Michael Hinge
