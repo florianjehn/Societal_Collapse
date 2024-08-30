@@ -7,7 +7,7 @@ How a society reacts to a catastrophic event is important and it is strongly inf
 # Food
 
 * [The best places to weather global catastrophes](https://florianjehn.github.io/Societal_Collapse/2024-03-04-where_to_stay/)
-
+* [How much food is there?](https://florianjehn.github.io/Societal_Collapse/2024-07-26-food_stocks/)
 
 # Participitation
 
