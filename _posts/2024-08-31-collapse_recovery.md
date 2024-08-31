@@ -21,7 +21,7 @@ These developments occurred in prehistory, meaning we lack written records and m
 
 A recent study by Riris et al. (2024) aggregated the radiocarbon data from 16 other studies to try to estimate how human populations developed over the last 30,000 years and how they react to disturbance. They achieved this by fitting population trends over time to a curve, which provided an estimate of expected population at any given point. They then compared the actual estimated population to this long-term trend to identify the intensity and duration of population declines in those societies (Figure 1).
 
-![Downturns](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/downturns.jpg)
+![Downturns](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/downturns.png)
 
 Figure 1: Example trajectory for a population and how the downturns were determined. 
 
