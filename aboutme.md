@@ -32,3 +32,4 @@ Thanks for very valuable feedback on a variety of the posts here!
 * Rachel Ainsworth
 * Peter Søgaard Jørgensen
 * Michael Hinge
+* Simon Blouin
