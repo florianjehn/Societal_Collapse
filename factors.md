@@ -21,3 +21,6 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 
 # Coordination Problems
 * [Anthropocene traps](https://florianjehn.github.io/Societal_Collapse/2024-06-20-anthropocene_traps/)
+
+# Infrastructure
+* [The consequences of blackouts](https://florianjehn.github.io/Societal_Collapse/2024-09-29-blackout/)
