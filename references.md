@@ -2,6 +2,7 @@
 layout: page
 title: References
 ---
+
 This page contains all references used in the creation of this living literature review:
 
 Alexander, P., Brown, C., Arneth, A., Finnigan, J., Moran, D., & Rounsevell, M. D. A. (2017). Losses, inefficiencies and waste in the global food system. Agricultural Systems, 153, 190–200. https://doi.org/10.1016/j.agsy.2017.01.014
