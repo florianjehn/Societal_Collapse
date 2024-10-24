@@ -102,4 +102,3 @@ Sharing my personal reflections while categorizing research on TERRA. It appears
 
 Turning to a particular concern regarding a lack of representation of women (1 out of 25) in the list. It's unclear what precisely underlies this issue and how we can address it, but it's undoubtedly a problem. We need to improve this situation. The community should take steps to make it more welcoming and supportive for women to participate, persist, and excel. For instance, initiatives like mentoring programs specifically aimed at women in the context of existential risks could be a good option here.
 
-I plan to revisit this project in a year's time and provide an update if the new data shows a significant shift from the one shown here.
