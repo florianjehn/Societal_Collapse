@@ -18,79 +18,79 @@ I am sorry for butchering some names, but this was due to the way I had to strip
 In the following I curated a list of all the top 25 researchers with links to their Google Scholar profile (if I could find it), the main existential risk organization they work for and a publication where I think that it showcases the kind of existential risk research they do. If you have the impression that some of the people in the list could be better represented by another publication, please let me know and I will change it. 25 is an arbitrary cutoff, this does not mean that the person on 26 is any worse than the person on 25, but I had to stop somewhere. You can find the complete list in the [repository](https://github.com/florianjehn/X-Risk-Rank). 
 
 Here is the list: 
-* Seth Baum
+* [Seth Baum](https://scholar.google.com/citations?user=lJxa2TEAAAAJ&hl=en)
     - Global Catastrophic Risk Institute (GCRI)
     - How long until human-level AI? Results from an expert assessment
-* David Denkenberger
+* [David Denkenberger](https://scholar.google.com/citations?user=BGy0ZrMAAAAJ&hl=en)
     - Alliance to Feed the Earth in Disasters (ALLFED)
     - Feeding everyone: Solving the food crisis in event of global catastrophes that kill crops or obscure the sun
-* Joshua M. Pearce
+* [Joshua M. Pearce](https://scholar.google.com/citations?user=QZ8lPxwAAAAJ&hl=en)
     - Alliance to Feed the Earth in Disasters (ALLFED)
     - Leveraging Intellectual Property to Prevent Nuclear War
-* Nick Bostrom
+* [Nick Bostrom](https://scholar.google.com/citations?user=oQwpz3QAAAAJ&hl=de)
     - Future of Humanity Institute (FHI)
     - Superintelligence: Paths, Dangers, Strategies
-* Roman V. Yampolskiy
+* [Roman V. Yampolskiy](https://scholar.google.com/citations?user=0_Rq68cAAAAJ&hl=de)
     - University of Louisville
     - Predicting future AI failures from historic examples
-* Émile P. Torres
+* [Émile P. Torres](https://www.xriskology.com/)
     - Currently no affiliation, former Centre for the Study of Existential Risk (CSER)
     - Who would destroy the world? Omnicidal agents and related phenomena
-* Milan M. Ćirković
+* [Milan M. Ćirković](https://scholar.google.com/citations?user=BT4eHgkAAAAJ&hl=en)
     - Astronomical Observatory of Belgrade
     - The Temporal Aspect of the Drake Equation and SETI
-* Bruce Edward Tonn
+* [Bruce Edward Tonn](https://www.researchgate.net/profile/Bruce-Tonn)
     - University of Tennessee
     - Obligations to future generations and acceptable risks of human extinction
-* Alan Robock
+* [Alan Robock](https://scholar.google.com/citations?user=PuKvZ4MAAAAJ&hl=de)
     - Rutgers University
     - Volcanic eruptions and climate
-* Owen Toon
+* [Owen Toon](https://scholar.google.com/citations?user=XVKz51YAAAAJ&hl=en)
     - University of Colorado, Boulder
     - Environmental perturbations caused by the impacts of asteroids and comets
-* Jacob Haqq-Misra
+* [Jacob Haqq-Misra](https://scholar.google.com/citations?user=kdKxcSYAAAAJ&hl=en)
     - Blue Marble Space Institute of Science
     - The Sustainability Solution to the Fermi Paradox
-* Luke Kemp
+* [Luke Kemp](https://scholar.google.co.uk/citations?user=Kd-EpXgAAAAJ&hl=en)
     - Centre for the Study of Existential Risk (CSER)
     - Climate Endgame: Exploring catastrophic climate change scenarios
-* Anders Sandberg
+* [Anders Sandberg](https://scholar.google.com/citations?user=aefVOM4AAAAJ&hl=en)
     - Future of Humanity Institute (FHI)
     - Converging Cognitive Enhancements
-* Alexey Turchin
+* [Alexey Turchin](https://scholar.google.ru/citations?user=LyRLy0EAAAAJ&hl)
     - Alliance to Feed the Earth in Disasters (ALLFED)
     - Classification of global catastrophic risks connected with artificial intelligence
-* Charles Bardeen
+* [Charles Bardeen](https://thebulletin.org/biography/charles-g-bardeen/)
     - National Center for Atmospheric Research
     - Extreme Ozone Loss Following Nuclear War Results in Enhanced Surface Ultraviolet Radiation
-* John Leslie
+* [John Leslie](https://en.wikipedia.org/wiki/John_A._Leslie)
     - University of Guelph
     - Testing the Doomsday Argument
-* Graciela Chichilnisky
+* [Graciela Chichilnisky](https://scholar.google.com/citations?user=usqnvhIAAAAJ&hl=en)
     - Columbia University
     - The foundations of probability with black swans
-* Stuart Armstrong
+* [Stuart Armstrong](https://scholar.google.com/citations?user=bSJaYzgAAAAJ&hl=en)
     - Future of Humanity Institute (FHI)
     - Eternity in six hours: Intergalactic spreading of intelligent life and sharpening the Fermi paradox
-* Paul R. Ehrlich,
+* [Paul R. Ehrlich](https://scholar.google.com/citations?user=SN2zDOEAAAAJ&hl=de),
     - Stanford University
     - Extinction: The Causes and Consequences of the Disappearance of Species
-* Hin-Yan Liu
+* [Hin-Yan Liu](https://scholar.google.it/citations?user=TO1tLV0AAAAJ&hl=en)
     - University of Copenhagen
     - Categorization and legality of autonomous and remote weapons systems
-* Juan B. García Martínez
+* [Juan B. García Martínez](https://scholar.google.com/citations?user=k-5JFToAAAAJ&hl)
     - Alliance to Feed the Earth in Disasters (ALLFED)
     - Potential of microbial protein from hydrogen for preventing mass starvation in catastrophic scenarios
-* David Morrison
+* [David Morrison](https://en.wikipedia.org/wiki/David_Morrison_(astrophysicist))
     - Ames Research Center
     - Asteroid and comet impacts: the ultimate environmental catastrophe
-* R. Grieve
+* [Richard Grieve](https://www.researchgate.net/profile/Richard-Grieve)
     - University of Western Ontario
     - Extraterrestrial impacts on earth: the evidence and the consequences
-* Richard S.J. Tol
+* [Richard S.J. Tol](https://scholar.google.co.uk/citations?user=AjZwhtwAAAAJ&hl=en)
     - University of Sussex
     - Why Worry About Climate Change? A Research Agenda
-* Olle Häggström
+* [Olle Häggström](https://scholar.google.com/citations?user=lCX1JVEAAAAJ&hl=de)
     - Chalmers University of Technology
     - Artificial General Intelligence and the Common Sense Argument
 
