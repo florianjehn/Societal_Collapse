@@ -28,7 +28,7 @@ The examples above show that doing science hot or cold does not say anything abo
 * More finely grained scientific disciplines: While interdisciplinary research is often held high, most research is sorted by disciplines. This makes inter- and transdisciplinary research much harder, because there is no natural place for it (e.g. when it comes to university departments). (see also the idea of [epistemic diversity](https://florianjehn.github.io/Societal_Collapse/2023-01-16-diversity/) (4))
 * Cold science is easier to teach: Teaching people to exhaustively sample a small area is easier than to lead them to explore novel ideas and fields. This is also highlighted in “Constructing Research Questions” (5).
 
- All this leads to more [gap spotting](https://existentialcrunch.substack.com/p/against-the-dominance-of-gap-spotting) and less risky research overall (6), meaning that most of today’s research is done cold.
+ All this leads to more [gap spotting](https://florianjehn.github.io/Societal_Collapse/2023-02-03-gap_spotting/) and less risky research overall (6), meaning that most of today’s research is done cold.
   
 # The case for hot existential risk research 
 
