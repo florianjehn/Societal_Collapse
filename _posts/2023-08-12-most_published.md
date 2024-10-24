@@ -11,7 +11,7 @@ I created a list of researchers in the existential risk field based on the amoun
 
 This is based on [The Existential Risk Research Assessment (TERRA)](https://terra.cser.ac.uk/). TERRA is a website that uses machine learning to find publications that are related to existential risk. It is run by [Centre for the Study of Existential Risk (CSER)](https://www.cser.ac.uk/) and was originally launched by [Gorm Shackelford](https://scholar.google.co.za/citations?user=lLtc-n0AAAAJ&hl=en). I used their curated list of papers and wrote some code that counted the amount of papers per author. You can find the code here and here are the results:
 
-![Main Researchers](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/main_researchers.png)
+![Main Researchers](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/main_reseachers.png)
 
 I am sorry for butchering some names, but this was due to the way I had to strip the strings to make them easily countable. As TERRA is based on the manual assessment of automatically collected papers, this list is likely incomplete, but I still think that it gives us a good overview of what is going on in existential risk studies. If you want to improve the data here, feel free to make an account at TERRA and start assessing papers. 
 
@@ -19,80 +19,80 @@ In the following I curated a list of all the top 25 researchers with links to th
 
 Here is the list: 
 * Seth Baum
- - Global Catastrophic Risk Institute (GCRI)
- - How long until human-level AI? Results from an expert assessment
+    - Global Catastrophic Risk Institute (GCRI)
+    - How long until human-level AI? Results from an expert assessment
 * David Denkenberger
- - Alliance to Feed the Earth in Disasters (ALLFED)
- - Feeding everyone: Solving the food crisis in event of global catastrophes that kill crops or obscure the sun
+    - Alliance to Feed the Earth in Disasters (ALLFED)
+    - Feeding everyone: Solving the food crisis in event of global catastrophes that kill crops or obscure the sun
 * Joshua M. Pearce
- - Alliance to Feed the Earth in Disasters (ALLFED)
- - Leveraging Intellectual Property to Prevent Nuclear War
+    - Alliance to Feed the Earth in Disasters (ALLFED)
+    - Leveraging Intellectual Property to Prevent Nuclear War
 * Nick Bostrom
- - Future of Humanity Institute (FHI)
- - Superintelligence: Paths, Dangers, Strategies
+    - Future of Humanity Institute (FHI)
+    - Superintelligence: Paths, Dangers, Strategies
 * Roman V. Yampolskiy
- - University of Louisville
- - Predicting future AI failures from historic examples
+    - University of Louisville
+    - Predicting future AI failures from historic examples
 * Émile P. Torres
- - Currently no affiliation, former Centre for the Study of Existential Risk (CSER)
- - Who would destroy the world? Omnicidal agents and related phenomena
+    - Currently no affiliation, former Centre for the Study of Existential Risk (CSER)
+    - Who would destroy the world? Omnicidal agents and related phenomena
 * Milan M. Ćirković
- - Astronomical Observatory of Belgrade
- - The Temporal Aspect of the Drake Equation and SETI
+    - Astronomical Observatory of Belgrade
+    - The Temporal Aspect of the Drake Equation and SETI
 * Bruce Edward Tonn
- - University of Tennessee
- - Obligations to future generations and acceptable risks of human extinction
+    - University of Tennessee
+    - Obligations to future generations and acceptable risks of human extinction
 * Alan Robock
- - Rutgers University
- - Volcanic eruptions and climate
+    - Rutgers University
+    - Volcanic eruptions and climate
 * Owen Toon
- - University of Colorado, Boulder
- - Environmental perturbations caused by the impacts of asteroids and comets
+    - University of Colorado, Boulder
+    - Environmental perturbations caused by the impacts of asteroids and comets
 * Jacob Haqq-Misra
- - Blue Marble Space Institute of Science
- - The Sustainability Solution to the Fermi Paradox
+    - Blue Marble Space Institute of Science
+    - The Sustainability Solution to the Fermi Paradox
 * Luke Kemp
- - Centre for the Study of Existential Risk (CSER)
- - Climate Endgame: Exploring catastrophic climate change scenarios
+    - Centre for the Study of Existential Risk (CSER)
+    - Climate Endgame: Exploring catastrophic climate change scenarios
 * Anders Sandberg
- - Future of Humanity Institute (FHI)
- - Converging Cognitive Enhancements
+    - Future of Humanity Institute (FHI)
+    - Converging Cognitive Enhancements
 * Alexey Turchin
- - Alliance to Feed the Earth in Disasters (ALLFED)
- - Classification of global catastrophic risks connected with artificial intelligence
+    - Alliance to Feed the Earth in Disasters (ALLFED)
+    - Classification of global catastrophic risks connected with artificial intelligence
 * Charles Bardeen
- - National Center for Atmospheric Research
- - Extreme Ozone Loss Following Nuclear War Results in Enhanced Surface Ultraviolet Radiation
+    - National Center for Atmospheric Research
+    - Extreme Ozone Loss Following Nuclear War Results in Enhanced Surface Ultraviolet Radiation
 * John Leslie
- - University of Guelph
- - Testing the Doomsday Argument
+    - University of Guelph
+    - Testing the Doomsday Argument
 * Graciela Chichilnisky
- - Columbia University
- - The foundations of probability with black swans
+    - Columbia University
+    - The foundations of probability with black swans
 * Stuart Armstrong
- - Future of Humanity Institute (FHI)
- - Eternity in six hours: Intergalactic spreading of intelligent life and sharpening the Fermi paradox
+    - Future of Humanity Institute (FHI)
+    - Eternity in six hours: Intergalactic spreading of intelligent life and sharpening the Fermi paradox
 * Paul R. Ehrlich,
- - Stanford University
- - Extinction: The Causes and Consequences of the Disappearance of Species
+    - Stanford University
+    - Extinction: The Causes and Consequences of the Disappearance of Species
 * Hin-Yan Liu
- - University of Copenhagen
- - Categorization and legality of autonomous and remote weapons systems
+    - University of Copenhagen
+    - Categorization and legality of autonomous and remote weapons systems
 * Juan B. García Martínez
- - Alliance to Feed the Earth in Disasters (ALLFED)
- - Potential of microbial protein from hydrogen for preventing mass starvation in catastrophic scenarios
+    - Alliance to Feed the Earth in Disasters (ALLFED)
+    - Potential of microbial protein from hydrogen for preventing mass starvation in catastrophic scenarios
 * David Morrison
- - Ames Research Center
- - Asteroid and comet impacts: the ultimate environmental catastrophe
+    - Ames Research Center
+    - Asteroid and comet impacts: the ultimate environmental catastrophe
 * R. Grieve
- - University of Western Ontario
- - Extraterrestrial impacts on earth: the evidence and the consequences
+    - University of Western Ontario
+    - Extraterrestrial impacts on earth: the evidence and the consequences
 * Richard S.J. Tol
- - University of Sussex
- - Why Worry About Climate Change? A Research Agenda
+    - University of Sussex
+    - Why Worry About Climate Change? A Research Agenda
 * Olle Häggström
- - Chalmers University of Technology
- - Artificial General Intelligence and the Common Sense Argument
+    - Chalmers University of Technology
+    - Artificial General Intelligence and the Common Sense Argument
 
 To also have an overview of the overall output of existential risk organization I also added up the publications for all researchers that are at the same organization. This includes double counts, but I still think it is a good way to give a rough approximation of the overall productivity of the organization: 
 
