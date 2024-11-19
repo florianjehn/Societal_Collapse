@@ -23,6 +23,8 @@ Baum, S. D. (2023). Assessing natural global catastrophic risks. Natural Hazards
 
 Baum, S. D., Denkenberger, D. C., Pearce, J. M., Robock, A., & Winkler, R. (2015). Resilience to global food supply catastrophes. Environment Systems and Decisions, 35(2), 301–313. https://doi.org/10.1007/s10669-015-9549-2
 
+Beard, S., Cooke, N., Dryhurst, S., Cassidy, M., Gibbins, G., Gilgallon, G., Holt, B., Josefiina, I., Kemp, L., Tang, A., Weitzdörfer, J., Ingram, P., Sundaram, L., & Davies, R. (2023). Exploring Futures for the Science of Global Risk. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4405991
+
 Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global Risk: An Introduction to Existential Risk Studies. Open Book Publishers. https://doi.org/10.11647/obp.0336
 
 Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockhoff, N., & Pernicka, E. (2019). Isotope systematics and chemical composition of tin ingots from Mochlos (Crete) and other Late Bronze Age sites in the eastern Mediterranean Sea: An ultimate key to tin provenance? PLOS ONE, 14(6), e0218326. https://doi.org/10.1371/journal.pone.0218326
@@ -56,6 +58,8 @@ Charalampopoulos, I., & Droulia, F. (2021). The Agro-Meteorological Caused Famin
 Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerability in the global industrial food system. The Journal of Peasant Studies, 50(1), 1–25. https://doi.org/10.1080/03066150.2022.2129013
 
 Cottrell, R. S., Nash, K. L., Halpern, B. S., Remenyi, T. A., Corney, S. P., Fleming, A., Fulton, E. A., Hornborg, S., Johne, A., Watson, R. A., & Blanchard, J. L. (2019). Food production shocks across land and sea. Nature Sustainability, 2(2), Article 2. https://doi.org/10.1038/s41893-018-0210-1
+
+Cotton-Barratt, O., Daniel, M., & Sandberg, A. (2020). Defence in Depth Against Human Extinction: Prevention, Response, Resilience, and Why They All Matter. Global Policy, 11(3), 271–282. https://doi.org/10.1111/1758-5899.12786
 
 Coupe, J., Bardeen, C. G., Robock, A., & Toon, O. B. (2019). Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE. Journal of Geophysical Research: Atmospheres, 124(15), 8522–8543. https://doi.org/10.1029/2019JD030509
 
@@ -205,6 +209,8 @@ Scheffer, M., van Nes, E. H., Kemp, L., Kohler, T. A., Lenton, T. M., & Xu, C. (
 
 Setty, S., Cramwinckel, M. J., van Nes, E. H., van de Leemput, I. A., Dijkstra, H. A., Lourens, L. J., Scheffer, M., & Sluijs, A. (2023). Loss of Earth system resilience during early Eocene transient global warming events. Science Advances, 9(14), eade5466. https://doi.org/10.1126/sciadv.ade5466
 
+Shepherd, T. G., Boyd, E., Calel, R. A., Chapman, S. C., Dessai, S., Dima-West, I. M., Fowler, H. J., James, R., Maraun, D., Martius, O., Senior, C. A., Sobel, A. H., Stainforth, D. A., Tett, S. F. B., Trenberth, K. E., van den Hurk, B. J. J. M., Watkins, N. W., Wilby, R. L., & Zenghelis, D. A. (2018). Storylines: An alternative approach to representing uncertainty in physical aspects of climate change. Climatic Change, 151(3), 555–571. https://doi.org/10.1007/s10584-018-2317-9
+
 Sigl, M., Winstrup, M., McConnell, J. R., Welten, K. C., Plunkett, G., Ludlow, F., Büntgen, U., Caffee, M., Chellman, N., Dahl-Jensen, D., Fischer, H., Kipfstuhl, S., Kostick, C., Maselli, O. J., Mekhaldi, F., Mulvaney, R., Muscheler, R., Pasteris, D. R., Pilcher, J. R., … Woodruff, T. E. (2015). Timing and climate forcing of volcanic eruptions for the past 2,500 years. Nature, 523(7562), Article 7562. https://doi.org/10.1038/nature14565
 
 Søgaard Jørgensen, P., Jansen, R. E. V., Avila Ortega, D. I., Wang-Erlandsson, L., Donges, J. F., Österblom, H., Olsson, P., Nyström, M., Lade, S. J., Hahn, T., Folke, C., Peterson, G. D., & Crépin, A.-S. (2023). Evolution of the polycrisis: Anthropocene traps that challenge global sustainability. Philosophical Transactions of the Royal Society B: Biological Sciences, 379(1893), 20220261. https://doi.org/10.1098/rstb.2022.0261
@@ -218,6 +224,8 @@ Supran, G., Rahmstorf, S., & Oreskes, N. (2023). Assessing ExxonMobil’s global
 Tainter, J. (1988). The Collapse of Complex Societies. Cambridge University Press.
 
 Tainter, J. A. (2023). How Scholars Explain Collapse. In How Worlds Collapse. Routledge.
+
+Tetlock, P., Lebow, R. N., & Parker, N. G. (2006). Chapter 1. Counterfactual Thought Experiments: Why we can’t live without and how we must learn to live with them. In Unmaking the West: “What-If?” Scenarios That Rewrite World History. University of Michigan Press.
 
 Tomz, M. R., & Weeks, J. L. P. (2013). Public Opinion and the Democratic Peace. American Political Science Review, 107(4), 849–865. https://doi.org/10.1017/S0003055413000488
 
@@ -246,6 +254,8 @@ Weiss, H. (1982). The decline of Late Bronze Age civilization as a possible resp
 Wellesley, L., Preston, F., Lehne, J., & Bailey, R. (2017). Chokepoints in global food trade: Assessing the risk. Research in Transportation Business & Management, 25, 15–28. https://doi.org/10.1016/j.rtbm.2017.07.007
 
 Wilson, N., Valler, V., Cassidy, M., Boyd, M., Mani, L., & Brönnimann, S. (2023). Impact of the Tambora volcanic eruption of 1815 on islands and relevance to future sunlight-blocking catastrophes. Scientific Reports, 13(1), Article 1. https://doi.org/10.1038/s41598-023-30729-2
+
+Woo, G. (2019). Downward Counterfactual Search for Extreme Events. Frontiers in Earth Science, 7. https://doi.org/10.3389/feart.2019.00340
 
 Wunderling, N., Donges, J. F., Kurths, J., & Winkelmann, R. (2021). Interacting tipping elements increase risk of climate domino effects under global warming. Earth System Dynamics, 12(2), 601–619. https://doi.org/10.5194/esd-12-601-2021
 
