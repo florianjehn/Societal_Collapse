@@ -68,8 +68,11 @@ Counterfactuals of both the past and the future can be a valuable tool for both 
 # Endnotes
 
 (1) A recent example of this is the election of Donald Trump. Before the election pretty much everyone agreed that the election was too close to call and both candidates had a roughly equal chance of winning. Now that Donald Trump is elected, suddenly everybody has a crisp explanation on why it had to happen that way without any doubt. 
+
 (2) This is explored in detail in [this paper](https://www.sciencedirect.com/science/article/abs/pii/S0016328717301155).
+
 (3) Here is the post that discusses [tipping points](https://florianjehn.github.io/Societal_Collapse/2023-06-19-tipping_points/). 
+
 (4) We discussed this in more detail in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2024-03-04-where_to_stay/). 
 
 # References
