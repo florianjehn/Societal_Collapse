@@ -9,9 +9,9 @@ readtime: true
 
 While we generally aim to avoid a collapse, it is crucial to understand the potential recovery time if one occurs. Assessing this is challenging, as it depends on the starting level of complexity, the extent of the loss, and the desired recovery level. History suggests three main stages in the development of civilization from early human societies to a global civilization:
 
-* Hunter-gatherer to early agriculture/pastoralism
-* Early agriculture/pastoralism to pre-industrial society
-* Pre-industrial to industrial society
+* Hunter-gatherer to early agriculture/pastoralism. The main switch here is that humans become sedentary for the majority of the year. Imagine a small village with some huts and a few fields of crops around them. 
+* Early agriculture/pastoralism to pre-industrial society. Here the development is towards a society like in medieval England. You have a clear state structure with a defined hierarchy, which controls vast swaths of land. Technology progresses, albeit slowly. 
+* Pre-industrial to industrial society. The endpoint here is essentially the society we live in right now. 
 
 In this post, I will explore the potential timeframes required for each of these transitions. Please take in mind that these are very rough estimates with considerable uncertainties.
 
@@ -71,11 +71,11 @@ So, how long would it actually take to happen if we don’t only look at the ide
 
 The step from early civilization to pre-industrial however seems to be fairly common, as it happened a lot of times, some of which are completely independent from each other, e.g. China, Europe and America. This means if you have a good base established I would think that it is relatively likely to get back to pre-industrial levels. 
 
-The last step, going from pre-industrial to industrial, seems to be more difficult again. Arguably it only happened once in Great Britain and spread from there to the rest of the world. Why did it happen in Great Britain and not in other places? This is still pretty much up for debate and until this debate is settled we can’t really tell. An argument that it might be easier next time is that often inventions are limited not by the technological level you are on, but by somebody having the idea. For example, Europeans took a long time to adapt the idea of wheelbarrows, but could have invented them much earlier. On the other hand, we have already used up much of the easily accessible resources like coal or metals. Every following civilization would not have these available to kick start their industrial revolution. 
+The last step, going from pre-industrial to industrial, seems to be more difficult again. Arguably it only happened once in Great Britain and spread from there to the rest of the world. Why did it happen in Great Britain and not in other places? This is still pretty much up for debate and until this debate is settled we can’t really tell. An argument that it might be easier next time is that often inventions are limited not by the technological level you are on, but by somebody having the idea. For example, Europeans took a long time to adapt the idea of wheelbarrows, but could have invented them much earlier. On the other hand, we have already used up much of the easily accessible resources like coal or metals. Every following civilization would not have these available to kick start their industrial revolution. However, you could also make the argument that many of the metals are actually easier available now, because we have already refined them and you just have to melt them again. Similarly, the ruins of the past civilizations might inspire humans to recreate today's achievements, or they might be seen as a cautionary tale, never to be repeated (5).
 
 *If you know of important studies I’ve missed here, please email me and I’ll update this article!*
 
-Overall, this leaves me a bit ambiguous when it comes to our chances of recovery from civilizational collapse. If we have not completely broken the Earth in the process of collapsing, I would guess that it seems likely that we will make it back to pre-industrial levels in a few thousand years. If we will make it further than that seems quite uncertain. 
+Overall, this leaves me a bit ambiguous when it comes to our chances of recovery from civilizational collapse. If we have not completely broken the Earth in the process of collapsing, I would guess that it seems likely that we will make it back to pre-industrial levels in a few thousand years. If we will make it further than that seems quite uncertain, as the environment will simply be quite different to our first attempt at building a global civilization.
 
 # Endnotes
 
@@ -86,6 +86,8 @@ Overall, this leaves me a bit ambiguous when it comes to our chances of recovery
 (3) I also briefly made this observation in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2023-08-10-lessons_from_the_past/).
  
 (4) There are numerous conflicting theories regarding the prolonged timeline. The most frequently discussed ones involve climate and psychology. One idea is that civilization emerged following the stable environmental conditions of the Holocene epoch. Another suggests that significant social innovations, possibly involving religion, enabled collaboration on a scale beyond the Dunbar number before civilization developed.
+
+(5) Many of these points are also discussed in the excellent book “The Knowledge” by Lewis Dartnell.
 
 # References
 
