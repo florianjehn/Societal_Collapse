@@ -81,7 +81,15 @@ Lenton’s description of collapse in this matter is helpful, as it gives us a m
 
 In this post we have established that climate is a strong contender for a key reason for societal collapse, albeit mediated by the societal response and internal changes in the societal structure. However, this also means that we cannot look at climate alone. We always have to take into account the society as well. See for example, the highly variable reaction of societies to similar climate shocks, as described in an earlier post about the [Late Antiquity Little Ice Age](https://florianjehn.github.io/Societal_Collapse/2023-08-16-democracy_and_resilience/).
 
- What is still missing is a more formal model that connects all these dots, especially in combination with the food system and epidemics and the overall capital of the society, which allows it to maintain unstable states at least for a while. This is also something that Lenton mentions at the end of his paper. To progress here we need to have first a feedback diagram that tries to define all the different interactions the climate, the food system and the society have with each other. Once this is established we can adapt this to a computational model and can see if it reliably predicts societal collapse. A good data source here is potentially the SESHAT database (Turchin et al., 2019), especially as they are currently compiling a dataset focused on societal crisis times.
+ What is still missing is a more formal model that connects all these dots, especially in combination with the food system and epidemics and the overall capital of the society, which allows it to maintain unstable states at least for a while. This is also something that Lenton mentions at the end of his paper. To progress here we need to have first a feedback diagram that tries to define all the different interactions the climate, the food system and the society have with each other. Once this is established we can adapt this to a computational model and can see if it reliably predicts societal collapse. A good data source here is potentially the Seshat database (Turchin et al., 2019), especially as they are currently compiling a dataset focused on societal crisis times.
+ 
+Another recent paper by the Seshat working group touches upon the question of what the actual mechanism is and how climate is involved (Hoyer et al., 2023). They make a deep dive into the Qing dynasty in China, the Ottoman Empire during the Little Ice Age and the Monte Albán settlement in Mexico to study the relationship between climate and society. They create a simple flowchart of how they think events play out there generally (Figure 3).
+
+![Polycrisis](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/polycrisis.jpg)
+
+Figure 3: Flowchart showing how Hoyer et al. (2023) see the connection between climate and society. 
+
+The main idea here is similar to the other arguments made here. Climate is important, but it does not happen in a vacuum. If your society is making sure that the costs of extreme climate are fairly distributed through society and your resilience enhancing systems (e.g. irrigation in past societies or the electrical grid today) are in good shape, you have a good chance of weathering even big climate shocks. If your society is internally divided and skipped maintenance on its infrastructure, climate shocks can have devastating effects quickly. The vulnerability of your society is key to understanding the effects of climate. 
  
 # Endnotes
 
@@ -93,11 +101,15 @@ In this post we have established that climate is a strong contender for a key re
 
 (4) As a reminder what critical slowing down means, here’s the explanation from my tipping points post: *“The main way to detect tipping points are so-called Early-Warning Signals. They work by identifying changes in a system’s behavior as it approaches a tipping point. This change is often marked by a phenomenon known as critical slowing down, where the system becomes less resilient to disturbances. This means once a disturbance happens it takes longer and longer to get back to its original state the closer it is to the tipping point.“*
 
+(5) The first major paper they produced from this crisis dataset is discussed [here](https://florianjehn.github.io/Societal_Collapse/2024-04-09-big_data_history/).
+
 # References
 
 Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
 
 Degroot, D., Anchukaitis, K., Bauch, M., Burnham, J., Carnegy, F., Cui, J., de Luna, K., Guzowski, P., Hambrecht, G., Huhtamaa, H., Izdebski, A., Kleemann, K., Moesswilde, E., Neupane, N., Newfield, T., Pei, Q., Xoplaki, E., & Zappia, N. (2021). Towards a rigorous understanding of societal responses to climate change. Nature, 591(7851), Article 7851. https://doi.org/10.1038/s41586-021-03190-2
+
+Hoyer, D., Bennett, J. S., Reddish, J., Holder, S., Howard, R., Benam, M., Levine, J., Ludlow, F., Feinman, G., & Turchin, P. (2023). Navigating polycrisis: Long-run socio-cultural factors shape response to changing climate. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1889), 20220402. https://doi.org/10.1098/rstb.2022.0402
 
 Kaniewski, D., & Van Campo, E. (2017). 3.2 ka BP Megadrought and the Late Bronze Age Collapse. In H. Weiss (Ed.), Megadrought and Collapse: From Early Agriculture to Angkor (p. 0). Oxford University Press. https://doi.org/10.1093/oso/9780199329199.003.0005
 
