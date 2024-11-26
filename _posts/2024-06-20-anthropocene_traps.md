@@ -90,8 +90,11 @@ So far, this sounds like humanity is in a dire spot when it comes to anthropocen
 
 These are all high-level goals, but the paper makes one concrete suggestion regarding trap interactions and priorities. It identifies three traps—global division, short-termism, and overconsumption—that each negatively impact eight other traps. Solving these three traps could significantly reduce system pressure.
 
-Another other recent paper by Rockström et al. (2023) makes additional suggestions, which seem very in the spirit of the paper presented here. Rockström et al. looked at the stage of the current Earth system and its components like climate or land use and propose a range of safe and just Earth system boundaries, which would maintain the long term stability and resilience of the Earth system, while also trying to minimize the exposure of each human to the detrimental effects of Earth system change. If we would manage to stay in these boundaries, many of the traps described would become much less severe or would even be completely disarmed. 
+# Similar ideas
 
+A similar concept to those of anthropocene traps is the death spiral as introduced in Schippers et al. (2024). They define death spirals as “a vicious cycle of self-reinforcing dysfunctional behavior characterized by continuous flawed decision making, myopic single-minded focus on one (set of) solution(s), denial, distrust, micromanagement, dogmatic thinking and learned helplessness”. They think historically there are two main things that cause such a societal death spiral: 1) rising wealth inequality and 2) dwindling resources. In contrast to Søgaard Jørgensen et al. (2023) this more concrete problem identification, also provides a more concrete solution: reducing inequality to increase general societal resilience. This finding also fits [with other arguments we have discussed on this blog](https://florianjehn.github.io/Societal_Collapse/2024-07-26-democratic_resilience/). Especially, the research around democracies shows that decreasing wealth inequality is a very important factor to create a society resilient against catastrophes. 
+
+Another other recent paper by Rockström et al. (2023) makes additional suggestions, which seem very in the spirit of the paper presented here. Rockström et al. looked at the stage of the current Earth system and its components like climate or land use and propose a range of safe and just Earth system boundaries, which would maintain the long term stability and resilience of the Earth system, while also trying to minimize the exposure of each human to the detrimental effects of Earth system change. If we would manage to stay in these boundaries, many of the traps described would become much less severe or would even be completely disarmed. 
 
 # Endnotes
 (1) This is especially emphasized in explanations like the one by Jared Diamond, but it can be found in pretty much all societal collapse schools of thought (see the [intro post](https://florianjehn.github.io/Societal_Collapse/2023-06-06-collapse_overview/) to this living literature review). 
@@ -108,6 +111,8 @@ Another other recent paper by Rockström et al. (2023) makes additional suggesti
 # References
 
 Rockström, J., Gupta, J., Qin, D., Lade, S. J., Abrams, J. F., Andersen, L. S., Armstrong McKay, D. I., Bai, X., Bala, G., Bunn, S. E., Ciobanu, D., DeClerck, F., Ebi, K., Gifford, L., Gordon, C., Hasan, S., Kanie, N., Lenton, T. M., Loriani, S., … Zhang, X. (2023). Safe and just Earth system boundaries. Nature, 619(7968), 102–111. https://doi.org/10.1038/s41586-023-06083-8
+
+Schippers, M. C., Ioannidis, J. P. A., & Luijks, M. W. J. (2024). Is society caught up in a Death Spiral? Modeling societal demise and its reversal. Frontiers in Sociology, 9. https://doi.org/10.3389/fsoc.2024.1194597
 
 Søgaard Jørgensen, P., Jansen, R. E. V., Avila Ortega, D. I., Wang-Erlandsson, L., Donges, J. F., Österblom, H., Olsson, P., Nyström, M., Lade, S. J., Hahn, T., Folke, C., Peterson, G. D., & Crépin, A.-S. (2023). Evolution of the polycrisis: Anthropocene traps that challenge global sustainability. Philosophical Transactions of the Royal Society B: Biological Sciences, 379(1893), 20220261. https://doi.org/10.1098/rstb.2022.0261
 
