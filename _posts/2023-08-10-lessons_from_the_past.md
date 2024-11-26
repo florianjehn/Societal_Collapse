@@ -48,6 +48,8 @@ Figure 1: Examples for societal complexity over time (Turchin et al., 2018)
 
 The results of Turchin et al. show a trend across regions. Civilizations seem to need around 1000-2000 years to spin up to a high level of complexity. Once reached though, the complexity mostly stays on a stable level. This implies that we can use civilizations as a comparison for today, once it has gone through its complexity spin up period. When this spin-up happens depends on the civilization. For instance, Upper Egypt reached this high complexity around 5000 years ago. For most of the societies considered the spin-up seems to have finished around the year 0. This means that roughly the last 2000 years seem like a reasonable proxy for today for much of the globe. The exception being some places that got complex very early, like Upper Egypt or never got highly complex (according to Turchin’s measure) like the societies in Oceania. 
 
+This seemingly similarity in the scale up of different civilizations was also noticed by others. Wand & Hoyer (2024) took a sample of 23 geographic regions from the Seshat dataset and tried to determine if all followed a similar pattern. They find that they indeed do so. Societies tend to need 2500 years to scale up their complexity from early settlements to premodern states. Finding such a clear pattern suggests that we might also find something like this if we look at the last 200 years. However, research here is still scarce. 
+
 ## Understanding how past societies would fare with today's sustainability measures
 
 So far we’ve argued that, because societies vary in their exposure and vulnerability to hazards, if we want to understand the risks to today’s society, we need to look at societies that are sufficiently similar to today’s and then used a quantitative database of archaeological evidence to try and see when societies become sufficiently like our society. Another way to explore this transferability of human experiences through time is to look at what we think makes today’s society work well and check if past societies also adhered to the same rules. Fortunately, there already exists a massive project where thousands of scientists thought about what makes a current day society sustainable for both people and planet: The Sustainable Development Goals. These goals were formulated by the United Nations General Assembly in 2015 to create a [blueprint](https://sdgs.un.org/goals) of what must be done to create peace and prosperity for everyone in the long term. The idea is to formulate a set of goals, which, when archived, allow a sustainable and equal ressources for all humans. The goals include no poverty, zero hunger and gender equality.
@@ -83,6 +85,9 @@ Liu, H.-Y., Lauta, K. C., & Maas, M. M. (2018). Governing Boring Apocalypses: A 
 Ord, T. (2020). The Precipice: Existential Risk and the Future of Humanity. Hachette Books, 480 pp.
 
 Turchin, P., Currie, T. E., Whitehouse, H., François, P., Feeney, K., Mullins, D., Hoyer, D., Collins, C., Grohmann, S., Savage, P., Mendel-Gleason, G., Turner, E., Dupeyron, A., Cioni, E., Reddish, J., Levine, J., Jordan, G., Brandl, E., Williams, A., … Spencer, C. (2018). Quantitative historical analysis uncovers a single dimension of complexity that structures global variation in human social organization. Proceedings of the National Academy of Sciences, 115(2), E144–E151. https://doi.org/10.1073/pnas.1708800115
+
+Wand, T., & Hoyer, D. (2024). The characteristic time scale of cultural evolution. PNAS Nexus, 3(2), pgae009. https://doi.org/10.1093/pnasnexus/pgae009
+
 
 
 
