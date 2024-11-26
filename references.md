@@ -29,6 +29,8 @@ Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global
 
 Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockhoff, N., & Pernicka, E. (2019). Isotope systematics and chemical composition of tin ingots from Mochlos (Crete) and other Late Bronze Age sites in the eastern Mediterranean Sea: An ultimate key to tin provenance? PLOS ONE, 14(6), e0218326. https://doi.org/10.1371/journal.pone.0218326
 
+Blanton, R. E., Feinman, G. M., Kowalewski, S. A., & Fargher, L. F. (2020). Moral Collapse and State Failure: A View From the Past. Frontiers in Political Science, 2. https://doi.org/10.3389/fpos.2020.568704
+
 Blouin, S., Herwix, A., Rivers, M., Tieman, R. J., & Denkenberger, D. C. (2024). Assessing the Impact of Catastrophic Electricity Loss on the Food Supply Chain. International Journal of Disaster Risk Science. https://doi.org/10.1007/s13753-024-00574-6
 
 Boers, N., Ghil, M., & Stocker, T. F. (2022). Theoretical and paleoclimatic evidence for abrupt transitions in the Earth system. Environmental Research Letters, 17(9), 093006. https://doi.org/10.1088/1748-9326/ac8944
@@ -99,11 +101,15 @@ Houska, T., Kraft, P., Jehn, F., Bestian, K., Kraus, D., & Breuer, L. (2021). De
 
 Hoyer, D. (2022). Decline and Fall, Growth and Spread, or Resilience? Approaches to Studying How and Why Societies Change. SocArXiv. https://doi.org/10.31235/osf.io/43rgx
 
+Hoyer, D., Bennett, J. S., Reddish, J., Holder, S., Howard, R., Benam, M., Levine, J., Ludlow, F., Feinman, G., & Turchin, P. (2023). Navigating polycrisis: Long-run socio-cultural factors shape response to changing climate. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1889), 20220402. https://doi.org/10.1098/rstb.2022.0402
+
 Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
 
 Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of “Ecocide” on Rapa Nui (Easter Island) (SSRN Scholarly Paper No. 2042672). https://doi.org/10.2139/ssrn.2042672
 
 Jagtap, S., Trollman, H., Trollman, F., Garcia-Garcia, G., Parra-López, C., Duong, L., Martindale, W., Munekata, P. E. S., Lorenzo, J. M., Hdaifeh, A., Hassoun, A., Salonitis, K., & Afy-Shararah, M. (2022). The Russia-Ukraine Conflict: Its Implications for the Global Food Supply Chains. Foods, 11(14), 2098. https://doi.org/10.3390/foods11142098
+
+Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2024). Food trade disruption after global catastrophes. EarthArXiv. https://eartharxiv.org/repository/view/7339/
 
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
 
@@ -207,6 +213,8 @@ Savitch, E., Frank, A., Carroll-Nellenback, J., Haqq-Misra, J., Kleidon, A., & A
 
 Scheffer, M., van Nes, E. H., Kemp, L., Kohler, T. A., Lenton, T. M., & Xu, C. (2023). The vulnerability of aging states: A survival analysis across premodern societies. Proceedings of the National Academy of Sciences, 120(48), e2218834120. https://doi.org/10.1073/pnas.2218834120
 
+Schippers, M. C., Ioannidis, J. P. A., & Luijks, M. W. J. (2024). Is society caught up in a Death Spiral? Modeling societal demise and its reversal. Frontiers in Sociology, 9. https://doi.org/10.3389/fsoc.2024.1194597
+
 Setty, S., Cramwinckel, M. J., van Nes, E. H., van de Leemput, I. A., Dijkstra, H. A., Lourens, L. J., Scheffer, M., & Sluijs, A. (2023). Loss of Earth system resilience during early Eocene transient global warming events. Science Advances, 9(14), eade5466. https://doi.org/10.1126/sciadv.ade5466
 
 Shepherd, T. G., Boyd, E., Calel, R. A., Chapman, S. C., Dessai, S., Dima-West, I. M., Fowler, H. J., James, R., Maraun, D., Martius, O., Senior, C. A., Sobel, A. H., Stainforth, D. A., Tett, S. F. B., Trenberth, K. E., van den Hurk, B. J. J. M., Watkins, N. W., Wilby, R. L., & Zenghelis, D. A. (2018). Storylines: An alternative approach to representing uncertainty in physical aspects of climate change. Climatic Change, 151(3), 555–571. https://doi.org/10.1007/s10584-018-2317-9
@@ -262,6 +270,8 @@ Wunderling, N., Donges, J. F., Kurths, J., & Winkelmann, R. (2021). Interacting 
 Wunderling, N., Winkelmann, R., Rockström, J., Loriani, S., Armstrong McKay, D. I., Ritchie, P. D. L., Sakschewski, B., & Donges, J. F. (2023). Global warming overshoots increase risks of climate tipping cascades in a network model. Nature Climate Change, 13(1), Article 1. https://doi.org/10.1038/s41558-022-01545-9
 
 Xia, L., Robock, A., Scherrer, K., Harrison, C. S., Bodirsky, B. L., Weindl, I., Jägermeyr, J., Bardeen, C. G., Toon, O. B., & Heneghan, R. (2022). Global food insecurity and famine from reduced crop, marine fishery and livestock production due to climate disruption from nuclear war soot injection. Nature Food, 1–11. https://doi.org/10.1038/s43016-022-00573-0
+
+Yıldırım, C., & Önen, H. G. (2024). Vulnerabilities of the neoliberal global food system: The Russia–Ukraine War and COVID-19. Journal of Agrarian Change, n/a(n/a), e12601. https://doi.org/10.1111/joac.12601
 
 Yurko, F. J. (1999). End of the Late Bronze Age and other crisis periods: A volcanic cause? In E. F. Wente, E. Teeter, & J. A. Larson (Eds.), Gold of praise: Studies on ancient Egypt in honor of Edward F. Wente. Oriental Institute of the University of Chicago.
 
