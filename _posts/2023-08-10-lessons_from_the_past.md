@@ -68,7 +68,7 @@ My reading of the evidence is that studying past societies that have advanced be
 Personally, I am inclined to the notion that meaningful comparisons can still be drawn, particularly when focusing on overarching trends rooted in fundamental human behaviors. This implies that arguments concerning issues like coordination problems, supported by historical data, seem credible to me, as these problems possess a degree of universality that spans across eras.
 Additionally, the sustainable development goals provide another noteworthy piece of evidence. These goals were formulated with the central question of ensuring the long-term sustainability of modern society. The fact that these goals have also proven beneficial to civilizations of the past can be regarded as a form of independent verification, lending further weight to the idea of parallels between historical and contemporary societal dynamics.
 
-## Footnotes
+## Endnotes
 
 (1) Liu et al. (2018) explain hazard, exposure and vulnerability in the context of existential risk in much more detail. 
 
