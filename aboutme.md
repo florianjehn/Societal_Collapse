@@ -33,3 +33,4 @@ Thanks for very valuable feedback on a variety of the posts here!
 * Peter Søgaard Jørgensen
 * Michael Hinge
 * Simon Blouin
+* Daniel Hoyer
