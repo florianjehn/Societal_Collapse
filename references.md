@@ -81,11 +81,15 @@ D’Odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feedi
 
 Drake, B. L. (2012). The influence of climatic change on the Late Bronze Age Collapse and the Greek Dark Ages. Journal of Archaeological Science, 39(6), 1862–1870. https://doi.org/10.1016/j.jas.2012.01.029
 
+D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp Speed Serve as a Model for Accelerating Innovations Beyond COVID Vaccines? (Working Paper No. 32831). National Bureau of Economic Research. https://doi.org/10.3386/w32831
+
 Faulseit, R. K. (2016). Beyond Collapse: Archaeological Perspectives on Resilience, Revitalization, and Transformation in Complex Societies. SIU Press.
 
 Frank, A. (2018). Light of the stars: Alien worlds and the fate of the Earth (First edition). W.W. Norton & Company, Inc.
 
 Frank, A., Carroll-Nellenback, J., Alberti, M., & Kleidon, A. (2018). The Anthropocene Generalized: Evolution of Exo-Civilizations and Their Planetary Feedback. Astrobiology, 18(5), 503–518. https://doi.org/10.1089/ast.2017.1671
+
+García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2024). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. EarthArXiv. https://eartharxiv.org/repository/view/7688/
 
 Great Founder Theory. (2018, September 5). Samo Burja. https://samoburja.com/great-founder-theory/
 
