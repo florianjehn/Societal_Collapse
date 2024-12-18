@@ -2,7 +2,7 @@
 layout: post
 title: Trade collapse
 subtitle: Cascading risks in our global supply chains
-tags: [Influence Factors, Trade]
+tags: [Influence Factors, Coordination Problems]
 comments: true
 readtime: true
 ---

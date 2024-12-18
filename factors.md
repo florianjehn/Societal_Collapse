@@ -16,11 +16,9 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 # Bad Luck
 * [Is societal collapse just a random event?](https://florianjehn.github.io/Societal_Collapse/2023-12-04-bad_luck/)
 
-# Trade
-* [Trade collapse](https://florianjehn.github.io/Societal_Collapse/2024-04-25-trade_collapse/)
-
 # Coordination Problems
 * [Anthropocene traps](https://florianjehn.github.io/Societal_Collapse/2024-06-20-anthropocene_traps/)
+* [Trade collapse](https://florianjehn.github.io/Societal_Collapse/2024-04-25-trade_collapse/)
 
 # Infrastructure
 * [The consequences of large-scale blackouts](https://florianjehn.github.io/Societal_Collapse/2024-09-29-blackout/)
