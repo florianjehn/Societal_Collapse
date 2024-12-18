@@ -57,7 +57,11 @@ Cernev, T. (2022). Global catastrophic risk and planetary boundaries: The relati
 
 Charalampopoulos, I., & Droulia, F. (2021). The Agro-Meteorological Caused Famines as an Evolutionary Factor in the Formation of Civilisation and History: Representative Cases in Europe. Climate, 9(1), Article 1. https://doi.org/10.3390/cli9010005
 
+Chrisendo, D., Niva, V., Hoffmann, R., Sayyar, S. M., Rocha, J., Sandström, V., Solt, F., & Kummu, M. (2024). Income inequality has increased for over two-thirds of the global population. Research Square. https://doi.org/10.21203/rs.3.rs-5548291/v1
+
 Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerability in the global industrial food system. The Journal of Peasant Studies, 50(1), 1–25. https://doi.org/10.1080/03066150.2022.2129013
+
+Cohn, S. (2023). The Black Death: Collapse, resilience, transformation (M. Centeno, P. Callahan, P. Larcey, & T. Patterson, Eds.; pp. 192–206). Routledge. https://eprints.gla.ac.uk/292026/
 
 Cottrell, R. S., Nash, K. L., Halpern, B. S., Remenyi, T. A., Corney, S. P., Fleming, A., Fulton, E. A., Hornborg, S., Johne, A., Watson, R. A., & Blanchard, J. L. (2019). Food production shocks across land and sea. Nature Sustainability, 2(2), Article 2. https://doi.org/10.1038/s41893-018-0210-1
 
@@ -82,6 +86,8 @@ D’Odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feedi
 Drake, B. L. (2012). The influence of climatic change on the Late Bronze Age Collapse and the Greek Dark Ages. Journal of Archaeological Science, 39(6), 1862–1870. https://doi.org/10.1016/j.jas.2012.01.029
 
 D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp Speed Serve as a Model for Accelerating Innovations Beyond COVID Vaccines? (Working Paper No. 32831). National Bureau of Economic Research. https://doi.org/10.3386/w32831
+
+Easterlin, R. (2012). Life satisfaction of rich and poor under socialism and capitalism. International Journal of Happiness and Development, 1(1), 112–126.
 
 Faulseit, R. K. (2016). Beyond Collapse: Archaeological Perspectives on Resilience, Revitalization, and Transformation in Complex Societies. SIU Press.
 
@@ -118,6 +124,8 @@ Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderli
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
 
 Kang, H., Lee, K.-M., & Yang, J.-S. (2024). The potential for cascading failures in the international trade network. PLOS ONE, 19(3), e0299833. https://doi.org/10.1371/journal.pone.0299833
+
+Kanbur, R. (2019). Inequality in a global perspective. Oxford Review of Economic Policy, 35(3), 431–444. https://doi.org/10.1093/oxrep/grz010
 
 Kaniewski, D., & Van Campo, E. (2017). 3.2 ka BP Megadrought and the Late Bronze Age Collapse. In H. Weiss (Ed.), Megadrought and Collapse: From Early Agriculture to Angkor (p. 0). Oxford University Press. https://doi.org/10.1093/oso/9780199329199.003.0005
 
@@ -160,6 +168,8 @@ Loughlin, M. (2019). The Contemporary Crisis of Constitutional Democracy†. Oxf
 Maini, A. (2020). On Historical Dynamics by P. Turchin. Biophysical Economics and Sustainability, 5(1), 3. https://doi.org/10.1007/s41247-019-0063-x
 
 Marchand, P., Carr, J. A., Dell’Angelo, J., Fader, M., Gephart, J. A., Kummu, M., Magliocca, N. R., Porkka, M., Puma, M. J., Ratajczak, Z., Rulli, M. C., Seekell, D. A., Suweis, S., Tavoni, A., & D’Odorico, P. (2016). Reserves and trade jointly determine exposure to food supply shocks. Environmental Research Letters, 11(9), 095009. https://doi.org/10.1088/1748-9326/11/9/095009
+
+Marienbach, M. (2024). Egalitarianism Without Catastrophe? Teotihuacan’s Challenge to Walter Scheidel’s Four Horsemen Theory. The Maastricht Journal of Liberal Arts, 15. https://doi.org/10.26481/mjla.2024.v15.1017
 
 Marinatos, S. (1939). The Volcanic Destruction of Minoan Crete. Antiquity, 13(52), 425–439. https://doi.org/10.1017/S0003598X00028088
 
@@ -219,6 +229,8 @@ Scheffer, M., van Nes, E. H., Kemp, L., Kohler, T. A., Lenton, T. M., & Xu, C. (
 
 Schippers, M. C., Ioannidis, J. P. A., & Luijks, M. W. J. (2024). Is society caught up in a Death Spiral? Modeling societal demise and its reversal. Frontiers in Sociology, 9. https://doi.org/10.3389/fsoc.2024.1194597
 
+Schmidt, A. T., & Juijn, D. (2024). Economic inequality and the long-term future. Politics, Philosophy & Economics, 23(1), 67–99. https://doi.org/10.1177/1470594X231178502
+
 Setty, S., Cramwinckel, M. J., van Nes, E. H., van de Leemput, I. A., Dijkstra, H. A., Lourens, L. J., Scheffer, M., & Sluijs, A. (2023). Loss of Earth system resilience during early Eocene transient global warming events. Science Advances, 9(14), eade5466. https://doi.org/10.1126/sciadv.ade5466
 
 Shepherd, T. G., Boyd, E., Calel, R. A., Chapman, S. C., Dessai, S., Dima-West, I. M., Fowler, H. J., James, R., Maraun, D., Martius, O., Senior, C. A., Sobel, A. H., Stainforth, D. A., Tett, S. F. B., Trenberth, K. E., van den Hurk, B. J. J. M., Watkins, N. W., Wilby, R. L., & Zenghelis, D. A. (2018). Storylines: An alternative approach to representing uncertainty in physical aspects of climate change. Climatic Change, 151(3), 555–571. https://doi.org/10.1007/s10584-018-2317-9
@@ -254,6 +266,8 @@ Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Bak
 Turchin, P., Whitehouse, H., Larson, J., Cioni, E., Reddish, J., Hoyer, D., Savage, P. E., Covey, R. A., Baines, J., Altaweel, M., Anderson, E., Bol, P., Brandl, E., Carballo, D. M., Feinman, G., Korotayev, A., Kradin, N., Levine, J. D., Nugent, S. E., … François, P. (2023). Explaining the rise of moralizing religions: A test of competing hypotheses using the Seshat Databank. Religion, Brain & Behavior, 13(2), 167–194. https://doi.org/10.1080/2153599X.2022.2065345
 
 Varberg, J., Kaul, F., & Gratuze, B. (2020). Bronze Age Glass and Amber Evidence of Bronze Age long distance exchange. Adoranten, 2019, 5–29.
+
+Vodovnik, Ž. (2024). Possibilities at the End of the World: (Re)Imagining Care as Politics. Teorija in praksa, 387–405. https://doi.org/10.51936/tip.61.2.387
 
 Wand, T., & Hoyer, D. (2024). The characteristic time scale of cultural evolution. PNAS Nexus, 3(2), pgae009. https://doi.org/10.1093/pnasnexus/pgae009
 
