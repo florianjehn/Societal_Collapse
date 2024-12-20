@@ -35,3 +35,4 @@ Thanks for very valuable feedback on a variety of the posts here!
 * Simon Blouin
 * Daniel Hoyer
 * Juan B. García Martínez
+* Andreas Schmidt
