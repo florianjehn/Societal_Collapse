@@ -19,7 +19,7 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 # Coordination Problems
 * [Anthropocene traps](https://florianjehn.github.io/Societal_Collapse/2024-06-20-anthropocene_traps/)
 * [Trade collapse](https://florianjehn.github.io/Societal_Collapse/2024-04-25-trade_collapse/)
-* [Economic inequality and societal collapse](https://florianjehn.github.io/Societal_Collapse/2024-12-18-inequality/)
+* [Economic inequality and societal collapse](https://florianjehn.github.io/Societal_Collapse/2024-12-20-inequality/)
 
 # Infrastructure
 * [The consequences of large-scale blackouts](https://florianjehn.github.io/Societal_Collapse/2024-09-29-blackout/)
