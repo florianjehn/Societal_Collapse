@@ -14,3 +14,4 @@ This section is concerned with a more bird's eye view of collapse. Aggregating i
 * [Lessons from the past for our global civilization ](https://florianjehn.github.io/Societal_Collapse/2023-08-10-lessons_from_the_past/)
 * [Simulating the end of the world](https://florianjehn.github.io/Societal_Collapse/2023-11-15-collapse_models/)
 * [How long until recovery after collapse?](https://florianjehn.github.io/Societal_Collapse/2024-08-31-collapse_recovery/)
+* [Systemic risk and the polycrisis](https://florianjehn.github.io/Societal_Collapse/2025-02-05-sys_crisis/)
