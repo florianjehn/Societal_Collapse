@@ -13,6 +13,8 @@ Arbesman, S. (2011). The Life-Spans of Empires. Historical Methods: A Journal of
 
 Armstrong McKay, D. I., Staal, A., Abrams, J. F., Winkelmann, R., Sakschewski, B., Loriani, S., Fetzer, I., Cornell, S. E., Rockström, J., & Lenton, T. M. (2022). Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science, 377(6611), eabn7950. https://doi.org/10.1126/science.abn7950
 
+Arnscheidt, C. W., Beard, S. J., Hobson, T., Ingram, P., Kemp, L., Mani, L., Marcoci, A., Mbeva, K., hÉigeartaigh, S. Ó., Sandberg, A., Sundaram, L., & Wunderling, N. (2024). Systemic contributions to global catastrophic risk. OSF. https://doi.org/10.31235/osf.io/wcj9e
+
 Avin, S., Wintle, B. C., Weitzdörfer, J., Ó hÉigeartaigh, S. S., Sutherland, W. J., & Rees, M. J. (2018). Classifying global catastrophic risks. Futures, 102, 20–26. https://doi.org/10.1016/j.futures.2018.02.001
 
 Balaji, V., Couvreux, F., Deshayes, J., Gautrais, J., Hourdin, F., & Rio, C. (2022). Are general circulation models obsolete? Proceedings of the National Academy of Sciences, 119(47), e2202075119. https://doi.org/10.1073/pnas.2202075119
@@ -52,6 +54,8 @@ Carlin, D. (2019). Chapter 3: The End of the World as They Knew It. In The end i
 Carter, M. J. (2013). A Sociological Model of Societal Collapse. Comparative Sociology, 12(2), 236–254. https://doi.org/10.1163/15691330-12341262
 
 Centeno, M. A., & Cohen, J. N. (2012). The Arc of Neoliberalism. Annual Review of Sociology, 38(Volume 38, 2012), 317–340. https://doi.org/10.1146/annurev-soc-081309-150235
+
+Centeno, M. A., Nag, M., Patterson, T. S., Shaver, A., & Windawi, A. J. (2015). The Emergence of Global Systemic Risk. Annual Review of Sociology, 41(1), 65–85. https://doi.org/10.1146/annurev-soc-073014-112317
 
 Cernev, T. (2022). Global catastrophic risk and planetary boundaries: The relationship to global targets and disaster risk reduction. https://www.undrr.org/publication/global-catastrophic-risk-and-planetary-boundaries-relationship-global-targets-and
 
@@ -105,6 +109,8 @@ Hasell, J., & Roser, M. (2013). Famines. Our World in Data. https://ourworldinda
 
 Herrington, G. (2021). Update to limits to growth: Comparing the World3 model with empirical data. Journal of Industrial Ecology, 25(3), 614–626. https://doi.org/10.1111/jiec.13084
 
+Holder, S. L., Ainsworth, R., Aldrich, D., Bennett, J. S., Feinman, G., Mark, S., Orlandi, G., Preiser-Kapeller, J., Reddish, J., Schoonover, R., Turchin, P., & Hoyer, D. (2024). The Spectrum of (Poly)Crisis: Exploring polycrises of the past to better understand our current and future risks. OSF. https://doi.org/10.31235/osf.io/3bspg
+
 Houska, T., Kraft, P., Chamorro-Chavez, A., & Breuer, L. (2015). SPOTting Model Parameters Using a Ready-Made Python Package. PLOS ONE, 10(12), e0145180. https://doi.org/10.1371/journal.pone.0145180
 
 Houska, T., Kraft, P., Jehn, F., Bestian, K., Kraus, D., & Breuer, L. (2021). Detection of hidden model errors by combining single and multi-criteria calibration. Science of The Total Environment, 777, 146218. https://doi.org/10.1016/j.scitotenv.2021.146218
@@ -149,6 +155,8 @@ Laio, F., Ridolfi, L., & D’Odorico, P. (2016). The past and future of food sto
 
 Lawler, A. (2010). Collapse? What Collapse? Societal Change Revisited. Science, 330(6006), 907–909. https://doi.org/10.1126/science.330.6006.907
 
+Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockstöm, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: The causal mechanisms of crisis entanglement. Global Sustainability, 7, e6. https://doi.org/10.1017/sus.2024.1
+
 Lenton, T. M. (2023). Climate Change and Tipping Points in Historical Collapse. In How Worlds Collapse. Routledge.
 
 Lenton, T. M., Held, H., Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S., & Schellnhuber, H. J. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105(6), 1786–1793. https://doi.org/10.1073/pnas.0705414105
@@ -168,6 +176,8 @@ Loughlin, M. (2019). The Contemporary Crisis of Constitutional Democracy†. Oxf
 Maini, A. (2020). On Historical Dynamics by P. Turchin. Biophysical Economics and Sustainability, 5(1), 3. https://doi.org/10.1007/s41247-019-0063-x
 
 Marchand, P., Carr, J. A., Dell’Angelo, J., Fader, M., Gephart, J. A., Kummu, M., Magliocca, N. R., Porkka, M., Puma, M. J., Ratajczak, Z., Rulli, M. C., Seekell, D. A., Suweis, S., Tavoni, A., & D’Odorico, P. (2016). Reserves and trade jointly determine exposure to food supply shocks. Environmental Research Letters, 11(9), 095009. https://doi.org/10.1088/1748-9326/11/9/095009
+
+Mark, S., Holder, S., Hoyer, D., Schoonover, R., & Aldrich, D. P. (2023). Understanding Polycrisis: Definitions, Applications, and Responses (SSRN Scholarly Paper No. 4593383). Social Science Research Network. https://doi.org/10.2139/ssrn.4593383
 
 Marienbach, M. (2024). Egalitarianism Without Catastrophe? Teotihuacan’s Challenge to Walter Scheidel’s Four Horsemen Theory. The Maastricht Journal of Liberal Arts, 15. https://doi.org/10.26481/mjla.2024.v15.1017
 
@@ -230,6 +240,8 @@ Scheffer, M., van Nes, E. H., Kemp, L., Kohler, T. A., Lenton, T. M., & Xu, C. (
 Schippers, M. C., Ioannidis, J. P. A., & Luijks, M. W. J. (2024). Is society caught up in a Death Spiral? Modeling societal demise and its reversal. Frontiers in Sociology, 9. https://doi.org/10.3389/fsoc.2024.1194597
 
 Schmidt, A. T., & Juijn, D. (2024). Economic inequality and the long-term future. Politics, Philosophy & Economics, 23(1), 67–99. https://doi.org/10.1177/1470594X231178502
+
+Schweizer, P.-J., & Juhola, S. (2024). Navigating systemic risks: Governance of and for systemic risks. Global Sustainability, 7, e38. https://doi.org/10.1017/sus.2024.30
 
 Setty, S., Cramwinckel, M. J., van Nes, E. H., van de Leemput, I. A., Dijkstra, H. A., Lourens, L. J., Scheffer, M., & Sluijs, A. (2023). Loss of Earth system resilience during early Eocene transient global warming events. Science Advances, 9(14), eade5466. https://doi.org/10.1126/sciadv.ade5466
 
