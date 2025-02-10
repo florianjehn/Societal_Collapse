@@ -144,5 +144,5 @@ Besides that, the current times also seem much better soil for the implementatio
 
 Though following Arendt’s argument means that the establishment of such council republics is still called for. The American Revolution failed in bringing true public freedom, but this does not mean that it has to stay this way forever. Our current democracy is not enough. In addition, in the current world we have additional opportunities due to technology to implement decentralized, deliberative systems. For example, this has been done in [Taiwan](https://80000hours.org/podcast/episodes/audrey-tang-what-we-can-learn-from-taiwan/), where every citizen can bring forward topics into the political process, if they can convince enough others that it is worthwhile. 
 
-I think working on creating these more democratic forms of government is well worth a try. 
+The question is no longer whether such systems are possible, but rather how we might adapt and implement them to strengthen democratic participation in our own contexts. The tools and knowledge exist—what remains is the political will to experiment with and refine these approaches to build more inclusive and deliberative democratic institutions.
 
