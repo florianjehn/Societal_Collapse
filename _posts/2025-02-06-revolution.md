@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Revolution and Democracy
+title: Revolution and democracy
 subtitle: Hannah Arendt's vision for true freedom
 tags: [Overview Post, High level]
 comments: true
