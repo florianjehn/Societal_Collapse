@@ -53,7 +53,7 @@ Regarding the concentration of trade among a few firms, Clapp argues that the cu
 
 Another paper which links these problems in the food trade system to how global markets are structured is by Yıldırım & Önen (2024). They looked at which countries were most impacted by food system disruptions due to the Russian invasion of Ukraine and COVID-19. They argue that this mostly impacted countries that have low income and which also do not have any domestic food production. They propose that these countries could impose import restrictions to strengthen their local food supply and make themselves less dependent on imports. 
 
-## How much of our trade could we potentially lose?
+# How much of our trade could we potentially lose?
 
 We therefore know that the food trade is quite vulnerable on many axes. But how would food security be influenced by changes in trade after a major catastrophe? This question is explored in Jehn et al. (2024) (Disclaimer: I am the main author in that paper). To do so, Jehn et al. used a simple network model of trade to simulate how changes in food production change food trade patterns. The assumption being, if you produce less food, you reduce your exports by the same amount. This approach allows to isolate the effect of the direct yield reduction, without having to make any further assumption on human behavior. 
 
