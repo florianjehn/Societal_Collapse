@@ -62,6 +62,14 @@ Figure 2: Schematic showing pathways by which information in historical and arch
 
 Allen et al. determine that, in general, societies in the past that were able to live in line with the Sustainable Development Goals fared better overall. This past validation of today’s sustainable development goals is further evidence that societal insights can be transplanted across time.
 
+## The relevance of of premodern history for today
+
+After the above-mentioned papers have explored from what kind of societies we can learn, I also want to discuss a review paper by Haldon et al. (2024), which explored the ways history is relevant for policy makers and especially, how we can make sure to take reliable lessons from the past. 
+
+They argue that we rely on history all the time to make political decisions, because if you face a crisis, it is only natural to try to figure out how past decision makers reacted in similar situations. You need something to ground yourself in. However, this runs into several problems. History is complex and policy makers are often stripped for time. This means they tend to cherry pick easily, as they default to the most well known history facts from their own country. However, this leaves out the vast majority of lessons we could take from history. For example, this leaves out lessons from large sample and modelling studies, both of which try to capture the more general trends in history. 
+
+Haldon and co-authors also make several suggestions on how we could improve history uptake in politics in the future. They think that especially expert elicitations are underused here. With this they mean to ask a large group of experts about a specific topic, which is relevant to policy and then aggregate all those voices into one report, which highlights the main lessons to be drawn and also in what areas the experts' opinions diverge from each other. In addition to this, they suggest we should aim for qualitative-quantitative data integration. With this they mean combining the strength of large datasets, with specific case studies. Use the large dataset to identify a recurring trend and then give an example of how this trend played out in a particular historical crisis, which is relevant to what the policy maker is looking for (3). Their hope is that such an approach will make it easier to rely on history for policy makers, as in current debates, the insights of scientists from the natural sciences are often ranked higher in their trustworthiness. It is important for history to bridge this gap, as otherwise many important insights from history will remain unheard in our policy debates. 
+
 ## Conclusion
 
 My reading of the evidence is that studying past societies that have advanced beyond the hunter-gatherer stage and developed for a few thousand years to get to a high level of complexity, can be helpful for understanding our current society. However, this only holds if the industrial revolution did not change our society in such a way which makes it impossible to compare. Whether this is the case is still up to debate. 
@@ -74,11 +82,15 @@ Additionally, the sustainable development goals provide another noteworthy piece
 
 (2) In principle, the methods used by Turchin and their colleagues to measure complexity can also be used to analyze our current society. For instance, they look at factors like the number of bureaucrats in the government, the size of a society's territory, and the population of its capital city. Nonetheless, these factors have undergone substantial changes over time, so it's not certain whether this assumption holds.
 
+(3) This is what the Seshat database is often used for, e.g. in [this paper](https://osf.io/preprints/socarxiv/hyj48_v1). 
+
 ## References
 
 Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
 
 Baum, S. D. (2023). Assessing natural global catastrophic risks. Natural Hazards, 115(3), 2699–2719. https://doi.org/10.1007/s11069-022-05660-w
+
+Haldon, J., Mordechai, L., Dugmore, A., Eisenberg, M., Endfield, G., Izdebski, A., Jackson, R., Kemp, L., Labuhn, I., McGovern, T., Metcalfe, S., Morrison, K., Newfield, T., & Trump, B. (2024). Past Answers to Present Concerns. The Relevance of the Premodern Past for 21st Century Policy Planners: Comments on the State of the Field. Wiley Interdisciplinary Reviews: Climate Change. https://doi.org/10.1002/wcc.923
 
 Liu, H.-Y., Lauta, K. C., & Maas, M. M. (2018). Governing Boring Apocalypses: A new typology of existential vulnerabilities and exposures for existential risk research. Futures, 102, 6–19. https://doi.org/10.1016/j.futures.2018.04.009
 
