@@ -29,7 +29,10 @@ This data does not directly indicate how long the transition from hunter-gathere
 Assuming this proxy works, we can examine the data on population declines. It shows that all regions studied regularly experienced population declines. Most of these declines took 100-500 years to recover from, with longer downturns being rare. This suggests that during early stages of civilization, recoveries could happen relatively quickly. Interestingly, Risis et al. found that the main predictor of recovery time was the frequency of past disturbances. Societies that experienced more frequent population declines tended to recover faster. Since modern civilization has little experience recovering from such collapses, we might face a slower recovery. The longest downturn in the sample was 2000 years. Thus, a more complex downturn takes around 500-2000 years to recover. 
 
 We can also look at more qualitative descriptions. For example, Zeder (2011) did a literature review about early agriculture and came to the conclusion that agriculture in the Near East all took around 2000 years from early attempts to established agriculture. However, as the data we have is so sparse, these numbers have high uncertainties. Still, it seems reasonable to assume that a typical transition takes around 2000 years, possibly 500 years if you did not have a complete setback. 
+
 This obviously introduces the question: If such a step is so quick, why didn’t humanity develop any kind of civilization earlier? And I think the answer here goes in the direction that the environment has to be suitable to actually develop any kind of civilization and also has to have the incentives to do so (1). This often is not given. Therefore, the estimate here can be understood as the value that I would expect if the conditions are good, like if you have a stable and warm climate as in the holocene. 
+
+Likely, the factor relevant here is you have to have an environment which is conducive to agriculture. This not only includes climate, but also things like your local soils or if you have plants and animals available which can be domesticated. This argument is underpinned by a study from Borcan et al. (2021). They collected a dataset which consists of the majority of societies who created states. What they wanted to find out was the question if usually you had agriculture first and then the formation of a state or the other way around. Their results show that this is the case. In pretty much all cases you had first agriculture and state formation only afterwards. Besides this they found that geography, climate, distance to other states and time since the first settlement founded in the area all play a role in the time it takes to go from hunter-gatherers to early states.
 
 # Early agriculture/pastoralism to pre-industrial society
 
@@ -90,6 +93,8 @@ Overall, this leaves me a bit ambiguous when it comes to our chances of recovery
 (5) Many of these points are also discussed in the excellent book “The Knowledge” by Lewis Dartnell.
 
 # References
+
+Borcan, O., Olsson, O., & Putterman, L. (2021). Transition to agriculture and first state presence: A global analysis. Explorations in Economic History, 82, 101404. https://doi.org/10.1016/j.eeh.2021.101404
 
 Riris, P., Silva, F., Crema, E., Palmisano, A., Robinson, E., Siegel, P. E., French, J. C., Jørgensen, E. K., Maezumi, S. Y., Solheim, S., Bates, J., Davies, B., Oh, Y., & Ren, X. (2024). Frequent disturbances enhanced the resilience of past human populations. Nature, 629(8013), 837–842. https://doi.org/10.1038/s41586-024-07354-8
 
