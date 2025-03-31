@@ -37,9 +37,13 @@ Blouin, S., Herwix, A., Rivers, M., Tieman, R. J., & Denkenberger, D. C. (2024).
 
 Boers, N., Ghil, M., & Stocker, T. F. (2022). Theoretical and paleoclimatic evidence for abrupt transitions in the Earth system. Environmental Research Letters, 17(9), 093006. https://doi.org/10.1088/1748-9326/ac8944
 
+Borcan, O., Olsson, O., & Putterman, L. (2021). Transition to agriculture and first state presence: A global analysis. Explorations in Economic History, 82, 101404. https://doi.org/10.1016/j.eeh.2021.101404
+
 Boyd, M., & Wilson, N. (2021). Anticipatory Governance for Preventing and Mitigating Catastrophic and Existential Risks. Policy Quarterly, 17(4), Article 4. https://doi.org/10.26686/pq.v17i4.7313
 
 Boyd, M., & Wilson, N. (2023). Island refuges for surviving nuclear winter and other abrupt sunlight-reducing catastrophes. Risk Analysis, 43(9), 1824–1842. https://doi.org/10.1111/risa.14072
+
+Brands, H. (2018). Democracy vs Authoritarianism: How Ideology Shapes Great-Power Conflict. Survival, 60(5), 61–114. https://doi.org/10.1080/00396338.2018.1518371
 
 Brozović, D. (2023). Societal collapse: A literature review. Futures, 145, 103075. https://doi.org/10.1016/j.futures.2022.103075
 
@@ -102,6 +106,8 @@ Frank, A., Carroll-Nellenback, J., Alberti, M., & Kleidon, A. (2018). The Anthro
 García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2024). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. EarthArXiv. https://eartharxiv.org/repository/view/7688/
 
 Great Founder Theory. (2018, September 5). Samo Burja. https://samoburja.com/great-founder-theory/
+
+Haldon, J., Mordechai, L., Dugmore, A., Eisenberg, M., Endfield, G., Izdebski, A., Jackson, R., Kemp, L., Labuhn, I., McGovern, T., Metcalfe, S., Morrison, K., Newfield, T., & Trump, B. (2024). Past Answers to Present Concerns. The Relevance of the Premodern Past for 21st Century Policy Planners: Comments on the State of the Field. Wiley Interdisciplinary Reviews: Climate Change. https://doi.org/10.1002/wcc.923
 
 Hamm, P., King, L. P., & Stuckler, D. (2012). Mass Privatization, State Capacity, and Economic Growth in Post-Communist Countries. American Sociological Review, 77(2), 295–324. https://doi.org/10.1177/0003122412441354
 
@@ -187,6 +193,8 @@ Meadows, D. H., Club of Rome, & Potomac Associates (Eds.). (1974). The limits to
 
 Middleton, G. D. (2017). Understanding Collapse: Ancient History and Modern Myths. Cambridge University Press. https://doi.org/10.1017/9781316584941
 
+Millemaci, E., Monteforte, F., & Temple, J. R. W. (2024). Have Autocrats Governed for the Long Term? Kyklos. https://doi.org/10.1111/kykl.12425
+
 Moersdorf, J., Rivers, M., Denkenberger, D., Breuer, L., & Jehn, F. U. (2024). The Fragile State of Industrial Agriculture: Estimating Crop Yield Reductions in a Global Catastrophic Infrastructure Loss Scenario. Global Challenges, 8(1), 2300206. https://doi.org/10.1002/gch2.202300206
 
 Nakassis, D., Parkinson, W. A., & Galaty, M. L. (2011). Redistribution in Aegean Palatial Societies Redistributive Economies from a Theoretical and Cross-Cultural Perspective. American Journal of Archaeology, 115(2), 177–184. https://doi.org/10.3764/aja.115.2.177
@@ -208,6 +216,8 @@ Peregrine, P. N. (2018). Social Resilience to Climate-Related Disasters in Ancie
 Peregrine, P. N. (2021). Social resilience to nuclear winter: Lessons from the Late Antique Little Ice Age. Global Security: Health, Science and Policy, 6(1), 57–67. https://doi.org/10.1080/23779497.2021.1963808
 
 Petermann, Th., Bradke, H., Lüllmann, A., Poetzsch, M., & Riehm, U. (2011). Was bei einem Blackout geschieht: Folgen eines langandauernden und großräumigen Stromausfalls. edition sigma. https://doi.org/10.5445/IR/140085927
+
+Piñeiro, M., & Piñeiro, V. (2024). Geopolitical changes and their implications for agricultural trade negotiations. https://hdl.handle.net/10568/151905
 
 Puma, M. J., Bose, S., Chon, S. Y., & Cook, B. I. (2015). Assessing the evolving fragility of the global food system. Environmental Research Letters, 10(2), 024007. https://doi.org/10.1088/1748-9326/10/2/024007
 
@@ -278,6 +288,8 @@ Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Bak
 Turchin, P., Whitehouse, H., Larson, J., Cioni, E., Reddish, J., Hoyer, D., Savage, P. E., Covey, R. A., Baines, J., Altaweel, M., Anderson, E., Bol, P., Brandl, E., Carballo, D. M., Feinman, G., Korotayev, A., Kradin, N., Levine, J. D., Nugent, S. E., … François, P. (2023). Explaining the rise of moralizing religions: A test of competing hypotheses using the Seshat Databank. Religion, Brain & Behavior, 13(2), 167–194. https://doi.org/10.1080/2153599X.2022.2065345
 
 Varberg, J., Kaul, F., & Gratuze, B. (2020). Bronze Age Glass and Amber Evidence of Bronze Age long distance exchange. Adoranten, 2019, 5–29.
+
+Verschuur, J., Murgatroyd, A., Vittis, Y., Mosnier, A., Obersteiner, M., Godfray, C., & Hall, J. (2024). The impacts of polycrises on global grain availability and prices. https://doi.org/10.21203/rs.3.rs-3969801/v1
 
 Vodovnik, Ž. (2024). Possibilities at the End of the World: (Re)Imagining Care as Politics. Teorija in praksa, 387–405. https://doi.org/10.51936/tip.61.2.387
 
