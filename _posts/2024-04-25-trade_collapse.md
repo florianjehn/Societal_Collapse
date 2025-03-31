@@ -79,6 +79,27 @@ Figure 3: The Bronze Age network for trade and politics.
 
 Our current food trade network is not that dissimilar. If for example, the United States would cease to trade food for some reason, this alone has the potential to completely unravel our food trade network. 
 
+# How important is domestic production in comparison with trading food?
+
+Another way to look at food trade is to explore when it is helpful to import a lot of food and when this is more of a liability and you should rather have grown your domestic food production. This is explored in an article by (Verschuur et al., 2024). The researchers developed a bilateral trade model for 177 countries and four major crops (maize, wheat, rice, soybean) to simulate how different types of shocks affect food availability and prices. They modeled several scenarios: the Ukraine war, energy price shocks, trade restrictions, and a "polycrisis" combining all three—against 54 years of weather-driven production variability.
+
+Key findings about trade as a buffer:
+
+* Trade generally helps mitigate localized shocks by allowing countries to source food from alternative suppliers. For example, when Ukraine's exports were disrupted, importing countries shifted to other suppliers.
+* In typical years, countries with high import dependency experienced smaller reductions in consumer surplus, suggesting trade networks provide resilience against moderate disruptions.
+* During the Ukraine war scenario, international trade flows increased as countries sought alternative suppliers, demonstrating trade's adaptive capacity.
+
+However, trade has limitations as a buffer:
+
+* During extreme "tail risk" events (the worst 10% of scenarios), higher import dependency became a vulnerability rather than an asset—especially for maize and rice. Countries with greater domestic production were better buffered against severe shocks.
+* Trade can transmit and amplify shocks across the global system. The compound "polycrisis" scenario resulted in consumer price increases of 23-52% across all crops, affecting virtually all countries simultaneously.
+* Trade restrictions (like India's rice export ban) severely impacted specific regions, particularly Sub-Saharan Africa and Central Asia.
+
+The energy price shock proved most damaging overall, increasing input costs globally, while different regions showed varying vulnerabilities to specific shock types. The research suggests that both trade connectivity and domestic production capacity are needed in a "risk layering" approach to food system resilience.
+
+In essence, trade provides crucial flexibility for the food system to adapt to shocks, but becomes less effective as buffers during compound, global-scale disruptions. This is a similar conclusion as Yıldırım & Önen (2024), but Verschuur et al. additionally back this up with modelling. 
+
+
 # Comparing food trade to trade of other goods
 
 All this shows that our food trade system is susceptible to risks, highlighting the importance of increasing resilience. Interestingly, while the food system appears increasingly vulnerable, this trend does not necessarily extend to the broader trade system. Kang et al. (2024) examined trade flows over the past three decades. Their analysis involved systematically removing nodes from the network to simulate the redistribution of node load to neighboring nodes. They observed a gradual decrease in countries' reliance on others, particularly since the 2008 financial crisis. This shift is attributed to the decreasing significance of fossil fuels due to the emergence of alternative energy sources, alongside increased awareness among nations about supply line vulnerabilities and efforts to enhance resilience after recurring shocks to the system like COVID-19 or the financial crisis. However, the study also revealed that even the removal of a smaller country can cause significant disruptions, as neighboring nodes often lack sufficient capacity to absorb the loss. 
@@ -93,7 +114,9 @@ The challenge lies in predicting the outcomes of such adaptations before they ha
 
 *If you know of important studies I’ve missed here, please email me and I’ll update this article!*
 
-In summary, the global trade system, particularly in the food sector, is inherently vulnerable and it is very difficult to predict how disruptions might turn out. This highlights that it should be a priority to increase resilience, so we don’t follow the same path as the empires of the Bronze Age.
+This also highlights the importance of geopolitics for trade. We have seen that political ramifications had been a major factor when the trade network collapsed during the Bronze Age and also the shifts after Russia’s invasion of Ukraine are obviously linked to politics. But we can look at even broader trends here. These decades-long geopolitical changes and their influence on trade are explored in Piñeiro & Piñeiro (2024). Specifically, they looked at how much trade was worth in comparison with GDP and found that it peaked before World War I, crashed down in the period of 1914 - 1945 and has consistently grown since then. However, it also seems that either the growth has slowed down or might even have reversed after ~2020. They argue that this recent shift has been happening as countries are stepping away from international treaties around trade. In parallel, many countries are starting to sort themselves into power blocks, especially around China and the United States. They decrease their trade with everyone outside their power block and increase it in their power block. Given the developments of the United States isolating itself more and more since Trump has become president again, it seems likely that in the coming years trade as a share of GDP will decrease and that the power block around the United States might shatter into smaller groups of countries, which would further decrease trade. 
+
+In summary, the global trade system, particularly in the food sector, is inherently vulnerable and it is very difficult to predict how disruptions might turn out. This highlights that it should be a priority to increase resilience, so we don’t follow the same path as the empires of the Bronze Age. It seems that domestic food production is an important factor here if you want to be resilient against major shocks. Food trade only seems to help well for smaller shocks. Additionally, the current geopolitical world situation seems to imply that we will see decreased trade in the coming years. While this is likely bad in general, it might increase resilience for some countries, as they have to become more self-reliant. However, globally this is a worse outcome, both now, as everything becomes more expensive when trade decreases, but also after major crises, as these tend to be managed better if countries trust each other and work together. 
 
 # Endnotes
 
@@ -117,7 +140,11 @@ Kuhla, K., Puma, M., & Otto, C. (2023). Stabilizing international wheat prices t
 
 Linkov, I., Galaitsi, S. E., Trump, B. D., Pinigina, E., Rand, K., Cline, E. H., & Kitsak, M. (2024). Are civilizations destined to collapse? Lessons from the Mediterranean Bronze Age. Global Environmental Change, 84, 102792. https://doi.org/10.1016/j.gloenvcha.2023.102792
 
+Piñeiro, M., & Piñeiro, V. (2024). Geopolitical changes and their implications for agricultural trade negotiations. https://hdl.handle.net/10568/151905
+
 Puma, M. J., Bose, S., Chon, S. Y., & Cook, B. I. (2015). Assessing the evolving fragility of the global food system. Environmental Research Letters, 10(2), 024007. https://doi.org/10.1088/1748-9326/10/2/024007
+
+Verschuur, J., Murgatroyd, A., Vittis, Y., Mosnier, A., Obersteiner, M., Godfray, C., & Hall, J. (2024). The impacts of polycrises on global grain availability and prices. https://doi.org/10.21203/rs.3.rs-3969801/v1
 
 Wellesley, L., Preston, F., Lehne, J., & Bailey, R. (2017). Chokepoints in global food trade: Assessing the risk. Research in Transportation Business & Management, 25, 15–28. https://doi.org/10.1016/j.rtbm.2017.07.007
 
