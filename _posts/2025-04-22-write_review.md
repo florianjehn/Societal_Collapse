@@ -23,7 +23,7 @@ So far I have found two good ways to generate these goldilocks keywords:
 
 ## [Google Scholar](https://scholar.google.com/) alerts
 
-Google Scholar tries to index a large chunk of scientific literature. While it has some blind spots (like that it does not index Zenodo), it usually does a good job in finding papers. When you have a profile at Google Scholar, you can set alerts. This means you get an email every time a new paper is found by Google Scholar which mentions the keyword you specified. 
+Google Scholar tries to index a large chunk of scientific literature. While it has some blind spots (like that it does not index [Zenodo](https://zenodo.org/)), it usually does a good job in finding papers. When you have a profile at Google Scholar, you can set alerts. This means you get an email every time a new paper is found by Google Scholar which mentions the keyword you specified. 
 
 ## [Research Gate](https://www.researchgate.net/)
 
@@ -31,7 +31,7 @@ Research Gate is a website for researchers to share their work and connect with 
  
 ## [OpenAlex](https://openalex.org/)
 
-OpenAlex is a bibliographic catalogue of scientific papers. It is similar to other bibliographic catalogues like Web of Science, but it has the big advantage that it is completely free and available to everyone. You can search directly on their website, but they also have an API that lets you request papers. To make the usage easier, I wrote some code (thanks Claude) to query the API. This allows you to request papers about specific topics in a defined date range and you will get a nice csv file which you can browse through to check if you found interesting papers. 
+OpenAlex is a bibliographic catalogue of scientific papers. It is similar to other bibliographic catalogues like Web of Science, but it has the big advantage that it is completely free and available to everyone. You can search directly on their website, but they also have an API that lets you request papers. To make the usage easier, I wrote [some code](https://github.com/florianjehn/OpenAlex-Paper-Request) (thanks Claude) to query the API. This allows you to request papers about specific topics in a defined date range and you will get a nice csv file which you can browse through to check if you found interesting papers. 
 
 ## Newsletters of research orgs
 Well, this one is pretty self-explanatory. Research orgs like to boast about the stuff they publish. So, find the newsletters of the research orgs you like and subscribe to it.
