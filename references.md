@@ -259,6 +259,8 @@ Setty, S., Cramwinckel, M. J., van Nes, E. H., van de Leemput, I. A., Dijkstra, 
 
 Shepherd, T. G., Boyd, E., Calel, R. A., Chapman, S. C., Dessai, S., Dima-West, I. M., Fowler, H. J., James, R., Maraun, D., Martius, O., Senior, C. A., Sobel, A. H., Stainforth, D. A., Tett, S. F. B., Trenberth, K. E., van den Hurk, B. J. J. M., Watkins, N. W., Wilby, R. L., & Zenghelis, D. A. (2018). Storylines: An alternative approach to representing uncertainty in physical aspects of climate change. Climatic Change, 151(3), 555–571. https://doi.org/10.1007/s10584-018-2317-9
 
+Shwom, R., & and Kopp, R. E. (2019). Long-term risk governance: When do societies act before crisis? Journal of Risk Research, 22(11), 1374–1390. https://doi.org/10.1080/13669877.2018.1476900
+
 Sigl, M., Winstrup, M., McConnell, J. R., Welten, K. C., Plunkett, G., Ludlow, F., Büntgen, U., Caffee, M., Chellman, N., Dahl-Jensen, D., Fischer, H., Kipfstuhl, S., Kostick, C., Maselli, O. J., Mekhaldi, F., Mulvaney, R., Muscheler, R., Pasteris, D. R., Pilcher, J. R., … Woodruff, T. E. (2015). Timing and climate forcing of volcanic eruptions for the past 2,500 years. Nature, 523(7562), Article 7562. https://doi.org/10.1038/nature14565
 
 Søgaard Jørgensen, P., Jansen, R. E. V., Avila Ortega, D. I., Wang-Erlandsson, L., Donges, J. F., Österblom, H., Olsson, P., Nyström, M., Lade, S. J., Hahn, T., Folke, C., Peterson, G. D., & Crépin, A.-S. (2023). Evolution of the polycrisis: Anthropocene traps that challenge global sustainability. Philosophical Transactions of the Royal Society B: Biological Sciences, 379(1893), 20220261. https://doi.org/10.1098/rstb.2022.0261
