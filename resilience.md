@@ -18,3 +18,4 @@ How a society reacts to a catastrophic event is important and it is strongly inf
 # General Preparation
 
 * [Counterfactual catastrophes](https://florianjehn.github.io/Societal_Collapse/2024-11-19-counterfactuals/)
+* [Some factors that could help societies avoid major crises](https://florianjehn.github.io/Societal_Collapse/2025-04-23-crisis_averted/)
