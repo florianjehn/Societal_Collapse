@@ -125,6 +125,8 @@ Hoyer, D. (2022). Decline and Fall, Growth and Spread, or Resilience? Approaches
 
 Hoyer, D., Bennett, J. S., Reddish, J., Holder, S., Howard, R., Benam, M., Levine, J., Ludlow, F., Feinman, G., & Turchin, P. (2023). Navigating polycrisis: Long-run socio-cultural factors shape response to changing climate. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1889), 20220402. https://doi.org/10.1098/rstb.2022.0402
 
+Hoyer, D., Bennett, J. S., Whitehouse, H., François, P., Feeney, K., Levine, J., Reddish, J., Davis, D., & Turchin, P. (2024). CRISES AVERTED How A Few Past Societies Found Adaptive Reforms in the Face of Structural- Demographic Crises. OSF. https://doi.org/10.31235/osf.io/hyj48
+
 Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
 
 Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of “Ecocide” on Rapa Nui (Easter Island) (SSRN Scholarly Paper No. 2042672). https://doi.org/10.2139/ssrn.2042672
