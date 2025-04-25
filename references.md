@@ -79,6 +79,8 @@ Coupe, J., Bardeen, C. G., Robock, A., & Toon, O. B. (2019). Nuclear Winter Resp
 
 Cumming, G. S., & Peterson, G. D. (2017). Unifying Research on Social–Ecological Resilience and Collapse. Trends in Ecology & Evolution, 32(9), 695–713. https://doi.org/10.1016/j.tree.2017.06.014
 
+Dal Prá, G., Chan, C., Burkhanov, T., Arnscheidt, C. W., Cremades, R., Cremer, C. Z., Galaz, V., Gambhir, A., Heikkinen, K., Hinge, M., Hoyer, D., Jehn, F. U., Larcey, P., Kemp, L., Keys, P. W., Kiyaei, E., Lade, S. J., Manheim, D., McKay, D. A., … Sutherland, W. (2024). A Horizon Scan of Global Catastrophic Risks (SSRN Scholarly Paper No. 5005075). Social Science Research Network. https://doi.org/10.2139/ssrn.5005075
+
 Dakos, V., Boulton, C. A., Buxton, J. E., Abrams, J. F., Armstrong McKay, D. I., Bathiany, S., Blaschke, L., Boers, N., Dylewsky, D., López-Martínez, C., Parry, I., Ritchie, P., van der Bolt, B., van der Laan, L., Weinans, E., & Kéfi, S. (2023). Tipping Point Detection and Early-Warnings in climate, ecological, and human systems. EGUsphere, 1–35. https://doi.org/10.5194/egusphere-2023-1773
 
 Degroot, D., Anchukaitis, K., Bauch, M., Burnham, J., Carnegy, F., Cui, J., de Luna, K., Guzowski, P., Hambrecht, G., Huhtamaa, H., Izdebski, A., Kleemann, K., Moesswilde, E., Neupane, N., Newfield, T., Pei, Q., Xoplaki, E., & Zappia, N. (2021). Towards a rigorous understanding of societal responses to climate change. Nature, 591(7851), Article 7851. https://doi.org/10.1038/s41586-021-03190-2
@@ -207,6 +209,8 @@ Nur, A., & Cline, E. H. (2000). Poseidon’s Horses: Plate Tectonics and Earthqu
 
 Ó Gráda, C. (2009). Famine: A short history. Princeton University Press.
 
+ÓhÉigeartaigh, S. (2025). Extinction of the human species: What could cause it and how likely is it to occur? Cambridge Prisms: Extinction, 3, e4. https://doi.org/10.1017/ext.2025.4
+
 Omberg, R. T., & Tabarrok, A. (2022). Is it possible to prepare for a pandemic? Oxford Review of Economic Policy, 38(4), 851–875. https://doi.org/10.1093/oxrep/grac035
 
 Ord, T. (2020). The Precipice: Existential Risk and the Future of Humanity. Hachette Books, 480 pp.
@@ -255,6 +259,8 @@ Schmidt, A. T., & Juijn, D. (2024). Economic inequality and the long-term future
 
 Schweizer, P.-J., & Juhola, S. (2024). Navigating systemic risks: Governance of and for systemic risks. Global Sustainability, 7, e38. https://doi.org/10.1017/sus.2024.30
 
+Sepasspour, R. (2023). All-Hazards Policy for Global Catastrophic Risk (Technical Report Nos. 23–1; p. 37). Global Catastrophic Risk Institute. https://gcrinstitute.org/papers/068_all-hazards.pdf
+
 Setty, S., Cramwinckel, M. J., van Nes, E. H., van de Leemput, I. A., Dijkstra, H. A., Lourens, L. J., Scheffer, M., & Sluijs, A. (2023). Loss of Earth system resilience during early Eocene transient global warming events. Science Advances, 9(14), eade5466. https://doi.org/10.1126/sciadv.ade5466
 
 Shepherd, T. G., Boyd, E., Calel, R. A., Chapman, S. C., Dessai, S., Dima-West, I. M., Fowler, H. J., James, R., Maraun, D., Martius, O., Senior, C. A., Sobel, A. H., Stainforth, D. A., Tett, S. F. B., Trenberth, K. E., van den Hurk, B. J. J. M., Watkins, N. W., Wilby, R. L., & Zenghelis, D. A. (2018). Storylines: An alternative approach to representing uncertainty in physical aspects of climate change. Climatic Change, 151(3), 555–571. https://doi.org/10.1007/s10584-018-2317-9
@@ -265,6 +271,8 @@ Sigl, M., Winstrup, M., McConnell, J. R., Welten, K. C., Plunkett, G., Ludlow, F
 
 Søgaard Jørgensen, P., Jansen, R. E. V., Avila Ortega, D. I., Wang-Erlandsson, L., Donges, J. F., Österblom, H., Olsson, P., Nyström, M., Lade, S. J., Hahn, T., Folke, C., Peterson, G. D., & Crépin, A.-S. (2023). Evolution of the polycrisis: Anthropocene traps that challenge global sustainability. Philosophical Transactions of the Royal Society B: Biological Sciences, 379(1893), 20220261. https://doi.org/10.1098/rstb.2022.0261
 
+Stauffer, M., Kirsch-Wood, J., Stevance, A.-S., Mani, L., Sundaram, L., Dryhurst, S., & Seifert, K. (2023). Hazards with Escalation Potential Governing the Drivers of Global and Existential Catastrophes. United Nations Office for Disaster Risk Reduction.
+
 Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., Summerhayes, C. P., Barnosky, A. D., Cornell, S. E., Crucifix, M., Donges, J. F., Fetzer, I., Lade, S. J., Scheffer, M., Winkelmann, R., & Schellnhuber, H. J. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33), Article 33.
 
 Stoffel, M., Corona, C., Ludlow, F., Sigl, M., Huhtamaa, H., Garnier, E., Helama, S., Guillet, S., Crampsie, A., Kleemann, K., Camenisch, C., McConnell, J., & Gao, C. (2022). Climatic, weather, and socio-economic conditions corresponding to the mid-17th-century eruption cluster. Climate of the Past, 18(5), 1083–1108. https://doi.org/10.5194/cp-18-1083-2022
@@ -274,6 +282,8 @@ Supran, G., Rahmstorf, S., & Oreskes, N. (2023). Assessing ExxonMobil’s global
 Tainter, J. (1988). The Collapse of Complex Societies. Cambridge University Press.
 
 Tainter, J. A. (2023). How Scholars Explain Collapse. In How Worlds Collapse. Routledge.
+
+Tähtinen, L., Toivonen, S., & Rashidfarokhi, A. (2024). Landscape and domains of possible future threats from a societal point of view. Journal of Contingencies and Crisis Management, 32(1), e12529. https://doi.org/10.1111/1468-5973.12529
 
 Tetlock, P., Lebow, R. N., & Parker, N. G. (2006). Chapter 1. Counterfactual Thought Experiments: Why we can’t live without and how we must learn to live with them. In Unmaking the West: “What-If?” Scenarios That Rewrite World History. University of Michigan Press.
 
