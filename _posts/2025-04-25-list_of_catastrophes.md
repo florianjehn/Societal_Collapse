@@ -118,8 +118,11 @@ When looking at all these different risk complications, it seems to me that glob
 # Endnotes
 
 (1) If you want to know about this field, I wrote a whole [systematic review](https://eartharxiv.org/repository/view/8145/) about it. 
+
 (2) The famous [grey goo](https://en.wikipedia.org/wiki/Gray_goo). 
+
 (3) The implications of this are discussed in [another post](https://florianjehn.github.io/Societal_Collapse/2023-10-05-famine_2/) of this living literature review. 
+
 (4) Which essentially means that we should primarily focus on interventions which have a positive effect on all or most global catastrophic risks, instead of getting bogged down in trying to find the best solution for each global catastrophe. 
 
 # References
