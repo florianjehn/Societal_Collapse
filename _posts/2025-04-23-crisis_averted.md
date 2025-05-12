@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Some factors that could help societies avoid major crises
-subtitle: An early exploration
+title: Reform or ruin 
+subtitle: How some societies escape systemic collapse
 tags: [Resilience, General Preparation]
 comments: true
 readtime: true
