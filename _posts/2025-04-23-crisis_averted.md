@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reform or ruin 
-subtitle: How some societies escape collapse
+subtitle: How some societies escape from crisis
 tags: [Resilience, General Preparation]
 comments: true
 readtime: true
