@@ -135,6 +135,7 @@ When looking at all these different risk complications, it seems to me that glob
 # References
 
 Avin, S., Wintle, B. C., Weitzdörfer, J., Ó hÉigeartaigh, S. S., Sutherland, W. J., & Rees, M. J. (2018). Classifying global catastrophic risks. Futures, 102, 20–26. https://doi.org/10.1016/j.futures.2018.02.001
+
 Boyd, M., & Wilson, N. (2020). Existential Risks to Humanity Should Concern International Policymakers and More Could Be Done in Considering Them at the International Governance Level. Risk Analysis, 40(11), 2303–2312. https://doi.org/10.1111/risa.13566
 
 Dal Prá, G., Chan, C., Burkhanov, T., Arnscheidt, C. W., Cremades, R., Cremer, C. Z., Galaz, V., Gambhir, A., Heikkinen, K., Hinge, M., Hoyer, D., Jehn, F. U., Larcey, P., Kemp, L., Keys, P. W., Kiyaei, E., Lade, S. J., Manheim, D., McKay, D. A., … Sutherland, W. (2024). A Horizon Scan of Global Catastrophic Risks (SSRN Scholarly Paper No. 5005075). Social Science Research Network. https://doi.org/10.2139/ssrn.5005075
