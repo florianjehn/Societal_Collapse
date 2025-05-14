@@ -34,7 +34,7 @@ The most extensive of these catastrophe lists that I am aware of is by Tähtinen
     * Natural Hazards & Extremes (23 crises): Including extreme weather events and biodiversity loss
     * Human-Made Environmental Emergencies (9 crises): Covering issues like pollution crises and geoengineering failures
 
-# Escalating crises
+# Escalating global crises
 
 There are also more directed ways to gather lists of potential crises beyond broad cataloging efforts. The United Nations Office for Disaster Risk Reduction (UNDRR) report "Hazards with Escalation Potential: Governing the Drivers of Global and Existential Catastrophes" (Stauffer et al., 2023) specifically focuses on identifying hazards that could escalate into global catastrophes or existential threats to humanity.
 
@@ -50,6 +50,12 @@ Beyond these specific hazards, the report highlighted two crucial cross-cutting 
 The researchers were able to identify shared characteristics that make these escalating hazards especially dangerous. These include exponential growth and self-propagation, global geographical scope, severe cascading impacts across multiple systems, ability to trigger irreversible systemic shifts, capacity to bypass established response mechanisms, erosion of trust and cooperation, high uncertainty, shared ownership between separate, national governments, technological origins, and development-driven emergence.
 
 The report emphasizes that human choices drive these risks. How societies invest in critical infrastructure, political systems, military capacity, and technological development creates opportunities but also introduces risks. Many of the most dangerous escalation scenarios are directly linked to human decision-making and technological development, highlighting that human agency is a critical factor in both creating and potentially mitigating these catastrophic threats. 
+
+Similar in scope and approach is the Global Risks Report by the World Economic Forum (WEF) (World Economic Forum, 2025). Like the UNDRR report this surveyed actors from academia, government, the private sector and civil society, but an even larger sample (900 experts). The goal in the WEF report was to identify which risks we face in the short term (2 years) and long term (10 years). Generally, the vibes are pessimistic and the majority of survey respondents think that we are in for a rough ride in the short term and an even rougher ride in the long term. This is also a more negative assessment than in the WEF risk reports of the last few years. The survey respondents trace their more negative assessments back to deepening geopolitical and geoeconomic tensions. Especially, in the short term they rank state-based armed conflicts as the number one risk that will cause trouble in 2025. Though this does not mean that they think that armed conflict will be the most severe risk. In the short term the survey respondents think this will be misinformation and in the long term extreme weather events. In addition to ranking the risks, the report also tries to explore how they interact with each other and what kind of risks tend to have a large influence on others (Figure 1). This one I found especially interesting, because it frames inequality as the key issue of our time, as it influences a lot of other potential risks in a very negative way. This is very much in line with inequality also coming up as one of the main culprits for past crises, which we discussed [here](https://florianjehn.github.io/Societal_Collapse/2024-12-20-inequality/).
+
+![Global Risk Map](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/risk_map.png)
+
+Figure 1: An interconnected map of the global risk landscape
 
 # Global catastrophic risk and existential risk
 
@@ -113,7 +119,8 @@ Overall, it seems here that the inclusion of global and/or a bit more unusual ri
 
 # Takeaway
 
-When looking at all these different risk complications, it seems to me that global risk experts are most concerned with nuclear threats, artificial intelligence, pandemics and climate change. Also, it becomes pretty clear that generally all risks are either directly caused by humanity or made worse by humanity. While it is obviously bad that we are our own nightmare, it also means that all of these risks are within our own agency. Things caused by humanity can probably also be solved by humanity. A good place to start seems to be to make sure that the risks we face are more consistently included in things like national risk assessments or global policy making, so that we can better explore what might be done about them. 
+When looking at all these different risk complications, it seems to me that global risk experts are most concerned with nuclear threats, artificial intelligence, pandemics and climate change. Also, it becomes pretty clear that generally all risks are either directly caused by humanity or made worse by humanity. While it is obviously bad that we are our own nightmare, it also means that all of these risks are within our own agency. Things caused by humanity can probably also be solved by humanity. A good place to start seems to be to make sure that the risks we face are more consistently included in things like national risk assessments or global policy making, so that we can better explore what might be done about them. Also, inequality pops up in all kinds of assessments as being pretty bad. So, it seems like a good idea to also take care of that. 
+
 
 # Endnotes
 
@@ -141,4 +148,7 @@ Sepasspour, R. (2023). All-Hazards Policy for Global Catastrophic Risk (Technica
 Stauffer, M., Kirsch-Wood, J., Stevance, A.-S., Mani, L., Sundaram, L., Dryhurst, S., & Seifert, K. (2023). Hazards with Escalation Potential Governing the Drivers of Global and Existential Catastrophes. United Nations Office for Disaster Risk Reduction.
 
 Tähtinen, L., Toivonen, S., & Rashidfarokhi, A. (2024). Landscape and domains of possible future threats from a societal point of view. Journal of Contingencies and Crisis Management, 32(1), e12529. https://doi.org/10.1111/1468-5973.12529
+
+World Economic Forum. (2025). The Global Risks Report 2025.
+
 

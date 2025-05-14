@@ -321,6 +321,8 @@ Wilson, N., Valler, V., Cassidy, M., Boyd, M., Mani, L., & Brönnimann, S. (2023
 
 Woo, G. (2019). Downward Counterfactual Search for Extreme Events. Frontiers in Earth Science, 7. https://doi.org/10.3389/feart.2019.00340
 
+World Economic Forum. (2025). The Global Risks Report 2025.
+
 Wunderling, N., Donges, J. F., Kurths, J., & Winkelmann, R. (2021). Interacting tipping elements increase risk of climate domino effects under global warming. Earth System Dynamics, 12(2), 601–619. https://doi.org/10.5194/esd-12-601-2021
 
 Wunderling, N., Winkelmann, R., Rockström, J., Loriani, S., Armstrong McKay, D. I., Ritchie, P. D. L., Sakschewski, B., & Donges, J. F. (2023). Global warming overshoots increase risks of climate tipping cascades in a network model. Nature Climate Change, 13(1), Article 1. https://doi.org/10.1038/s41558-022-01545-9
