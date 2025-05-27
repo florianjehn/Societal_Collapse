@@ -25,6 +25,8 @@ Baum, S. D. (2023). Assessing natural global catastrophic risks. Natural Hazards
 
 Baum, S. D., Denkenberger, D. C., Pearce, J. M., Robock, A., & Winkler, R. (2015). Resilience to global food supply catastrophes. Environment Systems and Decisions, 35(2), 301–313. https://doi.org/10.1007/s10669-015-9549-2
 
+Baum, Seth D., Timothy M. Maher, and Jacob Haqq-Misra. 2013. “Double Catastrophe: Intermittent Stratospheric Geoengineering Induced by Societal Collapse.” Environment Systems & Decisions 33(1):168–80. doi:10.1007/s10669-012-9429-y.
+
 Beard, S., Cooke, N., Dryhurst, S., Cassidy, M., Gibbins, G., Gilgallon, G., Holt, B., Josefiina, I., Kemp, L., Tang, A., Weitzdörfer, J., Ingram, P., Sundaram, L., & Davies, R. (2023). Exploring Futures for the Science of Global Risk. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4405991
 
 Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global Risk: An Introduction to Existential Risk Studies. Open Book Publishers. https://doi.org/10.11647/obp.0336
@@ -99,6 +101,8 @@ D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp S
 
 Easterlin, R. (2012). Life satisfaction of rich and poor under socialism and capitalism. International Journal of Happiness and Development, 1(1), 112–126.
 
+Egeland, Kjølv. 2025. “Disentangling the Nexus of Nuclear Weapons and Climate Change—A Research Agenda.” International Studies Review 27(1):viaf003. doi:10.1093/isr/viaf003.
+
 Faulseit, R. K. (2016). Beyond Collapse: Archaeological Perspectives on Resilience, Revitalization, and Transformation in Complex Societies. SIU Press.
 
 Frank, A. (2018). Light of the stars: Alien worlds and the fate of the Earth (First edition). W.W. Norton & Company, Inc.
@@ -136,6 +140,8 @@ Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of �
 Jagtap, S., Trollman, H., Trollman, F., Garcia-Garcia, G., Parra-López, C., Duong, L., Martindale, W., Munekata, P. E. S., Lorenzo, J. M., Hdaifeh, A., Hassoun, A., Salonitis, K., & Afy-Shararah, M. (2022). The Russia-Ukraine Conflict: Its Implications for the Global Food Supply Chains. Foods, 11(14), 2098. https://doi.org/10.3390/foods11142098
 
 Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2024). Food trade disruption after global catastrophes. EarthArXiv. https://eartharxiv.org/repository/view/7339/
+
+Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries.” Pp. 119–32 in Intersections, Reinforcements, Cascades: Proceedings of the 2023 Stanford Existential Risks Conference. The Stanford Existential Risks Initiative.
 
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
 
@@ -284,6 +290,8 @@ Tainter, J. (1988). The Collapse of Complex Societies. Cambridge University Pres
 Tainter, J. A. (2023). How Scholars Explain Collapse. In How Worlds Collapse. Routledge.
 
 Tähtinen, L., Toivonen, S., & Rashidfarokhi, A. (2024). Landscape and domains of possible future threats from a societal point of view. Journal of Contingencies and Crisis Management, 32(1), e12529. https://doi.org/10.1111/1468-5973.12529
+
+Tang, Aaron, and Luke Kemp. 2021. “A Fate Worse Than Warming? Stratospheric Aerosol Injection and Global Catastrophic Risk.” Frontiers in Climate 3.
 
 Tetlock, P., Lebow, R. N., & Parker, N. G. (2006). Chapter 1. Counterfactual Thought Experiments: Why we can’t live without and how we must learn to live with them. In Unmaking the West: “What-If?” Scenarios That Rewrite World History. University of Michigan Press.
 
