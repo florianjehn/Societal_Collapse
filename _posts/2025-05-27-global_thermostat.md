@@ -6,7 +6,6 @@ tags: [Influence Factors, Climate Change]
 comments: true
 readtime: true
 ---
-# The planetary thermostat
 
 Life on Earth depends on a stable climate. Both the biosphere and our global society are calibrated to a narrow band of habitability. The global temperature is governed by a lot of interacting systems, but it mostly boils down to how much energy from the Sun reaches the planet’s surface and how much of incoming energy stays in the Earth’s system. Humans mess with this system by trapping more energy here, by releasing more carbon dioxide than the Earth’s system can handle. However, there are also two other, more hypothetical ways humans might impact the climate, which instead mess with the amount of incoming radiation: 1) intentional stratospheric aerosol injection to combat climate change and 2) the release of massive amounts of soot as the consequence of a nuclear war. All three are linked by their influence on the global climate, and in this post I want to discuss their potential interactions and why we should keep the others in mind when we talk about any of them. 
 
