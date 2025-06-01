@@ -38,11 +38,11 @@ The most extensive of these catastrophe lists which I am aware of is by Tähtine
 
 There are also more directed ways to gather lists of potential crises beyond broad cataloging efforts. The United Nations Office for Disaster Risk Reduction (UNDRR) report "Hazards with Escalation Potential: Governing the Drivers of Global and Existential Catastrophes" (Stauffer et al., 2023) specifically focuses on identifying hazards that could escalate into global catastrophes or existential threats to humanity.
 
-The report defines hazards with escalation potential as those that, when combined with corresponding vulnerabilities and exposures, could trigger cascades leading to global catastrophic or existential outcomes. Through a comprehensive methodology involving literature review, expert surveys examining 302 hazards from the Hazard Information Profiles (HIPs), and expert consultations, they identified a subset of hazards with particular potential for catastrophic escalation. These ten primary hazards are then sorted into four categories:
+The report defines hazards with escalation potential as those that, when combined with corresponding vulnerabilities and exposures, could trigger cascades leading to global catastrophic or existential outcomes. Through a comprehensive methodology involving literature review, expert surveys examining 302 hazards from the Hazard Information Profiles (HIPs), and expert consultations, they identified a subset of tenhazards with particular potential for catastrophic escalation. These ten primary hazards are then sorted into four categories:
 
-* Geohazards: Volcanic gases and aerosols that could trigger global cooling and food system collapse
+* Geohazards: Volcanic aerosols that could trigger global cooling and food system collapse
 * Biological hazards: Deadly pandemics, antimicrobial resistance, and harmful algal blooms
-* Technological hazards: Nuclear agents and nuclear winter, radiation agents, infrastructure disruption, and hazards related to the Internet of Things
+* Technological hazards: Nuclear weapons and nuclear winter, radiation agents, infrastructure disruption, and hazards related to the Internet of Things
 * Social hazards: International armed conflicts and environmental degradation from conflict
 
 Beyond these specific hazards, the report highlighted two crucial cross-cutting risk drivers: climate change (as an amplifier of multiple hazards) and artificial intelligence (as a transformative process with potentially far-reaching implications).
