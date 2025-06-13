@@ -47,7 +47,7 @@ This scenario of a global catastrophe like nuclear war disabling the ability to 
 
 Theoretically, this also implies that you could gradually phase out the sulfate emissions to counter global cooling. Though this would likely be very difficult to time it just right, especially in a world that has just gone through a nuclear war, which would make global cooperation hard to come by. 
 
-All this means that stratospheric aerosol injection seems like a very high risk, high reward strategy if you also consider the different hazards we phase. 
+All this means that stratospheric aerosol injection seems like a very high risk, high reward strategy if you also consider the different hazards we face. 
 
 ## Climate change + nuclear winter
 
