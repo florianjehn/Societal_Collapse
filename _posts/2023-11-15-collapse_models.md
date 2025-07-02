@@ -76,6 +76,17 @@ In her analysis she compared the outputs (Figure 3) of the limits to growth mode
 
 Figure 3: Scenarios and trends of the Limits to Growth model.
 
+## Landscapes of fear
+To give an example of agent based modelling, I want to discuss a model by Kondor et al. (2024). They build this to understand how inter-group conflict has influenced population dynamics in prehistory. We know from archeological data that there have been boom-and-bust patterns in non-state societies in Mid-Holocene Europe, but it is still debated what exactly caused them. One theory is that this is due to conflict. Partly by just killing people, but potentially more strongly by people avoiding areas where aggressive neighbours might roam. 
+
+To test this Kondor and co-authors created an agent based model which goes beyond direct casualties to capture how the mere threat of violence reshapes where people live. They call this the "landscape of fear," borrowing from ecology where prey animals avoid areas with predators even without actual predation.
+
+Their models include two key mechanisms. When conflicts break out, people abandon vulnerable settlements and crowd into defensible locations like hilltops. The presence of aggressive groups also prevents normal expansion into new territories, keeping populations concentrated in "safe" zones.
+
+Testing against radiocarbon data from Mid-Holocene Europe, they found that a scenario with zero direct conflict casualties could still reproduce the observed boom-and-bust population patterns. The models show that these indirect effects alone can cause large-scale regional population declines lasting centuries, cyclical patterns matching archaeological evidence, and population concentration leading to resource stress and elevated mortality.
+
+This research reveals how conflict's psychological and social impacts can be far more devastating than direct violence. Fear itself becomes a powerful demographic force, reshaping entire landscapes and potentially explaining major population patterns in human prehistory.
+
 # How helpful are those models?
 
 It seems to me that there is much work to be done on social collapse modeling. A major challenge is developing models that are transferable between societies. Right now many models are custom made for a single society. While those are easier to construct and can give important insights they make it hard to generalize their findings. Two other things jumped out to me during this review:
