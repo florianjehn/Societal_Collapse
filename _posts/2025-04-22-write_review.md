@@ -48,6 +48,12 @@ Find big, interdisciplinary conferences and try to look at as many scientific po
 
 Scientific papers reference other papers for their claims. If you found a claim interesting, just dig up the referenced paper. 
 
+## Finding specific papers
+Sometimes you already have a hunch of what kind of papers you are looking for, like when there is a gap in argument that would profit from a fitting citation. For this case, there are also a bunch of very helpful tools out there:
+* [Elicit](https://elicit.com/): This is a search engine optimized for finding the papers you need and it can also automate information extraction. Just ask whatever interests you and it will try to find papers which answer your questions. It is kind of optimized for medical papers, but in my experience it can also be quite helpful for many other fields. 
+* [Connected Papers](https://www.connectedpapers.com/): The main usage of this tool is to find the web of papers that surrounds a specific paper. You put in the name of a paper that you find interesting and you’ll get a network of papers relevant to it. These papers are selected based on similarity, which is calculated by checking if papers are overlapping in their citations and references. 
+* [Research Rabbit](https://researchrabbitapp.com/): This is a bit of a mix between the other two tools. Allowing you to search in the network of papers you have specified.
+
 # Reading and taking notes
 Alright, now you have a big stack of papers you might be interested in, but you still have to read them. It can be tricky to find a set-up that allows you to comfortably read a lot of papers (at least it was for me). But by now I have a workflow that allows me to read papers easily and still be able to extract the information without too much overhead:
 
