@@ -116,6 +116,8 @@ Houska, T., Kraft, P., Chamorro-Chavez, A., & Breuer, L. (2015). SPOTting Model 
 
 Houska, T., Kraft, P., Jehn, F., Bestian, K., Kraus, D., & Breuer, L. (2021). Detection of hidden model errors by combining single and multi-criteria calibration. Science of The Total Environment, 777, 146218. https://doi.org/10.1016/j.scitotenv.2021.146218
 
+Kondor, D., Bennett, J. S., Gronenborn, D., & Turchin, P. (2024). Landscape of fear: Indirect effects of conflict can account for large-scale population declines in non-state societies. Journal of The Royal Society Interface, 21(217), 20240210. https://doi.org/10.1098/rsif.2024.0210
+
 Kraft, P., Vaché, K. B., Frede, H.-G., & Breuer, L. (2011). CMF: A Hydrological Programming Language Extension For Integrated Catchment Models. Environmental Modelling & Software, 26(6), 828–830. https://doi.org/10.1016/j.envsoft.2010.12.009
 
 Roman, S. (2023). 2. Theories and Models: Understanding and Predicting Societal Collapse. 27–54. https://doi.org/10.11647/obp.0336.02

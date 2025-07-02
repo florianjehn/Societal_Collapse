@@ -85,6 +85,12 @@ Figure 2: Percentage of cases for the different pathways to democratization.
 
 This implies that democratization is not a given, as it depends on errors by rulers, which are possible but not certain. Additionally, revisiting the previous section's argument, democracies may have once been an attractor state for many autocratic regimes, but this trend has shifted in recent decades.
 
+But there is also some evidence that democracies seem to be a strong attractor to get back to, once you have been a stable democracy for a while. This is explored in Nord et al. (2025). They wanted to understand how democracies fare in the present “wave of autocratization”. To do so, they looked into history, as this is not the first time democracies face headwinds. They used a dataset of democracies from 1900 to 2023, which tracked how democratic these countries were over this period. 
+
+This provided them with a time series for every country. In this timeseries they looked for breaks when countries suddenly are becoming less democratic or less autocratic. Using this approach they found a process which they simply call “U-Turns”. This means that a given country turned toward autocracy for a while, but then quickly reversed course and became more democratic again. 
+
+They identify 102 of these U-Turn episodes. Which is significant, because this represents 52 % of turns towards autocracy. This means roughly half of all democratic backsliding gets quickly resolved again (meaning in less than five years). And it gets even better, because if we only look at the last 30 years 73 % of all turns towards autocracy got quickly reversed. So, even in the present day we apparently have a good chance to save our democracies. Additionally, in recent decades these U-Turns mostly start before a country becomes an autocracy, hinting that democracies got more resilient against the call of autocracy. Though, it remains a bit unclear why exactly. 
+
 # Saving democracies by making them more democratic 
 
 To summarize, democracies are important, but in decline and if we lose them, there is no guarantee that we will get them back. This clearly leads to the question: How do we keep our democracies? The abovementioned review by Loughlin also provides some potential answers here. Overall, it can be summarized as: our democracies suffer from not being democratic enough. Mostly we offer only a chance to vote every few years and that is the only interaction most citizens have with their democracy. More democratic in this context would mean increasing participation, representation, and equality in decision-making processes within a society. Possible interventions here include citizens’ assemblies, participatory budgets and using new technologies to make it easier to sample the opinions of citizens (2). As many of the problems are also rooted in inequality, more equal access to resources for example via a universal basic income also could be promising (3).
@@ -111,6 +117,8 @@ Lage, J., Thema, J., Zell-Ziegler, C., Best, B., Cordroch, L., & Wiese, F. (2023
 Loughlin, M. (2019). The Contemporary Crisis of Constitutional Democracy. Oxford Journal of Legal Studies, 39(2), 435–454. https://doi.org/10.1093/ojls/gqz005
 
 Millemaci, E., Monteforte, F., & Temple, J. R. W. (2024). Have Autocrats Governed for the Long Term? Kyklos. https://doi.org/10.1111/kykl.12425
+
+Nord, M., Angiolillo, F., Lundstedt, M., Wiebrecht, F., & Lindberg, S. I. (2025). When autocratization is reversed: Episodes of U-Turns since 1900. Democratization, 0(0), 1–24. https://doi.org/10.1080/13510347.2024.2448742
 
 Reiter, D. (2017). Is Democracy a Cause of Peace? In Oxford Research Encyclopedia of Politics. https://doi.org/10.1093/acrefore/9780190228637.013.287
 
