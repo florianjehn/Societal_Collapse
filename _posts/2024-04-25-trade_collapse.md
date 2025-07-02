@@ -53,15 +53,23 @@ Regarding the concentration of trade among a few firms, Clapp argues that the cu
 
 Another paper which links these problems in the food trade system to how global markets are structured is by Yıldırım & Önen (2024). They looked at which countries were most impacted by food system disruptions due to the Russian invasion of Ukraine and COVID-19. They argue that this mostly impacted countries that have low income and which also do not have any domestic food production. They propose that these countries could impose import restrictions to strengthen their local food supply and make themselves less dependent on imports. 
 
+To dig even deeper into the concentration, we can look at how trade happens on a sub-country level. This was recently explored in quite some detail by Jain (2024). The main idea behind the paper was that we would probably be able to understand trade better, if we could look at it in more detail, meaning admin levels below the country level. Problem is that this data mostly does not exist. This means we have to create it. 
+
+To do this, Jain trained machine learning models on national scale-trade relations of food trade and predictive variables like crop area, livestock count, population and transportation networks. The resulting model allowed Jain to predict the out and ingoing flow of trade for lower admin levels for all countries. These numbers were then adjusted until the sums lined up with the actually traded amounts on a country level. Due to the high uncertainties involved, the resulting numbers are likely still somewhat off, but they reveal quite interesting patterns of trade (Figure 2). It turns out production is not only concentrated on a few countries, but even in those countries most of the production comes from a small number of regions. This means even a relatively local shock can quickly have global consequences. 
+
+![Sub national cereal flow](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/cereal_flow.png)
+
+Figure 2: Sub-national global cereal trade flows. 
+
 # How much of our trade could we potentially lose?
 
 We therefore know that the food trade is quite vulnerable on many axes. But how would food security be influenced by changes in trade after a major catastrophe? This question is explored in Jehn et al. (2024) (Disclaimer: I am the main author in that paper). To do so, Jehn et al. used a simple network model of trade to simulate how changes in food production change food trade patterns. The assumption being, if you produce less food, you reduce your exports by the same amount. This approach allows to isolate the effect of the direct yield reduction, without having to make any further assumption on human behavior. 
 
-Jehn et al. used this model to look at the two main types of global catastrophic events that influence food production: 1) abrupt sunlight reduction scenarios (like nuclear winter), 2) global catastrophic infrastructure loss (GCIL, like a large geomagnetic storm disabling the global power grid) and 3) a combination of both (imagine a nuclear winter after a nuclear war which included HEMP attacks). They find that many countries would lose around 25-50 % of their food imports after a GCIL and 50-100 % in an ASRS. A combination of both would be even more disruptive. 
+Jehn et al. used this model to look at the two main types of global catastrophic events that influence food production: 1) abrupt sunlight reduction scenarios (like nuclear winter), 2) global catastrophic infrastructure loss (GCIL, like a large geomagnetic storm disabling the global power grid) and 3) a combination of both (imagine a nuclear winter after a nuclear war which included HEMP attacks). They find that many countries would lose around 25-50 % of their food imports after a GCIL and 50-100 % in an ASRS. A combination of both would be even more disruptive (Figure 3). 
 
 ![Catastrophic Trade Loss](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/trade_loss.png)
 
-Figure 2: Impact of global catastrophic infrastructure loss (GCIL), abrupt sunlight reduction scenario (ASRS) and a combination of both on food imports for all four major crops and all countries. 
+Figure 3: Impact of global catastrophic infrastructure loss (GCIL), abrupt sunlight reduction scenario (ASRS) and a combination of both on food imports for all four major crops and all countries. 
 
 Besides these direct effects the paper also simulated how this would impact trade communities. A trade community is a group of countries which trade a lot with each other. They can change if for example one major exporter reduces its exports due to yield losses. Interestingly, the impacts here differ a lot by the catastrophe that caused them. In GCIL scenarios the trade communities stay mostly the same, because the food production is impacted relatively homogeneously. Meaning if most countries have a similar reduction in food production, your trading partners stay mostly the same. For ASRS scenarios though the picture is quite different. The climatic disruption caused by them is regionally quite different, completely destroying food production in some countries, while leaving others not impacted at all or even improving conditions in some (e.g. very hot countries). This completely changes the map of trading partners, as many countries would have to turn to new partners to have any chance of importing food. 
 
@@ -71,11 +79,11 @@ All these things indicate that food trade would be massively disrupted after glo
 
 These papers show that we are currently in a difficult situation for food trade. If a major shock happens, it is possible that the food system could collapse in a cascading manner. In addition to those insights from today, we can also look at history to see how collapsing trade systems endanger the countries participating in them. One example here is the Late Bronze Age Collapse (2), as explored in Linkov et al. (2024). 
 
-Linkov et al. (2024) build a network model to map out trade links and political connections (Figure 3). A political connection in this context refers to things like signed treaties to form a defense pact. They then remove nodes from that network to test which ones had the biggest impact. They found that in the case of the Bronze Age, both political and trade networks strongly relied on the Hittite Empire and Ugarit to function. If you remove those nodes, as happened historically due to their collapse, the whole network unravels, as the eastern and western parts of the network lose a lot of their connections that kept them stable. This loss was especially problematic as the Bronze Age collapse economy was strongly reliant on tin, which was mainly mined on Cyprus. With the Hittite Empire and Ugarit gone, the only remaining political connection of Cyprus was Egypt, which itself was in crisis and therefore not in the state anymore to help maintain trade. As predicted by LInkov et al. (2024), the collapse of the Ugarit and Hittite empires led to a broader collapse as more distant regions lost access to trade via their linkages to these empires. The Late Bronze Age Collapse, which spanned the broader mediterranean region ensued.
+Linkov et al. (2024) build a network model to map out trade links and political connections (Figure 4). A political connection in this context refers to things like signed treaties to form a defense pact. They then remove nodes from that network to test which ones had the biggest impact. They found that in the case of the Bronze Age, both political and trade networks strongly relied on the Hittite Empire and Ugarit to function. If you remove those nodes, as happened historically due to their collapse, the whole network unravels, as the eastern and western parts of the network lose a lot of their connections that kept them stable. This loss was especially problematic as the Bronze Age collapse economy was strongly reliant on tin, which was mainly mined on Cyprus. With the Hittite Empire and Ugarit gone, the only remaining political connection of Cyprus was Egypt, which itself was in crisis and therefore not in the state anymore to help maintain trade. As predicted by LInkov et al. (2024), the collapse of the Ugarit and Hittite empires led to a broader collapse as more distant regions lost access to trade via their linkages to these empires. The Late Bronze Age Collapse, which spanned the broader mediterranean region ensued.
 
 ![Bronze Age Connections](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/bronze_age_connections.png)
 
-Figure 3: The Bronze Age network for trade and politics. 
+Figure 4: The Bronze Age network for trade and politics. 
 
 Our current food trade network is not that dissimilar. If for example, the United States would cease to trade food for some reason, this alone has the potential to completely unravel our food trade network. 
 
@@ -99,6 +107,15 @@ The energy price shock proved most damaging overall, increasing input costs glob
 
 In essence, trade provides crucial flexibility for the food system to adapt to shocks, but becomes less effective as buffers during compound, global-scale disruptions. This is a similar conclusion as Yıldırım & Önen (2024), but Verschuur et al. additionally back this up with modelling. 
 
+Another paper which digs deeper into the danger of trade amplifying shocks throughout the system is by Keys et al. (2025). They wanted to understand how climate hazards are transmitted through global food trade. More specifically, they focussed on how both hot and dry and hot and wet climate shocks reduced agricultural production and how this reduction impacted both the producing country and their trading partners. To model this, they ran a climate model (CESM 2) 100 times for 10 years in each run. Every run has slightly different starting conditions and thus develops differently over time. In total these 100 runs represent the plausible variability of the climate over 10 years. The variability they found thus allowed them to assess which parts of the Earth have a chance of being exposed to climate shocks. 
+
+With this knowledge they could assess how much of our global agricultural production might be affected by those climate shocks. To check how these production shocks might then impact trading partners, they used trading data to understand how much food countries are importing and from where. This allowed them to calculate how much of the food supply in a given country might be affected by local as well as climate shocks in other countries (Figure 5). This showed them that there are many countries that can expect that 30 % or more of their crop supply might be disrupted due to climate shocks in the next ten years (with up to 93 % in the case of Serbia). 
+
+![Shock exposure](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/shock_exposure.png)
+
+Figure 5: Exposure of crop supply for different countries to climate shocks. Black lines indicate single model runs. Violin plot overall indicates the distribution of the exposure throughout all runs. 
+
+Generally, they found that the best shield against climate shocks is having as many countries you import food from as possible, which should also be distributed throughout different climate zones. If you only rely on your local crops and those of your neighbours, it is likely you will have a bad time due to climate change at some point. 
 
 # Comparing food trade to trade of other goods
 
@@ -130,11 +147,15 @@ Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerab
 
 D’Odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feeding humanity through global food trade. Earth’s Future, 2(9), 458–469. https://doi.org/10.1002/2014EF000250
 
+Jain, S. (2024). Mapping Global Cereal Flow at Subnational Scales Unveils Key Insights for Food Systems Resilience. Research Square. https://doi.org/10.21203/rs.3.rs-5204730/v1
+
 Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2024). Food trade disruption after global catastrophes. EarthArXiv. https://eartharxiv.org/repository/view/7339/
 
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
 
 Kang, H., Lee, K.-M., & Yang, J.-S. (2024). The potential for cascading failures in the international trade network. PLOS ONE, 19(3), e0299833. https://doi.org/10.1371/journal.pone.0299833
+
+Keys, P. W., Barnes, E. A., Diffenbaugh, N. S., Hertel, T. W., Baldos, U. L. C., & Hedlund, J. (2025). Exposure to compound climate hazards transmitted via global agricultural trade networks. Environmental Research Letters, 20(4), 044039. https://doi.org/10.1088/1748-9326/adb86a
 
 Kuhla, K., Puma, M., & Otto, C. (2023). Stabilizing international wheat prices through international cooperation after the Russian invasion of Ukraine [Preprint]. In Review. https://doi.org/10.21203/rs.3.rs-3316541/v1
 
