@@ -8,7 +8,7 @@ readtime: true
 ---
 For this post I aim to essentially create a little repository of catastrophic risk lists, so other people can find those more easily and get an overview of how groups of experts with different backgrounds categorize and evaluate risks. The motivation behind both this post and the articles I will be citing, is the idea that to be safe, you have to be prepared and to be prepared you have to know what lurks behind the horizon. Also, I want to show how different groups of researchers go about this and how they focus on sometimes quite different kinds of events. Finally, I want to highlight those catastrophes that most people seem to agree on and how well these risk assessments are taken up by policy makers. 
 
-# Gonna catch them all
+# Gotta catch 'em all
 
 The most extensive of these catastrophe lists which I am aware of is by Tähtinen et al. (2024). They tried to list essentially every possible future threat that societies could face. To bring it all together they looked at 1714 documents and interviewed 54 experts, which left them with 153 potential future crises. They emphasize that this is the most extensive list of things that go wrong on a societal level that there is and I tend to share this assessment. They categorize these crises in 6 distinct categories:
 * Political Crises (34 identified): These emerge through societal conflicts, power struggles, and dysfunctional dynamics of existing institutions. The researchers divided political crises into three subcategories:
