@@ -45,6 +45,15 @@ One of these examples is how storylines helped save the New York Subway from ext
 
 A similar term for the storylines approach are so called “downward counterfactuals” which have been coined by Woo (2019). Here the idea is to go from bad historical outcomes and make them incrementally worse. Essentially asking the question: “How could this event have become X % worse?” and incrementally increase the percentage you ask for and see if you can still find a reasonable chain of events that could produce this worse outcome. This approach might be especially interesting for things like societal collapse and global catastrophic risk, as it could identify how the importance of different processes shifts as the size of the damage increases. 
 
+Using storylines can sometimes be a bit confusing, as people tend to understand quite different things under the term. Thankfully, a recent review by Baulenas et al. (2023) tries to clear up this confusion by highlighting the main ways people tend to use the term storylines. They identified three main ways:
+* Scenario-based storylines: These are qualitative descriptions of how the world might evolve. A typical example would be the IPCC’s Shared Socioeconomic Pathways. They describe the general idea of a potential future, which then can be integrated and modeled with climate models. 
+* Physical climate storylines: This is the kind of storyline which is meant by Shepherd et al. as explained above. 
+* Discourse-analytical storylines: This kind of analysis aims at capturing what is discussed in climate policy to understand the main narratives and metaphors. 
+
+As you see, these approaches are quite different. I think for societal collapse research, all of them could be helpful. I would love to read it if someone did the work to capture what the main narratives and metaphors around societal collapse are. 
+
+Baulenas et al. also recommend that we could combine these three approaches to create more useful storylines. For example, doing a physical climate storyline and then doing a workshop about it to try to find out what kind of narratives this sparks in the participants. 
+
 # Global catastrophic risk and counterfactuals
 
 We now know that counterfactuals are useful to explore both the past and the future. One part of the future that this living literature review is often concerned with are global catastrophic risks. Here I think storylines would also be quite helpful as a way to counterfactually explore the future. While I have yet to see a direct storylines approach to global catastrophic risk, there is some usage of counterfactual thinking. One paper I want to highlight here is about the different layers of defense against global catastrophic risk by Cotton-Barratt et al. (2020). The idea is a bit more on the theoretical side, but they imagine the distinct steps that would have to happen for a catastrophe to potentially lead to the extinction of humanity (Figure 1).
@@ -76,6 +85,8 @@ Counterfactuals of both the past and the future can be a valuable tool for both 
 (4) We discussed this in more detail in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2024-03-04-where_to_stay/). 
 
 # References
+
+Baulenas, E., Versteeg, G., Terrado, M., Mindlin, J., & Bojovic, D. (2023). Assembling the climate story: Use of storyline approaches in climate-related science. Global Challenges, 7(7), 2200183. https://doi.org/10.1002/gch2.202200183
 
 Beard, S., Cooke, N., Dryhurst, S., Cassidy, M., Gibbins, G., Gilgallon, G., Holt, B., Josefiina, I., Kemp, L., Tang, A., Weitzdörfer, J., Ingram, P., Sundaram, L., & Davies, R. (2023). Exploring Futures for the Science of Global Risk. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4405991
 
