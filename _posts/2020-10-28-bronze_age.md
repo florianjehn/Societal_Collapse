@@ -47,34 +47,19 @@ Thanks to Jan Wittenbecher, Peter Ruschhaupt, Lutz Breuer, Matteo Trevisan and L
 
 # References 
 
-Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockhoff, N. and Pernicka, E.: Isotope systematics and chemical composition of tin ingots from Mochlos (Crete) and other Late Bronze Age sites in the eastern Mediterranean Sea: An ultimate key to tin provenance?, edited by A. Zerboni, PLoS ONE, 14(6), e0218326, doi:10.1371/journal.pone.0218326, 2019.
-
-Burlingame, K.: Forces of Destruction: The Collapse of the Mediterranean Bronze Age, Bachelor Thesis, Pennsylvania State University., 2011.
-
-Carlin, D.: Chapter 3: The End of the World as They Knew It, in The end is always near: apocalyptic moments, from the Bronze Age collapse to nuclear near misses, HarperCollins Publishers, New York, NY., 2019.
-
-Diamond, J. M.: in Collapse: how societies choose to fail or survive, Penguin Books, New York, NY., 2011.
-
-Drake, B. L.: The influence of climatic change on the Late Bronze Age Collapse and the Greek Dark Ages, Journal of Archaeological Science, 39(6), 1862–1870, doi:10.1016/j.jas.2012.01.029, 2012.
-
-Dudney, J. and Suding, K. N.: The elusive search for tipping points, Nat Ecol Evol, doi:10.1038/s41559-020-1273-8, 2020.
-
-Kaniewski, D., Van Campo, E., Van Lerberghe, K., Boiy, T., Vansteenhuyse, K., Jans, G., Nys, K., Weiss, H., Morhange, C., Otto, T. and Bretschneider, J.: The Sea Peoples, from Cuneiform Tablets to Carbon Dating, edited by K. Hardy, PLoS ONE, 6(6), e20232, doi:10.1371/journal.pone.0020232, 2011.
-
-Knitter, D., Günther, G., Hamer, W. B., Keßler, T., Seguin, J., Unkel, I., Weiberg, E., Duttmann, R. and Nakoinz, O.: Land use patterns and climate change—a modeled scenario of the Late Bronze Age in Southern Greece, Environ. Res. Lett., 14(12), 125003, doi:10.1088/1748-9326/ab5126, 2019.
-
-Lenton, T. M., Rockström, J., Gaffney, O., Rahmstorf, S., Richardson, K., Steffen, W. and Schellnhuber, H. J.: Climate tipping points — too risky to bet against, Nature, 575(7784), 592–595, doi:10.1038/d41586-019-03595-0, 2019.
-
-Marinatos, S.: The Volcanic Destruction of Minoan Crete, Antiquity, 13(52), 425–439, doi:10.1017/S0003598X00028088, 1939.
-
-Nakassis, D., Parkinson, W. A. and Galaty, M. L.: Redistribution in Aegean Palatial Societies Redistributive Economies from a Theoretical and Cross-Cultural Perspective, American Journal of Archaeology, 115(2), 177–184, doi:10.3764/aja.115.2.177, 2011.
-
-Norrie, P.: How Disease Affected the End of the Bronze Age, in A History of Disease in Ancient Times: More Lethal than War, edited by P. Norrie, pp. 61–101, Springer International Publishing, Cham., 2016.
-
-Nur, A. and Cline, E. H.: Poseidon’s Horses: Plate Tectonics and Earthquake Storms in the Late Bronze Age Aegean and Eastern Mediterranean, Journal of Archaeological Science, 27(1), 43–63, doi:10.1006/jasc.1999.0431, 2000.
-
-Varberg, J., Kaul, F. and Gratuze, B.: Bronze Age Glass and Amber Evidence of Bronze Age long distance exchange, Adoranten, (2019), 5–29, 2020.
-
-Weiss, H.: The decline of Late Bronze Age civilization as a possible response to climatic change, Climatic Change, 4(2), 173–198, 1982.
-
-Yurko, F. J.: End of the Late Bronze Age and other crisis periods: a volcanic cause?, in Gold of praise: studies on ancient Egypt in honor of Edward F. Wente, edited by E. F. Wente, E. Teeter, and J. A. Larson, Oriental Institute of the University of Chicago, Chicago, Ill., 1999.
+* Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockhoff, N. and Pernicka, E.: Isotope systematics and chemical composition of tin ingots from Mochlos (Crete) and other Late Bronze Age sites in the eastern Mediterranean Sea: An ultimate key to tin provenance?, edited by A. Zerboni, PLoS ONE, 14(6), e0218326, doi:10.1371/journal.pone.0218326, 2019.
+* Burlingame, K.: Forces of Destruction: The Collapse of the Mediterranean Bronze Age, Bachelor Thesis, Pennsylvania State University., 2011.
+* Carlin, D.: Chapter 3: The End of the World as They Knew It, in The end is always near: apocalyptic moments, from the Bronze Age collapse to nuclear near misses, HarperCollins Publishers, New York, NY., 2019.
+* Diamond, J. M.: in Collapse: how societies choose to fail or survive, Penguin Books, New York, NY., 2011.
+* Drake, B. L.: The influence of climatic change on the Late Bronze Age Collapse and the Greek Dark Ages, Journal of Archaeological Science, 39(6), 1862–1870, doi:10.1016/j.jas.2012.01.029, 2012.
+* Dudney, J. and Suding, K. N.: The elusive search for tipping points, Nat Ecol Evol, doi:10.1038/s41559-020-1273-8, 2020.
+* Kaniewski, D., Van Campo, E., Van Lerberghe, K., Boiy, T., Vansteenhuyse, K., Jans, G., Nys, K., Weiss, H., Morhange, C., Otto, T. and Bretschneider, J.: The Sea Peoples, from Cuneiform Tablets to Carbon Dating, edited by K. Hardy, PLoS ONE, 6(6), e20232, doi:10.1371/journal.pone.0020232, 2011.
+* Knitter, D., Günther, G., Hamer, W. B., Keßler, T., Seguin, J., Unkel, I., Weiberg, E., Duttmann, R. and Nakoinz, O.: Land use patterns and climate change—a modeled scenario of the Late Bronze Age in Southern Greece, Environ. Res. Lett., 14(12), 125003, doi:10.1088/1748-9326/ab5126, 2019.
+* Lenton, T. M., Rockström, J., Gaffney, O., Rahmstorf, S., Richardson, K., Steffen, W. and Schellnhuber, H. J.: Climate tipping points — too risky to bet against, Nature, 575(7784), 592–595, doi:10.1038/d41586-019-03595-0, 2019.
+* Marinatos, S.: The Volcanic Destruction of Minoan Crete, Antiquity, 13(52), 425–439, doi:10.1017/S0003598X00028088, 1939.
+* Nakassis, D., Parkinson, W. A. and Galaty, M. L.: Redistribution in Aegean Palatial Societies Redistributive Economies from a Theoretical and Cross-Cultural Perspective, American Journal of Archaeology, 115(2), 177–184, doi:10.3764/aja.115.2.177, 2011.
+* Norrie, P.: How Disease Affected the End of the Bronze Age, in A History of Disease in Ancient Times: More Lethal than War, edited by P. Norrie, pp. 61–101, Springer International Publishing, Cham., 2016.
+* Nur, A. and Cline, E. H.: Poseidon’s Horses: Plate Tectonics and Earthquake Storms in the Late Bronze Age Aegean and Eastern Mediterranean, Journal of Archaeological Science, 27(1), 43–63, doi:10.1006/jasc.1999.0431, 2000.
+* Varberg, J., Kaul, F. and Gratuze, B.: Bronze Age Glass and Amber Evidence of Bronze Age long distance exchange, Adoranten, (2019), 5–29, 2020.
+* Weiss, H.: The decline of Late Bronze Age civilization as a possible response to climatic change, Climatic Change, 4(2), 173–198, 1982.
+* Yurko, F. J.: End of the Late Bronze Age and other crisis periods: a volcanic cause?, in Gold of praise: studies on ancient Egypt in honor of Edward F. Wente, edited by E. F. Wente, E. Teeter, and J. A. Larson, Oriental Institute of the University of Chicago, Chicago, Ill., 1999.

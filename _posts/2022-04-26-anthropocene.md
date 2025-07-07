@@ -91,13 +91,10 @@ The results from those models leave me with dread and hope. Dread because it mea
 
 ## References
 
-Frank, A., Carroll-Nellenback, J., Alberti, M., & Kleidon, A. (2018). The Anthropocene Generalized: Evolution of Exo-Civilizations and Their Planetary Feedback. Astrobiology, 18(5), 503–518. https://doi.org/10.1089/ast.2017.1671
-
-Frank, Adam. (2018). Light of the stars: alien worlds and the fate of the Earth (First edition). New York: W.W. Norton & Company, Inc.
-
-Savitch, E., Frank, A., Carroll-Nellenback, J., Haqq-Misra, J., Kleidon, A., & Alberti, M. (2021). Triggering a Climate Change Dominated “Anthropocene”: Is It Common among Exocivilizations? The Astronomical Journal, 162(5), 196. https://doi.org/10.3847/1538-3881/ac1a71
-
-Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., et al. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33), 8252–8259, doi: 10.1073/pnas.1810141115.
+* Frank, A., Carroll-Nellenback, J., Alberti, M., & Kleidon, A. (2018). The Anthropocene Generalized: Evolution of Exo-Civilizations and Their Planetary Feedback. Astrobiology, 18(5), 503–518. https://doi.org/10.1089/ast.2017.1671
+* Frank, Adam. (2018). Light of the stars: alien worlds and the fate of the Earth (First edition). New York: W.W. Norton & Company, Inc.
+* Savitch, E., Frank, A., Carroll-Nellenback, J., Haqq-Misra, J., Kleidon, A., & Alberti, M. (2021). Triggering a Climate Change Dominated “Anthropocene”: Is It Common among Exocivilizations? The Astronomical Journal, 162(5), 196. https://doi.org/10.3847/1538-3881/ac1a71
+* Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., et al. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33), 8252–8259, doi: 10.1073/pnas.1810141115.
 
  
 
