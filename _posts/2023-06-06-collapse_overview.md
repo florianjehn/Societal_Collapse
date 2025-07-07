@@ -115,44 +115,25 @@ The closest to having an actual model of collapse prediction is the field of str
 
 ## References
 
-Bardi, U. (2020). Before the Collapse: A Guide to the Other Side of Growth. Springer International Publishing. https://doi.org/10.1007/978-3-030-29038-2
-
-Brozović, D. (2023). Societal collapse: A literature review. Futures, 145, 103075. https://doi.org/10.1016/j.futures.2022.103075
-
-Butzer, K. W. (2012). Collapse, environment, and society. Proceedings of the National Academy of Sciences, 109(10), 3632–3639. https://doi.org/10.1073/pnas.1114845109
-
-Carter, M. J. (2013). A Sociological Model of Societal Collapse. Comparative Sociology, 12(2), 236–254. https://doi.org/10.1163/15691330-12341262
-
-Cernev, T. (2022). Global catastrophic risk and planetary boundaries: The relationship to global targets and disaster risk reduction. https://www.undrr.org/publication/global-catastrophic-risk-and-planetary-boundaries-relationship-global-targets-and
-
-Cumming, G. S., & Peterson, G. D. (2017). Unifying Research on Social–Ecological Resilience and Collapse. Trends in Ecology & Evolution, 32(9), 695–713. https://doi.org/10.1016/j.tree.2017.06.014
-
-Diamond, J. M. (2011). Collapse: How societies choose to fail or survive. Penguin Books.
-
-Faulseit, R. K. (2016). Beyond Collapse: Archaeological Perspectives on Resilience, Revitalization, and Transformation in Complex Societies. SIU Press.
-
-Burja S. (2018, September 5). Great Founder Theory. https://samoburja.com/great-founder-theory/
-
-Hoyer, D. (2022). Decline and Fall, Growth and Spread, or Resilience? Approaches to Studying How and Why Societies Change. SocArXiv. https://doi.org/10.31235/osf.io/43rgx
-
-Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
-
-Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of “Ecocide” on Rapa Nui (Easter Island) (SSRN Scholarly Paper No. 2042672). https://doi.org/10.2139/ssrn.2042672
-
-Kareiva, P., & Carranza, V. (2018). Existential risk due to ecosystem collapse: Nature strikes back. Futures, 102, 39–50. https://doi.org/10.1016/j.futures.2018.01.001
-
-Lawler, A. (2010). Collapse? What Collapse? Societal Change Revisited. Science, 330(6006), 907–909. https://doi.org/10.1126/science.330.6006.907
-
-Maini, A. (2020). On Historical Dynamics by P. Turchin. Biophysical Economics and Sustainability, 5(1), 3. https://doi.org/10.1007/s41247-019-0063-x
-
-Meadows, D. H., Club of Rome, & Potomac Associates (Eds.). (1974). The limits to growth: A report for the club of rome’s project on the predicament of mankind (2. ed). Universe books.
-
-Rockström, J., Steffen, W., Noone, K., Persson, Å., Chapin, F. S. I., Lambin, E., Lenton, T., Scheffer, M., Folke, C., Schellnhuber, H. J., Nykvist, B., de Wit, C., Hughes, T., van der Leeuw, S., Rodhe, H., Sörlin, S., Snyder, P., Costanza, R., Svedin, U., … Foley, J. (2009). Planetary Boundaries: Exploring the Safe Operating Space for Humanity. Ecology and Society, 14(2). https://doi.org/10.5751/ES-03180-140232
-
-Tainter, J. (1988). The Collapse of Complex Societies. Cambridge University Press.
-
-Turchin, P., & Nefedov, S. A. (2009). Secular cycles. Princeton University Press.
-
-Turchin, P., Whitehouse, H., Larson, J., Cioni, E., Reddish, J., Hoyer, D., Savage, P. E., Covey, R. A., Baines, J., Altaweel, M., Anderson, E., Bol, P., Brandl, E., Carballo, D. M., Feinman, G., Korotayev, A., Kradin, N., Levine, J. D., Nugent, S. E., … François, P. (2023). Explaining the rise of moralizing religions: A test of competing hypotheses using the Seshat Databank. Religion, Brain & Behavior, 13(2), 167–194. https://doi.org/10.1080/2153599X.2022.2065345
+* Bardi, U. (2020). Before the Collapse: A Guide to the Other Side of Growth. Springer International Publishing. https://doi.org/10.1007/978-3-030-29038-2
+* Brozović, D. (2023). Societal collapse: A literature review. Futures, 145, 103075. https://doi.org/10.1016/j.futures.2022.103075
+* Butzer, K. W. (2012). Collapse, environment, and society. Proceedings of the National Academy of Sciences, 109(10), 3632–3639. https://doi.org/10.1073/pnas.1114845109
+* Carter, M. J. (2013). A Sociological Model of Societal Collapse. Comparative Sociology, 12(2), 236–254. https://doi.org/10.1163/15691330-12341262
+* Cernev, T. (2022). Global catastrophic risk and planetary boundaries: The relationship to global targets and disaster risk reduction. https://www.undrr.org/publication/global-catastrophic-risk-and-planetary-boundaries-relationship-global-targets-and
+* Cumming, G. S., & Peterson, G. D. (2017). Unifying Research on Social–Ecological Resilience and Collapse. Trends in Ecology & Evolution, 32(9), 695–713. https://doi.org/10.1016/j.tree.2017.06.014
+* Diamond, J. M. (2011). Collapse: How societies choose to fail or survive. Penguin Books.
+* Faulseit, R. K. (2016). Beyond Collapse: Archaeological Perspectives on Resilience, Revitalization, and Transformation in Complex Societies. SIU Press.
+* Burja S. (2018, September 5). Great Founder Theory. https://samoburja.com/great-founder-theory/
+* Hoyer, D. (2022). Decline and Fall, Growth and Spread, or Resilience? Approaches to Studying How and Why Societies Change. SocArXiv. https://doi.org/10.31235/osf.io/43rgx
+* Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
+* Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of “Ecocide” on Rapa Nui (Easter Island) (SSRN Scholarly Paper No. 2042672). https://doi.org/10.2139/ssrn.2042672
+* Kareiva, P., & Carranza, V. (2018). Existential risk due to ecosystem collapse: Nature strikes back. Futures, 102, 39–50. https://doi.org/10.1016/j.futures.2018.01.001
+* Lawler, A. (2010). Collapse? What Collapse? Societal Change Revisited. Science, 330(6006), 907–909. https://doi.org/10.1126/science.330.6006.907
+* Maini, A. (2020). On Historical Dynamics by P. Turchin. Biophysical Economics and Sustainability, 5(1), 3. https://doi.org/10.1007/s41247-019-0063-x
+* Meadows, D. H., Club of Rome, & Potomac Associates (Eds.). (1974). The limits to growth: A report for the club of rome’s project on the predicament of mankind (2. ed). Universe books.
+* Rockström, J., Steffen, W., Noone, K., Persson, Å., Chapin, F. S. I., Lambin, E., Lenton, T., Scheffer, M., Folke, C., Schellnhuber, H. J., Nykvist, B., de Wit, C., Hughes, T., van der Leeuw, S., Rodhe, H., Sörlin, S., Snyder, P., Costanza, R., Svedin, U., … Foley, J. (2009). Planetary Boundaries: Exploring the Safe Operating Space for Humanity. Ecology and Society, 14(2). https://doi.org/10.5751/ES-03180-140232
+* Tainter, J. (1988). The Collapse of Complex Societies. Cambridge University Press.
+* Turchin, P., & Nefedov, S. A. (2009). Secular cycles. Princeton University Press.
+* Turchin, P., Whitehouse, H., Larson, J., Cioni, E., Reddish, J., Hoyer, D., Savage, P. E., Covey, R. A., Baines, J., Altaweel, M., Anderson, E., Bol, P., Brandl, E., Carballo, D. M., Feinman, G., Korotayev, A., Kradin, N., Levine, J. D., Nugent, S. E., … François, P. (2023). Explaining the rise of moralizing religions: A test of competing hypotheses using the Seshat Databank. Religion, Brain & Behavior, 13(2), 167–194. https://doi.org/10.1080/2153599X.2022.2065345
 
 

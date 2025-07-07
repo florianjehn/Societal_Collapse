@@ -86,19 +86,13 @@ Additionally, the sustainable development goals provide another noteworthy piece
 
 ## References
 
-Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
-
-Baum, S. D. (2023). Assessing natural global catastrophic risks. Natural Hazards, 115(3), 2699–2719. https://doi.org/10.1007/s11069-022-05660-w
-
-Haldon, J., Mordechai, L., Dugmore, A., Eisenberg, M., Endfield, G., Izdebski, A., Jackson, R., Kemp, L., Labuhn, I., McGovern, T., Metcalfe, S., Morrison, K., Newfield, T., & Trump, B. (2024). Past Answers to Present Concerns. The Relevance of the Premodern Past for 21st Century Policy Planners: Comments on the State of the Field. Wiley Interdisciplinary Reviews: Climate Change. https://doi.org/10.1002/wcc.923
-
-Liu, H.-Y., Lauta, K. C., & Maas, M. M. (2018). Governing Boring Apocalypses: A new typology of existential vulnerabilities and exposures for existential risk research. Futures, 102, 6–19. https://doi.org/10.1016/j.futures.2018.04.009
-
-Ord, T. (2020). The Precipice: Existential Risk and the Future of Humanity. Hachette Books, 480 pp.
-
-Turchin, P., Currie, T. E., Whitehouse, H., François, P., Feeney, K., Mullins, D., Hoyer, D., Collins, C., Grohmann, S., Savage, P., Mendel-Gleason, G., Turner, E., Dupeyron, A., Cioni, E., Reddish, J., Levine, J., Jordan, G., Brandl, E., Williams, A., … Spencer, C. (2018). Quantitative historical analysis uncovers a single dimension of complexity that structures global variation in human social organization. Proceedings of the National Academy of Sciences, 115(2), E144–E151. https://doi.org/10.1073/pnas.1708800115
-
-Wand, T., & Hoyer, D. (2024). The characteristic time scale of cultural evolution. PNAS Nexus, 3(2), pgae009. https://doi.org/10.1093/pnasnexus/pgae009
+* Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
+* Baum, S. D. (2023). Assessing natural global catastrophic risks. Natural Hazards, 115(3), 2699–2719. https://doi.org/10.1007/s11069-022-05660-w
+* Haldon, J., Mordechai, L., Dugmore, A., Eisenberg, M., Endfield, G., Izdebski, A., Jackson, R., Kemp, L., Labuhn, I., McGovern, T., Metcalfe, S., Morrison, K., Newfield, T., & Trump, B. (2024). Past Answers to Present Concerns. The Relevance of the Premodern Past for 21st Century Policy Planners: Comments on the State of the Field. Wiley Interdisciplinary Reviews: Climate Change. https://doi.org/10.1002/wcc.923
+* Liu, H.-Y., Lauta, K. C., & Maas, M. M. (2018). Governing Boring Apocalypses: A new typology of existential vulnerabilities and exposures for existential risk research. Futures, 102, 6–19. https://doi.org/10.1016/j.futures.2018.04.009
+* Ord, T. (2020). The Precipice: Existential Risk and the Future of Humanity. Hachette Books, 480 pp.
+* Turchin, P., Currie, T. E., Whitehouse, H., François, P., Feeney, K., Mullins, D., Hoyer, D., Collins, C., Grohmann, S., Savage, P., Mendel-Gleason, G., Turner, E., Dupeyron, A., Cioni, E., Reddish, J., Levine, J., Jordan, G., Brandl, E., Williams, A., … Spencer, C. (2018). Quantitative historical analysis uncovers a single dimension of complexity that structures global variation in human social organization. Proceedings of the National Academy of Sciences, 115(2), E144–E151. https://doi.org/10.1073/pnas.1708800115
+* Wand, T., & Hoyer, D. (2024). The characteristic time scale of cultural evolution. PNAS Nexus, 3(2), pgae009. https://doi.org/10.1093/pnasnexus/pgae009
 
 
 

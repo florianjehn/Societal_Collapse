@@ -143,32 +143,19 @@ In summary, the global trade system, particularly in the food sector, is inheren
 
 # References
 
-Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerability in the global industrial food system. The Journal of Peasant Studies, 50(1), 1–25. https://doi.org/10.1080/03066150.2022.2129013
-
-D’Odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feeding humanity through global food trade. Earth’s Future, 2(9), 458–469. https://doi.org/10.1002/2014EF000250
-
-Jain, S. (2024). Mapping Global Cereal Flow at Subnational Scales Unveils Key Insights for Food Systems Resilience. Research Square. https://doi.org/10.21203/rs.3.rs-5204730/v1
-
-Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2024). Food trade disruption after global catastrophes. EarthArXiv. https://eartharxiv.org/repository/view/7339/
-
-Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
-
-Kang, H., Lee, K.-M., & Yang, J.-S. (2024). The potential for cascading failures in the international trade network. PLOS ONE, 19(3), e0299833. https://doi.org/10.1371/journal.pone.0299833
-
-Keys, P. W., Barnes, E. A., Diffenbaugh, N. S., Hertel, T. W., Baldos, U. L. C., & Hedlund, J. (2025). Exposure to compound climate hazards transmitted via global agricultural trade networks. Environmental Research Letters, 20(4), 044039. https://doi.org/10.1088/1748-9326/adb86a
-
-Kuhla, K., Puma, M., & Otto, C. (2023). Stabilizing international wheat prices through international cooperation after the Russian invasion of Ukraine [Preprint]. In Review. https://doi.org/10.21203/rs.3.rs-3316541/v1
-
-Linkov, I., Galaitsi, S. E., Trump, B. D., Pinigina, E., Rand, K., Cline, E. H., & Kitsak, M. (2024). Are civilizations destined to collapse? Lessons from the Mediterranean Bronze Age. Global Environmental Change, 84, 102792. https://doi.org/10.1016/j.gloenvcha.2023.102792
-
-Piñeiro, M., & Piñeiro, V. (2024). Geopolitical changes and their implications for agricultural trade negotiations. https://hdl.handle.net/10568/151905
-
-Puma, M. J., Bose, S., Chon, S. Y., & Cook, B. I. (2015). Assessing the evolving fragility of the global food system. Environmental Research Letters, 10(2), 024007. https://doi.org/10.1088/1748-9326/10/2/024007
-
-Verschuur, J., Murgatroyd, A., Vittis, Y., Mosnier, A., Obersteiner, M., Godfray, C., & Hall, J. (2024). The impacts of polycrises on global grain availability and prices. https://doi.org/10.21203/rs.3.rs-3969801/v1
-
-Wellesley, L., Preston, F., Lehne, J., & Bailey, R. (2017). Chokepoints in global food trade: Assessing the risk. Research in Transportation Business & Management, 25, 15–28. https://doi.org/10.1016/j.rtbm.2017.07.007
-
-Yıldırım, C., & Önen, H. G. (2024). Vulnerabilities of the neoliberal global food system: The Russia–Ukraine War and COVID-19. Journal of Agrarian Change, n/a(n/a), e12601. https://doi.org/10.1111/joac.12601
+* Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerability in the global industrial food system. The Journal of Peasant Studies, 50(1), 1–25. https://doi.org/10.1080/03066150.2022.2129013
+* D’Odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feeding humanity through global food trade. Earth’s Future, 2(9), 458–469. https://doi.org/10.1002/2014EF000250
+* Jain, S. (2024). Mapping Global Cereal Flow at Subnational Scales Unveils Key Insights for Food Systems Resilience. Research Square. https://doi.org/10.21203/rs.3.rs-5204730/v1
+* Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2024). Food trade disruption after global catastrophes. EarthArXiv. https://eartharxiv.org/repository/view/7339/
+* Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
+* Kang, H., Lee, K.-M., & Yang, J.-S. (2024). The potential for cascading failures in the international trade network. PLOS ONE, 19(3), e0299833. https://doi.org/10.1371/journal.pone.0299833
+* Keys, P. W., Barnes, E. A., Diffenbaugh, N. S., Hertel, T. W., Baldos, U. L. C., & Hedlund, J. (2025). Exposure to compound climate hazards transmitted via global agricultural trade networks. Environmental Research Letters, 20(4), 044039. https://doi.org/10.1088/1748-9326/adb86a
+* Kuhla, K., Puma, M., & Otto, C. (2023). Stabilizing international wheat prices through international cooperation after the Russian invasion of Ukraine [Preprint]. In Review. https://doi.org/10.21203/rs.3.rs-3316541/v1
+* Linkov, I., Galaitsi, S. E., Trump, B. D., Pinigina, E., Rand, K., Cline, E. H., & Kitsak, M. (2024). Are civilizations destined to collapse? Lessons from the Mediterranean Bronze Age. Global Environmental Change, 84, 102792. https://doi.org/10.1016/j.gloenvcha.2023.102792
+* Piñeiro, M., & Piñeiro, V. (2024). Geopolitical changes and their implications for agricultural trade negotiations. https://hdl.handle.net/10568/151905
+* Puma, M. J., Bose, S., Chon, S. Y., & Cook, B. I. (2015). Assessing the evolving fragility of the global food system. Environmental Research Letters, 10(2), 024007. https://doi.org/10.1088/1748-9326/10/2/024007
+* Verschuur, J., Murgatroyd, A., Vittis, Y., Mosnier, A., Obersteiner, M., Godfray, C., & Hall, J. (2024). The impacts of polycrises on global grain availability and prices. https://doi.org/10.21203/rs.3.rs-3969801/v1
+* Wellesley, L., Preston, F., Lehne, J., & Bailey, R. (2017). Chokepoints in global food trade: Assessing the risk. Research in Transportation Business & Management, 25, 15–28. https://doi.org/10.1016/j.rtbm.2017.07.007
+* Yıldırım, C., & Önen, H. G. (2024). Vulnerabilities of the neoliberal global food system: The Russia–Ukraine War and COVID-19. Journal of Agrarian Change, n/a(n/a), e12601. https://doi.org/10.1111/joac.12601
 
 

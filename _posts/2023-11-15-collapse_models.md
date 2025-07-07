@@ -108,25 +108,16 @@ All this does not mean that the models we have are useless. They give us insight
 
 # References
 
-Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global Risk: An Introduction to Existential Risk Studies. Open Book Publishers. https://doi.org/10.11647/obp.0336
-
-Herrington, G. (2021). Update to limits to growth: Comparing the World3 model with empirical data. Journal of Industrial Ecology, 25(3), 614–626. https://doi.org/10.1111/jiec.13084
-
-Houska, T., Kraft, P., Chamorro-Chavez, A., & Breuer, L. (2015). SPOTting Model Parameters Using a Ready-Made Python Package. PLOS ONE, 10(12), e0145180. https://doi.org/10.1371/journal.pone.0145180
-
-Houska, T., Kraft, P., Jehn, F., Bestian, K., Kraus, D., & Breuer, L. (2021). Detection of hidden model errors by combining single and multi-criteria calibration. Science of The Total Environment, 777, 146218. https://doi.org/10.1016/j.scitotenv.2021.146218
-
-Kondor, D., Bennett, J. S., Gronenborn, D., & Turchin, P. (2024). Landscape of fear: Indirect effects of conflict can account for large-scale population declines in non-state societies. Journal of The Royal Society Interface, 21(217), 20240210. https://doi.org/10.1098/rsif.2024.0210
-
-Kraft, P., Vaché, K. B., Frede, H.-G., & Breuer, L. (2011). CMF: A Hydrological Programming Language Extension For Integrated Catchment Models. Environmental Modelling & Software, 26(6), 828–830. https://doi.org/10.1016/j.envsoft.2010.12.009
-
-Roman, S. (2023). 2. Theories and Models: Understanding and Predicting Societal Collapse. 27–54. https://doi.org/10.11647/obp.0336.02
-
-Roman, S., & Palmer, E. (2019). The Growth and Decline of the Western Roman Empire: Quantifying the Dynamics of Army Size, Territory, and Coinage. Cliodynamics, 10(2). https://doi.org/10.21237/C7clio10243683
-
-Trotter, L., Knoben, W. J. M., Fowler, K. J. A., Saft, M., & Peel, M. C. (2022). Modular Assessment of Rainfall–Runoff Models Toolbox (MARRMoT) v2.1: An object-oriented implementation of 47 established hydrological models for improved speed and readability. Geoscientific Model Development, 15(16), 6359–6369. https://doi.org/10.5194/gmd-15-6359-2022
-
-Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Baker, D., Bartkowiak, M., Bates, J., Bennett, J., Bidmead, J., Bol, P., Ceccarelli, A., Christakis, K., Christian, D., Covey, A., De Angelis, F., Earle, T., Edwards, N., & Xie, L. (2019). An Introduction to Seshat: Global History Databank. Journal of Cognitive Historiography, 5. https://doi.org/10.1558/jch.39395
+* Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global Risk: An Introduction to Existential Risk Studies. Open Book Publishers. https://doi.org/10.11647/obp.0336
+* Herrington, G. (2021). Update to limits to growth: Comparing the World3 model with empirical data. Journal of Industrial Ecology, 25(3), 614–626. https://doi.org/10.1111/jiec.13084
+* Houska, T., Kraft, P., Chamorro-Chavez, A., & Breuer, L. (2015). SPOTting Model Parameters Using a Ready-Made Python Package. PLOS ONE, 10(12), e0145180. https://doi.org/10.1371/journal.pone.0145180
+* Houska, T., Kraft, P., Jehn, F., Bestian, K., Kraus, D., & Breuer, L. (2021). Detection of hidden model errors by combining single and multi-criteria calibration. Science of The Total Environment, 777, 146218. https://doi.org/10.1016/j.scitotenv.2021.146218
+* Kondor, D., Bennett, J. S., Gronenborn, D., & Turchin, P. (2024). Landscape of fear: Indirect effects of conflict can account for large-scale population declines in non-state societies. Journal of The Royal Society Interface, 21(217), 20240210. https://doi.org/10.1098/rsif.2024.0210
+* Kraft, P., Vaché, K. B., Frede, H.-G., & Breuer, L. (2011). CMF: A Hydrological Programming Language Extension For Integrated Catchment Models. Environmental Modelling & Software, 26(6), 828–830. https://doi.org/10.1016/j.envsoft.2010.12.009
+* Roman, S. (2023). 2. Theories and Models: Understanding and Predicting Societal Collapse. 27–54. https://doi.org/10.11647/obp.0336.02
+* Roman, S., & Palmer, E. (2019). The Growth and Decline of the Western Roman Empire: Quantifying the Dynamics of Army Size, Territory, and Coinage. Cliodynamics, 10(2). https://doi.org/10.21237/C7clio10243683
+* Trotter, L., Knoben, W. J. M., Fowler, K. J. A., Saft, M., & Peel, M. C. (2022). Modular Assessment of Rainfall–Runoff Models Toolbox (MARRMoT) v2.1: An object-oriented implementation of 47 established hydrological models for improved speed and readability. Geoscientific Model Development, 15(16), 6359–6369. https://doi.org/10.5194/gmd-15-6359-2022
+* Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Baker, D., Bartkowiak, M., Bates, J., Bennett, J., Bidmead, J., Bol, P., Ceccarelli, A., Christakis, K., Christian, D., Covey, A., De Angelis, F., Earle, T., Edwards, N., & Xie, L. (2019). An Introduction to Seshat: Global History Databank. Journal of Cognitive Historiography, 5. https://doi.org/10.1558/jch.39395
 
 
 

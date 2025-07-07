@@ -79,18 +79,12 @@ Or to make a visual summary:
 
 # References
 
-Baum, S. D., Denkenberger, D. C., Pearce, J. M., Robock, A., & Winkler, R. (2015). Resilience to global food supply catastrophes. Environment Systems and Decisions, 35(2), 301–313. https://doi.org/10.1007/s10669-015-9549-2
-
-Boyd, M., & Wilson, N. (2022). Island refuges for surviving nuclear winter and other abrupt sunlight‐reducing catastrophes. Risk Analysis, risa.14072. https://doi.org/10.1111/risa.14072
-
-Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerability in the global industrial food system. The Journal of Peasant Studies, 50(1), 1–25. https://doi.org/10.1080/03066150.2022.2129013
-
-Coupe, J., Bardeen, C. G., Robock, A., & Toon, O. B. (2019). Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE. Journal of Geophysical Research: Atmospheres, 124(15), 8522–8543. https://doi.org/10.1029/2019JD030509
-
-Moersdorf, J., Rivers, M., Denkenberger, D., Breuer, L., & Jehn, F. U. (2024). The Fragile State of Industrial Agriculture: Estimating Crop Yield Reductions in a Global Catastrophic Infrastructure Loss Scenario. Global Challenges, 8(1), 2300206. https://doi.org/10.1002/gch2.202300206
-
-Wilson, N., Valler, V., Cassidy, M., Boyd, M., Mani, L., & Brönnimann, S. (2023). Impact of the Tambora volcanic eruption of 1815 on islands and relevance to future sunlight-blocking catastrophes. Scientific Reports, 13(1), Article 1. https://doi.org/10.1038/s41598-023-30729-2
-
-Xia, L., Robock, A., Scherrer, K., Harrison, C. S., Bodirsky, B. L., Weindl, I., Jägermeyr, J., Bardeen, C. G., Toon, O. B., & Heneghan, R. (2022). Global food insecurity and famine from reduced crop, marine fishery and livestock production due to climate disruption from nuclear war soot injection. Nature Food, 1–11. https://doi.org/10.1038/s43016-022-00573-0
+* Baum, S. D., Denkenberger, D. C., Pearce, J. M., Robock, A., & Winkler, R. (2015). Resilience to global food supply catastrophes. Environment Systems and Decisions, 35(2), 301–313. https://doi.org/10.1007/s10669-015-9549-2
+* Boyd, M., & Wilson, N. (2022). Island refuges for surviving nuclear winter and other abrupt sunlight‐reducing catastrophes. Risk Analysis, risa.14072. https://doi.org/10.1111/risa.14072
+* Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerability in the global industrial food system. The Journal of Peasant Studies, 50(1), 1–25. https://doi.org/10.1080/03066150.2022.2129013
+* Coupe, J., Bardeen, C. G., Robock, A., & Toon, O. B. (2019). Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE. Journal of Geophysical Research: Atmospheres, 124(15), 8522–8543. https://doi.org/10.1029/2019JD030509
+* Moersdorf, J., Rivers, M., Denkenberger, D., Breuer, L., & Jehn, F. U. (2024). The Fragile State of Industrial Agriculture: Estimating Crop Yield Reductions in a Global Catastrophic Infrastructure Loss Scenario. Global Challenges, 8(1), 2300206. https://doi.org/10.1002/gch2.202300206
+* Wilson, N., Valler, V., Cassidy, M., Boyd, M., Mani, L., & Brönnimann, S. (2023). Impact of the Tambora volcanic eruption of 1815 on islands and relevance to future sunlight-blocking catastrophes. Scientific Reports, 13(1), Article 1. https://doi.org/10.1038/s41598-023-30729-2
+* Xia, L., Robock, A., Scherrer, K., Harrison, C. S., Bodirsky, B. L., Weindl, I., Jägermeyr, J., Bardeen, C. G., Toon, O. B., & Heneghan, R. (2022). Global food insecurity and famine from reduced crop, marine fishery and livestock production due to climate disruption from nuclear war soot injection. Nature Food, 1–11. https://doi.org/10.1038/s43016-022-00573-0
 
 

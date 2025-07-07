@@ -86,15 +86,10 @@ Counterfactuals of both the past and the future can be a valuable tool for both 
 
 # References
 
-Baulenas, E., Versteeg, G., Terrado, M., Mindlin, J., & Bojovic, D. (2023). Assembling the climate story: Use of storyline approaches in climate-related science. Global Challenges, 7(7), 2200183. https://doi.org/10.1002/gch2.202200183
-
-Beard, S., Cooke, N., Dryhurst, S., Cassidy, M., Gibbins, G., Gilgallon, G., Holt, B., Josefiina, I., Kemp, L., Tang, A., Weitzdörfer, J., Ingram, P., Sundaram, L., & Davies, R. (2023). Exploring Futures for the Science of Global Risk. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4405991
-
-Cotton-Barratt, O., Daniel, M., & Sandberg, A. (2020). Defence in Depth Against Human Extinction: Prevention, Response, Resilience, and Why They All Matter. Global Policy, 11(3), 271–282. https://doi.org/10.1111/1758-5899.12786
-
-Shepherd, T. G., Boyd, E., Calel, R. A., Chapman, S. C., Dessai, S., Dima-West, I. M., Fowler, H. J., James, R., Maraun, D., Martius, O., Senior, C. A., Sobel, A. H., Stainforth, D. A., Tett, S. F. B., Trenberth, K. E., van den Hurk, B. J. J. M., Watkins, N. W., Wilby, R. L., & Zenghelis, D. A. (2018). Storylines: An alternative approach to representing uncertainty in physical aspects of climate change. Climatic Change, 151(3), 555–571. https://doi.org/10.1007/s10584-018-2317-9
-
-Tetlock, P., Lebow, R. N., & Parker, N. G. (2006). Chapter 1. Counterfactual Thought Experiments: Why we can’t live without and how we must learn to live with them. In Unmaking the West: “What-If?” Scenarios That Rewrite World History. University of Michigan Press.
-
-Woo, G. (2019). Downward Counterfactual Search for Extreme Events. Frontiers in Earth Science, 7. https://doi.org/10.3389/feart.2019.00340
+* Baulenas, E., Versteeg, G., Terrado, M., Mindlin, J., & Bojovic, D. (2023). Assembling the climate story: Use of storyline approaches in climate-related science. Global Challenges, 7(7), 2200183. https://doi.org/10.1002/gch2.202200183
+* Beard, S., Cooke, N., Dryhurst, S., Cassidy, M., Gibbins, G., Gilgallon, G., Holt, B., Josefiina, I., Kemp, L., Tang, A., Weitzdörfer, J., Ingram, P., Sundaram, L., & Davies, R. (2023). Exploring Futures for the Science of Global Risk. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4405991
+* Cotton-Barratt, O., Daniel, M., & Sandberg, A. (2020). Defence in Depth Against Human Extinction: Prevention, Response, Resilience, and Why They All Matter. Global Policy, 11(3), 271–282. https://doi.org/10.1111/1758-5899.12786
+* Shepherd, T. G., Boyd, E., Calel, R. A., Chapman, S. C., Dessai, S., Dima-West, I. M., Fowler, H. J., James, R., Maraun, D., Martius, O., Senior, C. A., Sobel, A. H., Stainforth, D. A., Tett, S. F. B., Trenberth, K. E., van den Hurk, B. J. J. M., Watkins, N. W., Wilby, R. L., & Zenghelis, D. A. (2018). Storylines: An alternative approach to representing uncertainty in physical aspects of climate change. Climatic Change, 151(3), 555–571. https://doi.org/10.1007/s10584-018-2317-9
+* Tetlock, P., Lebow, R. N., & Parker, N. G. (2006). Chapter 1. Counterfactual Thought Experiments: Why we can’t live without and how we must learn to live with them. In Unmaking the West: “What-If?” Scenarios That Rewrite World History. University of Michigan Press.
+* Woo, G. (2019). Downward Counterfactual Search for Extreme Events. Frontiers in Earth Science, 7. https://doi.org/10.3389/feart.2019.00340
 

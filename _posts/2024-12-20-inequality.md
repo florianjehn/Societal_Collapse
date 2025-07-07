@@ -113,23 +113,14 @@ Or to make things more concrete we can also look at a paper by Easterlin (2012) 
 
 # References
 
-Blanton, R. E., Feinman, G. M., Kowalewski, S. A., & Fargher, L. F. (2020). Moral Collapse and State Failure: A View From the Past. Frontiers in Political Science, 2. https://doi.org/10.3389/fpos.2020.568704
-
-Centeno, M. A., & Cohen, J. N. (2012). The Arc of Neoliberalism. Annual Review of Sociology, 38(Volume 38, 2012), 317–340. https://doi.org/10.1146/annurev-soc-081309-150235
-
-Chrisendo, D., Niva, V., Hoffmann, R., Sayyar, S. M., Rocha, J., Sandström, V., Solt, F., & Kummu, M. (2024). Income inequality has increased for over two-thirds of the global population. Research Square. https://doi.org/10.21203/rs.3.rs-5548291/v1
-
-Cohn, S. (2023). The Black Death: Collapse, resilience, transformation (M. Centeno, P. Callahan, P. Larcey, & T. Patterson, Eds.; pp. 192–206). Routledge. https://eprints.gla.ac.uk/292026/
-
-Easterlin, R. (2012). Life satisfaction of rich and poor under socialism and capitalism. International Journal of Happiness and Development, 1(1), 112–126.
-
-Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
-
-Kanbur, R. (2019). Inequality in a global perspective. Oxford Review of Economic Policy, 35(3), 431–444. https://doi.org/10.1093/oxrep/grz010
-
-Marienbach, M. (2024). Egalitarianism Without Catastrophe? Teotihuacan’s Challenge to Walter Scheidel’s Four Horsemen Theory. The Maastricht Journal of Liberal Arts, 15. https://doi.org/10.26481/mjla.2024.v15.1017
-
-Schmidt, A. T., & Juijn, D. (2024). Economic inequality and the long-term future. Politics, Philosophy & Economics, 23(1), 67–99. https://doi.org/10.1177/1470594X231178502
-
-Vodovnik, Ž. (2024). Possibilities at the End of the World: (Re)Imagining Care as Politics. Teorija in praksa, 387–405. https://doi.org/10.51936/tip.61.2.387
+* Blanton, R. E., Feinman, G. M., Kowalewski, S. A., & Fargher, L. F. (2020). Moral Collapse and State Failure: A View From the Past. Frontiers in Political Science, 2. https://doi.org/10.3389/fpos.2020.568704
+* Centeno, M. A., & Cohen, J. N. (2012). The Arc of Neoliberalism. Annual Review of Sociology, 38(Volume 38, 2012), 317–340. https://doi.org/10.1146/annurev-soc-081309-150235
+* Chrisendo, D., Niva, V., Hoffmann, R., Sayyar, S. M., Rocha, J., Sandström, V., Solt, F., & Kummu, M. (2024). Income inequality has increased for over two-thirds of the global population. Research Square. https://doi.org/10.21203/rs.3.rs-5548291/v1
+* Cohn, S. (2023). The Black Death: Collapse, resilience, transformation (M. Centeno, P. Callahan, P. Larcey, & T. Patterson, Eds.; pp. 192–206). Routledge. https://eprints.gla.ac.uk/292026/
+* Easterlin, R. (2012). Life satisfaction of rich and poor under socialism and capitalism. International Journal of Happiness and Development, 1(1), 112–126.
+* Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
+* Kanbur, R. (2019). Inequality in a global perspective. Oxford Review of Economic Policy, 35(3), 431–444. https://doi.org/10.1093/oxrep/grz010
+* Marienbach, M. (2024). Egalitarianism Without Catastrophe? Teotihuacan’s Challenge to Walter Scheidel’s Four Horsemen Theory. The Maastricht Journal of Liberal Arts, 15. https://doi.org/10.26481/mjla.2024.v15.1017
+* Schmidt, A. T., & Juijn, D. (2024). Economic inequality and the long-term future. Politics, Philosophy & Economics, 23(1), 67–99. https://doi.org/10.1177/1470594X231178502
+* Vodovnik, Ž. (2024). Possibilities at the End of the World: (Re)Imagining Care as Politics. Teorija in praksa, 387–405. https://doi.org/10.51936/tip.61.2.387
 

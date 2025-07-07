@@ -105,23 +105,14 @@ The main idea here is similar to the other arguments made here. Climate is impor
 
 # References
 
-Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
-
-Degroot, D., Anchukaitis, K., Bauch, M., Burnham, J., Carnegy, F., Cui, J., de Luna, K., Guzowski, P., Hambrecht, G., Huhtamaa, H., Izdebski, A., Kleemann, K., Moesswilde, E., Neupane, N., Newfield, T., Pei, Q., Xoplaki, E., & Zappia, N. (2021). Towards a rigorous understanding of societal responses to climate change. Nature, 591(7851), Article 7851. https://doi.org/10.1038/s41586-021-03190-2
-
-Hoyer, D., Bennett, J. S., Reddish, J., Holder, S., Howard, R., Benam, M., Levine, J., Ludlow, F., Feinman, G., & Turchin, P. (2023). Navigating polycrisis: Long-run socio-cultural factors shape response to changing climate. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1889), 20220402. https://doi.org/10.1098/rstb.2022.0402
-
-Kaniewski, D., & Van Campo, E. (2017). 3.2 ka BP Megadrought and the Late Bronze Age Collapse. In H. Weiss (Ed.), Megadrought and Collapse: From Early Agriculture to Angkor (p. 0). Oxford University Press. https://doi.org/10.1093/oso/9780199329199.003.0005
-
-Lenton, T. M. (2023). Climate Change and Tipping Points in Historical Collapse. In How Worlds Collapse. Routledge.
-
-Ljungqvist, F. C., Seim, A., & Collet, D. (2023). Famines in medieval and early modern Europe—Connecting climate and society. WIREs Climate Change, n/a(n/a), e859. https://doi.org/10.1002/wcc.859
-
-Sigl, M., Winstrup, M., McConnell, J. R., Welten, K. C., Plunkett, G., Ludlow, F., Büntgen, U., Caffee, M., Chellman, N., Dahl-Jensen, D., Fischer, H., Kipfstuhl, S., Kostick, C., Maselli, O. J., Mekhaldi, F., Mulvaney, R., Muscheler, R., Pasteris, D. R., Pilcher, J. R., … Woodruff, T. E. (2015). Timing and climate forcing of volcanic eruptions for the past 2,500 years. Nature, 523(7562), Article 7562. https://doi.org/10.1038/nature14565
-
-Tainter, J. A. (2023). How Scholars Explain Collapse. In How Worlds Collapse. Routledge.
-
-Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Baker, D., Bartkowiak, M., Bates, J., Bennett, J., Bidmead, J., Bol, P., Ceccarelli, A., Christakis, K., Christian, D., Covey, A., De Angelis, F., Earle, T., Edwards, N., & Xie, L. (2019). An Introduction to Seshat: Global History Databank. Journal of Cognitive Historiography, 5. https://doi.org/10.1558/jch.39395
-
-Zhang, D. D., Lee, H. F., Wang, C., Li, B., Pei, Q., Zhang, J., & An, Y. (2011). The causality analysis of climate change and large-scale human crisis. Proceedings of the National Academy of Sciences, 108(42), 17296–17301. https://doi.org/10.1073/pnas.1104268108
+* Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
+* Degroot, D., Anchukaitis, K., Bauch, M., Burnham, J., Carnegy, F., Cui, J., de Luna, K., Guzowski, P., Hambrecht, G., Huhtamaa, H., Izdebski, A., Kleemann, K., Moesswilde, E., Neupane, N., Newfield, T., Pei, Q., Xoplaki, E., & Zappia, N. (2021). Towards a rigorous understanding of societal responses to climate change. Nature, 591(7851), Article 7851. https://doi.org/10.1038/s41586-021-03190-2
+* Hoyer, D., Bennett, J. S., Reddish, J., Holder, S., Howard, R., Benam, M., Levine, J., Ludlow, F., Feinman, G., & Turchin, P. (2023). Navigating polycrisis: Long-run socio-cultural factors shape response to changing climate. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1889), 20220402. https://doi.org/10.1098/rstb.2022.0402
+* Kaniewski, D., & Van Campo, E. (2017). 3.2 ka BP Megadrought and the Late Bronze Age Collapse. In H. Weiss (Ed.), Megadrought and Collapse: From Early Agriculture to Angkor (p. 0). Oxford University Press. https://doi.org/10.1093/oso/9780199329199.003.0005
+* Lenton, T. M. (2023). Climate Change and Tipping Points in Historical Collapse. In How Worlds Collapse. Routledge.
+* Ljungqvist, F. C., Seim, A., & Collet, D. (2023). Famines in medieval and early modern Europe—Connecting climate and society. WIREs Climate Change, n/a(n/a), e859. https://doi.org/10.1002/wcc.859
+* Sigl, M., Winstrup, M., McConnell, J. R., Welten, K. C., Plunkett, G., Ludlow, F., Büntgen, U., Caffee, M., Chellman, N., Dahl-Jensen, D., Fischer, H., Kipfstuhl, S., Kostick, C., Maselli, O. J., Mekhaldi, F., Mulvaney, R., Muscheler, R., Pasteris, D. R., Pilcher, J. R., … Woodruff, T. E. (2015). Timing and climate forcing of volcanic eruptions for the past 2,500 years. Nature, 523(7562), Article 7562. https://doi.org/10.1038/nature14565
+* Tainter, J. A. (2023). How Scholars Explain Collapse. In How Worlds Collapse. Routledge.
+* Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Baker, D., Bartkowiak, M., Bates, J., Bennett, J., Bidmead, J., Bol, P., Ceccarelli, A., Christakis, K., Christian, D., Covey, A., De Angelis, F., Earle, T., Edwards, N., & Xie, L. (2019). An Introduction to Seshat: Global History Databank. Journal of Cognitive Historiography, 5. https://doi.org/10.1558/jch.39395
+* Zhang, D. D., Lee, H. F., Wang, C., Li, B., Pei, Q., Zhang, J., & An, Y. (2011). The causality analysis of climate change and large-scale human crisis. Proceedings of the National Academy of Sciences, 108(42), 17296–17301. https://doi.org/10.1073/pnas.1104268108
 

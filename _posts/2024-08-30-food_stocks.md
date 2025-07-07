@@ -72,17 +72,12 @@ In summary, humanity has only limited food reserves. If global food production w
 
 # References
 
-Alexander, P., Brown, C., Arneth, A., Finnigan, J., Moran, D., & Rounsevell, M. D. A. (2017). Losses, inefficiencies and waste in the global food system. Agricultural Systems, 153, 190–200. https://doi.org/10.1016/j.agsy.2017.01.014
-
-Denkenberger, D., & Pearce, J. (2015). Feeding everyone no matter what: Managing food security after global catastrophe. Academic Press.
-
-Do, T., Anderson, K., & Brorsen, B. W. (2010). The World’s wheat supply. Oklahoma Cooperative Extension Service.
-
-Jagtap, S., Trollman, H., Trollman, F., Garcia-Garcia, G., Parra-López, C., Duong, L., Martindale, W., Munekata, P. E. S., Lorenzo, J. M., Hdaifeh, A., Hassoun, A., Salonitis, K., & Afy-Shararah, M. (2022). The Russia-Ukraine Conflict: Its Implications for the Global Food Supply Chains. Foods, 11(14), 2098. https://doi.org/10.3390/foods11142098
-
-Laio, F., Ridolfi, L., & D’Odorico, P. (2016). The past and future of food stocks. Environmental Research Letters, 11(3), 035010. https://doi.org/10.1088/1748-9326/11/3/035010
-
-Marchand, P., Carr, J. A., Dell’Angelo, J., Fader, M., Gephart, J. A., Kummu, M., Magliocca, N. R., Porkka, M., Puma, M. J., Ratajczak, Z., Rulli, M. C., Seekell, D. A., Suweis, S., Tavoni, A., & D’Odorico, P. (2016). Reserves and trade jointly determine exposure to food supply shocks. Environmental Research Letters, 11(9), 095009. https://doi.org/10.1088/1748-9326/11/9/095009
+* Alexander, P., Brown, C., Arneth, A., Finnigan, J., Moran, D., & Rounsevell, M. D. A. (2017). Losses, inefficiencies and waste in the global food system. Agricultural Systems, 153, 190–200. https://doi.org/10.1016/j.agsy.2017.01.014
+* Denkenberger, D., & Pearce, J. (2015). Feeding everyone no matter what: Managing food security after global catastrophe. Academic Press.
+* Do, T., Anderson, K., & Brorsen, B. W. (2010). The World’s wheat supply. Oklahoma Cooperative Extension Service.
+* Jagtap, S., Trollman, H., Trollman, F., Garcia-Garcia, G., Parra-López, C., Duong, L., Martindale, W., Munekata, P. E. S., Lorenzo, J. M., Hdaifeh, A., Hassoun, A., Salonitis, K., & Afy-Shararah, M. (2022). The Russia-Ukraine Conflict: Its Implications for the Global Food Supply Chains. Foods, 11(14), 2098. https://doi.org/10.3390/foods11142098
+* Laio, F., Ridolfi, L., & D’Odorico, P. (2016). The past and future of food stocks. Environmental Research Letters, 11(3), 035010. https://doi.org/10.1088/1748-9326/11/3/035010
+* Marchand, P., Carr, J. A., Dell’Angelo, J., Fader, M., Gephart, J. A., Kummu, M., Magliocca, N. R., Porkka, M., Puma, M. J., Ratajczak, Z., Rulli, M. C., Seekell, D. A., Suweis, S., Tavoni, A., & D’Odorico, P. (2016). Reserves and trade jointly determine exposure to food supply shocks. Environmental Research Letters, 11(9), 095009. https://doi.org/10.1088/1748-9326/11/9/095009
 
 
 

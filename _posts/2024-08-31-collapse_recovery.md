@@ -94,13 +94,10 @@ Overall, this leaves me a bit ambiguous when it comes to our chances of recovery
 
 # References
 
-Borcan, O., Olsson, O., & Putterman, L. (2021). Transition to agriculture and first state presence: A global analysis. Explorations in Economic History, 82, 101404. https://doi.org/10.1016/j.eeh.2021.101404
-
-Riris, P., Silva, F., Crema, E., Palmisano, A., Robinson, E., Siegel, P. E., French, J. C., Jørgensen, E. K., Maezumi, S. Y., Solheim, S., Bates, J., Davies, B., Oh, Y., & Ren, X. (2024). Frequent disturbances enhanced the resilience of past human populations. Nature, 629(8013), 837–842. https://doi.org/10.1038/s41586-024-07354-8
-
-Wand, T., & Hoyer, D. (2024). The characteristic time scale of cultural evolution. PNAS Nexus, 3(2), pgae009. https://doi.org/10.1093/pnasnexus/pgae009
-
-Zeder, M. A. (2011). The Origins of Agriculture in the Near East. Current Anthropology, 52(S4), S221–S235. https://doi.org/10.1086/659307
+* Borcan, O., Olsson, O., & Putterman, L. (2021). Transition to agriculture and first state presence: A global analysis. Explorations in Economic History, 82, 101404. https://doi.org/10.1016/j.eeh.2021.101404
+* Riris, P., Silva, F., Crema, E., Palmisano, A., Robinson, E., Siegel, P. E., French, J. C., Jørgensen, E. K., Maezumi, S. Y., Solheim, S., Bates, J., Davies, B., Oh, Y., & Ren, X. (2024). Frequent disturbances enhanced the resilience of past human populations. Nature, 629(8013), 837–842. https://doi.org/10.1038/s41586-024-07354-8
+* Wand, T., & Hoyer, D. (2024). The characteristic time scale of cultural evolution. PNAS Nexus, 3(2), pgae009. https://doi.org/10.1093/pnasnexus/pgae009
+* Zeder, M. A. (2011). The Origins of Agriculture in the Near East. Current Anthropology, 52(S4), S221–S235. https://doi.org/10.1086/659307
 
 
 

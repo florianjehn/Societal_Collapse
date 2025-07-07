@@ -106,26 +106,16 @@ No matter what we do, it seems quite important to me that we manage to maintain 
 
 # References
 
-Boyd, M., & Wilson, N. (2021). Anticipatory Governance for Preventing and Mitigating Catastrophic and Existential Risks. Policy Quarterly, 17(4), Article 4. https://doi.org/10.26686/pq.v17i4.7313
-
-Brands, H. (2018). Democracy vs Authoritarianism: How Ideology Shapes Great-Power Conflict. Survival, 60(5), 61–114. https://doi.org/10.1080/00396338.2018.1518371
-
-Centeno, M. A., & Cohen, J. N. (2012). The Arc of Neoliberalism. Annual Review of Sociology, 38(Volume 38, 2012), 317–340. https://doi.org/10.1146/annurev-soc-081309-150235
-
-Lage, J., Thema, J., Zell-Ziegler, C., Best, B., Cordroch, L., & Wiese, F. (2023). Citizens call for sufficiency and regulation—A comparison of European citizen assemblies and National Energy and Climate Plans. Energy Research & Social Science, 104, 103254. https://doi.org/10.1016/j.erss.2023.103254
-
-Loughlin, M. (2019). The Contemporary Crisis of Constitutional Democracy. Oxford Journal of Legal Studies, 39(2), 435–454. https://doi.org/10.1093/ojls/gqz005
-
-Millemaci, E., Monteforte, F., & Temple, J. R. W. (2024). Have Autocrats Governed for the Long Term? Kyklos. https://doi.org/10.1111/kykl.12425
-
-Nord, M., Angiolillo, F., Lundstedt, M., Wiebrecht, F., & Lindberg, S. I. (2025). When autocratization is reversed: Episodes of U-Turns since 1900. Democratization, 0(0), 1–24. https://doi.org/10.1080/13510347.2024.2448742
-
-Reiter, D. (2017). Is Democracy a Cause of Peace? In Oxford Research Encyclopedia of Politics. https://doi.org/10.1093/acrefore/9780190228637.013.287
-
-Supran, G., Rahmstorf, S., & Oreskes, N. (2023). Assessing ExxonMobil’s global warming projections. Science, 379(6628), eabk0063. https://doi.org/10.1126/science.abk0063
-
-Tomz, M. R., & Weeks, J. L. P. (2013). Public Opinion and the Democratic Peace. American Political Science Review, 107(4), 849–865. https://doi.org/10.1017/S0003055413000488
-
-Treisman, D. (2020). Democracy by Mistake: How the Errors of Autocrats Trigger Transitions to Freer Government. American Political Science Review, 114(3), 792–810. https://doi.org/10.1017/S0003055420000180
+* Boyd, M., & Wilson, N. (2021). Anticipatory Governance for Preventing and Mitigating Catastrophic and Existential Risks. Policy Quarterly, 17(4), Article 4. https://doi.org/10.26686/pq.v17i4.7313
+* Brands, H. (2018). Democracy vs Authoritarianism: How Ideology Shapes Great-Power Conflict. Survival, 60(5), 61–114. https://doi.org/10.1080/00396338.2018.1518371
+* Centeno, M. A., & Cohen, J. N. (2012). The Arc of Neoliberalism. Annual Review of Sociology, 38(Volume 38, 2012), 317–340. https://doi.org/10.1146/annurev-soc-081309-150235
+* Lage, J., Thema, J., Zell-Ziegler, C., Best, B., Cordroch, L., & Wiese, F. (2023). Citizens call for sufficiency and regulation—A comparison of European citizen assemblies and National Energy and Climate Plans. Energy Research & Social Science, 104, 103254. https://doi.org/10.1016/j.erss.2023.103254
+* Loughlin, M. (2019). The Contemporary Crisis of Constitutional Democracy. Oxford Journal of Legal Studies, 39(2), 435–454. https://doi.org/10.1093/ojls/gqz005
+* Millemaci, E., Monteforte, F., & Temple, J. R. W. (2024). Have Autocrats Governed for the Long Term? Kyklos. https://doi.org/10.1111/kykl.12425
+* Nord, M., Angiolillo, F., Lundstedt, M., Wiebrecht, F., & Lindberg, S. I. (2025). When autocratization is reversed: Episodes of U-Turns since 1900. Democratization, 0(0), 1–24. https://doi.org/10.1080/13510347.2024.2448742
+* Reiter, D. (2017). Is Democracy a Cause of Peace? In Oxford Research Encyclopedia of Politics. https://doi.org/10.1093/acrefore/9780190228637.013.287
+* Supran, G., Rahmstorf, S., & Oreskes, N. (2023). Assessing ExxonMobil’s global warming projections. Science, 379(6628), eabk0063. https://doi.org/10.1126/science.abk0063
+* Tomz, M. R., & Weeks, J. L. P. (2013). Public Opinion and the Democratic Peace. American Political Science Review, 107(4), 849–865. https://doi.org/10.1017/S0003055413000488
+* Treisman, D. (2020). Democracy by Mistake: How the Errors of Autocrats Trigger Transitions to Freer Government. American Political Science Review, 114(3), 792–810. https://doi.org/10.1017/S0003055420000180
 
 

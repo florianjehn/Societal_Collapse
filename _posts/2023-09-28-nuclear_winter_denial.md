@@ -102,24 +102,14 @@ I hope that this time nuclear winter will stay on our agenda and not fade back i
 
 # References
 
-Coupe, J., Bardeen, C. G., Robock, A., & Toon, O. B. (2019). Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE. Journal of Geophysical Research: Atmospheres, 124(15), 8522–8543. https://doi.org/10.1029/2019JD030509
-
-Damany-Pearce, L., Johnson, B., Wells, A., Osborne, M., Allan, J., Belcher, C., Jones, A., & Haywood, J. (2022). Australian wildfires cause the largest stratospheric warming since Pinatubo and extends the lifetime of the Antarctic ozone hole. Scientific Reports, 12. https://doi.org/10.1038/s41598-022-15794-3
-
-Hess, G. D. (2021). The Impact of a Regional Nuclear Conflict between India and Pakistan: Two Views. Journal for Peace and Nuclear Disarmament, 4(sup1), 163–175. https://doi.org/10.1080/25751654.2021.1882772
-
-Jehn, F. U. (2023). Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries. Intersections, Reinforcements, Cascades: The Proceedings of the 3rd Annual Stanford Existential Risks Conference, 1(1). https://doi.org/10.25740/ZB109MZ2513
-
-Jehn, F. U., Dingal, F. J., Mill, A., Harrison, C. S., Ilin, E., Roleda, M. Y., James, S. C., & Denkenberger, D. C. (2023). Seaweed as a resilient food solution after a nuclear war. Zenodo. https://doi.org/10.5281/zenodo.7615254
-
-Oreskes, N., & Conway, E. (2022). From Anti-Government to Anti-Science: Why Conservatives Have Turned Against Science. Daedalus, 151, 98–123. https://doi.org/10.1162/daed_a_01946
-
-Oreskes, N., & Conway, E. M. (2012). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming (Paperback. ed). Bloomsbury.
-
-Robock, A., Xia, L., Harrison, C., Coupe, J., Toon, O., & Bardeen, C. (2023). Opinion: How Nuclear Winter has Saved the World, So Far. https://doi.org/10.5194/acp-2022-852
-
-Scouras, J., Ice, L., & Proper, M. (2023). Nuclear Winter, Nuclear Strategy, Nuclear Risk. Defense Technical Information Center. https://apps.dtic.mil/sti/citations/AD1201181
-
-Turchetti, S. (2018). Greening the Alliance: The Diplomacy of NATO’s Science and Environmental Initiatives. University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/G/bo31043377.html
-
-Turchetti, S. (2021). Trading Global Catastrophes: NATO’s Science Diplomacy and Nuclear Winter. Journal of Contemporary History, 56(3), 543–562. https://doi.org/10.1177/0022009421993915
+* Coupe, J., Bardeen, C. G., Robock, A., & Toon, O. B. (2019). Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE. Journal of Geophysical Research: Atmospheres, 124(15), 8522–8543. https://doi.org/10.1029/2019JD030509
+* Damany-Pearce, L., Johnson, B., Wells, A., Osborne, M., Allan, J., Belcher, C., Jones, A., & Haywood, J. (2022). Australian wildfires cause the largest stratospheric warming since Pinatubo and extends the lifetime of the Antarctic ozone hole. Scientific Reports, 12. https://doi.org/10.1038/s41598-022-15794-3
+* Hess, G. D. (2021). The Impact of a Regional Nuclear Conflict between India and Pakistan: Two Views. Journal for Peace and Nuclear Disarmament, 4(sup1), 163–175. https://doi.org/10.1080/25751654.2021.1882772
+* Jehn, F. U. (2023). Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries. Intersections, Reinforcements, Cascades: The Proceedings of the 3rd Annual Stanford Existential Risks Conference, 1(1). https://doi.org/10.25740/ZB109MZ2513
+* Jehn, F. U., Dingal, F. J., Mill, A., Harrison, C. S., Ilin, E., Roleda, M. Y., James, S. C., & Denkenberger, D. C. (2023). Seaweed as a resilient food solution after a nuclear war. Zenodo. https://doi.org/10.5281/zenodo.7615254
+* Oreskes, N., & Conway, E. (2022). From Anti-Government to Anti-Science: Why Conservatives Have Turned Against Science. Daedalus, 151, 98–123. https://doi.org/10.1162/daed_a_01946
+* Oreskes, N., & Conway, E. M. (2012). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming (Paperback. ed). Bloomsbury.
+* Robock, A., Xia, L., Harrison, C., Coupe, J., Toon, O., & Bardeen, C. (2023). Opinion: How Nuclear Winter has Saved the World, So Far. https://doi.org/10.5194/acp-2022-852
+* Scouras, J., Ice, L., & Proper, M. (2023). Nuclear Winter, Nuclear Strategy, Nuclear Risk. Defense Technical Information Center. https://apps.dtic.mil/sti/citations/AD1201181
+* Turchetti, S. (2018). Greening the Alliance: The Diplomacy of NATO’s Science and Environmental Initiatives. University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/G/bo31043377.html
+* Turchetti, S. (2021). Trading Global Catastrophes: NATO’s Science Diplomacy and Nuclear Winter. Journal of Contemporary History, 56(3), 543–562. https://doi.org/10.1177/0022009421993915

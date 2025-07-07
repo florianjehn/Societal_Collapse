@@ -56,29 +56,18 @@ Still, my conclusion from writing this is a grim optimism. Don’t get me wrong,
 
 # References
 
-Armstrong McKay, D. I., Staal, A., Abrams, J. F., Winkelmann, R., Sakschewski, B., Loriani, S., Fetzer, I., Cornell, S. E., Rockström, J., & Lenton, T. M. (2022). Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science, 377(6611), eabn7950. https://doi.org/10.1126/science.abn7950
-
-Balaji, V., Couvreux, F., Deshayes, J., Gautrais, J., Hourdin, F., & Rio, C. (2022). Are general circulation models obsolete? Proceedings of the National Academy of Sciences, 119(47), e2202075119. https://doi.org/10.1073/pnas.2202075119
-
-Boers, N., Ghil, M., & Stocker, T. F. (2022). Theoretical and paleoclimatic evidence for abrupt transitions in the Earth system. Environmental Research Letters, 17(9), 093006. https://doi.org/10.1088/1748-9326/ac8944
-
-Dakos, V., Boulton, C. A., Buxton, J. E., Abrams, J. F., Armstrong McKay, D. I., Bathiany, S., Blaschke, L., Boers, N., Dylewsky, D., López-Martínez, C., Parry, I., Ritchie, P., van der Bolt, B., van der Laan, L., Weinans, E., & Kéfi, S. (2023). Tipping Point Detection and Early-Warnings in climate, ecological, and human systems. EGUsphere, 1–35. https://doi.org/10.5194/egusphere-2023-1773
-
-Kemp, L., Xu, C., Depledge, J., Ebi, K. L., Gibbins, G., Kohler, T. A., Rockström, J., Scheffer, M., Schellnhuber, H. J., Steffen, W., & Lenton, T. M. (2022). Climate Endgame: Exploring catastrophic climate change scenarios. Proceedings of the National Academy of Sciences, 119(34), e2108146119. https://doi.org/10.1073/pnas.2108146119
-
-Lenton, T. M., Held, H., Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S., & Schellnhuber, H. J. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105(6), 1786–1793. https://doi.org/10.1073/pnas.0705414105
-
-Ripple, W. J., Wolf, C., Lenton, T. M., Gregg, J. W., Natali, S. M., Duffy, P. B., Rockström, J., & Schellnhuber, H. J. (2023). Many risky feedback loops amplify the need for climate action. One Earth, 6(2), 86–91. https://doi.org/10.1016/j.oneear.2023.01.004
-
-Ritchie, P. D. L., Clarke, J. J., Cox, P. M., & Huntingford, C. (2021). Overshooting tipping point thresholds in a changing climate. Nature, 592(7855), 517–523. https://doi.org/10.1038/s41586-021-03263-2
-
-Setty, S., Cramwinckel, M. J., van Nes, E. H., van de Leemput, I. A., Dijkstra, H. A., Lourens, L. J., Scheffer, M., & Sluijs, A. (2023). Loss of Earth system resilience during early Eocene transient global warming events. Science Advances, 9(14), eade5466. https://doi.org/10.1126/sciadv.ade5466
-
-Wang, S., Foster, A., Lenz, E. A., Kessler, J. D., Stroeve, J. C., Anderson, L. O., Turetsky, M., Betts, R., Zou, S., Liu, W., Boos, W. R., & Hausfather, Z. (2023). Mechanisms and Impacts of Earth System Tipping Elements. Reviews of Geophysics, 61(1), e2021RG000757. https://doi.org/10.1029/2021RG000757
-
-Wunderling, N., Donges, J. F., Kurths, J., & Winkelmann, R. (2021). Interacting tipping elements increase risk of climate domino effects under global warming. Earth System Dynamics, 12(2), 601–619. https://doi.org/10.5194/esd-12-601-2021
-
-Wunderling, N., Winkelmann, R., Rockström, J., Loriani, S., Armstrong McKay, D. I., Ritchie, P. D. L., Sakschewski, B., & Donges, J. F. (2023). Global warming overshoots increase risks of climate tipping cascades in a network model. Nature Climate Change, 13(1), Article 1. https://doi.org/10.1038/s41558-022-01545-9
+* Armstrong McKay, D. I., Staal, A., Abrams, J. F., Winkelmann, R., Sakschewski, B., Loriani, S., Fetzer, I., Cornell, S. E., Rockström, J., & Lenton, T. M. (2022). Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science, 377(6611), eabn7950. https://doi.org/10.1126/science.abn7950
+* Balaji, V., Couvreux, F., Deshayes, J., Gautrais, J., Hourdin, F., & Rio, C. (2022). Are general circulation models obsolete? Proceedings of the National Academy of Sciences, 119(47), e2202075119. https://doi.org/10.1073/pnas.2202075119
+* Boers, N., Ghil, M., & Stocker, T. F. (2022). Theoretical and paleoclimatic evidence for abrupt transitions in the Earth system. Environmental Research Letters, 17(9), 093006. https://doi.org/10.1088/1748-9326/ac8944
+* Dakos, V., Boulton, C. A., Buxton, J. E., Abrams, J. F., Armstrong McKay, D. I., Bathiany, S., Blaschke, L., Boers, N., Dylewsky, D., López-Martínez, C., Parry, I., Ritchie, P., van der Bolt, B., van der Laan, L., Weinans, E., & Kéfi, S. (2023). Tipping Point Detection and Early-Warnings in climate, ecological, and human systems. EGUsphere, 1–35. https://doi.org/10.5194/egusphere-2023-1773
+* Kemp, L., Xu, C., Depledge, J., Ebi, K. L., Gibbins, G., Kohler, T. A., Rockström, J., Scheffer, M., Schellnhuber, H. J., Steffen, W., & Lenton, T. M. (2022). Climate Endgame: Exploring catastrophic climate change scenarios. Proceedings of the National Academy of Sciences, 119(34), e2108146119. https://doi.org/10.1073/pnas.2108146119
+* Lenton, T. M., Held, H., Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S., & Schellnhuber, H. J. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105(6), 1786–1793. https://doi.org/10.1073/pnas.0705414105
+* Ripple, W. J., Wolf, C., Lenton, T. M., Gregg, J. W., Natali, S. M., Duffy, P. B., Rockström, J., & Schellnhuber, H. J. (2023). Many risky feedback loops amplify the need for climate action. One Earth, 6(2), 86–91. https://doi.org/10.1016/j.oneear.2023.01.004
+* Ritchie, P. D. L., Clarke, J. J., Cox, P. M., & Huntingford, C. (2021). Overshooting tipping point thresholds in a changing climate. Nature, 592(7855), 517–523. https://doi.org/10.1038/s41586-021-03263-2
+* Setty, S., Cramwinckel, M. J., van Nes, E. H., van de Leemput, I. A., Dijkstra, H. A., Lourens, L. J., Scheffer, M., & Sluijs, A. (2023). Loss of Earth system resilience during early Eocene transient global warming events. Science Advances, 9(14), eade5466. https://doi.org/10.1126/sciadv.ade5466
+* Wang, S., Foster, A., Lenz, E. A., Kessler, J. D., Stroeve, J. C., Anderson, L. O., Turetsky, M., Betts, R., Zou, S., Liu, W., Boos, W. R., & Hausfather, Z. (2023). Mechanisms and Impacts of Earth System Tipping Elements. Reviews of Geophysics, 61(1), e2021RG000757. https://doi.org/10.1029/2021RG000757
+* Wunderling, N., Donges, J. F., Kurths, J., & Winkelmann, R. (2021). Interacting tipping elements increase risk of climate domino effects under global warming. Earth System Dynamics, 12(2), 601–619. https://doi.org/10.5194/esd-12-601-2021
+* Wunderling, N., Winkelmann, R., Rockström, J., Loriani, S., Armstrong McKay, D. I., Ritchie, P. D. L., Sakschewski, B., & Donges, J. F. (2023). Global warming overshoots increase risks of climate tipping cascades in a network model. Nature Climate Change, 13(1), Article 1. https://doi.org/10.1038/s41558-022-01545-9
 
 
 

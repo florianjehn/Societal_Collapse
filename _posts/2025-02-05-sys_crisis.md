@@ -104,17 +104,11 @@ Understanding systemic risk and polycrisis reveals both the fragility and resili
 
 # References
 
-Arnscheidt, C. W., Beard, S. J., Hobson, T., Ingram, P., Kemp, L., Mani, L., Marcoci, A., Mbeva, K., hÉigeartaigh, S. Ó., Sandberg, A., Sundaram, L., & Wunderling, N. (2024). Systemic contributions to global catastrophic risk. OSF. https://doi.org/10.31235/osf.io/wcj9e
-
-Centeno, M. A., Nag, M., Patterson, T. S., Shaver, A., & Windawi, A. J. (2015). The Emergence of Global Systemic Risk. Annual Review of Sociology, 41(1), 65–85. https://doi.org/10.1146/annurev-soc-073014-112317
-
-Holder, S. L., Ainsworth, R., Aldrich, D., Bennett, J. S., Feinman, G., Mark, S., Orlandi, G., Preiser-Kapeller, J., Reddish, J., Schoonover, R., Turchin, P., & Hoyer, D. (2024). The Spectrum of (Poly)Crisis: Exploring polycrises of the past to better understand our current and future risks. OSF. https://doi.org/10.31235/osf.io/3bspg
-
-Hoyer, D., Bennett, J. S., Reddish, J., Holder, S., Howard, R., Benam, M., Levine, J., Ludlow, F., Feinman, G., & Turchin, P. (2023). Navigating polycrisis: Long-run socio-cultural factors shape response to changing climate. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1889), 20220402. https://doi.org/10.1098/rstb.2022.0402
-
-Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockstöm, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: The causal mechanisms of crisis entanglement. Global Sustainability, 7, e6. https://doi.org/10.1017/sus.2024.1
-
-Mark, S., Holder, S., Hoyer, D., Schoonover, R., & Aldrich, D. P. (2023). Understanding Polycrisis: Definitions, Applications, and Responses (SSRN Scholarly Paper No. 4593383). Social Science Research Network. https://doi.org/10.2139/ssrn.4593383
-
-Schweizer, P.-J., & Juhola, S. (2024). Navigating systemic risks: Governance of and for systemic risks. Global Sustainability, 7, e38. https://doi.org/10.1017/sus.2024.30
+* Arnscheidt, C. W., Beard, S. J., Hobson, T., Ingram, P., Kemp, L., Mani, L., Marcoci, A., Mbeva, K., hÉigeartaigh, S. Ó., Sandberg, A., Sundaram, L., & Wunderling, N. (2024). Systemic contributions to global catastrophic risk. OSF. https://doi.org/10.31235/osf.io/wcj9e
+* Centeno, M. A., Nag, M., Patterson, T. S., Shaver, A., & Windawi, A. J. (2015). The Emergence of Global Systemic Risk. Annual Review of Sociology, 41(1), 65–85. https://doi.org/10.1146/annurev-soc-073014-112317
+* Holder, S. L., Ainsworth, R., Aldrich, D., Bennett, J. S., Feinman, G., Mark, S., Orlandi, G., Preiser-Kapeller, J., Reddish, J., Schoonover, R., Turchin, P., & Hoyer, D. (2024). The Spectrum of (Poly)Crisis: Exploring polycrises of the past to better understand our current and future risks. OSF. https://doi.org/10.31235/osf.io/3bspg
+* Hoyer, D., Bennett, J. S., Reddish, J., Holder, S., Howard, R., Benam, M., Levine, J., Ludlow, F., Feinman, G., & Turchin, P. (2023). Navigating polycrisis: Long-run socio-cultural factors shape response to changing climate. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1889), 20220402. https://doi.org/10.1098/rstb.2022.0402
+* Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockstöm, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: The causal mechanisms of crisis entanglement. Global Sustainability, 7, e6. https://doi.org/10.1017/sus.2024.1
+* Mark, S., Holder, S., Hoyer, D., Schoonover, R., & Aldrich, D. P. (2023). Understanding Polycrisis: Definitions, Applications, and Responses (SSRN Scholarly Paper No. 4593383). Social Science Research Network. https://doi.org/10.2139/ssrn.4593383
+* Schweizer, P.-J., & Juhola, S. (2024). Navigating systemic risks: Governance of and for systemic risks. Global Sustainability, 7, e38. https://doi.org/10.1017/sus.2024.30
 

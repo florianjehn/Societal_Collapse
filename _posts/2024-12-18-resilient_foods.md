@@ -72,6 +72,5 @@ By taking these steps now, while our food system is still functioning, we give o
 
 # References
 
-D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp Speed Serve as a Model for Accelerating Innovations Beyond COVID Vaccines? (Working Paper No. 32831). National Bureau of Economic Research. https://doi.org/10.3386/w32831
-
-García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2024). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. EarthArXiv. https://eartharxiv.org/repository/view/7688/
+* D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp Speed Serve as a Model for Accelerating Innovations Beyond COVID Vaccines? (Working Paper No. 32831). National Bureau of Economic Research. https://doi.org/10.3386/w32831
+* García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2024). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. EarthArXiv. https://eartharxiv.org/repository/view/7688/

@@ -93,18 +93,12 @@ Pretty much all of the papers I cited here also emphasize that we need more syst
 (1) If you want to understand this in more detail, Ruddiman (2013) is a good explainer and quite comprehensive. 
 
 # References
-Baum, Seth D., Timothy M. Maher, and Jacob Haqq-Misra. 2013. “Double Catastrophe: Intermittent Stratospheric Geoengineering Induced by Societal Collapse.” Environment Systems & Decisions 33(1):168–80. doi:10.1007/s10669-012-9429-y.
-
-Coupe, Joshua, Charles G. Bardeen, Alan Robock, and Owen B. Toon. 2019. “Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE.” Journal of Geophysical Research: Atmospheres 124(15):8522–43. doi:10.1029/2019JD030509.
-
-Egeland, Kjølv. 2025. “Disentangling the Nexus of Nuclear Weapons and Climate Change—A Research Agenda.” International Studies Review 27(1):viaf003. doi:10.1093/isr/viaf003.
-
-Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries.” Pp. 119–32 in Intersections, Reinforcements, Cascades: Proceedings of the 2023 Stanford Existential Risks Conference. The Stanford Existential Risks Initiative.
-
-Kemp, Luke, Chi Xu, Joanna Depledge, Kristie L. Ebi, Goodwin Gibbins, Timothy A. Kohler, Johan Rockström, Marten Scheffer, Hans Joachim Schellnhuber, Will Steffen, and Timothy M. Lenton. 2022. “Climate Endgame: Exploring Catastrophic Climate Change Scenarios.” Proceedings of the National Academy of Sciences 119(34):e2108146119. doi:10.1073/pnas.2108146119.
-
-Ruddiman, William. 2013. Earth’s Climate: Past and Future. New York: WH Freeman.
-
-Tang, Aaron, and Luke Kemp. 2021. “A Fate Worse Than Warming? Stratospheric Aerosol Injection and Global Catastrophic Risk.” Frontiers in Climate 3.
+* Baum, Seth D., Timothy M. Maher, and Jacob Haqq-Misra. 2013. “Double Catastrophe: Intermittent Stratospheric Geoengineering Induced by Societal Collapse.” Environment Systems & Decisions 33(1):168–80. doi:10.1007/s10669-012-9429-y.
+* Coupe, Joshua, Charles G. Bardeen, Alan Robock, and Owen B. Toon. 2019. “Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE.” Journal of Geophysical Research: Atmospheres 124(15):8522–43. doi:10.1029/2019JD030509.
+* Egeland, Kjølv. 2025. “Disentangling the Nexus of Nuclear Weapons and Climate Change—A Research Agenda.” International Studies Review 27(1):viaf003. doi:10.1093/isr/viaf003.
+* Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries.” Pp. 119–32 in Intersections, Reinforcements, Cascades: Proceedings of the 2023 Stanford Existential Risks Conference. The Stanford Existential Risks Initiative.
+* Kemp, Luke, Chi Xu, Joanna Depledge, Kristie L. Ebi, Goodwin Gibbins, Timothy A. Kohler, Johan Rockström, Marten Scheffer, Hans Joachim Schellnhuber, Will Steffen, and Timothy M. Lenton. 2022. “Climate Endgame: Exploring Catastrophic Climate Change Scenarios.” Proceedings of the National Academy of Sciences 119(34):e2108146119. doi:10.1073/pnas.2108146119.
+* Ruddiman, William. 2013. Earth’s Climate: Past and Future. New York: WH Freeman.
+* Tang, Aaron, and Luke Kemp. 2021. “A Fate Worse Than Warming? Stratospheric Aerosol Injection and Global Catastrophic Risk.” Frontiers in Climate 3.
 
 

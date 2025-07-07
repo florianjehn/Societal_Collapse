@@ -113,7 +113,6 @@ Therefore, I am hopeful that follow-up studies using larger datasets will confir
 
 # References
 
-Hoyer, D., Bennett, J. S., Whitehouse, H., François, P., Feeney, K., Levine, J., Reddish, J., Davis, D., & Turchin, P. (2024). CRISES AVERTED How A Few Past Societies Found Adaptive Reforms in the Face of Structural- Demographic Crises. OSF. https://doi.org/10.31235/osf.io/hyj48
-
-Shwom, R., & and Kopp, R. E. (2019). Long-term risk governance: When do societies act before crisis? Journal of Risk Research, 22(11), 1374–1390. https://doi.org/10.1080/13669877.2018.1476900
+* Hoyer, D., Bennett, J. S., Whitehouse, H., François, P., Feeney, K., Levine, J., Reddish, J., Davis, D., & Turchin, P. (2024). CRISES AVERTED How A Few Past Societies Found Adaptive Reforms in the Face of Structural- Demographic Crises. OSF. https://doi.org/10.31235/osf.io/hyj48
+* Shwom, R., & and Kopp, R. E. (2019). Long-term risk governance: When do societies act before crisis? Journal of Risk Research, 22(11), 1374–1390. https://doi.org/10.1080/13669877.2018.1476900
 

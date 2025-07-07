@@ -59,9 +59,7 @@ Finally, I wanted to showcase this paper, because it illuminates the major chall
 
 # References
 
-Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
- 
-Roser, M. (2014). Global deaths in conflict since the year 1400. Our World in Data. https://slides.ourworldindata.org/war-and-violence/#/6
-
-Stoffel, M., Corona, C., Ludlow, F., Sigl, M., Huhtamaa, H., Garnier, E., Helama, S., Guillet, S., Crampsie, A., Kleemann, K., Camenisch, C., McConnell, J., & Gao, C. (2022). Climatic, weather, and socio-economic conditions corresponding to the mid-17th-century eruption cluster. Climate of the Past, 18(5), 1083–1108. https://doi.org/10.5194/cp-18-1083-2022
+* Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
+* Roser, M. (2014). Global deaths in conflict since the year 1400. Our World in Data. https://slides.ourworldindata.org/war-and-violence/#/6
+* Stoffel, M., Corona, C., Ludlow, F., Sigl, M., Huhtamaa, H., Garnier, E., Helama, S., Guillet, S., Crampsie, A., Kleemann, K., Camenisch, C., McConnell, J., & Gao, C. (2022). Climatic, weather, and socio-economic conditions corresponding to the mid-17th-century eruption cluster. Climate of the Past, 18(5), 1083–1108. https://doi.org/10.5194/cp-18-1083-2022
 

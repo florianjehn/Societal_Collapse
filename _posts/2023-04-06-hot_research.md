@@ -41,15 +41,9 @@ Now let's get back to existential risk research. We have established that cold s
 This means existential risk research needs to be hot, while most incentives are making it cold. We have to actively work against this by making sure that diverse voices are heard, researchers actively leave their scientific comfort zone, read widely, and many fields are considered as inspiration. These are just the first steps. What will work best will be established by our hot pursuit of the end of the world. 
 
 # References
-
-1. A. Currie, Existential risk, creativity & well-adapted science. Studies in History and Philosophy of Science Part A 76, 39–48 (2019).
-
-2. P. K. Stanford, Unconceived Alternatives and Conservatism in Science: The Impact of Professionalization, Peer-Review, and Big Science. Synthese, 1–18 (2015).
-
-3. M. Clancy, Age and the Impact of Innovations. What’s New Under the Sun (2022) (December 25, 2022).
-
-4. N. Oreskes, Why trust science? (Princeton University Press, 2021).
-
-5. M. Alvesson, J. Sandberg, Constructing Research Questions: Doing Interesting Research (SAGE Publications Ltd, 2013) https:/doi.org/10.4135/9781446270035 (December 2, 2022).
-
-6. M. Clancy, Biases Against Risky Research. What’s New Under the Sun (2023) (April 6, 2023).
+*  A. Currie, Existential risk, creativity & well-adapted science. Studies in History and Philosophy of Science Part A 76, 39–48 (2019).
+* P. K. Stanford, Unconceived Alternatives and Conservatism in Science: The Impact of Professionalization, Peer-Review, and Big Science. Synthese, 1–18 (2015).
+* M. Clancy, Age and the Impact of Innovations. What’s New Under the Sun (2022) (December 25, 2022).
+* N. Oreskes, Why trust science? (Princeton University Press, 2021).
+* M. Alvesson, J. Sandberg, Constructing Research Questions: Doing Interesting Research (SAGE Publications Ltd, 2013) https:/doi.org/10.4135/9781446270035 (December 2, 2022).
+* M. Clancy, Biases Against Risky Research. What’s New Under the Sun (2023) (April 6, 2023).

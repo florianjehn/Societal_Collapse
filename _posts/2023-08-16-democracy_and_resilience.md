@@ -76,19 +76,11 @@ Overall, my take from this is that democracy is even more important than I previ
 
 # References
 
-Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
-
-Blanton, R. E., Feinman, G. M., Kowalewski, S. A., & Fargher, L. F. (2020). Moral Collapse and State Failure: A View From the Past. Frontiers in Political Science, 2. https://doi.org/10.3389/fpos.2020.568704
-
-Hamm, P., King, L. P., & Stuckler, D. (2012). Mass Privatization, State Capacity, and Economic Growth in Post-Communist Countries. American Sociological Review, 77(2), 295–324. https://doi.org/10.1177/0003122412441354
-
-Kemp, L. (2023). Diminishing Returns on Extraction: How Inequality and Extractive Hierarchy Create Fragility. In How Worlds Collapse. Routledge.
-
-Lin, T.-H. (2015). Governing Natural Disasters: State Capacity, Democracy, and Human Vulnerability. Social Forces, 93(3), 1267–1300.
-
-Omberg, R. T., & Tabarrok, A. (2022). Is it possible to prepare for a pandemic? Oxford Review of Economic Policy, 38(4), 851–875. https://doi.org/10.1093/oxrep/grac035
-Peregrine, P. N. (2021). Social resilience to nuclear winter: Lessons from the Late Antique Little Ice Age. Global Security: Health, Science and Policy, 6(1), 57–67. https://doi.org/10.1080/23779497.2021.1963808
-
-Peregrine, P. N. (2018). Social Resilience to Climate-Related Disasters in Ancient Societies: A Test of Two Hypotheses. Weather, Climate, and Society, 10(1), 145–161. https://doi.org/10.1175/WCAS-D-17-0052.1
-
-Peregrine, P. N. (2021). Social resilience to nuclear winter: Lessons from the Late Antique Little Ice Age. Global Security: Health, Science and Policy, 6(1), 57–67. https://doi.org/10.1080/23779497.2021.1963808
+* Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
+* Blanton, R. E., Feinman, G. M., Kowalewski, S. A., & Fargher, L. F. (2020). Moral Collapse and State Failure: A View From the Past. Frontiers in Political Science, 2. https://doi.org/10.3389/fpos.2020.568704
+* Hamm, P., King, L. P., & Stuckler, D. (2012). Mass Privatization, State Capacity, and Economic Growth in Post-Communist Countries. American Sociological Review, 77(2), 295–324. https://doi.org/10.1177/0003122412441354
+* Kemp, L. (2023). Diminishing Returns on Extraction: How Inequality and Extractive Hierarchy Create Fragility. In How Worlds Collapse. Routledge.
+* Lin, T.-H. (2015). Governing Natural Disasters: State Capacity, Democracy, and Human Vulnerability. Social Forces, 93(3), 1267–1300.
+* Omberg, R. T., & Tabarrok, A. (2022). Is it possible to prepare for a pandemic? Oxford Review of Economic Policy, 38(4), 851–875. https://doi.org/10.1093/oxrep/grac035
+* Peregrine, P. N. (2018). Social Resilience to Climate-Related Disasters in Ancient Societies: A Test of Two Hypotheses. Weather, Climate, and Society, 10(1), 145–161. https://doi.org/10.1175/WCAS-D-17-0052.1
+* Peregrine, P. N. (2021). Social resilience to nuclear winter: Lessons from the Late Antique Little Ice Age. Global Security: Health, Science and Policy, 6(1), 57–67. https://doi.org/10.1080/23779497.2021.1963808
