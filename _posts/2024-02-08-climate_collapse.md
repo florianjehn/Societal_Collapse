@@ -103,6 +103,9 @@ The main idea here is similar to the other arguments made here. Climate is impor
 
 (5) The first major paper they produced from this crisis dataset is discussed [here](https://florianjehn.github.io/Societal_Collapse/2024-04-09-big_data_history/).
 
+# How to cite
+Jehn, F. U. (2024, February 8). Climate anomalies and societal collapse. Existential Crunch. [https://doi.org/10.59350/w2xfg-xv316](https://doi.org/10.59350/w2xfg-xv316)
+
 # References
 
 * Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
