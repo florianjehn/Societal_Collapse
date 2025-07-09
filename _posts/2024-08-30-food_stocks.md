@@ -69,6 +69,11 @@ In summary, humanity has only limited food reserves. If global food production w
 
 (3) Their model should be taken with a grain of salt, as it does not consider prices, which are quite important in such a scenario. 
 
+# How to cite
+
+
+Jehn, F. U. (2024, September 2). How much food is there?. Existential Crunch. [https://doi.org/10.59350/kjx6b-n3h33](https://doi.org/10.59350/kjx6b-n3h33)
+
 
 # References
 
