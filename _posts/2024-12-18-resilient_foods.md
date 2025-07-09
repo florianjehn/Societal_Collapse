@@ -72,7 +72,6 @@ By taking these steps now, while our food system is still functioning, we give o
 
 # How to cite
 
-
 Jehn, F. U. (2024, December 19). Resilient foods. Existential Crunch.  [https://doi.org/10.59350/w8s91-q5a13](https://doi.org/10.59350/w8s91-q5a13)
 
 # References
