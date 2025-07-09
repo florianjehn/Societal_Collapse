@@ -38,3 +38,7 @@ The ideas presented here are certainly important for science, but they are also 
 Thanks to Florian Zeidler, Jan Wittenbecher, Birte Spekker, Jonathan Michel, Ekaterina Ilin, Magdalena Wache and Luise Wolf for helping me improve this post with valuable feedback :)
 
 If you want to look deeper into topics mentioned in this post, the main things to look for are (in the order they appear in the post): Positivism (Auguste Comte, Vienna Circle), Falsification (Karl Popper), Duhem-Quine Thesis/Underdetermination (Willard Van Orman Quine), Thought Collectives (Ludwig Fleck), Scientific Revolutions/Paradigm Change (Thomas Kuhn), Feminist Philosophy of Science (Sandra Harding, Helen Longino). Or simply take a look at “[Why Trust Science?](https://www.goodreads.com/book/show/44526005-why-trust-science)”, the main argument is laid out in the first ~ 150 pages. The rest is interesting case studies to prove her points and some remarks made by other scientists about how to increase trust in science.
+
+# How to cite
+
+Jehn, F. U. (2023, January 16). In diversity lies epistemic strengh. Existential Crunch. [https://doi.org/10.59350/m3cjy-z8f68](https://doi.org/10.59350/m3cjy-z8f68)
