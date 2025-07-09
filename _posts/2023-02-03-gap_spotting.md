@@ -103,3 +103,6 @@ Become an innovative researcher, not for your career, but because it is the righ
 
 # Acknowledgement
 Thanks to Ekaterina Ilin and Peter Ruschhaupt for valuable feedback on this post.
+
+# How to cite
+Jehn, F. U. (2023, February 3). Against the dominance of gap-spotting in research. Existential Crunch. [https://doi.org/10.59350/cwhhx-cp072](https://doi.org/10.59350/cwhhx-cp072)
