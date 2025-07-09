@@ -92,6 +92,10 @@ Overall, this leaves me a bit ambiguous when it comes to our chances of recovery
 
 (5) Many of these points are also discussed in the excellent book “The Knowledge” by Lewis Dartnell.
 
+# How to cite
+
+Jehn, F. U. (2024, September 24). How long until recovery after collapse?. Existential Crunch. [https://doi.org/10.59350/1hh7g-3kv98](https://doi.org/10.59350/1hh7g-3kv98)
+
 # References
 
 * Borcan, O., Olsson, O., & Putterman, L. (2021). Transition to agriculture and first state presence: A global analysis. Explorations in Economic History, 82, 101404. https://doi.org/10.1016/j.eeh.2021.101404
