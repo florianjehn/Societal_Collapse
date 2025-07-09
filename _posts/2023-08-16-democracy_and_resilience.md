@@ -70,9 +70,14 @@ Overall, my take from this is that democracy is even more important than I previ
 *Thanks for reading! If you want to talk about this post or societal collapse in general, I’d be happy to have a chat. Just send me a mail to florian.u.jehn at posteo.de and we can schedule something.*
 
 
-# Footnotes
+# Endnotes
 
 (1) For more on the comparability of past and present societies for the purposes of learning about societal collapse, see my earlier post [Lessons from the past for our global civilization](https://florianjehn.github.io/Societal_Collapse/2023-08-10-lessons_from_the_past/).
+
+# How to cite
+
+
+Jehn, F. U. (2023, August 16). Participation, inclusion, democracy, and resilience. Existential Crunch. [https://doi.org/10.59350/fxddg-5p067](https://doi.org/10.59350/fxddg-5p067)
 
 # References
 
