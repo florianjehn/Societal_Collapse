@@ -107,4 +107,6 @@ This is my least favorite part of the whole endeavour, so I might be doing this 
 
 Congratulations, you now know how to do your own living literature review. If this got you interested in writing one, you can. Open Phil is still looking for people who want to try out this way of scientific writing. You can find me info [here](https://mattsclancy.substack.com/p/time-for-more-living-literature-reviews). 
 
+# How to cite
+Jehn, F. U. (2025, April 23). How to write a living literature review. Existential Crunch. [https://doi.org/10.59350/2vd97-whc20](https://doi.org/10.59350/2vd97-whc20)
 
