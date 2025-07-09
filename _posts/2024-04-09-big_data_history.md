@@ -136,6 +136,9 @@ As with all good pieces of science, this paper opens up at least as many new que
 
 (6) This question was also discussed in an [earlier post](https://existentialcrunch.substack.com/p/lessons-from-the-past-for-our-global). 
 
+# How to cite
+Jehn, F. U. (2024, April 9). What factors allow societies to survive a crisis?. Existential Crunch. [https://doi.org/10.59350/qk98g-z9j18](https://doi.org/10.59350/qk98g-z9j18)
+
 # References
 
 * Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
