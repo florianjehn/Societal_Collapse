@@ -45,6 +45,10 @@ I hope we can avoid such a fate for our current civilization.
 
 Thanks to Jan Wittenbecher, Peter Ruschhaupt, Lutz Breuer, Matteo Trevisan and Luise Wolf for proofreading this text and providing valuable comments!
 
+# How to cite
+
+Jehn, F. U. (2023, January 14). The end of the Bronze Age as an example of a sudden collapse of civilization. Existential Crunch. [https://doi.org/10.59350/6gej8-4xt50](https://doi.org/10.59350/6gej8-4xt50)
+
 # References 
 
 * Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockhoff, N. and Pernicka, E.: Isotope systematics and chemical composition of tin ingots from Mochlos (Crete) and other Late Bronze Age sites in the eastern Mediterranean Sea: An ultimate key to tin provenance?, edited by A. Zerboni, PLoS ONE, 14(6), e0218326, doi:10.1371/journal.pone.0218326, 2019.
