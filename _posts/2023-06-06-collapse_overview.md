@@ -113,6 +113,9 @@ The closest to having an actual model of collapse prediction is the field of str
 
 *Thanks for reading! If you want to talk about this post or societal collapse in general, I’d be happy to have a chat. Just send me a mail to florian.u.jehn at posteo.de and we can schedule something.*
 
+## How to cite
+Jehn, F. U. (2023, June 7). Mapping out collapse research. Existential Crunch. [https://doi.org/10.59350/1r2zm-j9h84](https://doi.org/10.59350/1r2zm-j9h84)
+
 ## References
 
 * Bardi, U. (2020). Before the Collapse: A Guide to the Other Side of Growth. Springer International Publishing. https://doi.org/10.1007/978-3-030-29038-2
