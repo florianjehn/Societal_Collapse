@@ -146,3 +146,6 @@ Though following Arendt’s argument means that the establishment of such counci
 
 The question is no longer whether such systems are possible, but rather how we might adapt and implement them to strengthen democratic participation in our own contexts. The tools and knowledge exist—what remains is the political will to experiment with and refine these approaches to build more inclusive and deliberative democratic institutions.
 
+# How to cite
+Jehn, F. U. (2025, March 19). Revolution and democracy. Existential Crunch. [https://doi.org/10.59350/w4pr7-e0e43](https://doi.org/10.59350/w4pr7-e0e43)
+
