@@ -84,6 +84,10 @@ Additionally, the sustainable development goals provide another noteworthy piece
 
 (3) This is what the Seshat database is often used for, e.g. in [this paper](https://osf.io/preprints/socarxiv/hyj48_v1). 
 
+## How to cite
+
+Jehn, F. U. (2023, August 10). Lessons from the past for our global civilization. Existential Crunch. [https://doi.org/10.59350/3fc9m-gvv63](https://doi.org/10.59350/3fc9m-gvv63)
+
 ## References
 
 * Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
