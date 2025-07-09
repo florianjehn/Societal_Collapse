@@ -110,5 +110,6 @@ Nevertheless, our situation is not as bad as it is sometimes made out to be. By 
 Thanks to Peter Ruschhaupt, Ekaterina Ilin, Paula Eckelmann, and Konrad Bestian for helpful comments on this presentation.
 
 
-
+# How to cite
+Jehn, F. U. (2023, January 27). Global warming above 2°C. Existential Crunch. [https://doi.org/10.59350/4me7m-3fz82](https://doi.org/10.59350/4me7m-3fz82)
 
