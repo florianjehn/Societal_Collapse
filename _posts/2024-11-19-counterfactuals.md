@@ -84,6 +84,10 @@ Counterfactuals of both the past and the future can be a valuable tool for both 
 
 (4) We discussed this in more detail in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2024-03-04-where_to_stay/). 
 
+# How to cite
+
+Jehn, F. U. (2024, November 20). Counterfactual catastrophes. Existential Crunch. [https://doi.org/10.59350/x3nr3-5v898](https://doi.org/10.59350/x3nr3-5v898)
+
 # References
 
 * Baulenas, E., Versteeg, G., Terrado, M., Mindlin, J., & Bojovic, D. (2023). Assembling the climate story: Use of storyline approaches in climate-related science. Global Challenges, 7(7), 2200183. https://doi.org/10.1002/gch2.202200183
