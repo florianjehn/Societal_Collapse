@@ -104,6 +104,11 @@ No matter what we do, it seems quite important to me that we manage to maintain 
 
 (3) These are all quite abstract measures, but there is also potential something that individuals can do. The German organization Effektiv Spenden has [created a fund](https://effektiv-spenden.org/demokratie-verteidigen/)S that funnels donations to organizations which strengthen democratic processes.
 
+# How to cite
+
+
+Jehn, F. U. (2024, July 26). Democratic Resilience. Existential Crunch. [https://doi.org/10.59350/2h1aw-4w266](https://doi.org/10.59350/2h1aw-4w266)
+
 # References
 
 * Boyd, M., & Wilson, N. (2021). Anticipatory Governance for Preventing and Mitigating Catastrophic and Existential Risks. Policy Quarterly, 17(4), Article 4. https://doi.org/10.26686/pq.v17i4.7313

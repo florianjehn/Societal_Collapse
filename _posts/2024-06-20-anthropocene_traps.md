@@ -107,6 +107,10 @@ Another other recent paper by Rockström et al. (2023) makes additional suggesti
 
 (5) Maybe it’s just me, but this made me think of [Pale Blue Dot](https://www.planetary.org/worlds/pale-blue-dot): “...on a mote of dust suspended in a sunbeam.” 
 
+# How to cite
+
+Jehn, F. U. (2024, June 20). Anthropocene traps. Existential Crunch. [https://doi.org/10.59350/7nnaa-1vr81](https://doi.org/10.59350/7nnaa-1vr819)
+
 
 # References
 
