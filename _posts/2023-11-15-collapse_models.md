@@ -106,6 +106,10 @@ All this does not mean that the models we have are useless. They give us insight
 
 (2) SESHAT is discussed in more detail [in this earlier post](https://florianjehn.github.io/Societal_Collapse/2023-08-10-lessons_from_the_past/). 
 
+# How to cite
+
+Jehn, F. U. (2023, November 15). Simulating the end of the world. Existential Crunch. [https://doi.org/10.59350/6wbfn-3pp58](https://doi.org/10.59350/6wbfn-3pp58)
+
 # References
 
 * Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global Risk: An Introduction to Existential Risk Studies. Open Book Publishers. https://doi.org/10.11647/obp.0336
