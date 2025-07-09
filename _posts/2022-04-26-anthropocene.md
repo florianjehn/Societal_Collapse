@@ -87,7 +87,8 @@ Considering the broader research of existential risks, the results of those pape
 
 The results from those models leave me with dread and hope. Dread because it means that survival is not guaranteed in the slightest. There are a vast amount of trajectories which lead to extinction. Some, even after the switch to a sustainable path happened. One possible contributor to the Fermi Paradox might simply be that many civilizations push their planet out of its habitability equilibrium. We can expect that this happens to many civilizations, and we cannot rule out that we will be one of them. On the other side, I feel hope, as it also shows that humanity has a chance to make it through this time of peril. If we are smart, we might even manage a trajectory which leads directly to a stable equilibrium. I hope this is our path. 
 
- 
+## How to cite
+Jehn, F. U. (2023, January 20). The universal Anthropocene. Existential Crunch. [https://doi.org/10.59350/fnvmf-r9k40](https://doi.org/10.59350/fnvmf-r9k40)
 
 ## References
 
