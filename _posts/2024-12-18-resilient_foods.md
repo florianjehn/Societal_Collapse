@@ -70,6 +70,11 @@ By taking these steps now, while our food system is still functioning, we give o
 
 (4) Shoutout to my three subscribers from Nigeria: Let me know if you want to talk about seaweed. 
 
+# How to cite
+
+
+Jehn, F. U. (2024, December 19). Resilient foods. Existential Crunch.  [https://doi.org/10.59350/w8s91-q5a13](https://doi.org/10.59350/w8s91-q5a13)
+
 # References
 
 * D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp Speed Serve as a Model for Accelerating Innovations Beyond COVID Vaccines? (Working Paper No. 32831). National Bureau of Economic Research. https://doi.org/10.3386/w32831
