@@ -141,6 +141,9 @@ In summary, the global trade system, particularly in the food sector, is inheren
 
 (2) We discussed the Bronze Age Collapse in more detail in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2020-10-28-bronze_age/). 
 
+# How to cite
+Jehn, F. U. (2024, April 25). Trade collapse. Existential Crunch. [https://doi.org/10.59350/rwygp-c5n09](https://doi.org/10.59350/rwygp-c5n09)
+
 # References
 
 * Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerability in the global industrial food system. The Journal of Peasant Studies, 50(1), 1–25. https://doi.org/10.1080/03066150.2022.2129013
