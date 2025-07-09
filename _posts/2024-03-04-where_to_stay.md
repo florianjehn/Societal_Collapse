@@ -75,7 +75,11 @@ Or to make a visual summary:
 
 (3) Which is important for resilience, as discussed in an [earlier post](https://florianjehn.github.io/Societal_Collapse/2023-08-16-democracy_and_resilience/). 
 
-(4) There are a lot of studies that look into these kinds of distribution, but I found Clapp (2023) especially interesting, as it also explains the history of how we ended up with this focus on so few major exporting nations
+(4) There are a lot of studies that look into these kinds of distribution, but I found Clapp (2023) especially interesting, as it also explains the history of how we ended up with this focus on so few major exporting nations.
+
+# How to cite
+
+Jehn, F. U. (2024, March 4). The best places to weather global catastrophes. Existential Crunch. [https://doi.org/10.59350/bgsnc-b5430](https://doi.org/10.59350/bgsnc-b5430)
 
 # References
 
