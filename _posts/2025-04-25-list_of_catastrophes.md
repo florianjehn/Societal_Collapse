@@ -132,6 +132,10 @@ When looking at all these different risk complications, it seems to me that glob
 
 (4) Which essentially means that we should primarily focus on interventions which have a positive effect on all or most global catastrophic risks, instead of getting bogged down in trying to find the best solution for each global catastrophe. 
 
+# How to cite
+
+Jehn, F. U. (2025, June 18). What could go wrong?. Existential Crunch. [https://doi.org/10.59350/k1dc2-9x428](https://doi.org/10.59350/k1dc2-9x428)
+
 # References
 
 * Avin, S., Wintle, B. C., Weitzdörfer, J., Ó hÉigeartaigh, S. S., Sutherland, W. J., & Rees, M. J. (2018). Classifying global catastrophic risks. Futures, 102, 20–26. https://doi.org/10.1016/j.futures.2018.02.001
