@@ -102,6 +102,10 @@ Understanding systemic risk and polycrisis reveals both the fragility and resili
 
 (2) Looking at you Germany. 
 
+# How to cite
+
+Jehn, F. U. (2025, February 19). Systemic risk and the polycrisis. Existential Crunch. [https://doi.org/10.59350/bhpka-t7g93](https://doi.org/10.59350/bhpka-t7g93)
+
 # References
 
 * Arnscheidt, C. W., Beard, S. J., Hobson, T., Ingram, P., Kemp, L., Mani, L., Marcoci, A., Mbeva, K., hÉigeartaigh, S. Ó., Sandberg, A., Sundaram, L., & Wunderling, N. (2024). Systemic contributions to global catastrophic risk. OSF. https://doi.org/10.31235/osf.io/wcj9e
