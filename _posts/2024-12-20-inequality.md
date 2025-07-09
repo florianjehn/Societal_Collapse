@@ -110,6 +110,8 @@ Or to make things more concrete we can also look at a paper by Easterlin (2012) 
 
 (6) Present day examples of this would be the “Wellbeing economics” in countries like New Zealand
 
+# How to cite
+Jehn, F. U. (2025, January 15). Economic inequality and societal collapse. Existential Crunch. [https://doi.org/10.59350/yrvk7-w7589](https://doi.org/10.59350/yrvk7-w7589)
 
 # References
 
