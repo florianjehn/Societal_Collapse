@@ -111,6 +111,9 @@ Therefore, I am hopeful that follow-up studies using larger datasets will confir
 
 (5) Though only if you were a white male living in England. Everybody else still had a bad time. 
 
+# How to cite
+Jehn, F. U. (2025, May 21). Reform or ruin. Existential Crunch. [https://doi.org/10.59350/phqtd-z9p60](https://doi.org/10.59350/phqtd-z9p60)
+
 # References
 
 * Hoyer, D., Bennett, J. S., Whitehouse, H., François, P., Feeney, K., Levine, J., Reddish, J., Davis, D., & Turchin, P. (2024). CRISES AVERTED How A Few Past Societies Found Adaptive Reforms in the Face of Structural- Demographic Crises. OSF. https://doi.org/10.31235/osf.io/hyj48
