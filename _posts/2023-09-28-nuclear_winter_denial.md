@@ -100,6 +100,11 @@ I hope that this time nuclear winter will stay on our agenda and not fade back i
 5. Turchetti mentions that it decreased a lot on how much this was discussed in the public, but does not cite specific numbers. 
 6. I can strongly recommend the book “Merchants of Doubt” if you want to dig deeper into climate change denial (Oreskes & Conway, 2012)
 
+# How to cite
+
+
+Jehn, F. U. (2023, September 28). Science denial and nuclear winter. Existential Crunch. [https://doi.org/10.59350/f3ew7-etr74](https://doi.org/10.59350/f3ew7-etr74)
+
 # References
 
 * Coupe, J., Bardeen, C. G., Robock, A., & Toon, O. B. (2019). Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE. Journal of Geophysical Research: Atmospheres, 124(15), 8522–8543. https://doi.org/10.1029/2019JD030509
