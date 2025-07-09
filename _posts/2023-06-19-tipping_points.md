@@ -54,6 +54,10 @@ There have been calls for more research into this area and higher temperature cl
 
 Still, my conclusion from writing this is a grim optimism. Don’t get me wrong, triggering any of the tipping points is very bad. I think it would be a monument to our failure if we destroyed the great biodiversity in the Amazon rainforest. However, it seems like tipping points cannot easily contribute an additional amount of warming that would put Earth as a whole on a >3°C trajectory, at least in the next hundred years. Also, many of the biggest impacts will be felt regionally, not globally. Finally, the biggest impacts of the tipping points will be to the general functioning of the biosphere and not to the temperature directly. This means my optimism is more in the form that I now think that tipping points alone are unlikely to cause a collapse of global civilization due to temperature changes. Still, we should be careful, as many of the past abrupt transitions in climate are not well understood and the Earth system might have some unwelcome surprises for us in store. 
 
+# How to cite
+
+Jehn, F. U. (2023, June 19). The trouble with tipping points. Existential Crunch. [https://doi.org/10.59350/b9pgp-6ae83](https://doi.org/10.59350/b9pgp-6ae83)
+
 # References
 
 * Armstrong McKay, D. I., Staal, A., Abrams, J. F., Winkelmann, R., Sakschewski, B., Loriani, S., Fetzer, I., Cornell, S. E., Rockström, J., & Lenton, T. M. (2022). Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science, 377(6611), eabn7950. https://doi.org/10.1126/science.abn7950
