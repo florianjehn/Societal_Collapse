@@ -57,6 +57,12 @@ Finally, I wanted to showcase this paper, because it illuminates the major chall
 
 (2) The fog can be attributed to a dust veil caused by the volcanic eruption, while the red skies are caused by sulfur dioxide scattering the sunlight it gets hit by. This is also the reason for the red sky in “The Scream” painting. 
 
+# How to cite
+
+
+Jehn, F. U. (2023, November 22). Societal consequences of the Little Ice Age. Existential Crunch. [https://doi.org/10.59350/9bsn4-32g23](https://doi.org/10.59350/9bsn4-32g23)
+
+
 # References
 
 * Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
