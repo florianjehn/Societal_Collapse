@@ -209,6 +209,8 @@ Moersdorf, J., Rivers, M., Denkenberger, D., Breuer, L., & Jehn, F. U. (2024). T
 
 Nakassis, D., Parkinson, W. A., & Galaty, M. L. (2011). Redistribution in Aegean Palatial Societies Redistributive Economies from a Theoretical and Cross-Cultural Perspective. American Journal of Archaeology, 115(2), 177–184. https://doi.org/10.3764/aja.115.2.177
 
+National Academies of Sciences, Engineering, and Medicine. 2025. Potential Environmental Effects of Nuclear War. Washington, D.C.: National Academies Press.
+
 Norrie, P. (2016). How Disease Affected the End of the Bronze Age. In P. Norrie (Ed.), A History of Disease in Ancient Times: More Lethal than War (pp. 61–101). Springer International Publishing. https://doi.org/10.1007/978-3-319-28937-3_5
 
 Nur, A., & Cline, E. H. (2000). Poseidon’s Horses: Plate Tectonics and Earthquake Storms in the Late Bronze Age Aegean and Eastern Mediterranean. Journal of Archaeological Science, 27(1), 43–63. https://doi.org/10.1006/jasc.1999.0431
@@ -274,6 +276,8 @@ Shepherd, T. G., Boyd, E., Calel, R. A., Chapman, S. C., Dessai, S., Dima-West, 
 Shwom, R., & and Kopp, R. E. (2019). Long-term risk governance: When do societies act before crisis? Journal of Risk Research, 22(11), 1374–1390. https://doi.org/10.1080/13669877.2018.1476900
 
 Sigl, M., Winstrup, M., McConnell, J. R., Welten, K. C., Plunkett, G., Ludlow, F., Büntgen, U., Caffee, M., Chellman, N., Dahl-Jensen, D., Fischer, H., Kipfstuhl, S., Kostick, C., Maselli, O. J., Mekhaldi, F., Mulvaney, R., Muscheler, R., Pasteris, D. R., Pilcher, J. R., … Woodruff, T. E. (2015). Timing and climate forcing of volcanic eruptions for the past 2,500 years. Nature, 523(7562), Article 7562. https://doi.org/10.1038/nature14565
+
+Smith, Wake. 2020. “The Cost of Stratospheric Aerosol Injection through 2100.” Environmental Research Letters 15(11):114004. doi:10.1088/1748-9326/aba7e7.
 
 Søgaard Jørgensen, P., Jansen, R. E. V., Avila Ortega, D. I., Wang-Erlandsson, L., Donges, J. F., Österblom, H., Olsson, P., Nyström, M., Lade, S. J., Hahn, T., Folke, C., Peterson, G. D., & Crépin, A.-S. (2023). Evolution of the polycrisis: Anthropocene traps that challenge global sustainability. Philosophical Transactions of the Royal Society B: Biological Sciences, 379(1893), 20220261. https://doi.org/10.1098/rstb.2022.0261
 
