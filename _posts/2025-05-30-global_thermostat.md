@@ -93,7 +93,7 @@ Pretty much all of the papers I cited here also emphasize that we need more syst
 # Endnotes
 (1) If you want to understand this in more detail, Ruddiman (2013) is a good explainer and quite comprehensive. 
 
-(2) A recent report by National Academies of Sciences, Engineering, and Medicine) (2025) questions if such a stark temperature drop could be reached with present day arsenals, but keeping it in here to illustrate the potentially very large effects.
+(2) A recent report by National Academies of Sciences, Engineering, and Medicine (2025) questions if such a stark temperature drop could be reached with present day arsenals, but keeping it in here to illustrate the potentially very large effects.
 
 # References
 * Baum, Seth D., Timothy M. Maher, and Jacob Haqq-Misra. 2013. “Double Catastrophe: Intermittent Stratospheric Geoengineering Induced by Societal Collapse.” Environment Systems & Decisions 33(1):168–80. doi:10.1007/s10669-012-9429-y.
