@@ -99,6 +99,25 @@ Your repository should contain a folder called posts. In this folder you can put
 
 Setting up a Substack is pretty self-explanatory and there are many tutorials out there, so I won’t go into detail here. But what I found to be most helpful to get a wider readership was recommendations from other substacks. To get them, just talk to people that write about similar things as you do and convince them that your work is relevant to their readers as well. 
 
+## Making everything citable
+
+As this blog is essentially just another form of doing research, I wanted to make sure that my blog is both findable via academic channels and also that the people I cite can become aware of what I am doing here. This seemed quite difficult to accomplish, until I came across [Rogue Scholar](https://rogue-scholar.org/), which aims to be a home for scientific blogs. It is a platform which automatically creates DOIs for my blog posts, as well as extracting the references I have, so other people can see that I cited them.
+
+To also set this up for your living literature review you have to go through a few steps:
+* Create an account at Rogue Scholar.
+* Fill out the [blog questionnaire](https://tally.so/r/nPvNK0). This gives Rogue Scholar the information it needs to figure out if your work is actually a scientific blog.
+* Wait a day or so. 
+* Once Rogue Scholar has decided that your work is a scientific blog, they will go through all your existing posts to archive them and provide them with DOIs. The end result will look something like [this](https://rogue-scholar.org/communities/existentialcrunch/records?q=&l=list&p=1&s=10&sort=newest). 
+
+Every time you add a new post on your blog, this will also be added to the archive. The DOI forwards you to the original blogpost, unless this is not available anymore, in which case it falls back to an archived version in the [Internet Archive](https://archive.org/).
+
+When I have updated posts, I have to inform Rogue Scholar manually, as Substack does not automatically provide this information. Rogue Scholar will then update the version on their end as well. 
+
+You can also add additional meta data like your [ORCID](https://orcid.org/0000-0002-7296-8008), if you want to. 
+
+Overall, it is a pretty cool solution! And now every post of mine also has a “How to cite” section. 
+
+
 # Promoting your work
 
 This is my least favorite part of the whole endeavour, so I might be doing this suboptimally. But by now I have several channels where I notify people when I have written something new. I will write a short summary of my new post and why I think it might interest people. I then publish this summary, together with a picture from the post and a link to it on LinkedIn, Substack Notes and Mastodon (with a bridge to Bluesky). I also send out an email to all the subscribers of my newsletter. The vast majority of readers come via the email newsletter, but there is enough readership from all the other channels to justify doing the extra work there. 
