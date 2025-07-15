@@ -104,16 +104,16 @@ Setting up a Substack is pretty self-explanatory and there are many tutorials ou
 As this blog is essentially just another form of doing research, I wanted to make sure that my blog is both findable via academic channels and also that the people I cite can become aware of what I am doing here. This seemed quite difficult to accomplish, until I came across [Rogue Scholar](https://rogue-scholar.org/), which aims to be a home for scientific blogs. It is a platform which automatically creates DOIs for my blog posts, as well as extracting the references I have, so other people can see that I cited them.
 
 To also set this up for your living literature review you have to go through a few steps:
-* Create an account at Rogue Scholar.
+* Create an account at Rogue Scholar (optional).
 * Fill out the [blog questionnaire](https://tally.so/r/nPvNK0). This gives Rogue Scholar the information it needs to figure out if your work is actually a scientific blog.
 * Wait a day or so. 
 * Once Rogue Scholar has decided that your work is a scientific blog, they will go through all your existing posts to archive them and provide them with DOIs. The end result will look something like [this](https://rogue-scholar.org/communities/existentialcrunch/records?q=&l=list&p=1&s=10&sort=newest). 
 
 Every time you add a new post on your blog, this will also be added to the archive. The DOI forwards you to the original blogpost, unless this is not available anymore, in which case it falls back to an archived version in the [Internet Archive](https://archive.org/).
 
-When I have updated posts, I have to inform Rogue Scholar manually, as Substack does not automatically provide this information. Rogue Scholar will then update the version on their end as well. 
+When I have updated posts, I have to inform Rogue Scholar manually, as Substack does not automatically provide this information (Wordpress for example does). Rogue Scholar will then update the version on their end as well.
 
-You can also add additional meta data like your [ORCID](https://orcid.org/0000-0002-7296-8008), if you want to. 
+You can also add additional meta data like your [ORCID](https://orcid.org/0000-0002-7296-8008) or funding information, if you want to. 
 
 Overall, it is a pretty cool solution! And now every post of mine also has a “How to cite” section. 
 
