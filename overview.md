@@ -9,6 +9,7 @@ This section is concerned with a more bird's eye view of collapse. Aggregating i
 * [Mapping out collapse research](https://florianjehn.github.io/Societal_Collapse/2023-06-06-collapse_overview/)
 * [What factors allow societies to survive a crisis?](https://florianjehn.github.io/Societal_Collapse/2024-04-09-big_data_history/)
 * [A list of lists of catastrophes](https://florianjehn.github.io/Societal_Collapse/2025-04-25-list_of_catastrophes/)
+* [The people's history of collapse](https://florianjehn.github.io/Societal_Collapse/2025-08-05-Goliath/)
 
 # High level concepts
 * [The universal Anthropocene](https://florianjehn.github.io/Societal_Collapse/2022-04-26-anthropocene/)
