@@ -157,6 +157,8 @@ Kareiva, P., & Carranza, V. (2018). Existential risk due to ecosystem collapse: 
 
 Kemp, L. (2023). Diminishing Returns on Extraction: How Inequality and Extractive Hierarchy Create Fragility. In How Worlds Collapse. Routledge.
 
+Kemp, L. (2025). Goliath’s Curse: The History and Future of Societal Collapse. Viking. 
+
 Kemp, L., Xu, C., Depledge, J., Ebi, K. L., Gibbins, G., Kohler, T. A., Rockström, J., Scheffer, M., Schellnhuber, H. J., Steffen, W., & Lenton, T. M. (2022). Climate Endgame: Exploring catastrophic climate change scenarios. Proceedings of the National Academy of Sciences, 119(34), e2108146119. https://doi.org/10.1073/pnas.2108146119
 
 Knitter, D., Günther, G., Hamer, W. B., Keßler, T., Seguin, J., Unkel, I., Weiberg, E., Duttmann, R., & Nakoinz, O. (2019). Land use patterns and climate change—A modeled scenario of the Late Bronze Age in Southern Greece. Environmental Research Letters, 14(12), 125003. https://doi.org/10.1088/1748-9326/ab5126
