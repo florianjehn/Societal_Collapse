@@ -61,7 +61,7 @@ Another paper I want to highlight here is by Egeland (2025). This paper tries to
 * Climate change increases conflict in general and thus also the danger of nuclear weapon usage. 
 * Globally, we are seeing increased defense spending. This will likely increase carbon emissions, as the military is already responsible for around 5% of global carbon emissions. 
 * Defense spending is often prioritized over spending for avoiding climate change. 
-* Nuclear weapons are a cheaper way to project force than traditional military assets. This means if climate change decreases economic growth, there will be an incentive to focus more on nuclear weapons to save money. 
+* Nuclear weapons are a cheaper way to project force than traditional military assets. This means if climate change decreases economic growth, there will be an incentive to focus more on nuclear weapons to save money (3). 
 * Climate change will likely lead to lots of migration, as people flee uninhabitable places. This will lead to more destabilization. 
 
 All of this points to a self-reinforcing spiral: climate change makes the world less stable, a less stable world focuses more on defense, more defense spending means less focus on avoiding climate change. This in turn implies more climate change leads to a higher chance of a nuclear war and thus a nuclear winter. 
@@ -94,6 +94,8 @@ Pretty much all of the papers I cited here also emphasize that we need more syst
 (1) If you want to understand this in more detail, Ruddiman (2013) is a good explainer and quite comprehensive. 
 
 (2) A recent report by National Academies of Sciences, Engineering, and Medicine (2025) questions if such a stark temperature drop could be reached with present day arsenals, but keeping it in here to illustrate the potentially very large effects.
+
+(3) Though it does not neccesarily have to be true that nuclear weapons really are the cheapest option. If all of the other points of Egeland (like flooded military bases or decreased usefulnes of submarines) become true, nuclear weapons might get more expensive as well. Similarly, larger reliance on nuclear weapons incentives also spending more on missile defense, which is extremely expensive. Finally, it might only be cheap(ish) if you already have the technology and don't have to start from scratch. 
 
 # References
 * Baum, Seth D., Timothy M. Maher, and Jacob Haqq-Misra. 2013. “Double Catastrophe: Intermittent Stratospheric Geoengineering Induced by Societal Collapse.” Environment Systems & Decisions 33(1):168–80. doi:10.1007/s10669-012-9429-y.
