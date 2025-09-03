@@ -90,6 +90,10 @@ We should also keep in mind here the different timescales. Climate change is pre
 
 Pretty much all of the papers I cited here also emphasize that we need more system-level analysis, not just individual hazards. Our world is very complex, especially if you want to consider natural and anthropogenic systems at once. This means considerable research is needed, but preferably on a more holistic level, trying to assess the whole system, not just facets. This is hard, but if we want to really understand the risks that we are facing, I see no way around it. 
 
+# How to cite
+
+Jehn, F. U. (2025, September 3). Manipulating the global thermostat. Existential Crunch. https://doi.org/10.59350/existentialcrunch.167348184
+
 # Endnotes
 (1) If you want to understand this in more detail, Ruddiman (2013) is a good explainer and quite comprehensive. 
 
