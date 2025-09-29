@@ -155,6 +155,8 @@ Kaniewski, D., Van Campo, E., Van Lerberghe, K., Boiy, T., Vansteenhuyse, K., Ja
 
 Kareiva, P., & Carranza, V. (2018). Existential risk due to ecosystem collapse: Nature strikes back. Futures, 102, 39–50. https://doi.org/10.1016/j.futures.2018.01.001
 
+Kemp, L. (2021). Agents of Doom: Who is creating the apocalypse and why. https://www.bbc.com/future/article/20211014-agents-of-doom-who-is-hastening-the-apocalypse-and-why 
+
 Kemp, L. (2023). Diminishing Returns on Extraction: How Inequality and Extractive Hierarchy Create Fragility. In How Worlds Collapse. Routledge.
 
 Kemp, L. (2025). Goliath’s Curse: The History and Future of Societal Collapse. Viking. 
@@ -210,6 +212,8 @@ Millemaci, E., Monteforte, F., & Temple, J. R. W. (2024). Have Autocrats Governe
 Moersdorf, J., Rivers, M., Denkenberger, D., Breuer, L., & Jehn, F. U. (2024). The Fragile State of Industrial Agriculture: Estimating Crop Yield Reductions in a Global Catastrophic Infrastructure Loss Scenario. Global Challenges, 8(1), 2300206. https://doi.org/10.1002/gch2.202300206
 
 Nakassis, D., Parkinson, W. A., & Galaty, M. L. (2011). Redistribution in Aegean Palatial Societies Redistributive Economies from a Theoretical and Cross-Cultural Perspective. American Journal of Archaeology, 115(2), 177–184. https://doi.org/10.3764/aja.115.2.177
+
+Nathan, C., & Hyams, K. (2022). Global policymakers and catastrophic risk. Policy Sciences, 55(1), 3–21. https://doi.org/10.1007/s11077-021-09444-0 
 
 National Academies of Sciences, Engineering, and Medicine. 2025. Potential Environmental Effects of Nuclear War. Washington, D.C.: National Academies Press.
 
@@ -302,6 +306,10 @@ Tang, Aaron, and Luke Kemp. 2021. “A Fate Worse Than Warming? Stratospheric Ae
 Tetlock, P., Lebow, R. N., & Parker, N. G. (2006). Chapter 1. Counterfactual Thought Experiments: Why we can’t live without and how we must learn to live with them. In Unmaking the West: “What-If?” Scenarios That Rewrite World History. University of Michigan Press.
 
 Tomz, M. R., & Weeks, J. L. P. (2013). Public Opinion and the Democratic Peace. American Political Science Review, 107(4), 849–865. https://doi.org/10.1017/S0003055413000488
+
+Torres, P. (2018a). Agential risks and information hazards: An unavoidable but dangerous topic? Futures, 95, 86–97. https://doi.org/10.1016/j.futures.2017.10.004 
+
+Torres, P. (2018b). Who would destroy the world? Omnicidal agents and related phenomena. Aggression and Violent Behavior, 39, 129–138. https://doi.org/10.1016/j.avb.2018.02.002 
 
 Treisman, D. (2020). Democracy by Mistake: How the Errors of Autocrats Trigger Transitions to Freer Government. American Political Science Review, 114(3), 792–810. https://doi.org/10.1017/S0003055420000180
 
