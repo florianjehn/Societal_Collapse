@@ -46,7 +46,7 @@ Besides these actors where we can give historical examples, Torres also argues t
 
 # Institutional bad actors
 
-While it seems far-fetched that an individual could destroy the world today, even if they have motivations as outlined above. Institutions which can endanger the world already exist. This is explored in a short overview article by Kemp (2021) (3). In it Kemp argues that existential risk is mainly driven by big, institutional actors, as everybody else has too few resources to meaningfully move the needle. 
+While it seems far-fetched that an individual could destroy the world today, even if they have motivations as outlined above, institutions which can endanger the world already exist. This is explored in a short overview article by Kemp (2021) (3). In it Kemp argues that existential risk is mainly driven by big, institutional actors, as everybody else has too few resources to meaningfully move the needle. 
 
 The pathways that have been identified so far to end the world are things like artificial general intelligence, catastrophic biological threats, climate change, lethal autonomous weapons and nuclear weapons. All of these pathways share that they include a lot of effort. You cannot build nuclear weapons in your backyard, neither can the lifestyle of an individual meaningfully influence how many ppm carbon dioxide are in the atmosphere. To do these things you have to have lots of power and lots of resources. Something only very large actors like the military-industrial complex in different countries, the fossil fuel industry or Big Tech can accomplish. In many (or maybe all?) of these institutions we can see that their profits are privatized, while the potential downsides are public. Let's look at some examples:
 
