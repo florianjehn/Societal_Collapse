@@ -38,7 +38,7 @@ Examples of such ideas in the wild are the fringes of the deep ecology movement.
 
 This group is essentially everybody who wants to destroy the world, but does not really fit any major category. Meaning these are likely people who suffer from mental health problems like a psychosis, which implants the idea in them that the world would be better off if nobody existed on it. Or traumatized actors, who feel like the world has wronged them and want to take revenge. 
 
-We can find many such actors. A more famous example is Eric Harris, who was the shooter at the 1999 Columbine High School massacre. In his diaries he explained that he wanted to see the world burn and kill mankind. Fortunately, he did not have the means to do so, but we cannot rest assured that future idiosyncratic actors will not have more power tools at their disposal. 
+We can find many such actors. A more famous example is Eric Harris, who was the shooter at the 1999 Columbine High School massacre. In his diaries he explained that he wanted to see the world burn and kill mankind. Fortunately, he did not have the means to do so, but we cannot rest assured that future idiosyncratic actors will not have more powerful tools at their disposal. 
 
 ## Non-human actors
 
