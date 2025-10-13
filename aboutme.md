@@ -38,4 +38,4 @@ Thanks for very valuable feedback on a variety of the posts here!
 * Andreas Schmidt
 * Mel Cowans
 * Morgan Rivers
-* Arthus Schanner
+* M. Arthus Schanner
