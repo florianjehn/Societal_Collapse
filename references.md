@@ -9,7 +9,11 @@ Alexander, P., Brown, C., Arneth, A., Finnigan, J., Moran, D., & Rounsevell, M. 
 
 Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
 
+Alvesson, M., & Sandberg, J. (2013). Constructing Research Questions: Doing Interesting Research. SAGE Publications Ltd. https://doi.org/10.4135/9781446270035 
+
 Arbesman, S. (2011). The Life-Spans of Empires. Historical Methods: A Journal of Quantitative and Interdisciplinary History, 44(3), 127–129. https://doi.org/10.1080/01615440.2011.577733
+
+Arendt, H. (2016). On revolution (Paperback edition). Faber & Faber. 
 
 Armstrong McKay, D. I., Staal, A., Abrams, J. F., Winkelmann, R., Sakschewski, B., Loriani, S., Fetzer, I., Cornell, S. E., Rockström, J., & Lenton, T. M. (2022). Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science, 377(6611), eabn7950. https://doi.org/10.1126/science.abn7950
 
@@ -30,6 +34,8 @@ Baum, Seth D., Timothy M. Maher, and Jacob Haqq-Misra. 2013. “Double Catastrop
 Beard, S., Cooke, N., Dryhurst, S., Cassidy, M., Gibbins, G., Gilgallon, G., Holt, B., Josefiina, I., Kemp, L., Tang, A., Weitzdörfer, J., Ingram, P., Sundaram, L., & Davies, R. (2023). Exploring Futures for the Science of Global Risk. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4405991
 
 Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global Risk: An Introduction to Existential Risk Studies. Open Book Publishers. https://doi.org/10.11647/obp.0336
+
+Beauvoir, S. de, & Frechtman, B. (2006). The ethics of ambiguity. Recording for the Blind & Dyslexic. 
 
 Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockhoff, N., & Pernicka, E. (2019). Isotope systematics and chemical composition of tin ingots from Mochlos (Crete) and other Late Bronze Age sites in the eastern Mediterranean Sea: An ultimate key to tin provenance? PLOS ONE, 14(6), e0218326. https://doi.org/10.1371/journal.pone.0218326
 
@@ -85,6 +91,8 @@ Dal Prá, G., Chan, C., Burkhanov, T., Arnscheidt, C. W., Cremades, R., Cremer, 
 
 Dakos, V., Boulton, C. A., Buxton, J. E., Abrams, J. F., Armstrong McKay, D. I., Bathiany, S., Blaschke, L., Boers, N., Dylewsky, D., López-Martínez, C., Parry, I., Ritchie, P., van der Bolt, B., van der Laan, L., Weinans, E., & Kéfi, S. (2023). Tipping Point Detection and Early-Warnings in climate, ecological, and human systems. EGUsphere, 1–35. https://doi.org/10.5194/egusphere-2023-1773
 
+Damany-Pearce, L., Johnson, B., Wells, A., Osborne, M., Allan, J., Belcher, C., Jones, A., & Haywood, J. (2022). Australian wildfires cause the largest stratospheric warming since Pinatubo and extends the lifetime of the Antarctic ozone hole. Scientific Reports, 12. https://doi.org/10.1038/s41598-022-15794-3
+
 Degroot, D., Anchukaitis, K., Bauch, M., Burnham, J., Carnegy, F., Cui, J., de Luna, K., Guzowski, P., Hambrecht, G., Huhtamaa, H., Izdebski, A., Kleemann, K., Moesswilde, E., Neupane, N., Newfield, T., Pei, Q., Xoplaki, E., & Zappia, N. (2021). Towards a rigorous understanding of societal responses to climate change. Nature, 591(7851), Article 7851. https://doi.org/10.1038/s41586-021-03190-2
 
 Denkenberger, D., & Pearce, J. (2015). Feeding everyone no matter what: Managing food security after global catastrophe. Academic Press.
@@ -121,6 +129,8 @@ Hasell, J., & Roser, M. (2013). Famines. Our World in Data. https://ourworldinda
 
 Herrington, G. (2021). Update to limits to growth: Comparing the World3 model with empirical data. Journal of Industrial Ecology, 25(3), 614–626. https://doi.org/10.1111/jiec.13084
 
+Hess, G. D. (2021). The Impact of a Regional Nuclear Conflict between India and Pakistan: Two Views. Journal for Peace and Nuclear Disarmament, 4(sup1), 163–175. https://doi.org/10.1080/25751654.2021.1882772
+
 Holder, S. L., Ainsworth, R., Aldrich, D., Bennett, J. S., Feinman, G., Mark, S., Orlandi, G., Preiser-Kapeller, J., Reddish, J., Schoonover, R., Turchin, P., & Hoyer, D. (2024). The Spectrum of (Poly)Crisis: Exploring polycrises of the past to better understand our current and future risks. OSF. https://doi.org/10.31235/osf.io/3bspg
 
 Houska, T., Kraft, P., Chamorro-Chavez, A., & Breuer, L. (2015). SPOTting Model Parameters Using a Ready-Made Python Package. PLOS ONE, 10(12), e0145180. https://doi.org/10.1371/journal.pone.0145180
@@ -142,6 +152,8 @@ Jagtap, S., Trollman, H., Trollman, F., Garcia-Garcia, G., Parra-López, C., Duo
 Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2024). Food trade disruption after global catastrophes. EarthArXiv. https://eartharxiv.org/repository/view/7339/
 
 Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries.” Pp. 119–32 in Intersections, Reinforcements, Cascades: Proceedings of the 2023 Stanford Existential Risks Conference. The Stanford Existential Risks Initiative.
+
+Jehn, F. U., Dingal, F. J., Mill, A., Harrison, C. S., Ilin, E., Roleda, M. Y., James, S. C., & Denkenberger, D. C. (2023). Seaweed as a resilient food solution after a nuclear war. Zenodo. https://doi.org/10.5281/zenodo.7615254
 
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
 
@@ -229,6 +241,12 @@ Omberg, R. T., & Tabarrok, A. (2022). Is it possible to prepare for a pandemic? 
 
 Ord, T. (2020). The Precipice: Existential Risk and the Future of Humanity. Hachette Books, 480 pp.
 
+Oreskes, N. (2021). Why trust science? Princeton University Press. 
+
+Oreskes, N., & Conway, E. (2022). From Anti-Government to Anti-Science: Why Conservatives Have Turned Against Science. Daedalus, 151, 98–123. https://doi.org/10.1162/daed_a_01946
+
+Oreskes, N., & Conway, E. M. (2012). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming (Paperback. ed). Bloomsbury.
+
 Patterson, M. C., Peter Callahan, Paul Larcey, Thayer (Ed.). (2023). How Worlds Collapse: What History, Systems, and Complexity Can Teach Us About Our Modern World and Fragile Future. Routledge. https://doi.org/10.4324/9781003331384
 
 Peregrine, P. N. (2018). Social Resilience to Climate-Related Disasters in Ancient Societies: A Test of Two Hypotheses. Weather, Climate, and Society, 10(1), 145–161. https://doi.org/10.1175/WCAS-D-17-0052.1
@@ -251,6 +269,8 @@ Riris, P., Silva, F., Crema, E., Palmisano, A., Robinson, E., Siegel, P. E., Fre
 
 Ritchie, P. D. L., Clarke, J. J., Cox, P. M., & Huntingford, C. (2021). Overshooting tipping point thresholds in a changing climate. Nature, 592(7855), 517–523. https://doi.org/10.1038/s41586-021-03263-2
 
+Robock, A., Xia, L., Harrison, C., Coupe, J., Toon, O., & Bardeen, C. (2023). Opinion: How Nuclear Winter has Saved the World, So Far. https://doi.org/10.5194/acp-2022-852
+
 Rockström, J., Gupta, J., Qin, D., Lade, S. J., Abrams, J. F., Andersen, L. S., Armstrong McKay, D. I., Bai, X., Bala, G., Bunn, S. E., Ciobanu, D., DeClerck, F., Ebi, K., Gifford, L., Gordon, C., Hasan, S., Kanie, N., Lenton, T. M., Loriani, S., … Zhang, X. (2023). Safe and just Earth system boundaries. Nature, 619(7968), 102–111. https://doi.org/10.1038/s41586-023-06083-8
 
 Rockström, J., Steffen, W., Noone, K., Persson, Å., Chapin, F. S. I., Lambin, E., Lenton, T., Scheffer, M., Folke, C., Schellnhuber, H. J., Nykvist, B., de Wit, C., Hughes, T., van der Leeuw, S., Rodhe, H., Sörlin, S., Snyder, P., Costanza, R., Svedin, U., … Foley, J. (2009). Planetary Boundaries: Exploring the Safe Operating Space for Humanity. Ecology and Society, 14(2). https://doi.org/10.5751/ES-03180-140232
@@ -272,6 +292,8 @@ Schippers, M. C., Ioannidis, J. P. A., & Luijks, M. W. J. (2024). Is society cau
 Schmidt, A. T., & Juijn, D. (2024). Economic inequality and the long-term future. Politics, Philosophy & Economics, 23(1), 67–99. https://doi.org/10.1177/1470594X231178502
 
 Schweizer, P.-J., & Juhola, S. (2024). Navigating systemic risks: Governance of and for systemic risks. Global Sustainability, 7, e38. https://doi.org/10.1017/sus.2024.30
+
+Scouras, J., Ice, L., & Proper, M. (2023). Nuclear Winter, Nuclear Strategy, Nuclear Risk. Defense Technical Information Center. https://apps.dtic.mil/sti/citations/AD1201181
 
 Sepasspour, R. (2023). All-Hazards Policy for Global Catastrophic Risk (Technical Report Nos. 23–1; p. 37). Global Catastrophic Risk Institute. https://gcrinstitute.org/papers/068_all-hazards.pdf
 
@@ -315,6 +337,10 @@ Treisman, D. (2020). Democracy by Mistake: How the Errors of Autocrats Trigger T
 
 Trotter, L., Knoben, W. J. M., Fowler, K. J. A., Saft, M., & Peel, M. C. (2022). Modular Assessment of Rainfall–Runoff Models Toolbox (MARRMoT) v2.1: An object-oriented implementation of 47 established hydrological models for improved speed and readability. Geoscientific Model Development, 15(16), 6359–6369. https://doi.org/10.5194/gmd-15-6359-2022
 
+Turchetti, S. (2018). Greening the Alliance: The Diplomacy of NATO’s Science and Environmental Initiatives. University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/G/bo31043377.html
+
+Turchetti, S. (2021). Trading Global Catastrophes: NATO’s Science Diplomacy and Nuclear Winter. Journal of Contemporary History, 56(3), 543–562. https://doi.org/10.1177/0022009421993915
+
 Turchin, P., Currie, T. E., Whitehouse, H., François, P., Feeney, K., Mullins, D., Hoyer, D., Collins, C., Grohmann, S., Savage, P., Mendel-Gleason, G., Turner, E., Dupeyron, A., Cioni, E., Reddish, J., Levine, J., Jordan, G., Brandl, E., Williams, A., … Spencer, C. (2018). Quantitative historical analysis uncovers a single dimension of complexity that structures global variation in human social organization. Proceedings of the National Academy of Sciences, 115(2), E144–E151. https://doi.org/10.1073/pnas.1708800115
 
 Turchin, P., & Nefedov, S. A. (2009). Secular cycles. Princeton University Press.
@@ -322,6 +348,8 @@ Turchin, P., & Nefedov, S. A. (2009). Secular cycles. Princeton University Press
 Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Baker, D., Bartkowiak, M., Bates, J., Bennett, J., Bidmead, J., Bol, P., Ceccarelli, A., Christakis, K., Christian, D., Covey, A., De Angelis, F., Earle, T., Edwards, N., & Xie, L. (2019). An Introduction to Seshat: Global History Databank. Journal of Cognitive Historiography, 5. https://doi.org/10.1558/jch.39395
 
 Turchin, P., Whitehouse, H., Larson, J., Cioni, E., Reddish, J., Hoyer, D., Savage, P. E., Covey, R. A., Baines, J., Altaweel, M., Anderson, E., Bol, P., Brandl, E., Carballo, D. M., Feinman, G., Korotayev, A., Kradin, N., Levine, J. D., Nugent, S. E., … François, P. (2023). Explaining the rise of moralizing religions: A test of competing hypotheses using the Seshat Databank. Religion, Brain & Behavior, 13(2), 167–194. https://doi.org/10.1080/2153599X.2022.2065345
+
+Turchin, P. (2023). End times: Elites, counter-elites, and the path of political disintegration. Penguin Press. 
 
 Varberg, J., Kaul, F., & Gratuze, B. (2020). Bronze Age Glass and Amber Evidence of Bronze Age long distance exchange. Adoranten, 2019, 5–29.
 
