@@ -21,9 +21,13 @@ Arnscheidt, C. W., Beard, S. J., Hobson, T., Ingram, P., Kemp, L., Mani, L., Mar
 
 Avin, S., Wintle, B. C., Weitzdörfer, J., Ó hÉigeartaigh, S. S., Sutherland, W. J., & Rees, M. J. (2018). Classifying global catastrophic risks. Futures, 102, 20–26. https://doi.org/10.1016/j.futures.2018.02.001
 
+Baker, D. N., Jackson, J. M., & Thompson, L. K. (2014). Predicting and mitigating socio-economic impacts of extreme space weather: Benefits of improved forecasts. In A. Ismail-Zadeh, A. Kijko, I. Zaliapin, J. Urrutia Fucugauchi, & K. Takeuchi (Eds.), Extreme Natural Hazards, Disaster Risks and Societal Implications (pp. 113–125). Cambridge University Press. https://doi.org/10.1017/CBO9781139523905.012
+
 Balaji, V., Couvreux, F., Deshayes, J., Gautrais, J., Hourdin, F., & Rio, C. (2022). Are general circulation models obsolete? Proceedings of the National Academy of Sciences, 119(47), e2202075119. https://doi.org/10.1073/pnas.2202075119
 
 Bardi, U. (2020). Before the Collapse: A Guide to the Other Side of Growth. Springer International Publishing. https://doi.org/10.1007/978-3-030-29038-2
+
+Bard, E., Miramont, C., Capano, M., Guibal, F., Marschal, C., Rostek, F., Tuna, T., Fagault, Y., & Heaton, T. J. (2023). A radiocarbon spike at 14 300 cal yr BP in subfossil trees provides the impulse response function of the global carbon cycle during the Late Glacial. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 381(2261), 20220206. https://doi.org/10.1098/rsta.2022.0206
 
 Baum, S. D. (2023). Assessing natural global catastrophic risks. Natural Hazards, 115(3), 2699–2719. https://doi.org/10.1007/s11069-022-05660-w
 
@@ -109,6 +113,8 @@ D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp S
 
 Easterlin, R. (2012). Life satisfaction of rich and poor under socialism and capitalism. International Journal of Happiness and Development, 1(1), 112–126.
 
+Eastwood, J. P., Biffis, E., Hapgood, M. A., Green, L., Bisi, M. M., Bentley, R. D., Wicks, R., McKinnell, L.-A., Gibbs, M., & Burnett, C. (2017). The Economic Impact of Space Weather: Where Do We Stand? Risk Analysis, 37(2), 206–218. https://doi.org/10.1111/risa.12765
+
 Egeland, Kjølv. 2025. “Disentangling the Nexus of Nuclear Weapons and Climate Change—A Research Agenda.” International Studies Review 27(1):viaf003. doi:10.1093/isr/viaf003.
 
 Faulseit, R. K. (2016). Beyond Collapse: Archaeological Perspectives on Resilience, Revitalization, and Transformation in Complex Societies. SIU Press.
@@ -149,6 +155,8 @@ Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of �
 
 Jagtap, S., Trollman, H., Trollman, F., Garcia-Garcia, G., Parra-López, C., Duong, L., Martindale, W., Munekata, P. E. S., Lorenzo, J. M., Hdaifeh, A., Hassoun, A., Salonitis, K., & Afy-Shararah, M. (2022). The Russia-Ukraine Conflict: Its Implications for the Global Food Supply Chains. Foods, 11(14), 2098. https://doi.org/10.3390/foods11142098
 
+Jasinski, J. M., & Velli, M. (2025). The Sun Reversed Its Decades-long Weakening Trend in 2008. The Astrophysical Journal Letters, 990(2), L55. https://doi.org/10.3847/2041-8213/adf3a6
+
 Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2024). Food trade disruption after global catastrophes. EarthArXiv. https://eartharxiv.org/repository/view/7339/
 
 Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries.” Pp. 119–32 in Intersections, Reinforcements, Cascades: Proceedings of the 2023 Stanford Existential Risks Conference. The Stanford Existential Risks Initiative.
@@ -156,6 +164,8 @@ Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Ef
 Jehn, F. U., Dingal, F. J., Mill, A., Harrison, C. S., Ilin, E., Roleda, M. Y., James, S. C., & Denkenberger, D. C. (2023). Seaweed as a resilient food solution after a nuclear war. Zenodo. https://doi.org/10.5281/zenodo.7615254
 
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
+
+Johnson, M., Gorospe, G., Landry, J., & Schuster, A. (2016). Review of mitigation technologies for terrestrial power grids against space weather effects. International Journal of Electrical Power & Energy Systems, 82, 382–391. https://doi.org/10.1016/j.ijepes.2016.02.049
 
 Kang, H., Lee, K.-M., & Yang, J.-S. (2024). The potential for cascading failures in the international trade network. PLOS ONE, 19(3), e0299833. https://doi.org/10.1371/journal.pone.0299833
 
@@ -189,6 +199,8 @@ Lawler, A. (2010). Collapse? What Collapse? Societal Change Revisited. Science, 
 
 Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockstöm, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: The causal mechanisms of crisis entanglement. Global Sustainability, 7, e6. https://doi.org/10.1017/sus.2024.1
 
+Lawrence, E., Beggan, C. D., Richardson, G. S., Reay, S., Thompson, V., Clarke, E., Orr, L., Hübert, J., & Smedley, A. R. D. (2025). The geomagnetic and geoelectric response to the May 2024 geomagnetic storm in the United Kingdom. Frontiers in Astronomy and Space Sciences, 12. https://doi.org/10.3389/fspas.2025.1550923
+
 Lenton, T. M. (2023). Climate Change and Tipping Points in Historical Collapse. In How Worlds Collapse. Routledge.
 
 Lenton, T. M., Held, H., Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S., & Schellnhuber, H. J. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105(6), 1786–1793. https://doi.org/10.1073/pnas.0705414105
@@ -204,6 +216,8 @@ Liu, H.-Y., Lauta, K. C., & Maas, M. M. (2018). Governing Boring Apocalypses: A 
 Ljungqvist, F. C., Seim, A., & Collet, D. (2023). Famines in medieval and early modern Europe—Connecting climate and society. WIREs Climate Change, n/a(n/a), e859. https://doi.org/10.1002/wcc.859
 
 Loughlin, M. (2019). The Contemporary Crisis of Constitutional Democracy†. Oxford Journal of Legal Studies, 39(2), 435–454. https://doi.org/10.1093/ojls/gqz005
+
+Maffei, S., Eggington, J. W. B., Livermore, P. W., Mound, J. E., Sanchez, S., Eastwood, J. P., & Freeman, M. P. (2023). Climatological predictions of the auroral zone locations driven by moderate and severe space weather events. Scientific Reports, 13(1), 779. https://doi.org/10.1038/s41598-022-25704-2
 
 Maini, A. (2020). On Historical Dynamics by P. Turchin. Biophysical Economics and Sustainability, 5(1), 3. https://doi.org/10.1007/s41247-019-0063-x
 
@@ -246,6 +260,8 @@ Oreskes, N. (2021). Why trust science? Princeton University Press.
 Oreskes, N., & Conway, E. (2022). From Anti-Government to Anti-Science: Why Conservatives Have Turned Against Science. Daedalus, 151, 98–123. https://doi.org/10.1162/daed_a_01946
 
 Oreskes, N., & Conway, E. M. (2012). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming (Paperback. ed). Bloomsbury.
+
+Oughton, E. J., Hapgood, M., Richardson, G. S., Beggan, C. D., Thomson, A. W. P., Gibbs, M., Burnett, C., Gaunt, C. T., Trichas, M., Dada, R., & Horne, R. B. (2019). A Risk Assessment Framework for the Socioeconomic Impacts of Electricity Transmission Infrastructure Failure Due to Space Weather: An Application to the United Kingdom. Risk Analysis, 39(5), 1022–1043. https://doi.org/10.1111/risa.13229
 
 Patterson, M. C., Peter Callahan, Paul Larcey, Thayer (Ed.). (2023). How Worlds Collapse: What History, Systems, and Complexity Can Teach Us About Our Modern World and Fragile Future. Routledge. https://doi.org/10.4324/9781003331384
 
@@ -290,6 +306,8 @@ Scheffer, M., van Nes, E. H., Kemp, L., Kohler, T. A., Lenton, T. M., & Xu, C. (
 Schippers, M. C., Ioannidis, J. P. A., & Luijks, M. W. J. (2024). Is society caught up in a Death Spiral? Modeling societal demise and its reversal. Frontiers in Sociology, 9. https://doi.org/10.3389/fsoc.2024.1194597
 
 Schmidt, A. T., & Juijn, D. (2024). Economic inequality and the long-term future. Politics, Philosophy & Economics, 23(1), 67–99. https://doi.org/10.1177/1470594X231178502
+
+Schulte in den Bäumen, H., Moran, D., Lenzen, M., Cairns, I., & Steenge, A. (2014). How severe space weather can disrupt global supply chains. Natural Hazards and Earth System Sciences, 14(10), 2749–2759. https://doi.org/10.5194/nhess-14-2749-2014
 
 Schweizer, P.-J., & Juhola, S. (2024). Navigating systemic risks: Governance of and for systemic risks. Global Sustainability, 7, e38. https://doi.org/10.1017/sus.2024.30
 
@@ -351,7 +369,13 @@ Turchin, P., Whitehouse, H., Larson, J., Cioni, E., Reddish, J., Hoyer, D., Sava
 
 Turchin, P. (2023). End times: Elites, counter-elites, and the path of political disintegration. Penguin Press. 
 
+U.S. Departement of Energy. (2019). Geomagnetic Disturbance Monitoring Approach and Implementation Strategies. U.S. Departement of Energy. https://www.energy.gov/sites/prod/files/2019/06/f64/DOE_GMD_Monitoring_January2019_508v2.pdf
+
 Varberg, J., Kaul, F., & Gratuze, B. (2020). Bronze Age Glass and Amber Evidence of Bronze Age long distance exchange. Adoranten, 2019, 5–29.
+
+Vasilyev, V., Reinhold, T., Shapiro, A. I., Usoskin, I., Krivova, N. A., Maehara, H., Notsu, Y., Brun, A. S., Solanki, S. K., & Gizon, L. (2024). Sun-like stars produce superflares roughly once per century. Science, 386(6727), 1301–1305. https://doi.org/10.1126/science.adl5441
+
+Vasyliūnas, V. M. (2011). The largest imaginable magnetic storm. Journal of Atmospheric and Solar-Terrestrial Physics, 73(11), 1444–1446. https://doi.org/10.1016/j.jastp.2010.05.012
 
 Verschuur, J., Murgatroyd, A., Vittis, Y., Mosnier, A., Obersteiner, M., Godfray, C., & Hall, J. (2024). The impacts of polycrises on global grain availability and prices. https://doi.org/10.21203/rs.3.rs-3969801/v1
 
