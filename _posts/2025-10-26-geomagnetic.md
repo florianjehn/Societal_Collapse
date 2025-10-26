@@ -2,7 +2,7 @@
 layout: post
 title: Space weather and critical infrastructure
 subtitle: Nice aurora you have there, too bad electricity is gone
-tags: [Influence Factors, Coordination Problems]
+tags: [Influence Factors, Infrastructure]
 comments: true
 readtime: true
 ---
@@ -60,7 +60,7 @@ The impacts of the storms depend a lot on how large they are. We clearly know th
 
 There is also some research that looks into paleo records of how large the Sun’s flares can become. A recent example of this is Bard et al. (2023). When solar flares hit Earth’s atmosphere they create radioactive carbon-14. Trees absorb this and fix it in their growth rings. This means when you have very old remains of trees you can use the carbon-14 concentration as a proxy for the size of solar flares that hit Earth while the tree was still growing. Bard and his co-authors were able to find 14,300 year old tree remains. In those trees they found carbon-14 concentrations which indicate that a solar flare around a magnitude larger than the Carrington Event must have hit Earth. 
 
-These two lines of argument imply that the Sun is probably capable of creating geomagnetic storms of a magnitude larger than the Carrington Event. However, the maximum size of a geomagnetic storm is limited by the strength of the geomagnetic field as well. Vasyliūnas (2011) created a theoretical physical model and uses it to argue that the largest possible storm change in magnetic field is roughly 1.5 times the size of the Carrington event in terms of depression of the magnetic field at the tropics, although this is not exactly the same as the peak rate of change of magnetic field which is responsible for high voltage transformer overheating and other electricity grid issues. So, storms above 1.5 Carrington size could still produce more damages, for example by more quickling ramping up to the maximum value or changing more rapidly, even though their maximum value of magnetic field strength depression is topped out.  
+These two lines of argument imply that the Sun is probably capable of creating geomagnetic storms of a magnitude larger than the Carrington Event. However, the maximum size of a geomagnetic storm is limited by the strength of the geomagnetic field as well. Vasyliūnas (2011) created a theoretical physical model and uses it to argue that the largest possible storm change in magnetic field is roughly 1.5 times the size of the Carrington event in terms of depression of the magnetic field at the tropics, although this is not exactly the same as the peak rate of change of magnetic field which is responsible for high voltage transformer overheating and other electricity grid issues. So, storms above 1.5 Carrington size could still produce more damages, for example by more quickly ramping up to the maximum value or changing more rapidly, even though their maximum value of magnetic field strength depression is topped out.  
 
 The dangers might also be getting more imminent. Jasinski & Velli (2025) looked at activity data from the Sun of the last few decades and found that the Sun is currently on a trend of increased activity in general, meaning that for the next few decades the occurrence of a larger geomagnetic storm might be higher. The magnetic field of the earth is also on a weakening trend, decreasing the natural geomagnetic shield from CME charged particle radiation.
 
