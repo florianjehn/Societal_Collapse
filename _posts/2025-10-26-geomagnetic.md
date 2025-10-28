@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Space weather and critical infrastructure
-subtitle: Nice aurora you have there, too bad electricity is gone
+title: Auroras, space weather and the threat to critical infrastructure
+subtitle: How vulnerable are we to the next Carrington Event?
 tags: [Influence Factors, Infrastructure]
 comments: true
 readtime: true
