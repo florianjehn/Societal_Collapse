@@ -25,4 +25,4 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 
 # Infrastructure
 * [The consequences of large-scale blackouts](https://florianjehn.github.io/Societal_Collapse/2024-09-29-blackout/)
-* [Space weather and critical infrastructure](https://florianjehn.github.io/Societal_Collapse/2025-10-26-geomagnetic/)
+* [Auroras, space weather and the threat to critical infrastructure](https://florianjehn.github.io/Societal_Collapse/2025-10-26-geomagnetic/)
