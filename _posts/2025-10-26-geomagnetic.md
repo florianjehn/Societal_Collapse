@@ -99,6 +99,10 @@ On the mitigation side, forecasting has improved substantially, and the past dec
 
 That said, there are reasons for cautious optimism. This is an active research field with relatively strong government interest compared to other global risks, suggesting the dangers may decrease over time. Additionally, geomagnetic storms appear to be more regional than global in nature when it comes to the worst impacts. While effects could potentially be felt across most of the globe, transformer damage would likely affect only certain regions. This would certainly be expensive to repair and could cost many lives if managed poorly, but there doesn't seem to be a realistic pathway to a global blackout.
 
+# How to cite
+
+Jehn, F. U. (2025, October 29). Auroras, space weather and the threat to critical infrastructure. Existential Crunch. [https://doi.org/10.59350/g95ww-xym22](https://doi.org/10.59350/g95ww-xym22)
+
 # Endnotes
 
 (1) One caveat: many high voltage transformers have backups at the station already, which would take days or weeks, rather than months, to be put into position and powered on.
