@@ -51,6 +51,8 @@ Boers, N., Ghil, M., & Stocker, T. F. (2022). Theoretical and paleoclimatic evid
 
 Borcan, O., Olsson, O., & Putterman, L. (2021). Transition to agriculture and first state presence: A global analysis. Explorations in Economic History, 82, 101404. https://doi.org/10.1016/j.eeh.2021.101404
 
+Bosetti, V., Colantone, I., De Vries, C. E., & Musto, G. (2025). Green backlash and right-wing populism. Nature Climate Change, 15(8), 822–828. https://doi.org/10.1038/s41558-025-02384-0 
+
 Boyd, M., & Wilson, N. (2021). Anticipatory Governance for Preventing and Mitigating Catastrophic and Existential Risks. Policy Quarterly, 17(4), Article 4. https://doi.org/10.26686/pq.v17i4.7313
 
 Boyd, M., & Wilson, N. (2023). Island refuges for surviving nuclear winter and other abrupt sunlight-reducing catastrophes. Risk Analysis, 43(9), 1824–1842. https://doi.org/10.1111/risa.14072
@@ -96,6 +98,8 @@ Dal Prá, G., Chan, C., Burkhanov, T., Arnscheidt, C. W., Cremades, R., Cremer, 
 Dakos, V., Boulton, C. A., Buxton, J. E., Abrams, J. F., Armstrong McKay, D. I., Bathiany, S., Blaschke, L., Boers, N., Dylewsky, D., López-Martínez, C., Parry, I., Ritchie, P., van der Bolt, B., van der Laan, L., Weinans, E., & Kéfi, S. (2023). Tipping Point Detection and Early-Warnings in climate, ecological, and human systems. EGUsphere, 1–35. https://doi.org/10.5194/egusphere-2023-1773
 
 Damany-Pearce, L., Johnson, B., Wells, A., Osborne, M., Allan, J., Belcher, C., Jones, A., & Haywood, J. (2022). Australian wildfires cause the largest stratospheric warming since Pinatubo and extends the lifetime of the Antarctic ozone hole. Scientific Reports, 12. https://doi.org/10.1038/s41598-022-15794-3
+
+Davidson, J. P. L., & Kemp, L. (2024). Climate catastrophe: The value of envisioning the worst-case scenarios of climate change. WIREs Climate Change, 15(2), e871. https://doi.org/10.1002/wcc.871 
 
 Degroot, D., Anchukaitis, K., Bauch, M., Burnham, J., Carnegy, F., Cui, J., de Luna, K., Guzowski, P., Hambrecht, G., Huhtamaa, H., Izdebski, A., Kleemann, K., Moesswilde, E., Neupane, N., Newfield, T., Pei, Q., Xoplaki, E., & Zappia, N. (2021). Towards a rigorous understanding of societal responses to climate change. Nature, 591(7851), Article 7851. https://doi.org/10.1038/s41586-021-03190-2
 
@@ -162,6 +166,8 @@ Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderli
 Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries.” Pp. 119–32 in Intersections, Reinforcements, Cascades: Proceedings of the 2023 Stanford Existential Risks Conference. The Stanford Existential Risks Initiative.
 
 Jehn, F. U., Dingal, F. J., Mill, A., Harrison, C. S., Ilin, E., Roleda, M. Y., James, S. C., & Denkenberger, D. C. (2023). Seaweed as a resilient food solution after a nuclear war. Zenodo. https://doi.org/10.5281/zenodo.7615254
+
+Jehn, F. U., Kemp, L., Ilin, E., Funk, C., Wang, J. R., & Breuer, L. (2022). Focus of the IPCC Assessment Reports Has Shifted to Lower Temperatures. Earth’s Future, 10(5), e2022EF002876. https://doi.org/10.1029/2022EF002876 
 
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
 
@@ -231,9 +237,13 @@ Marinatos, S. (1939). The Volcanic Destruction of Minoan Crete. Antiquity, 13(52
 
 Meadows, D. H., Club of Rome, & Potomac Associates (Eds.). (1974). The limits to growth: A report for the club of rome’s project on the predicament of mankind (2. ed). Universe books.
 
+Meinshausen, M., Schleussner, C.-F., Beyer, K., Bodeker, G., Boucher, O., Canadell, J. G., Daniel, J. S., Diongue-Niang, A., Driouech, F., Fischer, E., Forster, P., Grose, M., Hansen, G., Hausfather, Z., Ilyina, T., Kikstra, J. S., Kimutai, J., King, A. D., Lee, J.-Y., … Nicholls, Z. (2024). A perspective on the next generation of Earth system model scenarios: Towards representative emission pathways (REPs). Geoscientific Model Development, 17(11), 4533–4559. https://doi.org/10.5194/gmd-17-4533-2024
+
 Middleton, G. D. (2017). Understanding Collapse: Ancient History and Modern Myths. Cambridge University Press. https://doi.org/10.1017/9781316584941
 
 Millemaci, E., Monteforte, F., & Temple, J. R. W. (2024). Have Autocrats Governed for the Long Term? Kyklos. https://doi.org/10.1111/kykl.12425
+
+Minobe, S., Behrens, E., Findell, K. L., Loeb, N. G., Meyssignac, B., & Sutton, R. (2025). Global and regional drivers for exceptional climate extremes in 2023-2024: Beyond the new normal. Npj Climate and Atmospheric Science, 8(1), 138. https://doi.org/10.1038/s41612-025-00996-z 
 
 Moersdorf, J., Rivers, M., Denkenberger, D., Breuer, L., & Jehn, F. U. (2024). The Fragile State of Industrial Agriculture: Estimating Crop Yield Reductions in a Global Catastrophic Infrastructure Loss Scenario. Global Challenges, 8(1), 2300206. https://doi.org/10.1002/gch2.202300206
 
@@ -368,6 +378,8 @@ Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Bak
 Turchin, P., Whitehouse, H., Larson, J., Cioni, E., Reddish, J., Hoyer, D., Savage, P. E., Covey, R. A., Baines, J., Altaweel, M., Anderson, E., Bol, P., Brandl, E., Carballo, D. M., Feinman, G., Korotayev, A., Kradin, N., Levine, J. D., Nugent, S. E., … François, P. (2023). Explaining the rise of moralizing religions: A test of competing hypotheses using the Seshat Databank. Religion, Brain & Behavior, 13(2), 167–194. https://doi.org/10.1080/2153599X.2022.2065345
 
 Turchin, P. (2023). End times: Elites, counter-elites, and the path of political disintegration. Penguin Press. 
+
+UN Environment Programme. (2023). Emissions Gap Report 2023: Broken Record. https://www.unep.org/interactives/emissions-gap-report/2023/ 
 
 U.S. Departement of Energy. (2019). Geomagnetic Disturbance Monitoring Approach and Implementation Strategies. U.S. Departement of Energy. https://www.energy.gov/sites/prod/files/2019/06/f64/DOE_GMD_Monitoring_January2019_508v2.pdf
 
