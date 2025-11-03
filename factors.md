@@ -9,6 +9,7 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 * [The trouble with tipping points](https://florianjehn.github.io/Societal_Collapse/2023-06-19-tipping_points/)
 * [Climate anomalies and societal collapse](https://florianjehn.github.io/Societal_Collapse/2024-02-08-climate_collapse/)
 * [Manipulating the global thermostat](https://florianjehn.github.io/Societal_Collapse/2025-05-30-global_thermostat/)
+* [Does climate science focus on the right temperature range?](https://florianjehn.github.io/Societal_Collapse/2025-11-03-climate_focus/)
 
 # Famine
 * [Escaping the Malthusian Trap](https://florianjehn.github.io/Societal_Collapse/2023-01-13-famine/)
@@ -21,7 +22,7 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 * [Anthropocene traps](https://florianjehn.github.io/Societal_Collapse/2024-06-20-anthropocene_traps/)
 * [Trade collapse](https://florianjehn.github.io/Societal_Collapse/2024-04-25-trade_collapse/)
 * [Economic inequality and societal collapse](https://florianjehn.github.io/Societal_Collapse/2024-12-20-inequality/)
-* [Who shapes global risk?](https://florianjehn.github.io/Societal_Collapse/2025-09-29-risk_actors/)
+* [Who shapes global risk?](https://florianjehn.github.io/Societal_Collapse/2025-11-29-risk_actors/)
 
 # Infrastructure
 * [The consequences of large-scale blackouts](https://florianjehn.github.io/Societal_Collapse/2024-09-29-blackout/)
