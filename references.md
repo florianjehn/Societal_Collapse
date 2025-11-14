@@ -161,6 +161,8 @@ Jagtap, S., Trollman, H., Trollman, F., Garcia-Garcia, G., Parra-López, C., Duo
 
 Jasinski, J. M., & Velli, M. (2025). The Sun Reversed Its Decades-long Weakening Trend in 2008. The Astrophysical Journal Letters, 990(2), L55. https://doi.org/10.3847/2041-8213/adf3a6
 
+Jain, S. (2024). Mapping Global Cereal Flow at Subnational Scales Unveils Key Insights for Food Systems Resilience. Research Square. https://doi.org/10.21203/rs.3.rs-5204730/v1
+
 Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2024). Food trade disruption after global catastrophes. EarthArXiv. https://eartharxiv.org/repository/view/7339/
 
 Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries.” Pp. 119–32 in Intersections, Reinforcements, Cascades: Proceedings of the 2023 Stanford Existential Risks Conference. The Stanford Existential Risks Initiative.
@@ -190,6 +192,8 @@ Kemp, L. (2023). Diminishing Returns on Extraction: How Inequality and Extractiv
 Kemp, L. (2025). Goliath’s Curse: The History and Future of Societal Collapse. Viking. 
 
 Kemp, L., Xu, C., Depledge, J., Ebi, K. L., Gibbins, G., Kohler, T. A., Rockström, J., Scheffer, M., Schellnhuber, H. J., Steffen, W., & Lenton, T. M. (2022). Climate Endgame: Exploring catastrophic climate change scenarios. Proceedings of the National Academy of Sciences, 119(34), e2108146119. https://doi.org/10.1073/pnas.2108146119
+
+Keys, P. W., Barnes, E. A., Diffenbaugh, N. S., Hertel, T. W., Baldos, U. L. C., & Hedlund, J. (2025). Exposure to compound climate hazards transmitted via global agricultural trade networks. Environmental Research Letters, 20(4), 044039. https://doi.org/10.1088/1748-9326/adb86a
 
 Knitter, D., Günther, G., Hamer, W. B., Keßler, T., Seguin, J., Unkel, I., Weiberg, E., Duttmann, R., & Nakoinz, O. (2019). Land use patterns and climate change—A modeled scenario of the Late Bronze Age in Southern Greece. Environmental Research Letters, 14(12), 125003. https://doi.org/10.1088/1748-9326/ab5126
 
