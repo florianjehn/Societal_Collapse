@@ -14,7 +14,7 @@ A little about me - I have a PhD in environmental science, but in recent years I
 
 # Funding
 
-The project is funded by [Open Phil](https://www.openphilanthropy.org/). They are also looking for more people who would be interested in working on such a living literature review for a variety of topics. More info [here](https://www.openphilanthropy.org/focus/innovation-policy/).
+The project is funded by [Coefficient Giving](https://coefficientgiving.org/). They are also looking for more people who would be interested in working on such a living literature review for a variety of topics. More info [here](https://coefficientgiving.org/funds/abundance-and-growth/living-literature-reviews/).
 
 # Acknowledgement
 Over the time a lot of people have helped me with feedback on my posts. I try to keep this list up to date, but please remind me if I overlooked you here. 
