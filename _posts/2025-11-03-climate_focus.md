@@ -119,6 +119,10 @@ Finally, I want to highlight especially the climate tipping points community. Af
 
 Now we just have to put in the work to avoid those. 
 
+# How to cite
+
+Jehn, F. U. (2025, November 26). Does climate science focus on the right temperature range?. Existential Crunch. https://doi.org/10.59350/g64bp-jjf43
+
 # Endnotes
 
 (1) If you want to learn more about where this distrust might come from, take a look [here](https://existentialcrunch.substack.com/p/inequality-all-the-way-down).
