@@ -259,6 +259,8 @@ Nathan, C., & Hyams, K. (2022). Global policymakers and catastrophic risk. Polic
 
 National Academies of Sciences, Engineering, and Medicine. 2025. Potential Environmental Effects of Nuclear War. Washington, D.C.: National Academies Press.
 
+Norman, C., Schwinden, L., Krusic, P., Rzepecki, A., Bebchuk, T., & Büntgen, U. (2025). Droughts and conflicts during the late Roman period. Climatic Change, 178(5), 87. https://doi.org/10.1007/s10584-025-03925-4 
+
 Norrie, P. (2016). How Disease Affected the End of the Bronze Age. In P. Norrie (Ed.), A History of Disease in Ancient Times: More Lethal than War (pp. 61–101). Springer International Publishing. https://doi.org/10.1007/978-3-319-28937-3_5
 
 Nur, A., & Cline, E. H. (2000). Poseidon’s Horses: Plate Tectonics and Earthquake Storms in the Late Bronze Age Aegean and Eastern Mediterranean. Journal of Archaeological Science, 27(1), 43–63. https://doi.org/10.1006/jasc.1999.0431
