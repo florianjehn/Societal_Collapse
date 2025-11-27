@@ -49,7 +49,15 @@ If traditional theories of cultural evolution are a narrative based style of col
 
 Secular cycles describe a recurring pattern in history. It starts with a growing population that also has room to grow. The growth leads to more resources for everyone, which leads to an overall cooperative atmosphere. However, at some point, the room to grow shrinks, so that people can only get more resources if they take it from others. Population increases also depress real wages whilst also leading to an overproduction of elites relative to elite positions.This decreases trust and peace until it possibly triggers a redistributive event, which could be something like a civil war, which in turn decreases the population and the cycle starts anew. 
 
-While this approach of history creates very elegant theories, it has also been criticized as being too simplistic and having a too narrow focus on easily measurable variables (Maini, 2020). The proponents of this school counter that only a large sample history can give you reliable results. In a recent paper, Daniel Hoyer describes the failures of past schools of collapse and links them all to being too focussed on small, biased samples and case studies (Hoyer, 2022). Hoyer thinks that only a large, representative sample gives you a chance of getting general insights.
+While this approach of history creates very elegant theories, it has also been criticized as being too simplistic and having a too narrow focus on easily measurable variables (Maini, 2020). The proponents of this school counter that only a large sample history can give you reliable results. In a recent paper, Daniel Hoyer describes the failures of past schools of collapse and links them all to being too focussed on small, biased samples and case studies (Hoyer, 2022). Hoyer thinks that only a large, representative sample gives you a chance of getting general insights (1).
+
+### Goliath’s curse
+
+*“Dominance hierarchies doom societies”*
+
+Goliath’s curse is the most recent addition to major collapse theories (introduced by Luke Kemp in 2025). It draws inspiration from all of them. Similarly to Structural demographic theory, it is more focussed on the social aspects, but also discusses major shocks, especially in the form of global catastrophic risk today. 
+
+The general idea of Goliath’s curse is storable resources enable dominance hierarchies that create inequality, weakening societies until shocks trigger collapse. This is all based on a large body of evidence, which starts from the belief that humans favor egalitarian societies, but that societies easily end up in a spiral of dominance. This spiral is started by people gaining access to storable resources (like grain). Once those are available, they can be amassed and inherited. Quickly creating a power differential, which allows some to gain power. With this power often comes violence and coercion. People can only bear so much of it and they rebel if it gets too bad. This cycle has repeated countless times by now and if we are not careful, the global society of today might end up in the same way. So, better to reduce inequality now, before a global collapse makes everyone equally poor (2). 
 
 ## What even counts as collapse?
 
