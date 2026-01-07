@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Endtime economics
+title: End time economics
 subtitle: Supply and demand after global catastrophes
 tags: [Overview Post, Summaries]
 comments: true
