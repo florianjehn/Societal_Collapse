@@ -19,6 +19,8 @@ Armstrong McKay, D. I., Staal, A., Abrams, J. F., Winkelmann, R., Sakschewski, B
 
 Arnscheidt, C. W., Beard, S. J., Hobson, T., Ingram, P., Kemp, L., Mani, L., Marcoci, A., Mbeva, K., hÉigeartaigh, S. Ó., Sandberg, A., Sundaram, L., & Wunderling, N. (2024). Systemic contributions to global catastrophic risk. OSF. https://doi.org/10.31235/osf.io/wcj9e
 
+Article 36. (2015). Economic impacts of a nuclear weapon detonation. 
+
 Avin, S., Wintle, B. C., Weitzdörfer, J., Ó hÉigeartaigh, S. S., Sutherland, W. J., & Rees, M. J. (2018). Classifying global catastrophic risks. Futures, 102, 20–26. https://doi.org/10.1016/j.futures.2018.02.001
 
 Baker, D. N., Jackson, J. M., & Thompson, L. K. (2014). Predicting and mitigating socio-economic impacts of extreme space weather: Benefits of improved forecasts. In A. Ismail-Zadeh, A. Kijko, I. Zaliapin, J. Urrutia Fucugauchi, & K. Takeuchi (Eds.), Extreme Natural Hazards, Disaster Risks and Societal Implications (pp. 113–125). Cambridge University Press. https://doi.org/10.1017/CBO9781139523905.012
@@ -140,6 +142,8 @@ Hasell, J., & Roser, M. (2013). Famines. Our World in Data. https://ourworldinda
 Herrington, G. (2021). Update to limits to growth: Comparing the World3 model with empirical data. Journal of Industrial Ecology, 25(3), 614–626. https://doi.org/10.1111/jiec.13084
 
 Hess, G. D. (2021). The Impact of a Regional Nuclear Conflict between India and Pakistan: Two Views. Journal for Peace and Nuclear Disarmament, 4(sup1), 163–175. https://doi.org/10.1080/25751654.2021.1882772
+
+Hochman, G., Zhang, H., Xia, L., Robock, A., Saketh, A., Mensbrugghe, D. Y. van der, & Jägermeyr, J. (2022). Economic incentives modify agricultural impacts of nuclear war. Environmental Research Letters, 17(5), 054003. https://doi.org/10.1088/1748-9326/ac61c7 
 
 Holder, S. L., Ainsworth, R., Aldrich, D., Bennett, J. S., Feinman, G., Mark, S., Orlandi, G., Preiser-Kapeller, J., Reddish, J., Schoonover, R., Turchin, P., & Hoyer, D. (2024). The Spectrum of (Poly)Crisis: Exploring polycrises of the past to better understand our current and future risks. OSF. https://doi.org/10.31235/osf.io/3bspg
 
@@ -349,6 +353,8 @@ Stauffer, M., Kirsch-Wood, J., Stevance, A.-S., Mani, L., Sundaram, L., Dryhurst
 
 Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., Summerhayes, C. P., Barnosky, A. D., Cornell, S. E., Crucifix, M., Donges, J. F., Fetzer, I., Lade, S. J., Scheffer, M., Winkelmann, R., & Schellnhuber, H. J. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33), Article 33.
 
+Stiglitz, J. E. (2018). Where modern macroeconomics went wrong. Oxford Review of Economic Policy, 34(1–2), 70–106. https://doi.org/10.1093/oxrep/grx057 
+
 Stoffel, M., Corona, C., Ludlow, F., Sigl, M., Huhtamaa, H., Garnier, E., Helama, S., Guillet, S., Crampsie, A., Kleemann, K., Camenisch, C., McConnell, J., & Gao, C. (2022). Climatic, weather, and socio-economic conditions corresponding to the mid-17th-century eruption cluster. Climate of the Past, 18(5), 1083–1108. https://doi.org/10.5194/cp-18-1083-2022
 
 Sullivan, D., & Hickel, J. (2023). Capitalism and extreme poverty: A global analysis of real wages, human height, and mortality since the long 16th century. World Development, 161, 106026. https://doi.org/10.1016/j.worlddev.2022.106026 
@@ -410,6 +416,8 @@ Wang, S., Foster, A., Lenz, E. A., Kessler, J. D., Stroeve, J. C., Anderson, L. 
 Wang, X., Ma, L., Yan, S., Chen, X., & Growe, A. (2023). Trade for Food Security: The Stability of Global Agricultural Trade Networks. Foods, 12, 271. https://doi.org/10.3390/foods12020271
 
 Weiss, H. (1982). The decline of Late Bronze Age civilization as a possible response to climatic change. Climatic Change, 4(2), 173–198.
+
+Weitzman, M. L. (2009). On Modeling and Interpreting the Economics of Catastrophic Climate Change. The Review of Economics and Statistics, 91(1), 1–19. https://doi.org/10.1162/rest.91.1.1 
 
 Wellesley, L., Preston, F., Lehne, J., & Bailey, R. (2017). Chokepoints in global food trade: Assessing the risk. Research in Transportation Business & Management, 25, 15–28. https://doi.org/10.1016/j.rtbm.2017.07.007
 
