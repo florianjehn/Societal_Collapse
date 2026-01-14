@@ -63,6 +63,9 @@ Can you calculate a price after a catastrophe? Maybe, but it will always be a gu
 
 (3) This example is actually something that seems to be getting more likely over time. Increased human population and animals migrating to cope with higher warming produce much more opportunities for disease to be transmitted from animals to humans. 
 
+# How to cite
+Jehn, F. U. (2026, January 14). End time economics. Existential Crunch. https://doi.org/10.59350/10f7p-hc578
+
 # References 
 * Article 36. (2015). Economic impacts of a nuclear weapon detonation. 
 * Hochman, G., Zhang, H., Xia, L., Robock, A., Saketh, A., Mensbrugghe, D. Y. van der, & Jägermeyr, J. (2022). Economic incentives modify agricultural impacts of nuclear war. Environmental Research Letters, 17(5), 054003. https://doi.org/10.1088/1748-9326/ac61c7 
