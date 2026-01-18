@@ -107,6 +107,10 @@ Degroot, D., Anchukaitis, K., Bauch, M., Burnham, J., Carnegy, F., Cui, J., de L
 
 Denkenberger, D., & Pearce, J. (2015). Feeding everyone no matter what: Managing food security after global catastrophe. Academic Press.
 
+Deutscher Bundestag. (2024). Antwort der Bundesregierung auf die Kleine Anfrage der Fraktion der CDU/CSU: Fähigkeit zur Zivilen Verteidigung und insbesondere Zustand des Zivilschutzes in Deutschland im Jahr 2024 (Drucksache 20/11895). 20. Wahlperiode. 
+
+Deutscher Bundestag. (2025). Antwort der Bundesregierung auf die Kleine Anfrage der Abgeordneten Dr. Thorsten Lieb, Christoph Meyer, Otto Fricke, weiterer Abgeordneter und der Fraktion der FDP: Öffentliche Schutzräume (Drucksache 20/14631). 20. Wahlperiode. 
+
 Diamond, J. M. (2011). Collapse: How societies choose to fail or survive. Penguin Books.
 
 Do, T., Anderson, K., & Brorsen, B. W. (2010). The World’s wheat supply. Oklahoma Cooperative Extension Service.
