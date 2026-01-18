@@ -6,7 +6,7 @@ tags: [Resilience, General Preparation]
 comments: true
 readtime: true
 ---
-Recently, I visited a [cold war bunker near Saarbrücken](https://unterirdisches-saarbruecken.de/). It was a test bunker for West Germany, where they could try out all their new, fancy ideas on how to make the best bunker. To keep it secret, they build it in parallel to a new highway and it is hidden beneath the autobahn. As it was a place to try out new ideas and was built quite quickly, it had some flaws like not having enough food stored, air filters that would likely only have lasted for a few days and walls so thin that a nuclear explosion anywhere near it would have collapsed the whole thing. So, not really the place you would have chosen first to stay during a nuclear war. Still, the ideas tested in it helped West Germany to build around 2000 bunkers all over the country. During the visit, the tour guide also mentioned that Germany had recently taken stock of their bunkers. So, I started to search for any report around it. The actual report is classified, but luckily, there exists a summary of it in two answers to written parliamentary questions (Deutscher Bundestag, 2024, 2025, Drucksache 20/11895 and 20/14631).
+Recently, I visited a [cold war bunker near Saarbrücken](https://unterirdisches-saarbruecken.de/). It was a test bunker for West Germany, where they could try out all their new, fancy ideas on how to make the best bunker. To keep it secret, they build it in parallel to a new highway and it is hidden beneath the autobahn. As it was a place to try out new ideas and was built quite quickly, it had some flaws like not having enough food stored, air filters that would likely only have lasted for a few days and walls so thin that a nuclear explosion anywhere near it would have collapsed the whole thing (1). So, not really the place you would have chosen first to stay during a nuclear war. Still, the ideas tested in it helped West Germany to build around 2000 bunkers all over the country. During the visit, the tour guide also mentioned that Germany had recently taken stock of their bunkers. So, I started to search for any report around it. The actual report is classified, but luckily, there exists a summary of it in two answers to written parliamentary questions (Deutscher Bundestag, 2024, 2025, Drucksache 20/11895 and 20/14631).
  
 # The how and why of German bunkers
 
@@ -22,7 +22,7 @@ The mood around keeping shelters shifted however in 2022 when Russia invaded Ukr
 
 # The new concept
 
-As restoring the old shelters would likely be very expensive, the German government debated if it makes sense to reactivate them. Their conclusion was that it likely does not make much sense to invest this money, as while there are new threats emerging, they are likely different from the ones in the past. Past civil defense focussed on protection from nuclear attacks, which would require staying in a bunker for weeks at a time. However, the current threats are likely more focussed on targeted strikes on critical infrastructure. Also, the warning time for such attacks is quite short (minutes) and thus people would not have the time to go to a central shelter (1). Also, the shelters themselves could be seen as a high-value target for an attacker if they are filled with thousands of people in tight spaces. 
+As restoring the old shelters would likely be very expensive, the German government debated if it makes sense to reactivate them. Their conclusion was that it likely does not make much sense to invest this money, as while there are new threats emerging, they are likely different from the ones in the past. Past civil defense focussed on protection from nuclear attacks, which would require staying in a bunker for weeks at a time. However, the current threats are likely more focussed on targeted strikes on critical infrastructure. Also, the warning time for such attacks is quite short (minutes) and thus people would not have the time to go to a central shelter (2). Also, the shelters themselves could be seen as a high-value target for an attacker if they are filled with thousands of people in tight spaces. 
 
 This means the new concept of civil protection focuses on four elements:
 * A systematic registration of public and private buildings and properties that could be used as public refuges.
@@ -30,15 +30,17 @@ This means the new concept of civil protection focuses on four elements:
 * Guidance for private citizens to convert their cellars into protective spaces. 
 * General information distribution around civil defense and protection. 
 
-Most of this is still in the planning phase (2), but ultimately it seems a bit like a capitulation in front of the threat. This boils down to making a list, writing some brochures and if you are so inclined you can feel free to create your own fallout shelter, paying it out of your own pocket. 
+Most of this is still in the planning phase (3), but ultimately it seems a bit like a capitulation in front of the threat. This boils down to making a list, writing some brochures and if you are so inclined you can feel free to create your own fallout shelter, paying it out of your own pocket. 
 
 All these documents however were written by the previous German government. Since those were published, some further developments occurred. In June 2025 the president of the Federal Office for Civil Protection and Disaster Relief announced that over the next decade it plans to invest 30 billion € in private and public shelters. Though this falls at least one magnitude short of the money that would be needed to create shelters for all citizens. The idea is that storage and maintenance should be covered by local municipalities, but they do not even have the money to maintain the infrastructure they already have. So, it seems questionable if they would be able to maintain the shelters. Finally, the shelters that are planned would only protect from shrapnels and debris, not from nuclear or biological threats. This makes them mainly useful if Germany would face a similar threat to Ukraine today, with regular bombing of cities, but would be mostly useless in other scenarios. All this means the classic fallout bunkers are a thing of the past in Germany and are unlikely to be resurrected.
 
 # Endnotes
 
-(1) This argument does not make much sense to me, as during the cold war, nuclear-tipped missiles also would take just a few minutes from Western Russia to Germany. 
+(1) Did you know that there was a toilet paper brand called Wambo, exclusively produced for German civil defense bunkers? They looked like [this](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/wambo.jpg). So, not all would have been bad after a nuclear war. 
 
-(2) And knowing Germany, it will remain there for years. 
+(2) This argument does not make much sense to me, as during the cold war, nuclear-tipped missiles also would take just a few minutes from Western Russia to Germany. 
+
+(3) And knowing Germany, it will remain there for years. 
 
 
 # References
