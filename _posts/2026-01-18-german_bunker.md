@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The end of the fallout bunker
-subtitle: In Germany at least
+subtitle: In Germany, at least
 tags: [Resilience, General Preparation]
 comments: true
 readtime: true
 ---
-Recently, I visited a [cold war bunker near Saarbrücken](https://unterirdisches-saarbruecken.de/). It was a test bunker for West Germany, where they could try out all their new, fancy ideas on how to make the best bunker. To keep it secret, they build it in parallel to a new highway and it is hidden beneath the autobahn. As it was a place to try out new ideas and was built quite quickly, it had some flaws like not having enough food stored, air filters that would likely only have lasted for a few days and walls so thin that a nuclear explosion anywhere near it would have collapsed the whole thing. So, not really the place you would have chosen first to stay after a nuclear war. Still, the ideas tested in it helped West Germany to build around 2000 bunkers all over the country. During the visit, the tour guide also mentioned that Germany had recently taken stock of their bunkers. So, I started to search for any report around it. The actual report is classified, but luckily, there exists a summary of it in two answers to written parliamentary questions (Deutscher Bundestag, 2024, 2025, Drucksache 20/11895 and 20/14631).
+Recently, I visited a [cold war bunker near Saarbrücken](https://unterirdisches-saarbruecken.de/). It was a test bunker for West Germany, where they could try out all their new, fancy ideas on how to make the best bunker. To keep it secret, they build it in parallel to a new highway and it is hidden beneath the autobahn. As it was a place to try out new ideas and was built quite quickly, it had some flaws like not having enough food stored, air filters that would likely only have lasted for a few days and walls so thin that a nuclear explosion anywhere near it would have collapsed the whole thing. So, not really the place you would have chosen first to stay during a nuclear war. Still, the ideas tested in it helped West Germany to build around 2000 bunkers all over the country. During the visit, the tour guide also mentioned that Germany had recently taken stock of their bunkers. So, I started to search for any report around it. The actual report is classified, but luckily, there exists a summary of it in two answers to written parliamentary questions (Deutscher Bundestag, 2024, 2025, Drucksache 20/11895 and 20/14631).
  
 # The how and why of German bunkers
 
