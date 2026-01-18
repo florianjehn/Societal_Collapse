@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The end of the fallout bunker
-subtitle: At least in Germany
+subtitle: In Germany at least
 tags: [Resilience, General Preparation]
 comments: true
 readtime: true
