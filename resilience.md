@@ -14,6 +14,7 @@ How a society reacts to a catastrophic event is important and it is strongly inf
 
 * [Participation, inclusion, democracy, and resilience](https://florianjehn.github.io/Societal_Collapse/2023-08-16-democracy_and_resilience/)
 * [Democratic Resilience](https://florianjehn.github.io/Societal_Collapse/2024-07-26-democratic_resilience/)
+* [Strong democracies are a necessity for crisis management](https://florianjehn.github.io/Societal_Collapse/2026-02-02-democracies_crisis/)
 
 # General Preparation
 
