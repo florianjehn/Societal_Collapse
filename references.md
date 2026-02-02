@@ -21,6 +21,8 @@ Arnscheidt, C. W., Beard, S. J., Hobson, T., Ingram, P., Kemp, L., Mani, L., Mar
 
 Article 36. (2015). Economic impacts of a nuclear weapon detonation. 
 
+Aspen Institute. (2017). Democracy as Self-Correction. Aspen Institute Centre for Enterprise. https://www.aspeninstitutece.org/article/2017/democracy-as-self-correction/
+
 Avin, S., Wintle, B. C., Weitzdörfer, J., Ó hÉigeartaigh, S. S., Sutherland, W. J., & Rees, M. J. (2018). Classifying global catastrophic risks. Futures, 102, 20–26. https://doi.org/10.1016/j.futures.2018.02.001
 
 Baker, D. N., Jackson, J. M., & Thompson, L. K. (2014). Predicting and mitigating socio-economic impacts of extreme space weather: Benefits of improved forecasts. In A. Ismail-Zadeh, A. Kijko, I. Zaliapin, J. Urrutia Fucugauchi, & K. Takeuchi (Eds.), Extreme Natural Hazards, Disaster Risks and Societal Implications (pp. 113–125). Cambridge University Press. https://doi.org/10.1017/CBO9781139523905.012
@@ -237,9 +239,13 @@ Ljungqvist, F. C., Seim, A., & Collet, D. (2023). Famines in medieval and early 
 
 Loughlin, M. (2019). The Contemporary Crisis of Constitutional Democracy†. Oxford Journal of Legal Studies, 39(2), 435–454. https://doi.org/10.1093/ojls/gqz005
 
+Lührmann, A., Tannenberg, M., & Lindberg, S. I. (2018). Regimes of the World (RoW): Opening New Avenues for the Comparative Study of Political Regimes. Politics and Governance, 6(1), 60–77.
+
 Maffei, S., Eggington, J. W. B., Livermore, P. W., Mound, J. E., Sanchez, S., Eastwood, J. P., & Freeman, M. P. (2023). Climatological predictions of the auroral zone locations driven by moderate and severe space weather events. Scientific Reports, 13(1), 779. https://doi.org/10.1038/s41598-022-25704-2
 
 Maini, A. (2020). On Historical Dynamics by P. Turchin. Biophysical Economics and Sustainability, 5(1), 3. https://doi.org/10.1007/s41247-019-0063-x
+
+Mathieu, E., Ritchie, H., Rodés-Guirao, L., Appel, C., Gavrilov, D., Giattino, C., Hasell, J., Macdonald, B., Dattani, S., Beltekian, D., Ortiz-Ospina, E., & Roser, M. (2020). Excess mortality during the Coronavirus pandemic (COVID-19). Our World in Data. https://ourworldindata.org/excess-mortality-covid
 
 Marchand, P., Carr, J. A., Dell’Angelo, J., Fader, M., Gephart, J. A., Kummu, M., Magliocca, N. R., Porkka, M., Puma, M. J., Ratajczak, Z., Rulli, M. C., Seekell, D. A., Suweis, S., Tavoni, A., & D’Odorico, P. (2016). Reserves and trade jointly determine exposure to food supply shocks. Environmental Research Letters, 11(9), 095009. https://doi.org/10.1088/1748-9326/11/9/095009
 
@@ -288,6 +294,8 @@ Oreskes, N., & Conway, E. (2022). From Anti-Government to Anti-Science: Why Cons
 Oreskes, N., & Conway, E. M. (2012). Merchants of doubt: How a handful of scientists obscured the truth on issues from tobacco smoke to global warming (Paperback. ed). Bloomsbury.
 
 Oughton, E. J., Hapgood, M., Richardson, G. S., Beggan, C. D., Thomson, A. W. P., Gibbs, M., Burnett, C., Gaunt, C. T., Trichas, M., Dada, R., & Horne, R. B. (2019). A Risk Assessment Framework for the Socioeconomic Impacts of Electricity Transmission Infrastructure Failure Due to Space Weather: An Application to the United Kingdom. Risk Analysis, 39(5), 1022–1043. https://doi.org/10.1111/risa.13229
+
+Our World in Data. (2025). Countries that are democracies and autocracies. https://ourworldindata.org/grapher/countries-democracies-autocracies-row
 
 Patterson, M. C., Peter Callahan, Paul Larcey, Thayer (Ed.). (2023). How Worlds Collapse: What History, Systems, and Complexity Can Teach Us About Our Modern World and Fragile Future. Routledge. https://doi.org/10.4324/9781003331384
 
@@ -444,4 +452,6 @@ Yurko, F. J. (1999). End of the Late Bronze Age and other crisis periods: A volc
 Zeder, M. A. (2011). The Origins of Agriculture in the Near East. Current Anthropology, 52(S4), S221–S235. https://doi.org/10.1086/659307
 
 Zhang, D. D., Lee, H. F., Wang, C., Li, B., Pei, Q., Zhang, J., & An, Y. (2011). The causality analysis of climate change and large-scale human crisis. Proceedings of the National Academy of Sciences, 108(42), 17296–17301. https://doi.org/10.1073/pnas.1104268108
+
+Zhang, M., Liu, B., Xiang, G., Yan, X., Ling, Y., & Zuo, C. (2024). Navigating the shift: Understanding public trust in authorities amidst policy shifts in China’s COVID-19 response. Humanities and Social Sciences Communications, 11(1), 1716. https://doi.org/10.1057/s41599-024-04224-6
 
