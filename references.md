@@ -9,6 +9,8 @@ Alexander, P., Brown, C., Arneth, A., Finnigan, J., Moran, D., & Rounsevell, M. 
 
 Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
 
+Althaus, D., & Baumann, T. (2020). Reducing long-term risks from malevolent actors. Center on Long-Term Risk. https://longtermrisk.org/files/Reducing_long_term_risks_from_malevolent_actors.pdf
+
 Alvesson, M., & Sandberg, J. (2013). Constructing Research Questions: Doing Interesting Research. SAGE Publications Ltd. https://doi.org/10.4135/9781446270035 
 
 Arbesman, S. (2011). The Life-Spans of Empires. Historical Methods: A Journal of Quantitative and Interdisciplinary History, 44(3), 127–129. https://doi.org/10.1080/01615440.2011.577733
@@ -187,6 +189,10 @@ Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The struct
 
 Johnson, M., Gorospe, G., Landry, J., & Schuster, A. (2016). Review of mitigation technologies for terrestrial power grids against space weather effects. International Journal of Electrical Power & Energy Systems, 82, 382–391. https://doi.org/10.1016/j.ijepes.2016.02.049
 
+Juergensmeyer, M. (2003). CHAPTER 6 Armageddon in a Tokyo Subway. In Terror in the Mind of God: The Global Rise of Religious Violence (3rd ed.). University of California Press. https://www.jstor.org/stable/10.1525/j.ctt4cgfbx
+
+Kallenborn, Z., & Ackerman, G. (2023). Existential Terrorism: Can Terrorists Destroy Humanity? European Journal of Risk Regulation, 14(4), 760–778. https://doi.org/10.1017/err.2023.48
+
 Kang, H., Lee, K.-M., & Yang, J.-S. (2024). The potential for cascading failures in the international trade network. PLOS ONE, 19(3), e0299833. https://doi.org/10.1371/journal.pone.0299833
 
 Kanbur, R. (2019). Inequality in a global perspective. Oxford Review of Economic Policy, 35(3), 431–444. https://doi.org/10.1093/oxrep/grz010
@@ -256,6 +262,8 @@ Marienbach, M. (2024). Egalitarianism Without Catastrophe? Teotihuacan’s Chall
 Marinatos, S. (1939). The Volcanic Destruction of Minoan Crete. Antiquity, 13(52), 425–439. https://doi.org/10.1017/S0003598X00028088
 
 Meadows, D. H., Club of Rome, & Potomac Associates (Eds.). (1974). The limits to growth: A report for the club of rome’s project on the predicament of mankind (2. ed). Universe books.
+
+Meggitt, J. J. (2020). The Problem of Apocalyptic Terrorism. Journal of Religion and Violence, 8(1), 58–104. https://doi.org/10.5840/jrv202061173
 
 Meinshausen, M., Schleussner, C.-F., Beyer, K., Bodeker, G., Boucher, O., Canadell, J. G., Daniel, J. S., Diongue-Niang, A., Driouech, F., Fischer, E., Forster, P., Grose, M., Hansen, G., Hausfather, Z., Ilyina, T., Kikstra, J. S., Kimutai, J., King, A. D., Lee, J.-Y., … Nicholls, Z. (2024). A perspective on the next generation of Earth system model scenarios: Towards representative emission pathways (REPs). Geoscientific Model Development, 17(11), 4533–4559. https://doi.org/10.5194/gmd-17-4533-2024
 
@@ -333,6 +341,8 @@ Roser, M. (2014). Global deaths in conflict since the year 1400. Our World in Da
 
 Sandberg, A. (2023). The Lifespan of Civilizations: Do Societies “Age,” or Is Collapse Just Bad Luck? In How Worlds Collapse. Routledge.
 
+Sandberg, A., & Nelson, C. (2020). Who Should We Fear More: Biohackers, Disgruntled Postdocs, or Bad Governments? A Simple Risk Chain Model of Biorisk. Health Security, 18(3), 155–163. https://doi.org/10.1089/hs.2019.0115
+
 Savitch, E., Frank, A., Carroll-Nellenback, J., Haqq-Misra, J., Kleidon, A., & Alberti, M. (2021). Triggering a Climate Change Dominated “Anthropocene”: Is It Common among Exocivilizations? The Astronomical Journal, 162(5), 196. https://doi.org/10.3847/1538-3881/ac1a71
 
 Scheffer, M., van Nes, E. H., Kemp, L., Kohler, T. A., Lenton, T. M., & Xu, C. (2023). The vulnerability of aging states: A survival analysis across premodern societies. Proceedings of the National Academy of Sciences, 120(48), e2218834120. https://doi.org/10.1073/pnas.2218834120
@@ -364,6 +374,8 @@ Søgaard Jørgensen, P., Jansen, R. E. V., Avila Ortega, D. I., Wang-Erlandsson,
 Stauffer, M., Kirsch-Wood, J., Stevance, A.-S., Mani, L., Sundaram, L., Dryhurst, S., & Seifert, K. (2023). Hazards with Escalation Potential Governing the Drivers of Global and Existential Catastrophes. United Nations Office for Disaster Risk Reduction.
 
 Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., Summerhayes, C. P., Barnosky, A. D., Cornell, S. E., Crucifix, M., Donges, J. F., Fetzer, I., Lade, S. J., Scheffer, M., Winkelmann, R., & Schellnhuber, H. J. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33), Article 33.
+
+Stevens, D., & Banducci, S. (2022). What Are You Afraid of? Authoritarianism, Terrorism, and Threat. Political Psychology, 43(6), 1081–1100. https://doi.org/10.1111/pops.12804
 
 Stiglitz, J. E. (2018). Where modern macroeconomics went wrong. Oxford Review of Economic Policy, 34(1–2), 70–106. https://doi.org/10.1093/oxrep/grx057 
 
