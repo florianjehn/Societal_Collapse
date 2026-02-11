@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The state of nuclear winter research
+title: Nuclear war, nuclear winter, and the food system
 subtitle: A contribution to the Independent Scientific Panel on the Effects of Nuclear War
 tags: [Overview Post, Summaries]
 comments: true
 readtime: true
 ---
-*This post was originally an invited contribution to the United Nations Scientific Panel on the Effects of Nuclear War. I'm also sharing it here as an overview of the current state of nuclear winter research and the open questions the field is grappling with. It was written by me with extensive input from the team at the [Alliance to Feed the Earth in Disasters (ALLFED)](https://allfed.info/), whose comments and suggestions greatly improved it.*
+*This post was originally an invited contribution to the United Nations Scientific Panel on the Effects of Nuclear War. I'm also sharing it here as an overview of the current state of nuclear winter research (+ related topics) and the open questions the field is grappling with. It was written by me with extensive input from the team at the [Alliance to Feed the Earth in Disasters (ALLFED)](https://allfed.info/), whose comments and suggestions greatly improved it.*
 
 The research around the impacts of nuclear war began with immediate effects such as explosions and fallout. A vast literature exists and has been building since the mid-20th century. The literature around the climatic effects is smaller, partly because the climatic effects were only scientifically recognized in the early 1980s (Turco et al., 1983), but also due to nuclear winter research being partly defunded in the late 1980s and 1990s (Turchetti, 2021) and because general interest declined after the dissolution of the Soviet Union in 1991. There have been some studies in the intervening decades, but scientific attention increased again after several philanthropically funded studies used modern climate models and provided the data for other researchers to build on (Robock et al., 2023). After the Russian invasion of Ukraine, the topic also gained more attention in public and policy discussions (Helfand et al., 2022). The body of research has been growing since then, albeit slowly due to funding constraints, yet many questions around nuclear war and subsequent nuclear winter remain unanswered. Below, I summarize the current state of knowledge, focusing on climate, the food system, and where gaps exist.
 
