@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuclear war, nuclear winter, and the food system
-subtitle: A contribution to the Independent Scientific Panel on the Effects of Nuclear War
+subtitle: A contribution to the United Nations Scientific Panel on the Effects of Nuclear War
 tags: [Overview Post, Summaries]
 comments: true
 readtime: true

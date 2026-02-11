@@ -12,6 +12,7 @@ This section is concerned with a more bird's eye view of collapse. Aggregating i
 * [The people's history of collapse](https://florianjehn.github.io/Societal_Collapse/2025-08-05-Goliath/)
 * [Inequality all the way down](https://florianjehn.github.io/Societal_Collapse/2025-09-03-End_Times/)
 * [Endtime economics](https://florianjehn.github.io/Societal_Collapse/2026-01-07-endtime_economics/)
+* [Nuclear war, nuclear winter, and the food system](https://florianjehn.github.io/Societal_Collapse/2026-02-11-nuclear_panel/)
 
 # High level concepts
 * [The universal Anthropocene](https://florianjehn.github.io/Societal_Collapse/2022-04-26-anthropocene/)
