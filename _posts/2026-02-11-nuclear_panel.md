@@ -61,6 +61,9 @@ Key research gaps that need to be addressed:
 * Resilient foods appear promising for preventing global famine, but require more research, piloting, and policy support.
 * Ecosystem impacts, long-term Earth system effects (beyond 15–20 years), economic consequences, and interactions with planetary boundaries are poorly understood.
 
+# How to cite
+Jehn, F. U. (2026, February 18). Nuclear war, nuclear winter, and the food system. Existential Crunch. https://doi.org/10.59350/hkngk-5fq39
+
 # Recommended references and resources
 ## Climate
 * Primary climate assessment of a major nuclear war, which underpins many subsequent studies (Coupe et al., 2019).
