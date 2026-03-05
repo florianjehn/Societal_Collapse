@@ -139,6 +139,8 @@ Frank, A., Carroll-Nellenback, J., Alberti, M., & Kleidon, A. (2018). The Anthro
 
 García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2024). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. EarthArXiv. https://eartharxiv.org/repository/view/7688/
 
+Graham, J., Boyd, M., Sadler, G., & Noetel, M. (2025). Mapping Australia’s Risk Landscape: A Comparative Analysis of Global Catastrophic Risks and Traditional Hazards (SSRN Scholarly Paper No. 5253625). Social Science Research Network. https://doi.org/10.2139/ssrn.5253625 
+
 Great Founder Theory. (2018, September 5). Samo Burja. https://samoburja.com/great-founder-theory/
 
 Haldon, J., Mordechai, L., Dugmore, A., Eisenberg, M., Endfield, G., Izdebski, A., Jackson, R., Kemp, L., Labuhn, I., McGovern, T., Metcalfe, S., Morrison, K., Newfield, T., & Trump, B. (2024). Past Answers to Present Concerns. The Relevance of the Premodern Past for 21st Century Policy Planners: Comments on the State of the Field. Wiley Interdisciplinary Reviews: Climate Change. https://doi.org/10.1002/wcc.923
@@ -418,6 +420,8 @@ Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Bak
 Turchin, P., Whitehouse, H., Larson, J., Cioni, E., Reddish, J., Hoyer, D., Savage, P. E., Covey, R. A., Baines, J., Altaweel, M., Anderson, E., Bol, P., Brandl, E., Carballo, D. M., Feinman, G., Korotayev, A., Kradin, N., Levine, J. D., Nugent, S. E., … François, P. (2023). Explaining the rise of moralizing religions: A test of competing hypotheses using the Seshat Databank. Religion, Brain & Behavior, 13(2), 167–194. https://doi.org/10.1080/2153599X.2022.2065345
 
 Turchin, P. (2023). End times: Elites, counter-elites, and the path of political disintegration. Penguin Press. 
+
+UK Ministry of Defence. (2024). Global Strategic Trends: Out to 2055. 
 
 UN Environment Programme. (2023). Emissions Gap Report 2023: Broken Record. https://www.unep.org/interactives/emissions-gap-report/2023/ 
 
