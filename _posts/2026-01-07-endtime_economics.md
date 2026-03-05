@@ -21,11 +21,20 @@ Their key points are:
 
 Besides those points the paper repeatedly mentions that these are only vague predictions, as our current economic models have a hard time predicting such unprecedented events. We do have some data from the Second World War where Japan and Germany bounced back quite strongly, even though they endured much stronger damage than a single bomb could do. For example, Hiroshima and Nagasaki both took around 10 years to get back to the population levels they had before the bombs were dropped. However, the biggest bombs we have in use today have one to several megatons of explosive yield, which is several magnitudes larger than the only nuclear weapons that were ever dropped in anger. Therefore, it remains quite uncertain if we could use the reconstruction of Japan and Germany as a comparison class.
 
-But can we still learn something from them by applying economic models to global catastrophes?
+# Industrial disruption 
+
+A paper that looks more systematically into the impacts of industrial destruction is by Blouin et al. (2024) (Disclaimer: I am a co-author on this one). The general idea is that, while we cannot easily assess the damages a nuclear war might do to industrial output, we can look into history, to find case studies of how destruction of industry leads to declines in industrial outputs and extrapolate from this. These case studies reach from major hurricanes to the Second World War (Figure 1). 
+
+![Relationship of industrial destruction and decline in output](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/blouin_2024.png)
+
+Figure 1: Relationship of incapacitated industrial infrastructure and subsequent decline in industrial output. Based on historical case studies and modelling studies.
+
+In addition to establishing this relationship between industrial destruction and declines in output, the study also assesses how much of industrial capacity would be destroyed in US/Russia and India/Pakistan conflicts. This can be estimated from plausible target lists and the destruction caused by the nuclear weapons detonating above those targets. In the case of the US/Russia conflict the estimate is that this could destroy roughly 3 % of global industrial capacity, which would translate to a 24 % loss in global industrial output from the detonation damage alone. This strongly nonlinear relationship between destroyed capacity and declining output highlights the vulnerability of economies to large scale disruptions. 
+
 
 # Modeling agricultural prices after a nuclear war
 
-Due to the difficulties of using economic models so far outside of their training data, very little research on this topic exists. For example, to my knowledge there is just a single study that even attempts to model how a nuclear war (or similar events) might impact the global economy. In this case the study looks at food prices after a nuclear war (Hochman et al., 2022). 
+The studies above relied more on case studies and historical comparisons, but can we still learn something from them by applying economic models to global catastrophes? Due to the difficulties of using economic models so far outside of their training data, very little research on this topic exists. For example, to my knowledge there is just a single study that even attempts to model how a nuclear war (or similar events) might impact the global economy. In this case the study looks at food prices after a nuclear war (Hochman et al., 2022). 
 
 *If you know of important studies I’ve missed, please email me and I’ll update this article!*
 
@@ -68,6 +77,7 @@ Jehn, F. U. (2026, January 14). End time economics. Existential Crunch. https://
 
 # References 
 * Article 36. (2015). Economic impacts of a nuclear weapon detonation. 
+* Blouin, S., Jehn, F. U., & Denkenberger, D. (2024). Global industrial disruption following nuclear war. EarthArXiv. https://doi.org/https://doi.org/10.31223/X58H9G 
 * Hochman, G., Zhang, H., Xia, L., Robock, A., Saketh, A., Mensbrugghe, D. Y. van der, & Jägermeyr, J. (2022). Economic incentives modify agricultural impacts of nuclear war. Environmental Research Letters, 17(5), 054003. https://doi.org/10.1088/1748-9326/ac61c7 
 * Stiglitz, J. E. (2018). Where modern macroeconomics went wrong. Oxford Review of Economic Policy, 34(1–2), 70–106. https://doi.org/10.1093/oxrep/grx057 
 * Weitzman, M. L. (2009). On Modeling and Interpreting the Economics of Catastrophic Climate Change. The Review of Economics and Statistics, 91(1), 1–19. https://doi.org/10.1162/rest.91.1.1 

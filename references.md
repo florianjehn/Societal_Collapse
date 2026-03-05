@@ -51,6 +51,8 @@ Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockho
 
 Blanton, R. E., Feinman, G. M., Kowalewski, S. A., & Fargher, L. F. (2020). Moral Collapse and State Failure: A View From the Past. Frontiers in Political Science, 2. https://doi.org/10.3389/fpos.2020.568704
 
+Blouin, S., Jehn, F. U., & Denkenberger, D. (2024). Global industrial disruption following nuclear war. EarthArXiv. https://doi.org/https://doi.org/10.31223/X58H9G 
+
 Blouin, S., Herwix, A., Rivers, M., Tieman, R. J., & Denkenberger, D. C. (2024). Assessing the Impact of Catastrophic Electricity Loss on the Food Supply Chain. International Journal of Disaster Risk Science. https://doi.org/10.1007/s13753-024-00574-6
 
 Boers, N., Ghil, M., & Stocker, T. F. (2022). Theoretical and paleoclimatic evidence for abrupt transitions in the Earth system. Environmental Research Letters, 17(9), 093006. https://doi.org/10.1088/1748-9326/ac8944
