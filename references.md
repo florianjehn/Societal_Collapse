@@ -7,6 +7,8 @@ This page contains all references used in the creation of this living literature
 
 Alexander, P., Brown, C., Arneth, A., Finnigan, J., Moran, D., & Rounsevell, M. D. A. (2017). Losses, inefficiencies and waste in the global food system. Agricultural Systems, 153, 190–200. https://doi.org/10.1016/j.agsy.2017.01.014
 
+Alfani, G., Bolla, M., & Scheidel, W. (2025). A comparison of income inequality in the Roman and Chinese Han empires. Nature Communications, 16(1), 3248. https://doi.org/10.1038/s41467-025-58581-0 
+
 Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
 
 Althaus, D., & Baumann, T. (2020). Reducing long-term risks from malevolent actors. Center on Long-Term Risk. https://longtermrisk.org/files/Reducing_long_term_risks_from_malevolent_actors.pdf

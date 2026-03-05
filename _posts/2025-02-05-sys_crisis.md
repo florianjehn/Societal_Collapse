@@ -90,6 +90,14 @@ Arnscheidt et al. also argue that our global risks have increased due to systemi
 
 Polycrises can erode the social and institutional capacity needed to handle both global catastrophic risk in general, but especially the preventive measures needed to stop hazards from growing. Political polarization and declining trust in institutions make coordinated responses to global threats more difficult.
 
+# How might we govern this mess?
+
+Coordinating around such complex problems is quite difficult. Where even to start? One thing that is clear, that global coordination is needed one way or the other. An attempt to get this started was the United Nations’ Summit of the Future. The summit was meant to start the reform of the United Nations 75 years after their founding and resulted in the Pact for the Future, which spelled out 56 goals which should guide the way to tackle the existing global challenges. How well this worked out and what we might do better in the future is discussed in Studzinski et al. (2025). They start with the criticism that the Summit of the Future did have a too narrow view on individual hazards and not really the bigger picture that would be needed to address the challenges we face. But the world as it is, is faced by threats that are larger than the sum of their parts. They are interconnected and reinforce each other. 
+
+The inability of global governance to effectively address the current global problems is caused by a variety of factors. One of them is that the situation is just tricky in general, and so it is to be expected that it cannot be solved easily and quickly. But also many of the existing institutions for global governance have ambiguous aims and missions, are often working against each other or are trying to find the least disruptive policy, in an attempt to please everyone. All in a world where international agreements are taken less seriously and the funding for global governance is decreasing. 
+
+But this does not mean that such summits are a waste of time. Ultimately, events like this are one of the few avenues of global governance that currently exist. Future summits need to get rid of their single hazard focus and instead focus on the interconnected problems we actually face. In addition to that, regional organisations like the European Union or the Shanghai Cooperation Organization could step up their game and implement measures to tackle systemic risks in their own borders, to showcase how this might also work on a global level. None of this is easy and likely needs a paradigm shift on how systemic problems are viewed, but getting this right is essential for the coming decades. 
+
 # Conclusion
 
 To summarize this: systemic risk is when a single element in your system is enough to disrupt the whole thing and a polycrisis is when several systemic risks turn into actual crises and interact with each other on a global scale. 
@@ -115,4 +123,5 @@ Jehn, F. U. (2025, February 19). Systemic risk and the polycrisis. Existential C
 * Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockstöm, J., Renn, O., & Donges, J. F. (2024). Global polycrisis: The causal mechanisms of crisis entanglement. Global Sustainability, 7, e6. https://doi.org/10.1017/sus.2024.1
 * Mark, S., Holder, S., Hoyer, D., Schoonover, R., & Aldrich, D. P. (2023). Understanding Polycrisis: Definitions, Applications, and Responses (SSRN Scholarly Paper No. 4593383). Social Science Research Network. https://doi.org/10.2139/ssrn.4593383
 * Schweizer, P.-J., & Juhola, S. (2024). Navigating systemic risks: Governance of and for systemic risks. Global Sustainability, 7, e38. https://doi.org/10.1017/sus.2024.30
+* Studzinski, N. G., Kent, R., & Korowicz, D. (2025). Towards the Governance of Global Systemic Risk: Reforming the Summit of the Future. Global Governance: A Review of Multilateralism and International Organizations, 31(2), 113–136. https://doi.org/10.1163/19426720-03102002 
 
