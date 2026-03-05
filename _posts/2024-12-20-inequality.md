@@ -23,6 +23,22 @@ This case study is described in the CrisisDB paper, which we discussed extensive
 
 In another recent paper by Cohn (2023) the impacts of the Black Death on Europe are explored in more detail. He highlights similar points as Hoyer and explains that the results we found in England, can also be found in much of Central Europe as well. In most of these countries, the much decimated peasant population managed to get into a better position by labor becoming the scarcest factor in the whole supply chain. It also diversified the agriculture away from only farming labor intensive wheat and instead creating a more diversified agricultural landscape with other cultures like vineyards or olive groves. This was a bottom up adaptation. Peasants just would not accept anymore the grueling conditions they had to endure before. During this time wealth inequality dropped considerably due to the better bargaining positions of the peasants, leading to overall much increased health and productivity. However, there were also places like Russia which managed to suppress their peasants brutally. This then resulted in similar problems like in Egypt, lowered productivity and a much slower development of the country in general. 
 
+## The comparative effects of inequality in the Roman, Han and Aztec Empire
+
+Another large comparison of how inequality plays out in comparable polities is by Alfani et al. (2025). They created a dataset to compare inequality in the Han Empire and the Roman Empire. In addition, they compared both to a previous dataset from the Aztec Empire. Thankfully, for us the Roman and Han Empire were quite good at record keeping. While comparable on many axes, the Roman Empire tended to be less centralized and more self rule in the provinces. 
+
+Alfani and colleagues calculated the wealth of the different regions by the rate of their urbanization and population density, based on the assumption that more and larger cities and a higher population meant a province was richer. This showed that for the Han Empire the central province was quite rich, while the other provinces were much less so. In comparison, the Roman Empire had also a very rich central region, but also several other regions (e.g. in North Africa) which had considerable wealth. This is likely shaped by how both states used their military and bureaucracy. The military is usually deployed in frontier regions, meaning that wealth gets transferred there from the center, while the bureaucracy tends to accumulate in the central region, syphoning away wealth from other regions. The Han Empire had small military and large bureaucracy, while it was the other way around for the Romans. 
+
+In addition, to this inequality between regions, the paper also calculates the inequality in the population in general. They do so by tracking the size of the different groups of people in the empires (like peasants, aristocrats, merchants, etc.). This allows them to calculate a Gini index for the Han, Aztec and Roman Empire and compare it to the present day United States (Figure 1). 
+
+![inequality comparison](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/inequality_comparison.png)
+
+Figure 1: Comparison of income shares in the Roman, Han and Aztec Empire and the United States.
+
+This highlights stark differences between the different empires, with the Aztec Empire being the most unequal one by far, followed by the Han and then the Roman Empire. The United States has not yet reached the levels of inequality of those past empires. However, what is notable, that relatively speaking the poorest 10 % in the United States are poorer than their counterparts in all the three other empires. 
+
+These differences in inequality are also mirrored in differences in stability. From those empires considered, the one with the highest inequality (the Aztecs) was the most unstable one, while the one with the lowest inequality (the Romans) was most stable. Obviously, these are only three data points and thus not super reliable, but it fits in with the general trend of the instability-inducing power of inequality. 
+
 ## Moral collapse and inequality
 
 Another perspective on how inequality undermines societal stability comes from Blanton et al. (2020) (1). They studied 30 premodern states to understand how governmental fairness affected their resilience. Their key finding was that states with more equitable practices - like fair taxation, limits on leadership power, and impartial courts - generally achieved higher citizen welfare. However, these more equitable states faced an interesting paradox: while they didn't collapse more frequently than less equitable states, when they did collapse the impact tended to be more severe.
@@ -131,6 +147,7 @@ Jehn, F. U. (2025, January 15). Economic inequality and societal collapse. Exist
 
 # References
 
+* Alfani, G., Bolla, M., & Scheidel, W. (2025). A comparison of income inequality in the Roman and Chinese Han empires. Nature Communications, 16(1), 3248. https://doi.org/10.1038/s41467-025-58581-0 
 * Blanton, R. E., Feinman, G. M., Kowalewski, S. A., & Fargher, L. F. (2020). Moral Collapse and State Failure: A View From the Past. Frontiers in Political Science, 2. https://doi.org/10.3389/fpos.2020.568704
 * Centeno, M. A., & Cohen, J. N. (2012). The Arc of Neoliberalism. Annual Review of Sociology, 38(Volume 38, 2012), 317–340. https://doi.org/10.1146/annurev-soc-081309-150235
 * Chrisendo, D., Niva, V., Hoffmann, R., Sayyar, S. M., Rocha, J., Sandström, V., Solt, F., & Kummu, M. (2024). Income inequality has increased for over two-thirds of the global population. Research Square. https://doi.org/10.21203/rs.3.rs-5548291/v1
