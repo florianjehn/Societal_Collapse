@@ -57,6 +57,19 @@ Similar in scope and approach is the Global Risks Report by the World Economic F
 
 Figure 1: An interconnected map of the global risk landscape
 
+Such kinds of catastrophes are also highly relevant to defense. Therefore, defense ministries also try to map out the different risks their countries might face in the future. An example of this would be a report by the UK Ministry of Defence (2024). They tried to map out what the strategic trends will be until 2055. A strategic trend is not the same thing as a catastrophe, but still the main drivers of trends they identify look eerily familiar to the kinds of events we have covered in this post so far. More specifically, they identify six main drivers of global change:
+
+* Global power competition
+* Demographic pressure
+* Climate change and pressure on the environment in general
+* Technological advances and connectivity
+* Economic transformation and energy transition
+* Inequality and pressure on governance 
+
+They assess that we are in for a wild ride, because many of these trends push the world in different directions. For example, economic transformation and technology will connect the world at an increasing rate, while global power competition will lead to fragmentation. Or similarly, that more and more people globally feel empowered to speak up and mobilize, while at the same time autocratic governments seem to be on the rise.
+
+The risks and trends are also assessed on their impact and uncertainty. Here AI comes out on top for causing the most uncertainty, while global power competition is assigned the position of the most impactful one for the state of the world. As they assess global power competition as the most impactful one, much of the rest of the report is trying to map this out in more detail. They think that the United States will remain the most powerful nation, but will face increasing competition from China, Russia’s future depends on the outcome of the war in Ukraine, India will play a major role, but struggle with internal unrest and many of the middle power will band together, to have a chance in a world of weakening international agreements. 
+
 # Global catastrophic risk and existential risk
 
 Another community that is fond of making lists of catastrophes is the one focussed on global catastrophic risk (1). Global catastrophic risk involves threats that could cause widespread human mortality or severely reduce well-being worldwide. The research here revolves around how such risks might occur and how they could be prevented or managed. However, it is still debated which catastrophes should count here. But I want to quickly highlight the most extensive summary studies here and what kinds of catastrophes they include.
@@ -117,6 +130,8 @@ Overall, it seems here that the inclusion of global and/or a bit more unusual ri
 
 *If you have studies that might shine a light on why some countries focus more on global risks than others, please let me know.* 
 
+What has been encouraging here is that good national risk assessments can work as an inspiration for other actors. For example, in a recent report by Graham et al. (2025), a group of researchers used the methodology of the Swiss national risk assessment and transferred it to Australia and showing that even under traditional risk assessment (accounting for both likelihood and magnitude of the consequences), the annual expected impacts of some global catastrophes are far higher than many of the more frequent threats (like floods or fires) and thus Australia should invest more to prevent damages from global catastrophes. 
+
 # Takeaway
 
 When looking at all these different risk complications, it seems to me that global risk experts are most concerned with nuclear threats, artificial intelligence, pandemics and climate change. Also, it becomes pretty clear that generally all risks are either directly caused by humanity or made worse by humanity. While it is obviously bad that we are our own nightmare, it also means that all of these risks are within our own agency. Things caused by humanity can probably also be solved by humanity. A good place to start seems to be to make sure that the risks we face are more consistently included in things like national risk assessments or global policy making, so that we can better explore what might be done about them. Also, inequality pops up in all kinds of assessments as being pretty bad. So, it seems like a good idea to also take care of that. 
@@ -141,11 +156,13 @@ Jehn, F. U. (2025, June 18). What could go wrong?. Existential Crunch. [https://
 * Avin, S., Wintle, B. C., Weitzdörfer, J., Ó hÉigeartaigh, S. S., Sutherland, W. J., & Rees, M. J. (2018). Classifying global catastrophic risks. Futures, 102, 20–26. https://doi.org/10.1016/j.futures.2018.02.001
 * Boyd, M., & Wilson, N. (2020). Existential Risks to Humanity Should Concern International Policymakers and More Could Be Done in Considering Them at the International Governance Level. Risk Analysis, 40(11), 2303–2312. https://doi.org/10.1111/risa.13566
 * Dal Prá, G., Chan, C., Burkhanov, T., Arnscheidt, C. W., Cremades, R., Cremer, C. Z., Galaz, V., Gambhir, A., Heikkinen, K., Hinge, M., Hoyer, D., Jehn, F. U., Larcey, P., Kemp, L., Keys, P. W., Kiyaei, E., Lade, S. J., Manheim, D., McKay, D. A., … Sutherland, W. (2024). A Horizon Scan of Global Catastrophic Risks (SSRN Scholarly Paper No. 5005075). Social Science Research Network. https://doi.org/10.2139/ssrn.5005075
+* Graham, J., Boyd, M., Sadler, G., & Noetel, M. (2025). Mapping Australia’s Risk Landscape: A Comparative Analysis of Global Catastrophic Risks and Traditional Hazards (SSRN Scholarly Paper No. 5253625). Social Science Research Network. https://doi.org/10.2139/ssrn.5253625 
 * ÓhÉigeartaigh, S. (2025). Extinction of the human species: What could cause it and how likely is it to occur? Cambridge Prisms: Extinction, 3, e4. https://doi.org/10.1017/ext.2025.4
 * Ord, T. (2020). The Precipice: Existential Risk and the Future of Humanity. Hachette Books, 480 pp.
 * Sepasspour, R. (2023). All-Hazards Policy for Global Catastrophic Risk (Technical Report Nos. 23–1; p. 37). Global Catastrophic Risk Institute. https://gcrinstitute.org/papers/068_all-hazards.pdf
 * Stauffer, M., Kirsch-Wood, J., Stevance, A.-S., Mani, L., Sundaram, L., Dryhurst, S., & Seifert, K. (2023). Hazards with Escalation Potential Governing the Drivers of Global and Existential Catastrophes. United Nations Office for Disaster Risk Reduction.
 * Tähtinen, L., Toivonen, S., & Rashidfarokhi, A. (2024). Landscape and domains of possible future threats from a societal point of view. Journal of Contingencies and Crisis Management, 32(1), e12529. https://doi.org/10.1111/1468-5973.12529
+* UK Ministry of Defence. (2024). Global Strategic Trends: Out to 2055. 
 * World Economic Forum. (2025). The Global Risks Report 2025.
 
 
