@@ -439,6 +439,8 @@ Vasilyev, V., Reinhold, T., Shapiro, A. I., Usoskin, I., Krivova, N. A., Maehara
 
 Vasyliūnas, V. M. (2011). The largest imaginable magnetic storm. Journal of Atmospheric and Solar-Terrestrial Physics, 73(11), 1444–1446. https://doi.org/10.1016/j.jastp.2010.05.012
 
+Verschuur, J., Koks, E. E., & Hall, J. W. (2022). Ports’ criticality in international trade and global supply-chains. Nature Communications, 13(1), 4351. https://doi.org/10.1038/s41467-022-32070-0 
+
 Verschuur, J., Murgatroyd, A., Vittis, Y., Mosnier, A., Obersteiner, M., Godfray, C., & Hall, J. (2024). The impacts of polycrises on global grain availability and prices. https://doi.org/10.21203/rs.3.rs-3969801/v1
 
 Vodovnik, Ž. (2024). Possibilities at the End of the World: (Re)Imagining Care as Politics. Teorija in praksa, 387–405. https://doi.org/10.51936/tip.61.2.387
