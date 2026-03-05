@@ -385,6 +385,8 @@ Stiglitz, J. E. (2018). Where modern macroeconomics went wrong. Oxford Review of
 
 Stoffel, M., Corona, C., Ludlow, F., Sigl, M., Huhtamaa, H., Garnier, E., Helama, S., Guillet, S., Crampsie, A., Kleemann, K., Camenisch, C., McConnell, J., & Gao, C. (2022). Climatic, weather, and socio-economic conditions corresponding to the mid-17th-century eruption cluster. Climate of the Past, 18(5), 1083–1108. https://doi.org/10.5194/cp-18-1083-2022
 
+Studzinski, N. G., Kent, R., & Korowicz, D. (2025). Towards the Governance of Global Systemic Risk: Reforming the Summit of the Future. Global Governance: A Review of Multilateralism and International Organizations, 31(2), 113–136. https://doi.org/10.1163/19426720-03102002 
+
 Sullivan, D., & Hickel, J. (2023). Capitalism and extreme poverty: A global analysis of real wages, human height, and mortality since the long 16th century. World Development, 161, 106026. https://doi.org/10.1016/j.worlddev.2022.106026 
 
 Supran, G., Rahmstorf, S., & Oreskes, N. (2023). Assessing ExxonMobil’s global warming projections. Science, 379(6628), eabk0063. https://doi.org/10.1126/science.abk0063
