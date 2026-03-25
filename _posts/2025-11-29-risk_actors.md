@@ -103,6 +103,10 @@ The takeaway from all this is that large risks from individual actors is somethi
 
 *This post was reviewed by [Mel Cowans](https://www.cser.ac.uk/team/mel-cowans/). If you enjoy it, or are interested in any of the concepts discussed, feel free to reach out to them on Linkedin.*
 
+# How to cite
+
+Jehn, F. U. (2026, March 11). Who shapes global risk?. Existential Crunch. https://doi.org/10.59350/zfdhw-d9e42
+
 # Endnotes
 
 (1) This is especially the case for nuclear weapons, as the short time span to decide if you want to launch the weapons or not, makes it impractical to include a lot of shareholders. Kurzgesagt has a nice video which highlights this urgency: [https://youtu.be/wmP3MBjsx20](https://youtu.be/wmP3MBjsx20)
