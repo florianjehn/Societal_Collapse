@@ -147,6 +147,8 @@ Graham, J., Boyd, M., Sadler, G., & Noetel, M. (2025). Mapping Australia’s Ris
 
 Great Founder Theory. (2018, September 5). Samo Burja. https://samoburja.com/great-founder-theory/
 
+Hajer, M. A., & Oomen, J. (2025). Captured Futures: Rethinking the Drama of Environmental Politics. Oxford University Press.
+
 Haldon, J., Mordechai, L., Dugmore, A., Eisenberg, M., Endfield, G., Izdebski, A., Jackson, R., Kemp, L., Labuhn, I., McGovern, T., Metcalfe, S., Morrison, K., Newfield, T., & Trump, B. (2024). Past Answers to Present Concerns. The Relevance of the Premodern Past for 21st Century Policy Planners: Comments on the State of the Field. Wiley Interdisciplinary Reviews: Climate Change. https://doi.org/10.1002/wcc.923
 
 Hamm, P., King, L. P., & Stuckler, D. (2012). Mass Privatization, State Capacity, and Economic Growth in Post-Communist Countries. American Sociological Review, 77(2), 295–324. https://doi.org/10.1177/0003122412441354
