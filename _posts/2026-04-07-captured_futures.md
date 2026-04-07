@@ -190,6 +190,7 @@ But no matter where we ultimately end up, one thing is clear: this is the age of
 
 # Endnotes
 (1) We have discussed this mismatch in research focus in [another post](https://existentialcrunch.substack.com/p/does-climate-science-focus-on-the).
+
 (2) We have talked about this a lot in [this post](https://existentialcrunch.substack.com/p/democratic-resilience9). 
 
 # References
