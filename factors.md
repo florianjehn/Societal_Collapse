@@ -10,6 +10,7 @@ The issue of societal collapse is a complex and multi-dimensional problem, often
 * [Climate anomalies and societal collapse](https://florianjehn.github.io/Societal_Collapse/2024-02-08-climate_collapse/)
 * [Manipulating the global thermostat](https://florianjehn.github.io/Societal_Collapse/2025-05-30-global_thermostat/)
 * [Does climate science focus on the right temperature range?](https://florianjehn.github.io/Societal_Collapse/2025-11-03-climate_focus/)
+* [AMOC collapse](https://florianjehn.github.io/Societal_Collapse/2026-04-17-AMOC/)
 
 # Famine
 * [Escaping the Malthusian Trap](https://florianjehn.github.io/Societal_Collapse/2023-01-13-famine/)
