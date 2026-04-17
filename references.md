@@ -77,6 +77,8 @@ Burlingame, K. (2011). Forces of Destruction: The Collapse of the Mediterranean 
 
 Butzer, K. W. (2012). Collapse, environment, and society. Proceedings of the National Academy of Sciences, 109(10), 3632–3639. https://doi.org/10.1073/pnas.1114845109
 
+Caesar, L., Rahmstorf, S., Robinson, A., Feulner, G., & Saba, V. (2018). Observed fingerprint of a weakening Atlantic Ocean overturning circulation. Nature, 556(7700), 191–196. https://doi.org/10.1038/s41586-018-0006-5 
+
 Carlin, D. (2019). Chapter 3: The End of the World as They Knew It. In The end is always near: Apocalyptic moments, from the Bronze Age collapse to nuclear near misses (First edition). HarperCollins Publishers.
 
 Carter, M. J. (2013). A Sociological Model of Societal Collapse. Comparative Sociology, 12(2), 236–254. https://doi.org/10.1163/15691330-12341262
@@ -120,6 +122,8 @@ Deutscher Bundestag. (2024). Antwort der Bundesregierung auf die Kleine Anfrage 
 Deutscher Bundestag. (2025). Antwort der Bundesregierung auf die Kleine Anfrage der Abgeordneten Dr. Thorsten Lieb, Christoph Meyer, Otto Fricke, weiterer Abgeordneter und der Fraktion der FDP: Öffentliche Schutzräume (Drucksache 20/14631). 20. Wahlperiode. 
 
 Diamond, J. M. (2011). Collapse: How societies choose to fail or survive. Penguin Books.
+
+Ditlevsen, P., & Ditlevsen, S. (2023). Warning of a forthcoming collapse of the Atlantic meridional overturning circulation. Nature Communications, 14(1), 4254. https://doi.org/10.1038/s41467-023-39810-w 
 
 Do, T., Anderson, K., & Brorsen, B. W. (2010). The World’s wheat supply. Oklahoma Cooperative Extension Service.
 
@@ -176,6 +180,8 @@ Hoyer, D., Bennett, J. S., Whitehouse, H., François, P., Feeney, K., Levine, J.
 Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
 
 Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of “Ecocide” on Rapa Nui (Easter Island) (SSRN Scholarly Paper No. 2042672). https://doi.org/10.2139/ssrn.2042672
+
+Jackson, L. C., Kahana, R., Graham, T., Ringer, M. A., Woollings, T., Mecking, J. V., & Wood, R. A. (2015). Global and European climate impacts of a slowdown of the AMOC in a high resolution GCM. Climate Dynamics, 45(11), 3299–3316. https://doi.org/10.1007/s00382-015-2540-2 
 
 Jagtap, S., Trollman, H., Trollman, F., Garcia-Garcia, G., Parra-López, C., Duong, L., Martindale, W., Munekata, P. E. S., Lorenzo, J. M., Hdaifeh, A., Hassoun, A., Salonitis, K., & Afy-Shararah, M. (2022). The Russia-Ukraine Conflict: Its Implications for the Global Food Supply Chains. Foods, 11(14), 2098. https://doi.org/10.3390/foods11142098
 
@@ -275,6 +281,8 @@ Meggitt, J. J. (2020). The Problem of Apocalyptic Terrorism. Journal of Religion
 
 Meinshausen, M., Schleussner, C.-F., Beyer, K., Bodeker, G., Boucher, O., Canadell, J. G., Daniel, J. S., Diongue-Niang, A., Driouech, F., Fischer, E., Forster, P., Grose, M., Hansen, G., Hausfather, Z., Ilyina, T., Kikstra, J. S., Kimutai, J., King, A. D., Lee, J.-Y., … Nicholls, Z. (2024). A perspective on the next generation of Earth system model scenarios: Towards representative emission pathways (REPs). Geoscientific Model Development, 17(11), 4533–4559. https://doi.org/10.5194/gmd-17-4533-2024
 
+Met Office. (2025). Factsheet: The Atlantic Meridional Overturning Circulation (AMOC) (Met Office 02770). https://weather.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/climate-science/met-office-hadley-centre/amoc-factsheet-update-2025-v3.pdf 
+
 Middleton, G. D. (2017). Understanding Collapse: Ancient History and Modern Myths. Cambridge University Press. https://doi.org/10.1017/9781316584941
 
 Millemaci, E., Monteforte, F., & Temple, J. R. W. (2024). Have Autocrats Governed for the Long Term? Kyklos. https://doi.org/10.1111/kykl.12425
@@ -328,6 +336,8 @@ Puma, M. J., Bose, S., Chon, S. Y., & Cook, B. I. (2015). Assessing the evolving
 Reiter, D. (2017). Is Democracy a Cause of Peace? In Oxford Research Encyclopedia of Politics. https://doi.org/10.1093/acrefore/9780190228637.013.287
 
 Richards, C. E., Lupton, R. C., & Allwood, J. M. (2021). Re-framing the threat of global warming: An empirical causal loop diagram of climate change, food insecurity and societal collapse. Climatic Change, 164(3), 49. https://doi.org/10.1007/s10584-021-02957-w
+
+Ritchie, P. D. L., Smith, G. S., Davis, K. J., Fezzi, C., Halleck-Vega, S., Harper, A. B., Boulton, C. A., Binner, A. R., Day, B. H., Gallego-Sala, A. V., Mecking, J. V., Sitch, S. A., Lenton, T. M., & Bateman, I. J. (2020). Shifts in national land use and food production in Great Britain after a climate tipping point. Nature Food, 1(1), Article 1. https://doi.org/10.1038/s43016-019-0011-3 
 
 Ripple, W. J., Wolf, C., Lenton, T. M., Gregg, J. W., Natali, S. M., Duffy, P. B., Rockström, J., & Schellnhuber, H. J. (2023). Many risky feedback loops amplify the need for climate action. One Earth, 6(2), 86–91. https://doi.org/10.1016/j.oneear.2023.01.004
 
@@ -435,6 +445,8 @@ UN Environment Programme. (2023). Emissions Gap Report 2023: Broken Record. http
 
 U.S. Departement of Energy. (2019). Geomagnetic Disturbance Monitoring Approach and Implementation Strategies. U.S. Departement of Energy. https://www.energy.gov/sites/prod/files/2019/06/f64/DOE_GMD_Monitoring_January2019_508v2.pdf
 
+van Westen, R. M., Kliphuis, M., & Dijkstra, H. A. (2024). Physics-based early warning signal shows that AMOC is on tipping course. Science Advances, 10(6), eadk1189. https://doi.org/10.1126/sciadv.adk1189 
+
 Varberg, J., Kaul, F., & Gratuze, B. (2020). Bronze Age Glass and Amber Evidence of Bronze Age long distance exchange. Adoranten, 2019, 5–29.
 
 Vasilyev, V., Reinhold, T., Shapiro, A. I., Usoskin, I., Krivova, N. A., Maehara, H., Notsu, Y., Brun, A. S., Solanki, S. K., & Gizon, L. (2024). Sun-like stars produce superflares roughly once per century. Science, 386(6727), 1301–1305. https://doi.org/10.1126/science.adl5441
@@ -468,6 +480,8 @@ World Economic Forum. (2025). The Global Risks Report 2025.
 Wunderling, N., Donges, J. F., Kurths, J., & Winkelmann, R. (2021). Interacting tipping elements increase risk of climate domino effects under global warming. Earth System Dynamics, 12(2), 601–619. https://doi.org/10.5194/esd-12-601-2021
 
 Wunderling, N., Winkelmann, R., Rockström, J., Loriani, S., Armstrong McKay, D. I., Ritchie, P. D. L., Sakschewski, B., & Donges, J. F. (2023). Global warming overshoots increase risks of climate tipping cascades in a network model. Nature Climate Change, 13(1), Article 1. https://doi.org/10.1038/s41558-022-01545-9
+
+Wunderling, N., von der Heydt, A. S., Aksenov, Y., Barker, S., Bastiaansen, R., Brovkin, V., Brunetti, M., Couplet, V., Kleinen, T., Lear, C. H., Lohmann, J., Roman-Cuesta, R. M., Sinet, S., Swingedouw, D., Winkelmann, R., Anand, P., Barichivich, J., Bathiany, S., Baudena, M., … Willeit, M. (2024). Climate tipping point interactions and cascades: A review. Earth System Dynamics, 15(1), 41–74. https://doi.org/10.5194/esd-15-41-2024 
 
 Xia, L., Robock, A., Scherrer, K., Harrison, C. S., Bodirsky, B. L., Weindl, I., Jägermeyr, J., Bardeen, C. G., Toon, O. B., & Heneghan, R. (2022). Global food insecurity and famine from reduced crop, marine fishery and livestock production due to climate disruption from nuclear war soot injection. Nature Food, 1–11. https://doi.org/10.1038/s43016-022-00573-0
 
