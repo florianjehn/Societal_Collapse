@@ -49,6 +49,8 @@ Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global
 
 Beauvoir, S. de, & Frechtman, B. (2006). The ethics of ambiguity. Recording for the Blind & Dyslexic. 
 
+Ben-Yami, M., Morr, A., Bathiany, S., & Boers, N. (2024). Uncertainties too large to predict tipping times of major Earth system components from historical data. Science Advances, 10(31), eadl4841. https://doi.org/10.1126/sciadv.adl4841 
+
 Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockhoff, N., & Pernicka, E. (2019). Isotope systematics and chemical composition of tin ingots from Mochlos (Crete) and other Late Bronze Age sites in the eastern Mediterranean Sea: An ultimate key to tin provenance? PLOS ONE, 14(6), e0218326. https://doi.org/10.1371/journal.pone.0218326
 
 Blanton, R. E., Feinman, G. M., Kowalewski, S. A., & Fargher, L. F. (2020). Moral Collapse and State Failure: A View From the Past. Frontiers in Political Science, 2. https://doi.org/10.3389/fpos.2020.568704
@@ -446,6 +448,8 @@ UN Environment Programme. (2023). Emissions Gap Report 2023: Broken Record. http
 U.S. Departement of Energy. (2019). Geomagnetic Disturbance Monitoring Approach and Implementation Strategies. U.S. Departement of Energy. https://www.energy.gov/sites/prod/files/2019/06/f64/DOE_GMD_Monitoring_January2019_508v2.pdf
 
 van Westen, R. M., Kliphuis, M., & Dijkstra, H. A. (2024). Physics-based early warning signal shows that AMOC is on tipping course. Science Advances, 10(6), eadk1189. https://doi.org/10.1126/sciadv.adk1189 
+
+van Westen, R. M., & Baatsen, M. L. J. (2025). European Temperature Extremes Under Different AMOC Scenarios in the Community Earth System Model. Geophysical Research Letters, 52(12), e2025GL114611. https://doi.org/10.1029/2025GL114611 
 
 Varberg, J., Kaul, F., & Gratuze, B. (2020). Bronze Age Glass and Amber Evidence of Bronze Age long distance exchange. Adoranten, 2019, 5–29.
 
