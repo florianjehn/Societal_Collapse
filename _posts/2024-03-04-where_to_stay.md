@@ -6,6 +6,8 @@ tags: [Resilience, Food]
 comments: true
 readtime: true
 ---
+*This post has inspired a [review](https://eartharxiv.org/repository/view/12373/) about the same question. This is much more in depths that this post here, so if you want to dig deep, you should read that instead.*
+
 One question that often comes up when discussing global catastrophes and societal collapse is: What is the best place to stay in such a case? This simple question is surprisingly hard to answer, as it depends on a lot of factors. This post is meant to give an overview of the factors that come into play and give some recommendations for the main global catastrophic risks which could lead to societal collapse. It is a bit more on the speculative side, but given the current state of the literature I think those speculations are reasonable and instructive. I mostly focus on the food system, as I think that this will be the most vulnerable process for many people globally in the event of global catastrophe. 
 
 # What kind of catastrophe are we talking about?
