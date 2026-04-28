@@ -41,3 +41,4 @@ Thanks for very valuable feedback on a variety of the posts here!
 * M. Arthus Schanner
 * Robin Lamboll
 * Zachary Kallenborn
+* Rebecca Frank
