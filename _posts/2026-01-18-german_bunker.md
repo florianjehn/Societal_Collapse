@@ -38,6 +38,10 @@ All these documents however were written by the previous German government. Sinc
 
 The idea is that storage and maintenance should be covered by local municipalities, but they do not even have the money to maintain the infrastructure they already have. So, it seems questionable if they would be able to maintain the shelters. Finally, the shelters that are planned would only protect from shrapnels and debris, not from nuclear or biological threats. This makes them mainly useful if Germany would face a similar threat to Ukraine today, with regular bombing of cities, but would be mostly useless in nuclear war. All this means the classic fallout bunkers are a thing of the past in Germany and are unlikely to be resurrected.
 
+# How to cite
+
+Jehn, F. U. (2026, May 6). The end of the fallout bunker. Existential Crunch. https://doi.org/10.59350/bqkx4-gm367
+
 # Endnotes
 
 (1) Did you know that there was a toilet paper brand called Wambo, exclusively produced for German civil defense bunkers? They looked like [this](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/wambo.jpg). So, not all would have been bad after a nuclear war. 
