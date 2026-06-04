@@ -190,6 +190,10 @@ I just hope that we do it quickly enough. While I agree that change is possible 
 
 But no matter where we ultimately end up, one thing is clear: this is the age of politics.
 
+# How to cite
+
+Jehn, F. U. (2026, June 3). How environmental politics lost the future. Existential Crunch. https://doi.org/10.59350/fxwp0-w8r72
+
 # Endnotes
 (1) We have discussed this mismatch in research focus in [another post](https://existentialcrunch.substack.com/p/does-climate-science-focus-on-the).
 
