@@ -7,6 +7,8 @@ This page contains all references used in the creation of this living literature
 
 Alexander, P., Brown, C., Arneth, A., Finnigan, J., Moran, D., & Rounsevell, M. D. A. (2017). Losses, inefficiencies and waste in the global food system. Agricultural Systems, 153, 190–200. https://doi.org/10.1016/j.agsy.2017.01.014
 
+Albrecht, F., & Parker, C. F. (2019). Healing the Ozone Layer: The Montreal Protocol and the Lessons and Limits of a Global Governance Success Story. In P. ’t Hart & M. Compton (Eds.), Great Policy Successes (p. 0). Oxford University Press. https://doi.org/10.1093/oso/9780198843719.003.0016 
+
 Alfani, G., Bolla, M., & Scheidel, W. (2025). A comparison of income inequality in the Roman and Chinese Han empires. Nature Communications, 16(1), 3248. https://doi.org/10.1038/s41467-025-58581-0 
 
 Allen, K., Reide, F., Gouramanis, C., Keenan, B., Stoffel, M., Hu, A., & Ionita, M. (2022). Coupled insights from palaeoenvironmental, historical and archaeological archives to support social-ecological resilience and the Sustainable Development Goals. Environmental Research Letters, 17. https://doi.org/10.1088/1748-9326/ac6967
@@ -36,6 +38,8 @@ Balaji, V., Couvreux, F., Deshayes, J., Gautrais, J., Hourdin, F., & Rio, C. (20
 Bardi, U. (2020). Before the Collapse: A Guide to the Other Side of Growth. Springer International Publishing. https://doi.org/10.1007/978-3-030-29038-2
 
 Bard, E., Miramont, C., Capano, M., Guibal, F., Marschal, C., Rostek, F., Tuna, T., Fagault, Y., & Heaton, T. J. (2023). A radiocarbon spike at 14 300 cal yr BP in subfossil trees provides the impulse response function of the global carbon cycle during the Late Glacial. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 381(2261), 20220206. https://doi.org/10.1098/rsta.2022.0206
+
+Barrett, S. (2014). Why have climate negotiations proved so disappointing? Sustainable Humanity, Sustainable Nature: Our Responsibility, Extra Series 41. 
 
 Baum, S. D. (2023). Assessing natural global catastrophic risks. Natural Hazards, 115(3), 2699–2719. https://doi.org/10.1007/s11069-022-05660-w
 
@@ -148,6 +152,8 @@ Frank, A. (2018). Light of the stars: Alien worlds and the fate of the Earth (Fi
 Frank, A., Carroll-Nellenback, J., Alberti, M., & Kleidon, A. (2018). The Anthropocene Generalized: Evolution of Exo-Civilizations and Their Planetary Feedback. Astrobiology, 18(5), 503–518. https://doi.org/10.1089/ast.2017.1671
 
 García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2024). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. EarthArXiv. https://eartharxiv.org/repository/view/7688/
+
+Gareau, B. J. (2015). Lessons from the Montreal Protocol delay in phasing out methyl bromide. Journal of Environmental Studies and Sciences, 5(2), 163–168. https://doi.org/10.1007/s13412-014-0212-x 
 
 Graham, J., Boyd, M., Sadler, G., & Noetel, M. (2025). Mapping Australia’s Risk Landscape: A Comparative Analysis of Global Catastrophic Risks and Traditional Hazards (SSRN Scholarly Paper No. 5253625). Social Science Research Network. https://doi.org/10.2139/ssrn.5253625 
 
@@ -391,6 +397,8 @@ Smith, Wake. 2020. “The Cost of Stratospheric Aerosol Injection through 2100.�
 
 Søgaard Jørgensen, P., Jansen, R. E. V., Avila Ortega, D. I., Wang-Erlandsson, L., Donges, J. F., Österblom, H., Olsson, P., Nyström, M., Lade, S. J., Hahn, T., Folke, C., Peterson, G. D., & Crépin, A.-S. (2023). Evolution of the polycrisis: Anthropocene traps that challenge global sustainability. Philosophical Transactions of the Royal Society B: Biological Sciences, 379(1893), 20220261. https://doi.org/10.1098/rstb.2022.0261
 
+Solomon, S., Alcamo, J., & Ravishankara, A. R. (2020). Unfinished business after five decades of ozone-layer science and policy. Nature Communications, 11(1), 4272. https://doi.org/10.1038/s41467-020-18052-0 
+
 Stauffer, M., Kirsch-Wood, J., Stevance, A.-S., Mani, L., Sundaram, L., Dryhurst, S., & Seifert, K. (2023). Hazards with Escalation Potential Governing the Drivers of Global and Existential Catastrophes. United Nations Office for Disaster Risk Reduction.
 
 Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., Summerhayes, C. P., Barnosky, A. D., Cornell, S. E., Crucifix, M., Donges, J. F., Fetzer, I., Lade, S. J., Scheffer, M., Winkelmann, R., & Schellnhuber, H. J. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33), Article 33.
@@ -444,6 +452,8 @@ Turchin, P. (2023). End times: Elites, counter-elites, and the path of political
 UK Ministry of Defence. (2024). Global Strategic Trends: Out to 2055. 
 
 UN Environment Programme. (2023). Emissions Gap Report 2023: Broken Record. https://www.unep.org/interactives/emissions-gap-report/2023/ 
+
+Ungar, S. (2000). Knowledge, ignorance and the popular culture: Climate change versus the ozone hole. Public Understanding of Science, 9(3), 297–312. https://doi.org/10.1088/0963-6625/9/3/306 
 
 U.S. Departement of Energy. (2019). Geomagnetic Disturbance Monitoring Approach and Implementation Strategies. U.S. Departement of Energy. https://www.energy.gov/sites/prod/files/2019/06/f64/DOE_GMD_Monitoring_January2019_508v2.pdf
 
