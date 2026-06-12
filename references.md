@@ -73,6 +73,8 @@ Boyd, M., & Wilson, N. (2021). Anticipatory Governance for Preventing and Mitiga
 
 Boyd, M., & Wilson, N. (2023). Island refuges for surviving nuclear winter and other abrupt sunlight-reducing catastrophes. Risk Analysis, 43(9), 1824–1842. https://doi.org/10.1111/risa.14072
 
+Boyd, M., & Wilson, N. (2025). Resilience to abrupt global catastrophic risks disrupting trade: Combining urban and near-urban agriculture in a quantified case study of a globally median-sized city. PLOS One, 20(5), e0321203. https://doi.org/10.1371/journal.pone.0321203 
+
 Brands, H. (2018). Democracy vs Authoritarianism: How Ideology Shapes Great-Power Conflict. Survival, 60(5), 61–114. https://doi.org/10.1080/00396338.2018.1518371
 
 Brozović, D. (2023). Societal collapse: A literature review. Futures, 145, 103075. https://doi.org/10.1016/j.futures.2022.103075
@@ -207,6 +209,8 @@ Jehn, F. U., Dingal, F. J., Mill, A., Harrison, C. S., Ilin, E., Roleda, M. Y., 
 
 Jehn, F. U., Kemp, L., Ilin, E., Funk, C., Wang, J. R., & Breuer, L. (2022). Focus of the IPCC Assessment Reports Has Shifted to Lower Temperatures. Earth’s Future, 10(5), e2022EF002876. https://doi.org/10.1029/2022EF002876 
 
+Jehn, F. U., Rössler, M., Kemp, L., Cassidy, M., Kallenborn, Z., García Martínez, J. B., Mani, L., & Boyd, M. (2026). No place to hide? Regional resilience and vulnerability to global catastrophic risk. EarthArXiv. https://eartharxiv.org/repository/view/12373/ 
+
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
 
 Johnson, M., Gorospe, G., Landry, J., & Schuster, A. (2016). Review of mitigation technologies for terrestrial power grids against space weather effects. International Journal of Electrical Power & Energy Systems, 82, 382–391. https://doi.org/10.1016/j.ijepes.2016.02.049
@@ -234,6 +238,8 @@ Kemp, L. (2025). Goliath’s Curse: The History and Future of Societal Collapse.
 Kemp, L., Xu, C., Depledge, J., Ebi, K. L., Gibbins, G., Kohler, T. A., Rockström, J., Scheffer, M., Schellnhuber, H. J., Steffen, W., & Lenton, T. M. (2022). Climate Endgame: Exploring catastrophic climate change scenarios. Proceedings of the National Academy of Sciences, 119(34), e2108146119. https://doi.org/10.1073/pnas.2108146119
 
 Keys, P. W., Barnes, E. A., Diffenbaugh, N. S., Hertel, T. W., Baldos, U. L. C., & Hedlund, J. (2025). Exposure to compound climate hazards transmitted via global agricultural trade networks. Environmental Research Letters, 20(4), 044039. https://doi.org/10.1088/1748-9326/adb86a
+
+Kinnunen, P., Guillaume, J. H. A., Taka, M., D’Odorico, P., Siebert, S., Puma, M. J., Jalava, M., & Kummu, M. (2020). Local food crop production can fulfil demand for less than one-third of the population. Nature Food, 1(4), 229–237. https://doi.org/10.1038/s43016-020-0060-7 
 
 Knitter, D., Günther, G., Hamer, W. B., Keßler, T., Seguin, J., Unkel, I., Weiberg, E., Duttmann, R., & Nakoinz, O. (2019). Land use patterns and climate change—A modeled scenario of the Late Bronze Age in Southern Greece. Environmental Research Letters, 14(12), 125003. https://doi.org/10.1088/1748-9326/ab5126
 
@@ -352,6 +358,8 @@ Ripple, W. J., Wolf, C., Lenton, T. M., Gregg, J. W., Natali, S. M., Duffy, P. B
 Riris, P., Silva, F., Crema, E., Palmisano, A., Robinson, E., Siegel, P. E., French, J. C., Jørgensen, E. K., Maezumi, S. Y., Solheim, S., Bates, J., Davies, B., Oh, Y., & Ren, X. (2024). Frequent disturbances enhanced the resilience of past human populations. Nature, 629(8013), 837–842. https://doi.org/10.1038/s41586-024-07354-8
 
 Ritchie, P. D. L., Clarke, J. J., Cox, P. M., & Huntingford, C. (2021). Overshooting tipping point thresholds in a changing climate. Nature, 592(7855), 517–523. https://doi.org/10.1038/s41586-021-03263-2
+
+Rivers, M., Hinge, M., Rassool, K., Blouin, S., Jehn, F. U., Martínez, J. B. G., Grilo, V. A., Jaeck, V., Tieman, R. J., Mulhall, J., Butt, T. E., & Denkenberger, D. C. (2024). Food system adaptation and maintaining trade could mitigate global famine in abrupt sunlight reduction scenarios. Global Food Security, 43, 100807. https://doi.org/10.1016/j.gfs.2024.100807 
 
 Robock, A., Xia, L., Harrison, C., Coupe, J., Toon, O., & Bardeen, C. (2023). Opinion: How Nuclear Winter has Saved the World, So Far. https://doi.org/10.5194/acp-2022-852
 
@@ -486,6 +494,8 @@ Weitzman, M. L. (2009). On Modeling and Interpreting the Economics of Catastroph
 Wellesley, L., Preston, F., Lehne, J., & Bailey, R. (2017). Chokepoints in global food trade: Assessing the risk. Research in Transportation Business & Management, 25, 15–28. https://doi.org/10.1016/j.rtbm.2017.07.007
 
 Wilson, N., Valler, V., Cassidy, M., Boyd, M., Mani, L., & Brönnimann, S. (2023). Impact of the Tambora volcanic eruption of 1815 on islands and relevance to future sunlight-blocking catastrophes. Scientific Reports, 13(1), Article 1. https://doi.org/10.1038/s41598-023-30729-2
+
+Wilson, N., Wood, P., & Boyd, M. (2025). Capacity to manufacture key pharmaceuticals in New Zealand after a global catastrophe. New Zealand Medical Journal, 138(1625), 44–58. https://doi.org/10.26635/6965.7053 
 
 Woo, G. (2019). Downward Counterfactual Search for Extreme Events. Frontiers in Earth Science, 7. https://doi.org/10.3389/feart.2019.00340
 
