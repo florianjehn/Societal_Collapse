@@ -29,7 +29,11 @@ Article 36. (2015). Economic impacts of a nuclear weapon detonation.
 
 Aspen Institute. (2017). Democracy as Self-Correction. Aspen Institute Centre for Enterprise. https://www.aspeninstitutece.org/article/2017/democracy-as-self-correction/
 
+Atwood, M. (2009). Oryx And Crake. Virago.
+
 Avin, S., Wintle, B. C., Weitzdörfer, J., Ó hÉigeartaigh, S. S., Sutherland, W. J., & Rees, M. J. (2018). Classifying global catastrophic risks. Futures, 102, 20–26. https://doi.org/10.1016/j.futures.2018.02.001
+
+Bacigalupi, P. (2009). The Windup Girl. Orbit.
 
 Baker, D. N., Jackson, J. M., & Thompson, L. K. (2014). Predicting and mitigating socio-economic impacts of extreme space weather: Benefits of improved forecasts. In A. Ismail-Zadeh, A. Kijko, I. Zaliapin, J. Urrutia Fucugauchi, & K. Takeuchi (Eds.), Extreme Natural Hazards, Disaster Risks and Societal Implications (pp. 113–125). Cambridge University Press. https://doi.org/10.1017/CBO9781139523905.012
 
@@ -51,7 +55,7 @@ Beard, S., Cooke, N., Dryhurst, S., Cassidy, M., Gibbins, G., Gilgallon, G., Hol
 
 Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global Risk: An Introduction to Existential Risk Studies. Open Book Publishers. https://doi.org/10.11647/obp.0336
 
-Beauvoir, S. de, & Frechtman, B. (2006). The ethics of ambiguity. Recording for the Blind & Dyslexic. 
+Beauvoir, S. de, (2006). The ethics of ambiguity
 
 Ben-Yami, M., Morr, A., Bathiany, S., & Boers, N. (2024). Uncertainties too large to predict tipping times of major Earth system components from historical data. Science Advances, 10(31), eadl4841. https://doi.org/10.1126/sciadv.adl4841 
 
@@ -79,9 +83,13 @@ Brands, H. (2018). Democracy vs Authoritarianism: How Ideology Shapes Great-Powe
 
 Brozović, D. (2023). Societal collapse: A literature review. Futures, 145, 103075. https://doi.org/10.1016/j.futures.2022.103075
 
+Brooks, M. (2006). World War Z: An Oral History of the Zombie War. Del Rey.
+
 Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
 
 Burlingame, K. (2011). Forces of Destruction: The Collapse of the Mediterranean Bronze Age [Bachelor Thesis]. Pennsylvania State University.
+
+Butler, O. E. (1993). Parable of the sower. Headline.
 
 Butzer, K. W. (2012). Collapse, environment, and society. Proceedings of the National Academy of Sciences, 109(10), 3632–3639. https://doi.org/10.1073/pnas.1114845109
 
@@ -100,6 +108,8 @@ Cernev, T. (2022). Global catastrophic risk and planetary boundaries: The relati
 Charalampopoulos, I., & Droulia, F. (2021). The Agro-Meteorological Caused Famines as an Evolutionary Factor in the Formation of Civilisation and History: Representative Cases in Europe. Climate, 9(1), Article 1. https://doi.org/10.3390/cli9010005
 
 Chrisendo, D., Niva, V., Hoffmann, R., Sayyar, S. M., Rocha, J., Sandström, V., Solt, F., & Kummu, M. (2024). Income inequality has increased for over two-thirds of the global population. Research Square. https://doi.org/10.21203/rs.3.rs-5548291/v1
+
+Christopher, J. (1956). The Death of Grass.
 
 Clapp, J. (2023). Concentration and crises: Exploring the deep roots of vulnerability in the global industrial food system. The Journal of Peasant Studies, 50(1), 1–25. https://doi.org/10.1080/03066150.2022.2129013
 
@@ -134,6 +144,8 @@ Diamond, J. M. (2011). Collapse: How societies choose to fail or survive. Pengui
 Ditlevsen, P., & Ditlevsen, S. (2023). Warning of a forthcoming collapse of the Atlantic meridional overturning circulation. Nature Communications, 14(1), 4254. https://doi.org/10.1038/s41467-023-39810-w 
 
 Do, T., Anderson, K., & Brorsen, B. W. (2010). The World’s wheat supply. Oklahoma Cooperative Extension Service.
+
+Doctorow, C. (2007). When the Sysadmins ruled the Earth.
 
 D’Odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feeding humanity through global food trade. Earth’s Future, 2(9), 458–469. https://doi.org/10.1002/2014EF000250
 
@@ -257,6 +269,8 @@ Lawrence, M., Homer-Dixon, T., Janzwood, S., Rockstöm, J., Renn, O., & Donges, 
 
 Lawrence, E., Beggan, C. D., Richardson, G. S., Reay, S., Thompson, V., Clarke, E., Orr, L., Hübert, J., & Smedley, A. R. D. (2025). The geomagnetic and geoelectric response to the May 2024 geomagnetic storm in the United Kingdom. Frontiers in Astronomy and Space Sciences, 12. https://doi.org/10.3389/fspas.2025.1550923
 
+Le Guin, U. K. (1974). The dispossessed.
+
 Lenton, T. M. (2023). Climate Change and Tipping Points in Historical Collapse. In How Worlds Collapse. Routledge.
 
 Lenton, T. M., Held, H., Kriegler, E., Hall, J. W., Lucht, W., Rahmstorf, S., & Schellnhuber, H. J. (2008). Tipping elements in the Earth’s climate system. Proceedings of the National Academy of Sciences, 105(6), 1786–1793. https://doi.org/10.1073/pnas.0705414105
@@ -289,6 +303,8 @@ Marienbach, M. (2024). Egalitarianism Without Catastrophe? Teotihuacan’s Chall
 
 Marinatos, S. (1939). The Volcanic Destruction of Minoan Crete. Antiquity, 13(52), 425–439. https://doi.org/10.1017/S0003598X00028088
 
+McCarthy, C. (2006). The Road.
+
 Meadows, D. H., Club of Rome, & Potomac Associates (Eds.). (1974). The limits to growth: A report for the club of rome’s project on the predicament of mankind (2. ed). Universe books.
 
 Meggitt, J. J. (2020). The Problem of Apocalyptic Terrorism. Journal of Religion and Violence, 8(1), 58–104. https://doi.org/10.5840/jrv202061173
@@ -300,6 +316,8 @@ Met Office. (2025). Factsheet: The Atlantic Meridional Overturning Circulation (
 Middleton, G. D. (2017). Understanding Collapse: Ancient History and Modern Myths. Cambridge University Press. https://doi.org/10.1017/9781316584941
 
 Millemaci, E., Monteforte, F., & Temple, J. R. W. (2024). Have Autocrats Governed for the Long Term? Kyklos. https://doi.org/10.1111/kykl.12425
+
+Miller, W. (1959). A Canticle for Leibowitz.
 
 Minobe, S., Behrens, E., Findell, K. L., Loeb, N. G., Meyssignac, B., & Sutton, R. (2025). Global and regional drivers for exceptional climate extremes in 2023-2024: Beyond the new normal. Npj Climate and Atmospheric Science, 8(1), 138. https://doi.org/10.1038/s41612-025-00996-z 
 
@@ -361,6 +379,10 @@ Ritchie, P. D. L., Clarke, J. J., Cox, P. M., & Huntingford, C. (2021). Overshoo
 
 Rivers, M., Hinge, M., Rassool, K., Blouin, S., Jehn, F. U., Martínez, J. B. G., Grilo, V. A., Jaeck, V., Tieman, R. J., Mulhall, J., Butt, T. E., & Denkenberger, D. C. (2024). Food system adaptation and maintaining trade could mitigate global famine in abrupt sunlight reduction scenarios. Global Food Security, 43, 100807. https://doi.org/10.1016/j.gfs.2024.100807 
 
+Robinson, K. S. (2002). The Years of Rice and Salt. Del Rey.
+
+Robinson, K. S. (2020). The ministry for the future. Orbit.
+
 Robock, A., Xia, L., Harrison, C., Coupe, J., Toon, O., & Bardeen, C. (2023). Opinion: How Nuclear Winter has Saved the World, So Far. https://doi.org/10.5194/acp-2022-852
 
 Rockström, J., Gupta, J., Qin, D., Lade, S. J., Abrams, J. F., Andersen, L. S., Armstrong McKay, D. I., Bai, X., Bala, G., Bunn, S. E., Ciobanu, D., DeClerck, F., Ebi, K., Gifford, L., Gordon, C., Hasan, S., Kanie, N., Lenton, T. M., Loriani, S., … Zhang, X. (2023). Safe and just Earth system boundaries. Nature, 619(7968), 102–111. https://doi.org/10.1038/s41586-023-06083-8
@@ -407,6 +429,8 @@ Søgaard Jørgensen, P., Jansen, R. E. V., Avila Ortega, D. I., Wang-Erlandsson,
 
 Solomon, S., Alcamo, J., & Ravishankara, A. R. (2020). Unfinished business after five decades of ozone-layer science and policy. Nature Communications, 11(1), 4272. https://doi.org/10.1038/s41467-020-18052-0 
 
+Stapledon, O. (1930). Last and first men.
+
 Stauffer, M., Kirsch-Wood, J., Stevance, A.-S., Mani, L., Sundaram, L., Dryhurst, S., & Seifert, K. (2023). Hazards with Escalation Potential Governing the Drivers of Global and Existential Catastrophes. United Nations Office for Disaster Risk Reduction.
 
 Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., Summerhayes, C. P., Barnosky, A. D., Cornell, S. E., Crucifix, M., Donges, J. F., Fetzer, I., Lade, S. J., Scheffer, M., Winkelmann, R., & Schellnhuber, H. J. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33), Article 33.
@@ -430,6 +454,8 @@ Tainter, J. A. (2023). How Scholars Explain Collapse. In How Worlds Collapse. Ro
 Tähtinen, L., Toivonen, S., & Rashidfarokhi, A. (2024). Landscape and domains of possible future threats from a societal point of view. Journal of Contingencies and Crisis Management, 32(1), e12529. https://doi.org/10.1111/1468-5973.12529
 
 Tang, Aaron, and Luke Kemp. 2021. “A Fate Worse Than Warming? Stratospheric Aerosol Injection and Global Catastrophic Risk.” Frontiers in Climate 3.
+
+Tchaikovsky, A. (2023). Children of memory. Orbit.
 
 Tetlock, P., Lebow, R. N., & Parker, N. G. (2006). Chapter 1. Counterfactual Thought Experiments: Why we can’t live without and how we must learn to live with them. In Unmaking the West: “What-If?” Scenarios That Rewrite World History. University of Michigan Press.
 

@@ -14,6 +14,7 @@ This section is concerned with a more bird's eye view of collapse. Aggregating i
 * [Endtime economics](https://florianjehn.github.io/Societal_Collapse/2026-01-07-endtime_economics/)
 * [Nuclear war, nuclear winter, and the food system](https://florianjehn.github.io/Societal_Collapse/2026-02-11-nuclear_panel/)
 * [How environmental politics lost the future](https://florianjehn.github.io/Societal_Collapse/2026-04-07-captured_futures/)
+* [Can you learn about collapse from novels?](https://florianjehn.github.io/Societal_Collapse/2026-07-10-fiction/)
 
 # High level concepts
 * [The universal Anthropocene](https://florianjehn.github.io/Societal_Collapse/2022-04-26-anthropocene/)
