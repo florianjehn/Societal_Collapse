@@ -149,6 +149,8 @@ Doctorow, C. (2007). When the Sysadmins ruled the Earth.
 
 D’Odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feeding humanity through global food trade. Earth’s Future, 2(9), 458–469. https://doi.org/10.1002/2014EF000250
 
+Downey, S., Haas, R., & Shennan, S. (2016). European Neolithic societies showed early warning signals of population collapse. Proceedings of the National Academy of Sciences, 113, 9751–9756. https://doi.org/10.1073/pnas.1602504113 
+
 Drake, B. L. (2012). The influence of climatic change on the Late Bronze Age Collapse and the Greek Dark Ages. Journal of Archaeological Science, 39(6), 1862–1870. https://doi.org/10.1016/j.jas.2012.01.029
 
 D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp Speed Serve as a Model for Accelerating Innovations Beyond COVID Vaccines? (Working Paper No. 32831). National Bureau of Economic Research. https://doi.org/10.3386/w32831
@@ -197,7 +199,7 @@ Hoyer, D. (2022). Decline and Fall, Growth and Spread, or Resilience? Approaches
 
 Hoyer, D., Bennett, J. S., Reddish, J., Holder, S., Howard, R., Benam, M., Levine, J., Ludlow, F., Feinman, G., & Turchin, P. (2023). Navigating polycrisis: Long-run socio-cultural factors shape response to changing climate. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1889), 20220402. https://doi.org/10.1098/rstb.2022.0402
 
-Hoyer, D., Bennett, J. S., Whitehouse, H., François, P., Feeney, K., Levine, J., Reddish, J., Davis, D., & Turchin, P. (2024). CRISES AVERTED How A Few Past Societies Found Adaptive Reforms in the Face of Structural- Demographic Crises. OSF. https://doi.org/10.31235/osf.io/hyj48
+Hoyer, D., Bennett, J. S., Whitehouse, H., Francois, P., Reddish, J., Davis, D., Feeney, K. C., Levine, J., Holder, S. L., & Turchin, P. (2025). CRISES AVERTED. How A Few Past Societies Found Adaptive Reforms in the Face of Structural-Demographic Crises. Cliodynamics: The Journal of Quantitative History and Cultural Evolution, 16(1). https://doi.org/10.21237/C7CLIO.38365 
 
 Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
 
@@ -403,6 +405,10 @@ Savitch, E., Frank, A., Carroll-Nellenback, J., Haqq-Misra, J., Kleidon, A., & A
 
 Scheffer, M., van Nes, E. H., Kemp, L., Kohler, T. A., Lenton, T. M., & Xu, C. (2023). The vulnerability of aging states: A survival analysis across premodern societies. Proceedings of the National Academy of Sciences, 120(48), e2218834120. https://doi.org/10.1073/pnas.2218834120
 
+Scheffer, M., Carpenter, S. R., Lenton, T. M., Bascompte, J., Brock, W., Dakos, V., van de Koppel, J., van de Leemput, I. A., Levin, S. A., van Nes, E. H., Pascual, M., & Vandermeer, J. (2012). Anticipating Critical Transitions. Science, 338(6105), 344–348. https://doi.org/10.1126/science.1225244 
+
+Scheffer, M., van Nes, E. H., Bird, D., Bocinsky, R. K., & Kohler, T. A. (2021). Loss of resilience preceded transformations of pre-Hispanic Pueblo societies. Proceedings of the National Academy of Sciences, 118(18), e2024397118. https://doi.org/10.1073/pnas.2024397118 
+
 Schippers, M. C., Ioannidis, J. P. A., & Luijks, M. W. J. (2024). Is society caught up in a Death Spiral? Modeling societal demise and its reversal. Frontiers in Sociology, 9. https://doi.org/10.3389/fsoc.2024.1194597
 
 Schmidt, A. T., & Juijn, D. (2024). Economic inequality and the long-term future. Politics, Philosophy & Economics, 23(1), 67–99. https://doi.org/10.1177/1470594X231178502
@@ -476,6 +482,8 @@ Turchetti, S. (2021). Trading Global Catastrophes: NATO’s Science Diplomacy an
 Turchin, P., Currie, T. E., Whitehouse, H., François, P., Feeney, K., Mullins, D., Hoyer, D., Collins, C., Grohmann, S., Savage, P., Mendel-Gleason, G., Turner, E., Dupeyron, A., Cioni, E., Reddish, J., Levine, J., Jordan, G., Brandl, E., Williams, A., … Spencer, C. (2018). Quantitative historical analysis uncovers a single dimension of complexity that structures global variation in human social organization. Proceedings of the National Academy of Sciences, 115(2), E144–E151. https://doi.org/10.1073/pnas.1708800115
 
 Turchin, P., & Nefedov, S. A. (2009). Secular cycles. Princeton University Press.
+
+Turchin, P. (2012). Dynamics of political instability in the United States, 1780–2010. Journal of Peace Research, 49(4), 577–591. https://doi.org/10.1177/0022343312442078 
 
 Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Baker, D., Bartkowiak, M., Bates, J., Bennett, J., Bidmead, J., Bol, P., Ceccarelli, A., Christakis, K., Christian, D., Covey, A., De Angelis, F., Earle, T., Edwards, N., & Xie, L. (2019). An Introduction to Seshat: Global History Databank. Journal of Cognitive Historiography, 5. https://doi.org/10.1558/jch.39395
 
