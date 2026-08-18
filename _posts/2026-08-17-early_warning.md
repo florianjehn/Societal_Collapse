@@ -83,9 +83,9 @@ It does not seem like anybody has done the study yet to check for these things o
 However, what these things also show, that you can also just be unlucky and be one of those societies that get felled by a big, cataclysmic event, even though you were well prepared for regular disasters. 
 
 # Endnotes
-(1) See here for more information about the global trade system.
+(1) See [here](https://existentialcrunch.substack.com/p/trade-collapse) for more information about the global trade system.
 
-(2) There’s a great study by Nico Wunderling that describes this shift in more detail. 
+(2) There’s a [great study](https://www.pnas.org/doi/10.1073/pnas.2120777119) by Nico Wunderling that describes this shift in more detail. 
 
 # References
 * Downey, S., Haas, R., & Shennan, S. (2016). European Neolithic societies showed early warning signals of population collapse. Proceedings of the National Academy of Sciences, 113, 9751–9756. https://doi.org/10.1073/pnas.1602504113 
