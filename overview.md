@@ -23,3 +23,4 @@ This section is concerned with a more bird's eye view of collapse. Aggregating i
 * [How long until recovery after collapse?](https://florianjehn.github.io/Societal_Collapse/2024-08-31-collapse_recovery/)
 * [Systemic risk and the polycrisis](https://florianjehn.github.io/Societal_Collapse/2025-02-05-sys_crisis/)
 * [Democracy and revolution](https://florianjehn.github.io/Societal_Collapse/2025-02-06-revolution/)
+* [Can we tell if society is at the brink?](https://florianjehn.github.io/Societal_Collapse/2026-08-17-early_warning/)
