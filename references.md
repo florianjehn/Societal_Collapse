@@ -85,6 +85,8 @@ Brozović, D. (2023). Societal collapse: A literature review. Futures, 145, 1030
 
 Brooks, M. (2006). World War Z: An Oral History of the Zombie War. Del Rey.
 
+Brunner, J. (1972). The Sheep Look Up. Harper & Row.
+
 Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
 
 Burlingame, K. (2011). Forces of Destruction: The Collapse of the Mediterranean Bronze Age [Bachelor Thesis]. Pennsylvania State University.
