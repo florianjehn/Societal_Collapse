@@ -87,6 +87,8 @@ Brooks, M. (2006). World War Z: An Oral History of the Zombie War. Del Rey.
 
 Brunner, J. (1972). The Sheep Look Up. Harper & Row.
 
+Büntgen, U., Cosmo, N. D., Esper, J., Frachetti, M., Khalidi, L., Mauelshagen, F., Rohland, E., & Oppenheimer, C. (2025). Volcanoes, Climate, and Society. https://doi.org/10.1146/annurev-earth-032524-013254 
+
 Büntgen, U., Arseneault, D., Boucher, É., Churakova (Sidorova), O. V., Gennaretti, F., Crivellaro, A., Hughes, M. K., Kirdyanov, A. V., Klippel, L., Krusic, P. J., Linderholm, H. W., Ljungqvist, F. C., Ludescher, J., McCormick, M., Myglan, V. S., Nicolussi, K., Piermattei, A., Oppenheimer, C., Reinig, F., … Esper, J. (2020). Prominent role of volcanism in Common Era climate variability and human history. Dendrochronologia, 64, 125757. https://doi.org/10.1016/j.dendro.2020.125757
 
 Burlingame, K. (2011). Forces of Destruction: The Collapse of the Mediterranean Bronze Age [Bachelor Thesis]. Pennsylvania State University.
@@ -205,6 +207,8 @@ Hoyer, D., Bennett, J. S., Whitehouse, H., Francois, P., Reddish, J., Davis, D.,
 
 Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
 
+Huhtamaa, H., Stoffel, M., & Corona, C. (2022). Recession or resilience? Long-range socioeconomic consequences of the 17th century volcanic eruptions in northern Fennoscandia. Climate of the Past, 18(9), 2077–2092. https://doi.org/10.5194/cp-18-2077-2022 
+
 Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of “Ecocide” on Rapa Nui (Easter Island) (SSRN Scholarly Paper No. 2042672). https://doi.org/10.2139/ssrn.2042672
 
 Jackson, L. C., Kahana, R., Graham, T., Ringer, M. A., Woollings, T., Mecking, J. V., & Wood, R. A. (2015). Global and European climate impacts of a slowdown of the AMOC in a high resolution GCM. Climate Dynamics, 45(11), 3299–3316. https://doi.org/10.1007/s00382-015-2540-2 
@@ -225,6 +229,8 @@ Jehn, F. U., Dingal, F. J., Mill, A., Harrison, C. S., Ilin, E., Roleda, M. Y., 
 
 Jehn, F. U., Kemp, L., Ilin, E., Funk, C., Wang, J. R., & Breuer, L. (2022). Focus of the IPCC Assessment Reports Has Shifted to Lower Temperatures. Earth’s Future, 10(5), e2022EF002876. https://doi.org/10.1029/2022EF002876 
 
+Jehn, F. U., & Hoyer, D. (2026). Inequality’s contribution to global catastrophic risk. EarthArXiv. https://eartharxiv.org/repository/view/12164/ 
+
 Jehn, F. U., Rössler, M., Kemp, L., Cassidy, M., Kallenborn, Z., García Martínez, J. B., Mani, L., & Boyd, M. (2026). No place to hide? Regional resilience and vulnerability to global catastrophic risk. EarthArXiv. https://eartharxiv.org/repository/view/12373/ 
 
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
@@ -238,6 +244,8 @@ Kallenborn, Z., & Ackerman, G. (2023). Existential Terrorism: Can Terrorists Des
 Kang, H., Lee, K.-M., & Yang, J.-S. (2024). The potential for cascading failures in the international trade network. PLOS ONE, 19(3), e0299833. https://doi.org/10.1371/journal.pone.0299833
 
 Kanbur, R. (2019). Inequality in a global perspective. Oxford Review of Economic Policy, 35(3), 431–444. https://doi.org/10.1093/oxrep/grz010
+
+Kaniewski, D., Marriner, N., Luce, F., Escarpe, M., Pourkerman, M., & Otto, T. (2025). A climate of conflict: How the little ice age sparked rebellions and revolutions across Europe. Global and Planetary Change, 254, 105038. https://doi.org/10.1016/j.gloplacha.2025.105038 
 
 Kaniewski, D., & Van Campo, E. (2017). 3.2 ka BP Megadrought and the Late Bronze Age Collapse. In H. Weiss (Ed.), Megadrought and Collapse: From Early Agriculture to Angkor (p. 0). Oxford University Press. https://doi.org/10.1093/oso/9780199329199.003.0005
 
@@ -554,4 +562,7 @@ Zeder, M. A. (2011). The Origins of Agriculture in the Near East. Current Anthro
 Zhang, D. D., Lee, H. F., Wang, C., Li, B., Pei, Q., Zhang, J., & An, Y. (2011). The causality analysis of climate change and large-scale human crisis. Proceedings of the National Academy of Sciences, 108(42), 17296–17301. https://doi.org/10.1073/pnas.1104268108
 
 Zhang, M., Liu, B., Xiang, G., Yan, X., Ling, Y., & Zuo, C. (2024). Navigating the shift: Understanding public trust in authorities amidst policy shifts in China’s COVID-19 response. Humanities and Social Sciences Communications, 11(1), 1716. https://doi.org/10.1057/s41599-024-04224-6
+
+Zimmermann, A., Ferjani, A., Mann, S., Haudenschild, U., Mittelholzer, M., & Müller, P. (2017). Ernährungspotenzial der landwirtschaftlichen Kulturflächen: Analyse einer optimierten Inlandproduktion von Nahrungsmitteln im Fall von schweren Mangellagen. Bundesamt für wirtschaftliche Landesversorgung (BWL). 
+
 
