@@ -10,7 +10,7 @@ What would we eat if the sun disappeared tomorrow? Or if our electrical grid col
 
 # What makes a food resilient?
 
-When we ask the question on how to make food resilient, the logical follow-up question is “resilient against what?”. Thankfully, García Martínez et al. (2024) published a literature review where they answer both. 
+When we ask the question on how to make food resilient, the logical follow-up question is “resilient against what?”. Thankfully, García Martínez et al. (2025) published a literature review where they answer both. 
 
 When we talk about resilient foods we have to consider two main scenarios (1):
 * Abrupt sunlight reduction scenario (ASRS): This refers to events like volcanic eruptions which emit particles that block out sunlight and thus decrease global surface temperatures and precipitations, [decreasing crop yields up to ~90 %](https://www.nature.com/articles/s43016-022-00573-0).
@@ -29,7 +29,7 @@ Figure 1: Suitability of a variety of resilient foods for different kinds of cat
 
 # Can we actually scale things up?
 
-So, now we know that there are a lot of food sources out there who could feed us even in pretty bleak circumstances. But having the potential to be a resilient food and actually being able to produce enough of that food after a global catastrophe, are two quite different topics. Clear numbers of how quickly we could scale up something like such resilient food production are hard to come by, but I want to highlight a somewhat different topic, which highlights a recent, large scale-up project: Operation Warp Speed (OWS). During OWS the United States was able to scale up the production of vaccines quicker than everybody expected it to be possible. OWS is discussed in detail by D’Souza et al. (2024). Besides explaining how OWS came to pass, their research essentially answers two main questions:
+So, now we know that there are a lot of food sources out there who could feed us even in pretty bleak circumstances. But having the potential to be a resilient food and actually being able to produce enough of that food after a global catastrophe, are two quite different topics. Clear numbers of how quickly we could scale up something like such resilient food production are hard to come by, but I want to highlight a somewhat different topic, which highlights a recent, large scale-up project: Operation Warp Speed (OWS). During OWS the United States was able to scale up the production of vaccines quicker than everybody expected it to be possible. OWS is discussed in detail by D’Souza et al. (2025). Besides explaining how OWS came to pass, their research essentially answers two main questions:
 1. What kind of properties must a project have so it can be accelerated like OWS?
    * Importance: This one's pretty self-explanatory. If a project is very important, this means a lot of people are interested in it succeeding. 
    * Time sensitivity: Running something like OWS is quite expensive, therefore the problem at hand should be urgent and costly, like COVID was, so these expenses can be justified. 
@@ -76,5 +76,5 @@ Jehn, F. U. (2024, December 19). Resilient foods. Existential Crunch.  [https://
 
 # References
 
-* D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp Speed Serve as a Model for Accelerating Innovations Beyond COVID Vaccines? (Working Paper No. 32831). National Bureau of Economic Research. https://doi.org/10.3386/w32831
-* García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2024). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. EarthArXiv. https://eartharxiv.org/repository/view/7688/
+* D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2025). Can Operation Warp Speed serve as a model for accelerating innovations beyond COVID vaccines? Entrepreneurship and Innovation Policy and the Economy, 4, 103–138. https://doi.org/10.1086/732855 
+* García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2025). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. Critical Reviews in Food Science and Nutrition, 65(28), 6068–6094. https://doi.org/10.1080/10408398.2024.2431207 

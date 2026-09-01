@@ -6,7 +6,7 @@ tags: [Overview Post, Summaries]
 comments: true
 readtime: true
 ---
-From time to time you come across a paper that blows you away with the amount of work it must have needed to create it and the fascinating insights that can be gleaned from it. For me the preprint “All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past”  by Hoyer et al. (2024) is such a piece of work. They have built a new dataset on top of the Seshat history database (Turchin et al., 2019) (1). Their new data is meant to capture the majority of big crises from the beginning of recorded history until around the beginning of the 20th century. They use this dataset to try to prove or disprove a large group of history's big narratives in one big swoop.
+From time to time you come across a paper that blows you away with the amount of work it must have needed to create it and the fascinating insights that can be gleaned from it. For me the paper “All Crises are Unhappy in Their Own Way: The Role of Societal Instability in Shaping the Past” by Hoyer et al. (2025) is such a piece of work. They have built a new dataset on top of the Seshat history database (Turchin et al., 2019) (1). Their new data is meant to capture the majority of big crises from the beginning of recorded history until around the beginning of the 20th century. They use this dataset to try to prove or disprove a large group of history's big narratives in one big swoop.
 
 # The grand narratives of history
 
@@ -141,7 +141,7 @@ Jehn, F. U. (2024, April 9). What factors allow societies to survive a crisis?. 
 
 # References
 
-* Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
+* Hoyer, D., Holder, S., Bennett, J. S., Francois, P., Whitehouse, H., Covey, R. A., Feinman, G., Korotayev, A., Ustyuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2025). All Crises are Unhappy in Their Own Way: The Role of Societal Instability in Shaping the Past. Social Science History, 50(2), 314–346. https://doi.org/10.1017/ssh.2025.10113 
 * Turchin, P., Whitehouse, H., Francois, P., Hoyer, D., Alves, A., Baines, J., Baker, D., Bartkowiak, M., Bates, J., Bennett, J., Bidmead, J., Bol, P., Ceccarelli, A., Christakis, K., Christian, D., Covey, A., De Angelis, F., Earle, T., Edwards, N., & Xie, L. (2019). An Introduction to Seshat: Global History Databank. Journal of Cognitive Historiography, 5. https://doi.org/10.1558/jch.39395
 
 

@@ -23,7 +23,7 @@ Arendt, H. (2016). On revolution (Paperback edition). Faber & Faber.
 
 Armstrong McKay, D. I., Staal, A., Abrams, J. F., Winkelmann, R., Sakschewski, B., Loriani, S., Fetzer, I., Cornell, S. E., Rockström, J., & Lenton, T. M. (2022). Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science, 377(6611), eabn7950. https://doi.org/10.1126/science.abn7950
 
-Arnscheidt, C. W., Beard, S. J., Hobson, T., Ingram, P., Kemp, L., Mani, L., Marcoci, A., Mbeva, K., hÉigeartaigh, S. Ó., Sandberg, A., Sundaram, L., & Wunderling, N. (2024). Systemic contributions to global catastrophic risk. OSF. https://doi.org/10.31235/osf.io/wcj9e
+Arnscheidt, C. W., Beard, S. J., Hobson, T., Ingram, P., Kemp, L., Mani, L., Marcoci, A., Mbeva, K., hÉigeartaigh, S. Ó., Sandberg, A., Sundaram, L., & Wunderling, N. (2025). Systemic contributions to global catastrophic risk. Global Sustainability, 8, e19. https://doi.org/10.1017/sus.2025.20 
 
 Article 36. (2015). Economic impacts of a nuclear weapon detonation. 
 
@@ -51,7 +51,7 @@ Baum, S. D., Denkenberger, D. C., Pearce, J. M., Robock, A., & Winkler, R. (2015
 
 Baum, Seth D., Timothy M. Maher, and Jacob Haqq-Misra. 2013. “Double Catastrophe: Intermittent Stratospheric Geoengineering Induced by Societal Collapse.” Environment Systems & Decisions 33(1):168–80. doi:10.1007/s10669-012-9429-y.
 
-Beard, S., Cooke, N., Dryhurst, S., Cassidy, M., Gibbins, G., Gilgallon, G., Holt, B., Josefiina, I., Kemp, L., Tang, A., Weitzdörfer, J., Ingram, P., Sundaram, L., & Davies, R. (2023). Exploring Futures for the Science of Global Risk. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4405991
+Beard, S., Cooke, N., Dryhurst, S., Cassidy, M., Gibbins, G., Gilgallon, G., Holt, B., Josefiina, I., Kemp, L., Tang, A., Weitzdörfer, J., Ingram, P., Sundaram, L., & Davies, R. (2025). Exploring futures for the science of global risk. Futures, 168, 103569. https://doi.org/10.1016/j.futures.2025.103569 
 
 Beard, S. J., Rees, M., Richards, C., & Rios Rojas, C. (2023). The Era of Global Risk: An Introduction to Existential Risk Studies. Open Book Publishers. https://doi.org/10.11647/obp.0336
 
@@ -63,7 +63,7 @@ Berger, D., Soles, J. S., Giumlia-Mair, A. R., Brügmann, G., Galili, E., Lockho
 
 Blanton, R. E., Feinman, G. M., Kowalewski, S. A., & Fargher, L. F. (2020). Moral Collapse and State Failure: A View From the Past. Frontiers in Political Science, 2. https://doi.org/10.3389/fpos.2020.568704
 
-Blouin, S., Jehn, F. U., & Denkenberger, D. (2024). Global industrial disruption following nuclear war. EarthArXiv. https://doi.org/https://doi.org/10.31223/X58H9G 
+Blouin, S., Jehn, F. U., & Denkenberger, D. (2024). Global industrial disruption following nuclear war. EarthArXiv. https://doi.org/10.31223/X58H9G 
 
 Blouin, S., Herwix, A., Rivers, M., Tieman, R. J., & Denkenberger, D. C. (2024). Assessing the Impact of Catastrophic Electricity Loss on the Food Supply Chain. International Journal of Disaster Risk Science. https://doi.org/10.1007/s13753-024-00574-6
 
@@ -111,7 +111,7 @@ Cernev, T. (2022). Global catastrophic risk and planetary boundaries: The relati
 
 Charalampopoulos, I., & Droulia, F. (2021). The Agro-Meteorological Caused Famines as an Evolutionary Factor in the Formation of Civilisation and History: Representative Cases in Europe. Climate, 9(1), Article 1. https://doi.org/10.3390/cli9010005
 
-Chrisendo, D., Niva, V., Hoffmann, R., Sayyar, S. M., Rocha, J., Sandström, V., Solt, F., & Kummu, M. (2024). Income inequality has increased for over two-thirds of the global population. Research Square. https://doi.org/10.21203/rs.3.rs-5548291/v1
+Chrisendo, D., Niva, V., Hoffmann, R., Masoumzadeh Sayyar, S., Rocha, J., Sandström, V., Solt, F., & Kummu, M. (2025). Rising income inequality across half of global population and socioecological implications. Nature Sustainability, 8(12), 1601–1613. https://doi.org/10.1038/s41893-025-01689-4 
 
 Christopher, J. (1956). The Death of Grass.
 
@@ -157,7 +157,7 @@ Downey, S., Haas, R., & Shennan, S. (2016). European Neolithic societies showed 
 
 Drake, B. L. (2012). The influence of climatic change on the Late Bronze Age Collapse and the Greek Dark Ages. Journal of Archaeological Science, 39(6), 1862–1870. https://doi.org/10.1016/j.jas.2012.01.029
 
-D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2024). Can Operation Warp Speed Serve as a Model for Accelerating Innovations Beyond COVID Vaccines? (Working Paper No. 32831). National Bureau of Economic Research. https://doi.org/10.3386/w32831
+D’Souza, A., Hoyt, K., Snyder, C. M., & Stapp, A. (2025). Can Operation Warp Speed serve as a model for accelerating innovations beyond COVID vaccines? Entrepreneurship and Innovation Policy and the Economy, 4, 103–138. https://doi.org/10.1086/732855 
 
 Easterlin, R. (2012). Life satisfaction of rich and poor under socialism and capitalism. International Journal of Happiness and Development, 1(1), 112–126.
 
@@ -171,7 +171,7 @@ Frank, A. (2018). Light of the stars: Alien worlds and the fate of the Earth (Fi
 
 Frank, A., Carroll-Nellenback, J., Alberti, M., & Kleidon, A. (2018). The Anthropocene Generalized: Evolution of Exo-Civilizations and Their Planetary Feedback. Astrobiology, 18(5), 503–518. https://doi.org/10.1089/ast.2017.1671
 
-García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2024). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. EarthArXiv. https://eartharxiv.org/repository/view/7688/
+García Martínez, J. B., Behr, J., Pearce, J. M., & Denkenberger, D. (2025). Resilient foods for preventing global famine: A review of food supply interventions for global catastrophic food shocks including nuclear winter and infrastructure collapse. Critical Reviews in Food Science and Nutrition, 65(28), 6068–6094. https://doi.org/10.1080/10408398.2024.2431207 
 
 Gareau, B. J. (2015). Lessons from the Montreal Protocol delay in phasing out methyl bromide. Journal of Environmental Studies and Sciences, 5(2), 163–168. https://doi.org/10.1007/s13412-014-0212-x 
 
@@ -199,17 +199,17 @@ Houska, T., Kraft, P., Chamorro-Chavez, A., & Breuer, L. (2015). SPOTting Model 
 
 Houska, T., Kraft, P., Jehn, F., Bestian, K., Kraus, D., & Breuer, L. (2021). Detection of hidden model errors by combining single and multi-criteria calibration. Science of The Total Environment, 777, 146218. https://doi.org/10.1016/j.scitotenv.2021.146218
 
-Hoyer, D. (2022). Decline and Fall, Growth and Spread, or Resilience? Approaches to Studying How and Why Societies Change. SocArXiv. https://doi.org/10.31235/osf.io/43rgx
+Hoyer, D. (2023). Decline and Fall, Growth and Spread, or Resilience? Approaches to Studying How and Why Societies Change. Journal of World History, 34(4), 497–525. https://doi.org/10.1353/jwh.2023.a912768 
 
 Hoyer, D., Bennett, J. S., Reddish, J., Holder, S., Howard, R., Benam, M., Levine, J., Ludlow, F., Feinman, G., & Turchin, P. (2023). Navigating polycrisis: Long-run socio-cultural factors shape response to changing climate. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1889), 20220402. https://doi.org/10.1098/rstb.2022.0402
 
 Hoyer, D., Bennett, J. S., Whitehouse, H., Francois, P., Reddish, J., Davis, D., Feeney, K. C., Levine, J., Holder, S. L., & Turchin, P. (2025). CRISES AVERTED. How A Few Past Societies Found Adaptive Reforms in the Face of Structural-Demographic Crises. Cliodynamics: The Journal of Quantitative History and Cultural Evolution, 16(1). https://doi.org/10.21237/C7CLIO.38365 
 
-Hoyer, D., Holder, S., Bennett, J. S., François, P., Whitehouse, H., Covey, A., Feinman, G., Korotayev, A., Vustiuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2024). All Crises are Unhappy in their Own Way: The role of societal instability in shaping the past. OSF. https://doi.org/10.31235/osf.io/rk4gd
+Hoyer, D., Holder, S., Bennett, J. S., Francois, P., Whitehouse, H., Covey, R. A., Feinman, G., Korotayev, A., Ustyuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2025). All Crises are Unhappy in Their Own Way: The Role of Societal Instability in Shaping the Past. Social Science History, 50(2), 314–346. https://doi.org/10.1017/ssh.2025.10113 
 
 Huhtamaa, H., Stoffel, M., & Corona, C. (2022). Recession or resilience? Long-range socioeconomic consequences of the 17th century volcanic eruptions in northern Fennoscandia. Climate of the Past, 18(9), 2077–2092. https://doi.org/10.5194/cp-18-2077-2022 
 
-Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of “Ecocide” on Rapa Nui (Easter Island) (SSRN Scholarly Paper No. 2042672). https://doi.org/10.2139/ssrn.2042672
+Hunt, T. L., & Lipo, C. P. (2009). Ecological Catastrophe, Collapse, and the Myth of “Ecocide” on Rapa Nui (Easter Island). In P. A. McAnany & N. Yoffee (Eds.), Questioning Collapse: Human Resilience, Ecological Vulnerability, and the Aftermath of Empire (pp. 21–44). Cambridge University Press. https://doi.org/10.1017/CBO9780511757815.003 
 
 Jackson, L. C., Kahana, R., Graham, T., Ringer, M. A., Woollings, T., Mecking, J. V., & Wood, R. A. (2015). Global and European climate impacts of a slowdown of the AMOC in a high resolution GCM. Climate Dynamics, 45(11), 3299–3316. https://doi.org/10.1007/s00382-015-2540-2 
 
@@ -217,7 +217,7 @@ Jagtap, S., Trollman, H., Trollman, F., Garcia-Garcia, G., Parra-López, C., Duo
 
 Jasinski, J. M., & Velli, M. (2025). The Sun Reversed Its Decades-long Weakening Trend in 2008. The Astrophysical Journal Letters, 990(2), L55. https://doi.org/10.3847/2041-8213/adf3a6
 
-Jain, S. (2024). Mapping Global Cereal Flow at Subnational Scales Unveils Key Insights for Food Systems Resilience. Research Square. https://doi.org/10.21203/rs.3.rs-5204730/v1
+Jain, S. (2026). Mapping global cereal flows at subnational scales uncovers heterogeneities in sourcing dependencies. Environmental Research: Food Systems, 3(2), 021002. https://doi.org/10.1088/2976-601X/ae69e9 
 
 Jehn, F. U., Mulhall, J., Blouin, S., Gajewski, Ł. G., & Wunderling, N. (2026). The largest crop production shocks: Magnitude, causes and frequency. Earth System Dynamics, 17(1), 151–166. https://doi.org/10.5194/esd-17-151-2026 
 
@@ -225,11 +225,11 @@ Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderli
 
 Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries.” Pp. 119–32 in Intersections, Reinforcements, Cascades: Proceedings of the 2023 Stanford Existential Risks Conference. The Stanford Existential Risks Initiative.
 
-Jehn, F. U., Dingal, F. J., Mill, A., Harrison, C. S., Ilin, E., Roleda, M. Y., James, S. C., & Denkenberger, D. C. (2023). Seaweed as a resilient food solution after a nuclear war. Zenodo. https://doi.org/10.5281/zenodo.7615254
+Jehn, F. U., Dingal, F. J., Mill, A., Harrison, C. S., Ilin, E., Roleda, M. Y., James, S. C., & Denkenberger, D. C. (2024). Seaweed as a Resilient Food Solution After a Nuclear War. Earth’s Future, 12(1), e2023EF003710. https://doi.org/10.1029/2023EF003710 
 
 Jehn, F. U., Kemp, L., Ilin, E., Funk, C., Wang, J. R., & Breuer, L. (2022). Focus of the IPCC Assessment Reports Has Shifted to Lower Temperatures. Earth’s Future, 10(5), e2022EF002876. https://doi.org/10.1029/2022EF002876 
 
-Jehn, F. U., & Hoyer, D. (2026). Inequality’s contribution to global catastrophic risk. EarthArXiv. https://eartharxiv.org/repository/view/12164/ 
+Jehn, F. U., & Hoyer, D. (2026). Inequality’s contribution to global catastrophic risk. EarthArXiv. https://doi.org/10.31223/X5119G 
 
 Jehn, F. U., Rössler, M., Kemp, L., Cassidy, M., Kallenborn, Z., García Martínez, J. B., Mani, L., & Boyd, M. (2026). No Place to Hide? Regional Resilience and Vulnerability to Global Catastrophic Risk. Global Challenges, 10(8), e70146. https://doi.org/10.1002/gch2.70146 
 
@@ -240,6 +240,8 @@ Johnson, M., Gorospe, G., Landry, J., & Schuster, A. (2016). Review of mitigatio
 Juergensmeyer, M. (2003). CHAPTER 6 Armageddon in a Tokyo Subway. In Terror in the Mind of God: The Global Rise of Religious Violence (3rd ed.). University of California Press. https://www.jstor.org/stable/10.1525/j.ctt4cgfbx
 
 Kallenborn, Z., & Ackerman, G. (2023). Existential Terrorism: Can Terrorists Destroy Humanity? European Journal of Risk Regulation, 14(4), 760–778. https://doi.org/10.1017/err.2023.48
+
+Kamana-Williams, B., Feng, X., Lamilla Cuellar, J. E., Peterson, R., & Denkenberger, D. (2026). Subterranean Water Infrastructure Protection in an Abrupt Sunlight Reduction Scenario. Journal of Cold Regions Engineering, 40(2), 04026019. https://doi.org/10.1061/JCRGEI.CRENG-1067 
 
 Kang, H., Lee, K.-M., & Yang, J.-S. (2024). The potential for cascading failures in the international trade network. PLOS ONE, 19(3), e0299833. https://doi.org/10.1371/journal.pone.0299833
 
@@ -269,7 +271,7 @@ Knitter, D., Günther, G., Hamer, W. B., Keßler, T., Seguin, J., Unkel, I., Wei
 
 Kraft, P., Vaché, K. B., Frede, H.-G., & Breuer, L. (2011). CMF: A Hydrological Programming Language Extension For Integrated Catchment Models. Environmental Modelling & Software, 26(6), 828–830. https://doi.org/10.1016/j.envsoft.2010.12.009
 
-Kuhla, K., Puma, M., & Otto, C. (2023). Stabilizing international wheat prices through international cooperation after the Russian invasion of Ukraine [Preprint]. In Review. https://doi.org/10.21203/rs.3.rs-3316541/v1
+Kuhla, K., Puma, M. J., & Otto, C. (2024). International cooperation was key to stabilize wheat prices after the Russian Invasion of Ukraine. Communications Earth & Environment, 5(1), 481. https://doi.org/10.1038/s43247-024-01638-7 
 
 Lage, J., Thema, J., Zell-Ziegler, C., Best, B., Cordroch, L., & Wiese, F. (2023). Citizens call for sufficiency and regulation—A comparison of European citizen assemblies and National Energy and Climate Plans. Energy Research & Social Science, 104, 103254. https://doi.org/10.1016/j.erss.2023.103254
 
@@ -309,7 +311,7 @@ Mathieu, E., Ritchie, H., Rodés-Guirao, L., Appel, C., Gavrilov, D., Giattino, 
 
 Marchand, P., Carr, J. A., Dell’Angelo, J., Fader, M., Gephart, J. A., Kummu, M., Magliocca, N. R., Porkka, M., Puma, M. J., Ratajczak, Z., Rulli, M. C., Seekell, D. A., Suweis, S., Tavoni, A., & D’Odorico, P. (2016). Reserves and trade jointly determine exposure to food supply shocks. Environmental Research Letters, 11(9), 095009. https://doi.org/10.1088/1748-9326/11/9/095009
 
-Mark, S., Holder, S., Hoyer, D., Schoonover, R., & Aldrich, D. P. (2023). Understanding Polycrisis: Definitions, Applications, and Responses (SSRN Scholarly Paper No. 4593383). Social Science Research Network. https://doi.org/10.2139/ssrn.4593383
+Mark, S., Holder, S., Hoyer, D., Schoonover, R., & Aldrich, D. P. (2025). Understanding polycrisis: Definitions, applications, and responses. Global Sustainability, 8, e35. https://doi.org/10.1017/sus.2025.10018 
 
 Marienbach, M. (2024). Egalitarianism Without Catastrophe? Teotihuacan’s Challenge to Walter Scheidel’s Four Horsemen Theory. The Maastricht Journal of Liberal Arts, 15. https://doi.org/10.26481/mjla.2024.v15.1017
 
@@ -521,7 +523,7 @@ Vasyliūnas, V. M. (2011). The largest imaginable magnetic storm. Journal of Atm
 
 Verschuur, J., Koks, E. E., & Hall, J. W. (2022). Ports’ criticality in international trade and global supply-chains. Nature Communications, 13(1), 4351. https://doi.org/10.1038/s41467-022-32070-0 
 
-Verschuur, J., Murgatroyd, A., Vittis, Y., Mosnier, A., Obersteiner, M., Godfray, C., & Hall, J. (2024). The impacts of polycrises on global grain availability and prices. https://doi.org/10.21203/rs.3.rs-3969801/v1
+Verschuur, J., Murgatroyd, A., Vittis, Y., Mosnier, A., Obersteiner, M., Godfray, C. J., & Hall, J. W. (2026). Assessing the resilience of global grain supplies to compound climatic and non-climatic shocks. PLOS Climate, 5(5), e0000825. https://doi.org/10.1371/journal.pclm.0000825 
 
 Vodovnik, Ž. (2024). Possibilities at the End of the World: (Re)Imagining Care as Politics. Teorija in praksa, 387–405. https://doi.org/10.51936/tip.61.2.387
 

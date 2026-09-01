@@ -77,7 +77,7 @@ Jehn, F. U. (2026, January 14). End time economics. Existential Crunch. https://
 
 # References 
 * Article 36. (2015). Economic impacts of a nuclear weapon detonation. 
-* Blouin, S., Jehn, F. U., & Denkenberger, D. (2024). Global industrial disruption following nuclear war. EarthArXiv. https://doi.org/https://doi.org/10.31223/X58H9G 
+* Blouin, S., Jehn, F. U., & Denkenberger, D. (2024). Global industrial disruption following nuclear war. EarthArXiv. https://doi.org/10.31223/X58H9G 
 * Hochman, G., Zhang, H., Xia, L., Robock, A., Saketh, A., Mensbrugghe, D. Y. van der, & Jägermeyr, J. (2022). Economic incentives modify agricultural impacts of nuclear war. Environmental Research Letters, 17(5), 054003. https://doi.org/10.1088/1748-9326/ac61c7 
 * Stiglitz, J. E. (2018). Where modern macroeconomics went wrong. Oxford Review of Economic Policy, 34(1–2), 70–106. https://doi.org/10.1093/oxrep/grx057 
 * Weitzman, M. L. (2009). On Modeling and Interpreting the Economics of Catastrophic Climate Change. The Review of Economics and Statistics, 91(1), 1–19. https://doi.org/10.1162/rest.91.1.1 

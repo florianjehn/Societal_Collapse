@@ -139,7 +139,7 @@ When looking at all these different risk complications, it seems to me that glob
 
 # Endnotes
 
-(1) If you want to know about this field, I wrote a whole [systematic review](https://eartharxiv.org/repository/view/8145/) about it. 
+(1) If you want to know about this field, I wrote a whole [systematic review](https://doi.org/10.5194/esd-16-1053-2025) about it. 
 
 (2) The famous [grey goo](https://en.wikipedia.org/wiki/Gray_goo). 
 

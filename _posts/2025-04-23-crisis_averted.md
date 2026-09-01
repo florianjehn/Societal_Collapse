@@ -32,7 +32,7 @@ However, Shwom and Kopp also emphasize in their review that these are very preli
 
 # Quantitative history to the rescue
 
-This is the part where everyone’s favorite quantitative historical database Seshat comes into play. A recent article by Hoyer et al. (2024) tries to make a first exploration of how averted crises play out using this data. However, this is quite a tricky thing to look at. By definition, averted crises cannot easily leave a big mark in history, because they did not happen. To be able to detect an averted crises they lean on structural demographic theory.  We discussed this briefly in the [first post in this series](https://existentialcrunch.substack.com/i/126620556/structural-demographic-theory), but here’s a quick refresher. 
+This is the part where everyone’s favorite quantitative historical database Seshat comes into play. A recent article by Hoyer et al. (2025) tries to make a first exploration of how averted crises play out using this data. However, this is quite a tricky thing to look at. By definition, averted crises cannot easily leave a big mark in history, because they did not happen. To be able to detect an averted crises they lean on structural demographic theory.  We discussed this briefly in the [first post in this series](https://existentialcrunch.substack.com/i/126620556/structural-demographic-theory), but here’s a quick refresher. 
 
 In structural demographic theory the idea is that your society goes through a cycle of increasing pressure, which gets released at some point and then the cycle starts anew. This goes through several steps:
 * Your society is growing, there are enough resources for everyone, everything is quite stable. 
@@ -116,6 +116,6 @@ Jehn, F. U. (2025, May 21). Reform or ruin. Existential Crunch. [https://doi.org
 
 # References
 
-* Hoyer, D., Bennett, J. S., Whitehouse, H., François, P., Feeney, K., Levine, J., Reddish, J., Davis, D., & Turchin, P. (2024). CRISES AVERTED How A Few Past Societies Found Adaptive Reforms in the Face of Structural- Demographic Crises. OSF. https://doi.org/10.31235/osf.io/hyj48
+* Hoyer, D., Bennett, J. S., Whitehouse, H., Francois, P., Reddish, J., Davis, D., Feeney, K. C., Levine, J., Holder, S. L., & Turchin, P. (2025). CRISES AVERTED. How A Few Past Societies Found Adaptive Reforms in the Face of Structural-Demographic Crises. Cliodynamics: The Journal of Quantitative History and Cultural Evolution, 16(1). https://doi.org/10.21237/C7CLIO.38365 
 * Shwom, R., & and Kopp, R. E. (2019). Long-term risk governance: When do societies act before crisis? Journal of Risk Research, 22(11), 1374–1390. https://doi.org/10.1080/13669877.2018.1476900
 
