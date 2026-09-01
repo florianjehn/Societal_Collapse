@@ -209,7 +209,7 @@ Hoyer, D., Holder, S., Bennett, J. S., Francois, P., Whitehouse, H., Covey, R. A
 
 Huhtamaa, H., Stoffel, M., & Corona, C. (2022). Recession or resilience? Long-range socioeconomic consequences of the 17th century volcanic eruptions in northern Fennoscandia. Climate of the Past, 18(9), 2077–2092. https://doi.org/10.5194/cp-18-2077-2022 
 
-Hunt, T. L., & Lipo, C. P. (2009). Ecological Catastrophe, Collapse, and the Myth of “Ecocide” on Rapa Nui (Easter Island). In P. A. McAnany & N. Yoffee (Eds.), Questioning Collapse: Human Resilience, Ecological Vulnerability, and the Aftermath of Empire (pp. 21–44). Cambridge University Press. https://doi.org/10.1017/CBO9780511757815.003 
+Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of “Ecocide” on Rapa Nui (Easter Island) (SSRN Scholarly Paper No. 2042672). https://doi.org/10.2139/ssrn.2042672
 
 Jackson, L. C., Kahana, R., Graham, T., Ringer, M. A., Woollings, T., Mecking, J. V., & Wood, R. A. (2015). Global and European climate impacts of a slowdown of the AMOC in a high resolution GCM. Climate Dynamics, 45(11), 3299–3316. https://doi.org/10.1007/s00382-015-2540-2 
 

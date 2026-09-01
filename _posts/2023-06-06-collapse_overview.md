@@ -95,7 +95,7 @@ In addition to the five main factors, Diamond also identifies twelve environment
 
 Figure 3: Reproduced figure from Carter (2013) based on Diamond (2011). Red: Negative Feedback, Green: Positive Feedback, Purple: Positive/Negative Feedback, Grey boxes: Main Factors, White Boxes: Subfactors. 
 
-While Diamond's focus on the environment and humanity’s interaction with it makes intuitive sense to me, it should be noted that Diamond's work has been criticized by anthropologists for being too focussed on the environment (e.g. Butzer (2012)), and misrepresenting or cherry picking historical evidence (Hunt & Lipo, 2009). 
+While Diamond's focus on the environment and humanity’s interaction with it makes intuitive sense to me, it should be noted that Diamond's work has been criticized by anthropologists for being too focussed on the environment (e.g. Butzer (2012)), and misrepresenting or cherry picking historical evidence (Hunt & Lipo, 2012). 
 
 ### Societal Framework (Example: Karl Butzer)
 
@@ -153,7 +153,7 @@ Jehn, F. U. (2023, June 7). Mapping out collapse research. Existential Crunch. [
 * Burja S. (2018, September 5). Great Founder Theory. https://samoburja.com/great-founder-theory/
 * Hoyer, D. (2023). Decline and Fall, Growth and Spread, or Resilience? Approaches to Studying How and Why Societies Change. Journal of World History, 34(4), 497–525. https://doi.org/10.1353/jwh.2023.a912768 
 * Hoyer, D., Holder, S., Bennett, J. S., Francois, P., Whitehouse, H., Covey, R. A., Feinman, G., Korotayev, A., Ustyuzhanin, V., Preiser-Kapeller, J., Bard, K., Levine, J., Reddish, J., Orlandi, G., Ainsworth, R., & Turchin, P. (2025). All Crises are Unhappy in Their Own Way: The Role of Societal Instability in Shaping the Past. Social Science History, 50(2), 314–346. https://doi.org/10.1017/ssh.2025.10113 
-* Hunt, T. L., & Lipo, C. P. (2009). Ecological Catastrophe, Collapse, and the Myth of “Ecocide” on Rapa Nui (Easter Island). In P. A. McAnany & N. Yoffee (Eds.), Questioning Collapse: Human Resilience, Ecological Vulnerability, and the Aftermath of Empire (pp. 21–44). Cambridge University Press. https://doi.org/10.1017/CBO9780511757815.003 
+* Hunt, T., & Lipo, C. (2012). Ecological Catastrophe and Collapse: The Myth of “Ecocide” on Rapa Nui (Easter Island) (SSRN Scholarly Paper No. 2042672). https://doi.org/10.2139/ssrn.2042672
 * Kareiva, P., & Carranza, V. (2018). Existential risk due to ecosystem collapse: Nature strikes back. Futures, 102, 39–50. https://doi.org/10.1016/j.futures.2018.01.001
 * Kemp, L. (2025). Goliath’s Curse: The History and Future of Societal Collapse. Viking. 
 * Lawler, A. (2010). Collapse? What Collapse? Societal Change Revisited. Science, 330(6006), 907–909. https://doi.org/10.1126/science.330.6006.907
