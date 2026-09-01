@@ -219,9 +219,9 @@ Jasinski, J. M., & Velli, M. (2025). The Sun Reversed Its Decades-long Weakening
 
 Jain, S. (2024). Mapping Global Cereal Flow at Subnational Scales Unveils Key Insights for Food Systems Resilience. Research Square. https://doi.org/10.21203/rs.3.rs-5204730/v1
 
-Jehn, F. U., Mulhall, J., Blouin, S., Gajewski, Ł. G., & Wunderling, N. (2025). The Largest Crop Production Shocks: Magnitude, Causes and Frequency. EarthArXiv. https://eartharxiv.org/repository/view/10133/ 
+Jehn, F. U., Mulhall, J., Blouin, S., Gajewski, Ł. G., & Wunderling, N. (2026). The largest crop production shocks: Magnitude, causes and frequency. Earth System Dynamics, 17(1), 151–166. https://doi.org/10.5194/esd-17-151-2026 
 
-Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2024). Food trade disruption after global catastrophes. EarthArXiv. https://eartharxiv.org/repository/view/7339/
+Jehn, F. U., Gajewski, Ł. G., Hedlund, J., Arnscheidt, C. W., Xia, L., Wunderling, N., & Denkenberger, D. (2025). Food trade disruption after global catastrophes. Earth System Dynamics, 16(5), 1585–1603. https://doi.org/10.5194/esd-16-1585-2025 
 
 Jehn, Florian Ulrich. 2023. “Anthropocene Under Dark Skies: The Compounding Effects of Nuclear Winter and Overstepped Planetary Boundaries.” Pp. 119–32 in Intersections, Reinforcements, Cascades: Proceedings of the 2023 Stanford Existential Risks Conference. The Stanford Existential Risks Initiative.
 
@@ -231,7 +231,7 @@ Jehn, F. U., Kemp, L., Ilin, E., Funk, C., Wang, J. R., & Breuer, L. (2022). Foc
 
 Jehn, F. U., & Hoyer, D. (2026). Inequality’s contribution to global catastrophic risk. EarthArXiv. https://eartharxiv.org/repository/view/12164/ 
 
-Jehn, F. U., Rössler, M., Kemp, L., Cassidy, M., Kallenborn, Z., García Martínez, J. B., Mani, L., & Boyd, M. (2026). No place to hide? Regional resilience and vulnerability to global catastrophic risk. EarthArXiv. https://eartharxiv.org/repository/view/12373/ 
+Jehn, F. U., Rössler, M., Kemp, L., Cassidy, M., Kallenborn, Z., García Martínez, J. B., Mani, L., & Boyd, M. (2026). No Place to Hide? Regional Resilience and Vulnerability to Global Catastrophic Risk. Global Challenges, 10(8), e70146. https://doi.org/10.1002/gch2.70146 
 
 Ji, G., Zhong, H., Feukam Nzudie, H. L., Wang, P., & Tian, P. (2024). The structure, dynamics, and vulnerability of the global food trade network. Journal of Cleaner Production, 434, 140439. https://doi.org/10.1016/j.jclepro.2023.140439
 
