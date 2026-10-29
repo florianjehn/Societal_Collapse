@@ -37,7 +37,7 @@ All this means that these northern countries would lose the majority of their lo
 
 But this is not where the problems stop. Even more urgent needs would not be met. Frost depths change as a consequence of nuclear winter. Both by freezing deeper in places that already experience frost and by freezing further south in places that do not experience frost right now. A paper that looked into this is by Lamilla Cuellar et al. (2026). They used the climate data from Coupe et al. (2019) for the 150 Tg scenario to explore how this would affect drinking water infrastructure. First they looked at changes in frost depths (Figure 3). 
 
-![Frost Depth Changes](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/lamilla_frost.png)
+![Frost Depth Changes](https://raw.githubusercontent.com/florianjehn/Societal_Collapse/main/assets/img/lamilla_frost.jpg)
 
 Figure 3: Changes in frost depths during a nuclear winter (150 Tg) in comparison to baseline. 
 
@@ -65,6 +65,7 @@ Most people in those areas would likely be without food, water, heating and elec
 I think it is quite important to remember that nuclear wars could impact even people far away from the impact. The people living in the northernmost countries should consider this most of all, as they would be hard hit, even from smaller nuclear exchanges far away. They likely even have the leverage for that. Most of these countries are in NATO, which gives them a lever to influence the nuclear posture of the United States. 
 
 # References
+
 * Blouin, S., Rivers, M., Hinge, M., Antonietta, M., Jimenez, I., Jehn, F. U., & Denkenberger, D. (2025). Strategic crop relocation could substantially mitigate nuclear winter yield losses. EarthArXiv. https://eartharxiv.org/repository/view/10178/ 
 * Coupe, J., Bardeen, C. G., Robock, A., & Toon, O. B. (2019). Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE. Journal of Geophysical Research: Atmospheres, 124(15), 8522–8543. https://doi.org/10.1029/2019JD030509 
 * Lamilla Cuellar, J. E., Palm, R., Denkenberger, D. C., & Jehn, F. U. (2026). Frost depth increase under a nuclear winter scenario projected to sever piped-water access in the Northern Hemisphere. Water Security, 27, 100193. https://doi.org/10.1016/j.wasec.2025.100193 
