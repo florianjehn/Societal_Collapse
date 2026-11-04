@@ -69,6 +69,7 @@ I think it is quite important to remember that nuclear wars could impact even pe
 * Blouin, S., Rivers, M., Hinge, M., Antonietta, M., Jimenez, I., Jehn, F. U., & Denkenberger, D. (2025). Strategic crop relocation could substantially mitigate nuclear winter yield losses. EarthArXiv. https://eartharxiv.org/repository/view/10178/ 
 * Coupe, J., Bardeen, C. G., Robock, A., & Toon, O. B. (2019). Nuclear Winter Responses to Nuclear War Between the United States and Russia in the Whole Atmosphere Community Climate Model Version 4 and the Goddard Institute for Space Studies ModelE. Journal of Geophysical Research: Atmospheres, 124(15), 8522–8543. https://doi.org/10.1029/2019JD030509 
 * Lamilla Cuellar, J. E., Palm, R., Denkenberger, D. C., & Jehn, F. U. (2026). Frost depth increase under a nuclear winter scenario projected to sever piped-water access in the Northern Hemisphere. Water Security, 27, 100193. https://doi.org/10.1016/j.wasec.2025.100193 
-* Wöstenberg
+* Wöstenberg, E., & Jehn, F. U. (2026). Snow Accumulation Regimes During Nuclear Winter. ESS Open Archive. https://doi.org/10.22541/essoar.15011611/v1 
+
 
 
