@@ -1,0 +1,40 @@
+{%- comment -%}
+  One schema.org BlogPosting per post (English and German), in <head>.
+  Every string goes through jsonify so quotes in titles cannot break the JSON.
+  Author data comes from `author` and `social-network-links` in _config.yml.
+{%- endcomment -%}
+{%- if page.collection == "posts" or page.collection == "de" -%}
+{%- assign ld_links = site.social-network-links -%}
+{%- capture ld_same_as -%}
+  {{ site.author.orcid | jsonify }}
+  {%- if ld_links.github -%}, {{ "https://github.com/" | append: ld_links.github | jsonify }}{%- endif -%}
+  {%- if ld_links.google-scholar -%}, {{ "https://scholar.google.com/" | append: ld_links.google-scholar | jsonify }}{%- endif -%}
+  {%- if ld_links.linkedin -%}, {{ "https://www.linkedin.com/in/" | append: ld_links.linkedin | jsonify }}{%- endif -%}
+  {%- if ld_links.mastodon -%}, {{ "https://" | append: ld_links.mastodon | jsonify }}{%- endif -%}
+{%- endcapture %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": {{ page.title | strip_html | jsonify }},
+    "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+    {%- if page.last-updated %}
+    "dateModified": {{ page.last-updated | date_to_xmlschema | jsonify }},
+    {%- endif %}
+    "url": {{ page.url | absolute_url | jsonify }},
+    "inLanguage": {{ page.lang | default: "en" | jsonify }},
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    {%- if page.collection == "de" %}
+    "translationOfWork": {"@type": "BlogPosting", "url": {{ lang_other_url | absolute_url | jsonify }}},
+    {%- endif %}
+    "isPartOf": {"@type": "Blog", "name": {{ site.title | jsonify }}, "url": {{ "/" | absolute_url | jsonify }}},
+    "author": {
+      "@type": "Person",
+      "name": {{ site.author.name | jsonify }},
+      "url": {{ site.author.url | jsonify }},
+      "identifier": {{ site.author.orcid | jsonify }},
+      "sameAs": [{{ ld_same_as | strip }}]
+    }
+  }
+  </script>
+{%- endif -%}

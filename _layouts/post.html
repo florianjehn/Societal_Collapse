@@ -42,6 +42,7 @@ layout: base
       {% include lang-switch.html %}
 
       <article role="main" class="blog-post">
+        {% include byline.html %}
         {% if page.lang == "de" %}{% include de-links.html html=content %}{% else %}{{ content }}{% endif %}
       </article>
 

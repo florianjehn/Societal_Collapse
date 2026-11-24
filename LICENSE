@@ -1,6 +1,44 @@
-MIT License
+This repository holds two kinds of material under two different licences.
 
+================================================================================
+1. Written content: CC BY 4.0
+================================================================================
+
+Copyright (c) Florian Ulrich Jehn (https://florianjehn.github.io/,
+ORCID https://orcid.org/0000-0002-7296-8008)
+
+The written content of "Societal Collapse: A Living Literature Review"
+(https://florianjehn.github.io/Societal_Collapse/) is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+This covers the posts in _posts/, their German translations in _de/, the pages
+(for example aboutme.md, overview.md and the files in de/), and figures and
+images made by Florian Ulrich Jehn.
+
+Attribution: name Florian Ulrich Jehn as the author and link to the original
+post. The German versions are automatic translations of the English posts; the
+English original is the authoritative text.
+
+Excluded: third-party material
+------------------------------
+Figures, images, tables and quotations taken from other people's work (for
+example figures reproduced from published papers, which are credited in the
+posts) are NOT covered by this licence. They remain under their original
+copyright and licence terms. Check the cited source before reusing them.
+
+================================================================================
+2. Code: MIT License
+================================================================================
+
+The code in this repository (the Jekyll layouts, includes, stylesheets and
+scripts, and the tools in src/) is licensed under the MIT License below.
+
+The site is based on the Beautiful Jekyll theme:
 Copyright (c) 2020 Dean Attali
+
+Changes to the theme and the code in src/:
+Copyright (c) Florian Ulrich Jehn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

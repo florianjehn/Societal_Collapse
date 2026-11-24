@@ -8,8 +8,12 @@
 # Name of website
 # : Living Literature Review on Societal Collapse
 
-# Your name to show in the footer
-author: Florian Ulrich Jehn
+# Your name to show in the footer and in the byline of each post.
+# url and orcid are also used for the byline link and the JSON-LD author data.
+author:
+  name: Florian Ulrich Jehn
+  url: "https://florianjehn.github.io/"
+  orcid: "https://orcid.org/0000-0002-7296-8008"
 
 # --- List of links in the navigation bar --- #
 
@@ -150,7 +154,7 @@ mobile-theme-col: "#F7F4EF"
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
   - "/assets/css/florian.css?v=2026-11-24"
-  - "/assets/css/blog.css?v=2026-11-24c"
+  - "/assets/css/blog.css?v=2026-11-24d"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:

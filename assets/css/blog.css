@@ -71,3 +71,16 @@
   letter-spacing: 0.18em;
   color: var(--muted);
 }
+
+/* --- Author byline at the top of each post (inside <article>) --- */
+/* Same look as the "Posted on" line in the post header */
+.blog-post .post-byline {
+  font-family: "Century Gothic", "Didact Gothic", "URW Gothic", "Questrial", sans-serif;
+  font-style: normal;
+  color: var(--muted);
+  font-size: 0.78rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin: 0 0 1.5rem;
+}
+.blog-post .post-byline a { text-decoration: none; }

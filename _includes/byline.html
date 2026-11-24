@@ -1,0 +1,8 @@
+{%- comment -%}
+  Author byline at the top of every post, inside <article>, so the name stays attached
+  to the text even when the page header, navigation and footer are stripped.
+  Name and link come from `author` in _config.yml.
+{%- endcomment -%}
+{%- if site.author.name -%}
+<p class="post-meta post-byline">{% if page.lang == "de" %}Von{% else %}By{% endif %} <a href="{{ site.author.url }}" rel="author">{{ site.author.name }}</a></p>
+{%- endif -%}
