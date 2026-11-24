@@ -1,18 +1,32 @@
 /* Living literature review: additions on top of florian.css (which is kept
    identical to the copy on florianjehn.github.io, so it can be synced as is). */
 
-/* Navbar logo: square picture cropped to a regular octagon with a mauve echo */
+/* Navbar logo: square picture cropped to a regular octagon, with a mauve hairline
+   octagon echo drawn behind it on exactly the same centre */
 .navbar-custom .navbar-brand-logo {
-  background: var(--mauve);
-  clip-path: var(--octagon);
-  padding: 1px;
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
   line-height: 0;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='29.3,0.5 70.7,0.5 99.5,29.3 99.5,70.7 70.7,99.5 29.3,99.5 0.5,70.7 0.5,29.3' fill='none' stroke='%23C9B1BD' stroke-width='1' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
 }
 .navbar-custom .navbar-brand-logo img {
+  display: block;
+  flex: none;
+  width: auto;
+  aspect-ratio: 1 / 1;
   clip-path: var(--octagon);
-  background: var(--paper);
-  padding: 2px;
+  padding: 0;
+  box-sizing: content-box;
 }
+
+/* Language button: separated from the section links by a hairline */
+@media (min-width: 1200px) {
+  .navbar-custom .nav-lang { margin-left: 0.3rem; padding-left: 0.3rem; border-left: 1px solid var(--hairline); }
+}
+.navbar-custom .nav-lang .nav-link { color: var(--berry); }
 
 /* Post thumbnails in the feed: plain rectangles, no frames */
 .post-preview .post-image img { border: 0; }
@@ -21,9 +35,9 @@
 @media (min-width: 1200px) {
   .navbar-custom .navbar-nav .nav-link {
     white-space: nowrap;
-    letter-spacing: 0.12em;
-    padding-left: 0.6rem;
-    padding-right: 0.6rem;
+    letter-spacing: 0.1em;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
   }
 }
 

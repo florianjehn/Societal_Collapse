@@ -30,6 +30,24 @@
           </li>
         {%- endif -%}
       {%- endfor -%}
+      {%- comment -%} Language button: points to the other language version of this page,
+        or to the list of German translations if this page has none. {%- endcomment -%}
+      {%- assign lang_de = nil -%}
+      {%- if page.collection == "posts" -%}
+        {%- assign de_check = "/de" | append: page.url -%}
+        {%- assign lang_de = site.de | where: "url", de_check | first -%}
+      {%- endif %}
+      <li class="nav-item nav-lang">
+      {%- if page.collection == "de" %}
+        <a class="nav-link" href="{{ page.url | remove_first: '/de' | relative_url }}" hreflang="en" lang="en" title="Read the English original">English</a>
+      {%- elsif page.lang == "de" %}
+        <a class="nav-link" href="{{ '/' | relative_url }}" hreflang="en" lang="en" title="Back to the English site">English</a>
+      {%- elsif lang_de %}
+        <a class="nav-link" href="{{ lang_de.url | relative_url }}" hreflang="de" lang="de" title="Diesen Beitrag auf Deutsch lesen (automatisch übersetzt)">Deutsch</a>
+      {%- else %}
+        <a class="nav-link" href="{{ '/de/' | relative_url }}" hreflang="de" lang="de" title="Automatisch übersetzte Beiträge">Deutsch</a>
+      {%- endif %}
+      </li>
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">

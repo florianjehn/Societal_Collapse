@@ -139,7 +139,7 @@ mobile-theme-col: "#F7F4EF"
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
   - "/assets/css/florian.css?v=2026-11-24"
-  - "/assets/css/blog.css?v=2026-11-24b"
+  - "/assets/css/blog.css?v=2026-11-24c"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
