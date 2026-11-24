@@ -38,11 +38,11 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+            <span class="post-meta">{% if page.lang == "de" %}Veröffentlicht am{% else %}Posted on{% endif %} {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
+                {% if page.lang == "de" %}Zuletzt aktualisiert{% else %}Last updated{% endif %} {{ page.last-updated | date: date_format }}
               </span>
             {% endif %}
             {% if page.readtime %}
@@ -72,11 +72,11 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+            <span class="post-meta">{% if page.lang == "de" %}Veröffentlicht am{% else %}Posted on{% endif %} {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
+                {% if page.lang == "de" %}Zuletzt aktualisiert{% else %}Last updated{% endif %} {{ page.last-updated | date: date_format }}
               </span>
             {% endif %}
             {% if page.readtime %}

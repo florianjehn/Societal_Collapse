@@ -26,3 +26,34 @@
     padding-right: 0.6rem;
   }
 }
+
+/* --- German translations --- */
+/* Link to the translation on an English post: small spaced-caps label */
+.lang-switch { margin: 0 0 1.5rem; }
+.lang-link {
+  font-size: 0.78rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+/* Notice on top of every German translation: tinted panel, one chamfered corner */
+.translation-note {
+  background: var(--tint);
+  clip-path: var(--chamfer);
+  padding: 1.25rem 1.5rem;
+  margin: 0 0 2rem;
+}
+.translation-note p { margin: 0 0 0.5rem; }
+.translation-note p:last-child { margin-bottom: 0; }
+.translation-note .label { color: var(--aubergine); }
+
+/* German overview page: plain hairline-separated list */
+.de-list > li { padding: 0.55rem 0; border-bottom: 1px solid var(--hairline); }
+.de-list > li::before { top: calc(0.55rem + 0.68em); }
+.de-list .post-meta {
+  margin-left: 0.5rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+}

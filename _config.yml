@@ -139,7 +139,7 @@ mobile-theme-col: "#F7F4EF"
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
   - "/assets/css/florian.css?v=2026-11-24"
-  - "/assets/css/blog.css?v=2026-11-24"
+  - "/assets/css/blog.css?v=2026-11-24b"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -235,8 +235,26 @@ paginate: 5
 kramdown:
   input: GFM
 
+# German translations of posts (auto translated, the English post is the source of truth).
+# A translation lives in _de/ under the same file name as its English post in _posts/
+# and is published at /de/<same url as the English post>.
+collections:
+  de:
+    output: true
+    permalink: /de/:name/
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
+  -
+    scope:
+      path: ""
+      type: "de"
+    values:
+      layout: "post"
+      language: "de"
+      lang: "de"
+      comments: true
+      social-share: true
   -
     scope:
       path: ""
