@@ -253,7 +253,7 @@ link-host: "florianjehn.github.io/Societal_Collapse"
 collections:
   de:
     output: true
-    permalink: /de/:name/
+    permalink: /de/:path/
 
 # Default YAML values (more information on Jekyll's site)
 defaults:

@@ -19,7 +19,7 @@
         }, \
       {% endfor %} \
       {% if page.lang == "de" %}{% assign search_lang = "de" %}{% else %}{% assign search_lang = "en" %}{% endif %} \
-      {% assign search_pages = site.html_pages | where_exp: "p", "p.title != '{title}' and p.title != '404 - Page not found'" %} \
+      {% assign search_pages = site.html_pages | where_exp: "p", "p.title != '{title}'" | where_exp: "p", "p.title != '404 - Page not found'" %} \
       {% if search_lang == "de" %}{% assign search_pages = search_pages | where: "lang", "de" %}{% else %}{% assign search_pages = search_pages | where_exp: "p", "p.lang != 'de'" %}{% endif %} \
       {% for page in search_pages %}{% if true %} \
         { \
