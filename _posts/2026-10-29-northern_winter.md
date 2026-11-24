@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Nordics should fear nuclear winter most
+title: The high north should fear nuclear winter most
 subtitle: Or why northern countries should do everything in their power to avoid nuclear war
 tags: [Influence Factors, Infrastructure]
 comments: true
