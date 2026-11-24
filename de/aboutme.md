@@ -5,7 +5,7 @@ permalink: /de/aboutme/
 source: aboutme.md
 source-hash: 68a410d2e50b0262
 ---
-# Was ist ein Living Literature Review?
+# Was ist ein fortlaufender Literaturüberblick?
 
 Hallo, ich bin Florian, und hier betreibe ich einen ständig aktualisierten Literaturüberblick zu gesellschaftlichem Kollaps. Den Überblick findest du hier. Wenn du dich an der Diskussion beteiligen willst, schau gerne bei [Existential Crunch](https://existentialcrunch.substack.com/) vorbei, wo du kommentieren und den Newsletter abonnieren kannst.
 
@@ -17,7 +17,7 @@ Ein bisschen was zu mir: Ich habe in Umweltwissenschaften promoviert, bin aber i
 
 # Finanzierung
 
-Das Projekt wird von [Coefficient Giving](https://coefficientgiving.org/) finanziert. Sie suchen auch nach weiteren Leuten, die Lust hätten, an einem solchen Living Literature Review zu verschiedenen Themen zu arbeiten. Mehr Infos gibt es [hier](https://coefficientgiving.org/funds/abundance-and-growth/living-literature-reviews/).
+Das Projekt wird von [Coefficient Giving](https://coefficientgiving.org/) finanziert. Sie suchen auch nach weiteren Leuten, die Lust hätten, an einem solchen fortlaufenden Literaturüberblick zu verschiedenen Themen zu arbeiten. Mehr Infos gibt es [hier](https://coefficientgiving.org/funds/abundance-and-growth/living-literature-reviews/).
 
 # Danksagung
 Im Laufe der Zeit haben mir viele Leute mit Feedback zu meinen Beiträgen geholfen. Ich versuche, diese Liste aktuell zu halten, aber erinnere mich bitte, falls ich dich hier übersehen habe.
