@@ -1,5 +1,4 @@
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -25,6 +24,11 @@
   {% endcapture %}
 
   <title>{{ title }}</title>
+
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon-32.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
 
   {% if site.author %}
   <meta name="author" content="{{ site.author }}">

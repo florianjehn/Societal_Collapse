@@ -1,0 +1,28 @@
+/* Living literature review: additions on top of florian.css (which is kept
+   identical to the copy on florianjehn.github.io, so it can be synced as is). */
+
+/* Navbar logo: square picture cropped to a regular octagon with a mauve echo */
+.navbar-custom .navbar-brand-logo {
+  background: var(--mauve);
+  clip-path: var(--octagon);
+  padding: 1px;
+  line-height: 0;
+}
+.navbar-custom .navbar-brand-logo img {
+  clip-path: var(--octagon);
+  background: var(--paper);
+  padding: 2px;
+}
+
+/* Post thumbnails in the feed: plain rectangles, no frames */
+.post-preview .post-image img { border: 0; }
+
+/* Eight nav links: keep each on one line on desktop */
+@media (min-width: 1200px) {
+  .navbar-custom .navbar-nav .nav-link {
+    white-space: nowrap;
+    letter-spacing: 0.12em;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+  }
+}
