@@ -6,13 +6,13 @@ source: further.md
 source-hash: d65e8846b0782c53
 ---
 
-Hier sammle ich andere Texte von mir, die für Teilaspekte von gesellschaftlichem Kollaps relevant sind, aber nicht zum lebendigen Literaturüberblick selbst gehören.
+Hier sammle ich andere Texte von mir, die für Teilaspekte von gesellschaftlichem Kollaps relevant sind, aber nicht zum Living Literature Review selbst gehören.
 
 # Meta
 * [In der Vielfalt liegt epistemische Stärke](https://florianjehn.github.io/Societal_Collapse/2023-01-16-diversity/)
 * [Ein genauerer Blick auf Simone de Beauvoirs Ethik der Ambiguität](https://florianjehn.github.io/Societal_Collapse/2023-02-27-simone/)
 * [Gegen die Vorherrschaft des Lückensuchens in der Forschung](https://florianjehn.github.io/Societal_Collapse/2023-02-03-gap_spotting/)
-* [Wie man einen lebendigen Literaturüberblick schreibt](https://florianjehn.github.io/Societal_Collapse/2025-04-22-write_review/)
+* [Wie man ein Living Literature Review schreibt](https://florianjehn.github.io/Societal_Collapse/2025-04-22-write_review/)
 
 # Existenzielle und globale katastrophale Risiken
 * [Wir brauchen heiße Forschung zu existenziellen Risiken](https://florianjehn.github.io/Societal_Collapse/2023-04-06-hot_research/)
