@@ -42,14 +42,14 @@ layout: base
       {% include lang-switch.html %}
 
       <article role="main" class="blog-post">
-        {{ content }}
+        {% if page.lang == "de" %}{% include de-links.html html=content %}{% else %}{{ content }}{% endif %}
       </article>
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
-          <span>Tags:</span>
+          <span>{% if page.lang == "de" %}Schlagwörter:{% else %}Tags:{% endif %}</span>
           {% for tag in page.tags %}
-            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+            {% if page.lang == "de" %}<a href="{{ '/de/tags' | relative_url }}#{{- tag -}}">{{- site.data.tags_de[tag] | default: tag -}}</a>{% else %}<a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>{% endif %}
           {% endfor %}
         </div>
       {% endif %}

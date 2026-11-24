@@ -30,17 +30,11 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon-32.png' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
 
-  {%- if page.collection == "de" -%}
-  {%- assign en_url = page.url | remove_first: "/de" %}
-  <link rel="alternate" hreflang="en" href="{{ en_url | absolute_url }}">
-  <link rel="alternate" hreflang="de" href="{{ page.url | absolute_url }}">
-  {%- elsif page.collection == "posts" -%}
-  {%- assign de_url = "/de" | append: page.url -%}
-  {%- assign de_doc = site.de | where: "url", de_url | first -%}
-  {%- if de_doc %}
-  <link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}">
-  <link rel="alternate" hreflang="de" href="{{ de_doc.url | absolute_url }}">
-  {%- endif -%}
+  {%- include lang-counterpart.html -%}
+  {%- if lang_is_de or lang_other_url != "/de/" or page.url == "/" %}
+  {%- if lang_is_de -%}{%- assign url_en = lang_other_url -%}{%- assign url_de = page.url -%}{%- else -%}{%- assign url_en = page.url -%}{%- assign url_de = lang_other_url -%}{%- endif %}
+  <link rel="alternate" hreflang="en" href="{{ url_en | absolute_url }}">
+  <link rel="alternate" hreflang="de" href="{{ url_de | absolute_url }}">
   {%- endif %}
 
   {% if site.author %}

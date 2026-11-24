@@ -23,6 +23,17 @@ navbar-links:
   Further Reading: "further"
   About This Project: "aboutme"
 
+# Navigation on the German pages (same order, German labels)
+navbar-links-de:
+  Überblick: "de/overview"
+  Einflussfaktoren: "de/factors"
+  Resilienz: "de/resilience"
+  Fallstudien: "de/casestudies"
+  Quellen: "de/references"
+  Zitieren: "de/how_to_cite"
+  Weiterlesen: "de/further"
+  Über das Projekt: "de/aboutme"
+
   
 #  Resources:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -238,6 +249,7 @@ kramdown:
 # German translations of posts (auto translated, the English post is the source of truth).
 # A translation lives in _de/ under the same file name as its English post in _posts/
 # and is published at /de/<same url as the English post>.
+link-host: "florianjehn.github.io/Societal_Collapse"
 collections:
   de:
     output: true
@@ -245,6 +257,12 @@ collections:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
+  -
+    scope:
+      path: "de"
+    values:
+      language: "de"
+      lang: "de"
   -
     scope:
       path: ""
@@ -279,6 +297,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - src/
 
 plugins:
   - jekyll-paginate

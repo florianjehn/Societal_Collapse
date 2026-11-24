@@ -1,19 +1,12 @@
 {%- comment -%}
-  English post: link to the German translation if one exists in _de/.
-  German translation: notice that it is auto translated, with a link to the original.
+  Notice on top of every German post: auto translated, the English original is the source of truth.
 {%- endcomment -%}
-{%- if page.collection == "de" -%}
-  {%- assign en_url = page.url | remove_first: "/de" -%}
+{%- if page.lang == "de" -%}
+  {%- include lang-counterpart.html -%}
   <aside class="translation-note" lang="de">
     <p class="label">Automatische Übersetzung</p>
     <p>Dieser Text wurde automatisch aus dem Englischen übersetzt und nicht von Hand geprüft.
       Maßgeblich ist das englische Original. Bei Abweichungen gilt immer die englische Fassung.</p>
-    <p><a class="lang-link" href="{{ en_url | relative_url }}" hreflang="en" lang="en">Read the English original</a></p>
+    <p><a class="lang-link" href="{{ lang_other_url | relative_url }}" hreflang="en" lang="en">Read the English original</a></p>
   </aside>
-{%- elsif page.collection == "posts" -%}
-  {%- assign de_url = "/de" | append: page.url -%}
-  {%- assign de_doc = site.de | where: "url", de_url | first -%}
-  {%- if de_doc -%}
-    <p class="lang-switch"><a class="lang-link" href="{{ de_doc.url | relative_url }}" hreflang="de" lang="de">Auf Deutsch lesen (automatisch übersetzt)</a></p>
-  {%- endif -%}
 {%- endif -%}

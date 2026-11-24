@@ -1,20 +1,6 @@
 ---
-layout: page
-title: Auf Deutsch
-subtitle: Automatisch übersetzte Beiträge
-language: de
-lang: de
+layout: home
+title: Gesellschaftlicher Kollaps
+subtitle: Ein lebendiger Literaturüberblick
 permalink: /de/
 ---
-
-<p>Hier finden sich deutsche Fassungen einiger Beiträge. Sie wurden automatisch aus dem Englischen
-übersetzt und nicht von Hand geprüft. Maßgeblich ist immer das englische Original, das bei jedem
-Beitrag verlinkt ist.</p>
-
-<ul class="de-list">
-{% assign de_posts = site.de | sort: "date" | reverse %}
-{% for post in de_posts %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <span class="post-meta">{{ post.date | date: site.date_format }}</span></li>
-{% endfor %}
-</ul>

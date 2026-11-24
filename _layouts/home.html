@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% if page.lang == "de" %}{% assign posts = site.de | sort: "date" | reverse %}{% else %}{% assign posts = paginator.posts | default: site.posts %}{% endif %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
@@ -48,7 +48,7 @@ layout: page
 
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Posted on {{ post.date | date: date_format }}
+        {% if page.lang == "de" %}Veröffentlicht am{% else %}Posted on{% endif %} {{ post.date | date: date_format }}
       </p>
 
       {% if thumbnail != "" %}
@@ -73,19 +73,19 @@ layout: page
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+          <a href="{{ post.url | absolute_url }}" class="post-read-more">{% if page.lang == "de" %}[Weiterlesen]{% else %}[Read&nbsp;More]{% endif %}</a>
         {% endif %}
       </div>
       {% endunless %}
 
       {% if site.feed_show_tags != false and post.tags.size > 0 %}
       <div class="blog-tags">
-        <span>Tags:</span>
+        <span>{% if page.lang == "de" %}Schlagwörter:{% else %}Tags:{% endif %}</span>
         <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
         <ul class="d-inline list-inline" role="list">
           {% for tag in post.tags %}
           <li class="list-inline-item">
-            <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+            {% if page.lang == "de" %}<a href="{{ '/de/tags' | absolute_url }}#{{- tag -}}">{{- site.data.tags_de[tag] | default: tag -}}</a>{% else %}<a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>{% endif %}
           </li>
           {% endfor %}
         </ul>

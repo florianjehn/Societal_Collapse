@@ -1,0 +1,22 @@
+{%- comment -%}
+  Sets `lang_is_de` (true on German pages) and `lang_other_url` (the same page in the
+  other language). German pages live under /de/ with the same path as the English one.
+  If the German version does not exist yet, the button falls back to the German home.
+{%- endcomment -%}
+{%- assign lang_is_de = false -%}
+{%- if page.lang == "de" -%}{%- assign lang_is_de = true -%}{%- endif -%}
+{%- if lang_is_de -%}
+  {%- assign lang_other_url = page.url | remove_first: "/de" -%}
+  {%- if lang_other_url == "" -%}{%- assign lang_other_url = "/" -%}{%- endif -%}
+{%- else -%}
+  {%- assign lang_check = "/de" | append: page.url -%}
+  {%- assign lang_other = site.de | where: "url", lang_check | first -%}
+  {%- unless lang_other -%}
+    {%- assign lang_other = site.pages | where: "url", lang_check | first -%}
+  {%- endunless -%}
+  {%- if lang_other -%}
+    {%- assign lang_other_url = lang_other.url -%}
+  {%- else -%}
+    {%- assign lang_other_url = "/de/" -%}
+  {%- endif -%}
+{%- endif -%}

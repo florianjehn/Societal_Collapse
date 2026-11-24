@@ -1,0 +1,39 @@
+---
+layout: page
+title: Schlagwörter
+permalink: /de/tags/
+no-translation-note: true
+---
+
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{%- assign de_docs = site.de | sort: "date" | reverse -%}
+
+{%- capture de_tags -%}
+  {%- for d in de_docs -%}{%- for t in d.tags -%}{{ t }}|{%- endfor -%}{%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = de_tags | split: "|" | uniq | sort -%}
+
+{%- for tag in tags_list -%}
+  {%- assign tagged = de_docs | where_exp: "d", "d.tags contains tag" -%}
+  <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- site.data.tags_de[tag] | default: tag -}}&nbsp;({{ tagged.size }})</a>
+{%- endfor -%}
+
+<div id="full-tags-list">
+{%- for tag in tags_list -%}
+  {%- assign tagged = de_docs | where_exp: "d", "d.tags contains tag" -%}
+  <h2 id="{{- tag -}}" class="linked-section">
+    <i class="fas fa-tag" aria-hidden="true"></i>
+    &nbsp;{{- site.data.tags_de[tag] | default: tag -}}&nbsp;({{ tagged.size }})
+  </h2>
+  <div class="post-list">
+    {%- for post in tagged -%}
+      <div class="tag-entry">
+        <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
+        <div class="entry-date">
+          <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
+        </div>
+      </div>
+    {%- endfor -%}
+  </div>
+{%- endfor -%}
+</div>

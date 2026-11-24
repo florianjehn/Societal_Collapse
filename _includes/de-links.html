@@ -1,0 +1,17 @@
+{%- comment -%}
+  On German pages: point links to English posts/pages at their German version,
+  but only where a German version exists. Everything else keeps the English link.
+  Usage: {% include de-links.html html=content %}
+{%- endcomment -%}
+{%- assign de_html = include.html -%}
+{%- assign de_host = site.link-host | default: "florianjehn.github.io/Societal_Collapse" -%}
+{%- assign de_targets = site.pages | where: "lang", "de" | concat: site.de -%}
+{%- for d in de_targets -%}
+  {%- assign d_en = d.url | remove_first: "/de" -%}
+  {%- if d_en != "/" and d_en != "" -%}
+    {%- assign d_from = de_host | append: d_en | append: '"' -%}
+    {%- assign d_to = de_host | append: d.url | append: '"' -%}
+    {%- assign de_html = de_html | replace: d_from, d_to -%}
+  {%- endif -%}
+{%- endfor -%}
+{{- de_html -}}

@@ -15,7 +15,12 @@ layout: base
         </div>
       {% endif %}
 
-      {{ content }}
+      {% if page.lang == "de" %}
+        {% unless page.no-translation-note %}{% include lang-switch.html %}{% endunless %}
+        {% include de-links.html html=content %}
+      {% else %}
+        {{ content }}
+      {% endif %}
 
       {% if page.after-content %}
         <div class="after-content">

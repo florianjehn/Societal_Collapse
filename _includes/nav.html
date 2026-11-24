@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
   {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
+    <a class="navbar-brand navbar-brand-logo" href="{% if page.lang == 'de' %}{{ '/de/' | relative_url }}{% else %}{{ '' | absolute_url }}{% endif %}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
     <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
   {%- endif -%}
@@ -12,7 +12,9 @@
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
-      {%- for link in site.navbar-links -%}
+      {%- include lang-counterpart.html -%}
+      {%- if lang_is_de -%}{%- assign nav_links = site.navbar-links-de -%}{%- else -%}{%- assign nav_links = site.navbar-links -%}{%- endif -%}
+      {%- for link in nav_links -%}
         {%- if link[1].first %}
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
@@ -30,29 +32,18 @@
           </li>
         {%- endif -%}
       {%- endfor -%}
-      {%- comment -%} Language button: points to the other language version of this page,
-        or to the list of German translations if this page has none. {%- endcomment -%}
-      {%- assign lang_de = nil -%}
-      {%- if page.collection == "posts" -%}
-        {%- assign de_check = "/de" | append: page.url -%}
-        {%- assign lang_de = site.de | where: "url", de_check | first -%}
-      {%- endif %}
       <li class="nav-item nav-lang">
-      {%- if page.collection == "de" %}
-        <a class="nav-link" href="{{ page.url | remove_first: '/de' | relative_url }}" hreflang="en" lang="en" title="Read the English original">English</a>
-      {%- elsif page.lang == "de" %}
-        <a class="nav-link" href="{{ '/' | relative_url }}" hreflang="en" lang="en" title="Back to the English site">English</a>
-      {%- elsif lang_de %}
-        <a class="nav-link" href="{{ lang_de.url | relative_url }}" hreflang="de" lang="de" title="Diesen Beitrag auf Deutsch lesen (automatisch übersetzt)">Deutsch</a>
+      {%- if lang_is_de %}
+        <a class="nav-link" href="{{ lang_other_url | relative_url }}" hreflang="en" lang="en" title="English original">English</a>
       {%- else %}
-        <a class="nav-link" href="{{ '/de/' | relative_url }}" hreflang="de" lang="de" title="Automatisch übersetzte Beiträge">Deutsch</a>
+        <a class="nav-link" href="{{ lang_other_url | relative_url }}" hreflang="de" lang="de" title="Auf Deutsch (automatisch übersetzt)">Deutsch</a>
       {%- endif %}
       </li>
       {% if site.post_search %}
         <li class="nav-item">
-          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+          <a class="nav-link" id="nav-search-link" href="#" title="{% if lang_is_de %}Suchen{% else %}Search{% endif %}">
             <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">Search</span>
+            <span id="nav-search-text">{% if lang_is_de %}Suchen{% else %}Search{% endif %}</span>
           </a>
         </li>
       {%- endif -%}

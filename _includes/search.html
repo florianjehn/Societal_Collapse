@@ -3,13 +3,14 @@
 <div id="beautifuljekyll-search-overlay">
 
   <div id="nav-search-exit" title="Exit search">✕</div>
-  <input type="text" id="nav-search-input" placeholder="Search">
+  <input type="text" id="nav-search-input" placeholder="{% if page.lang == 'de' %}Suchen{% else %}Search{% endif %}">
   <ul id="search-results-container"></ul>
   
   <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
   <script>
     var searchjson = '[ \
-      {% for post in site.posts %} \
+      {% if page.lang == "de" %}{% assign search_posts = site.de | sort: "date" | reverse %}{% else %}{% assign search_posts = site.posts %}{% endif %} \
+      {% for post in search_posts %} \
         { \
           "title"    : "{% if post.title != "" %}{{ post.title | strip_html | escape }}{% else %}{{ post.excerpt | strip_html | escape | strip }}{%endif%}", \
           "category" : "{{ post.tags | join: \', \' }}", \
@@ -17,7 +18,10 @@
           "date"     : "{{ post.date | date: "%B %e, %Y" | default: "January 1, 1970" }}" \
         }, \
       {% endfor %} \
-      {% for page in site.html_pages %}{% if page.title != "{title}" and page.title != "404 - Page not found" %} \
+      {% if page.lang == "de" %}{% assign search_lang = "de" %}{% else %}{% assign search_lang = "en" %}{% endif %} \
+      {% assign search_pages = site.html_pages | where_exp: "p", "p.title != '{title}' and p.title != '404 - Page not found'" %} \
+      {% if search_lang == "de" %}{% assign search_pages = search_pages | where: "lang", "de" %}{% else %}{% assign search_pages = search_pages | where_exp: "p", "p.lang != 'de'" %}{% endif %} \
+      {% for page in search_pages %}{% if true %} \
         { \
           "title"    : "{% if page.title != "" %}{{ page.title | strip_html | escape }}{% else %}{{ page.excerpt | strip_html | escape | strip }}{% endif %}", \
           "category" : "{% if page.tags %}{{ page.tags | join: \', \' }}{% else %}page{% endif %}", \
