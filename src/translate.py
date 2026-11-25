@@ -208,6 +208,31 @@ def stamp(target, source):
     target.write_text(text, encoding="utf-8")
 
 
+def write_pager_pages():
+    """Keep de/pageN/index.html in sync with the number of German posts.
+
+    jekyll-paginate only paginates _posts, so the German front page is split by hand:
+    each stub sets `de_page` and _layouts/home.html shows the matching slice of posts.
+    """
+    config = yaml.safe_load((ROOT / "_config.yml").read_text(encoding="utf-8"))
+    per_page = config.get("paginate", 10)
+    total = len(list(DE_POSTS_DIR.glob("*.md")))
+    pages = max(1, -(-total // per_page))
+    for n in range(2, pages + 1):
+        stub = DE_PAGES_DIR / f"page{n}" / "index.html"
+        stub.parent.mkdir(exist_ok=True)
+        stub.write_text(
+            "---\nlayout: home\ntitle: Gesellschaftlicher Kollaps\n"
+            "subtitle: Ein fortlaufender Literaturüberblick\n"
+            f"permalink: /de/page{n}/\nde_page: {n}\n---\n",
+            encoding="utf-8",
+        )
+    for stub in DE_PAGES_DIR.glob("page*/index.html"):
+        if int(stub.parent.name[4:]) > pages:
+            stub.unlink()
+            stub.parent.rmdir()
+
+
 def main():
     """Translate everything that is missing or outdated."""
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
@@ -260,6 +285,7 @@ def main():
         front = german_front_matter(meta, source, kind, title, subtitle)
         target.write_text(front + "\n" + body_de + "\n", encoding="utf-8")
         print(f"  wrote {target.relative_to(ROOT)}")
+    write_pager_pages()
 
 
 if __name__ == "__main__":

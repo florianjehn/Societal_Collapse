@@ -4,7 +4,15 @@ layout: page
 
 {{ content }}
 
-{% if page.lang == "de" %}{% assign posts = site.de | sort: "date" | reverse %}{% else %}{% assign posts = paginator.posts | default: site.posts %}{% endif %}
+{% if page.lang == "de" %}
+  {% comment %} jekyll-paginate only handles _posts, so German pages are paginated by hand: de/pageN/index.html sets de_page: N {% endcomment %}
+  {% assign per_page = site.paginate | default: 10 %}
+  {% assign de_page = page.de_page | default: 1 %}
+  {% assign de_offset = de_page | minus: 1 | times: per_page %}
+  {% assign de_total_pages = site.de.size | plus: per_page | minus: 1 | divided_by: per_page %}
+  {% assign posts = site.de | sort: "date" | reverse %}
+  {% assign posts = posts | slice: de_offset, per_page %}
+{% else %}{% assign posts = paginator.posts | default: site.posts %}{% endif %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
@@ -97,7 +105,23 @@ layout: page
   {% endfor %}
 </ul>
 
-{% if paginator.total_pages > 1 %}
+{% if page.lang == "de" %}
+{% if de_total_pages > 1 %}
+<ul class="pagination main-pager">
+  {% if de_page > 1 %}
+  <li class="page-item previous">
+    {% if de_page == 2 %}{% assign prev_path = '/de/' %}{% else %}{% assign prev_path = de_page | minus: 1 | prepend: '/de/page' | append: '/' %}{% endif %}
+    <a class="page-link" href="{{ prev_path | absolute_url }}">&larr; Neuere Beiträge</a>
+  </li>
+  {% endif %}
+  {% if de_page < de_total_pages %}
+  <li class="page-item next">
+    <a class="page-link" href="{{ de_page | plus: 1 | prepend: '/de/page' | append: '/' | absolute_url }}">Ältere Beiträge &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+{% elsif paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
