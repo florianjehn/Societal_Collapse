@@ -123,6 +123,9 @@ def is_outdated(source, target):
     if not target.exists():
         return True
     meta, _ = split_front_matter(target.read_text(encoding="utf-8"))
+    if meta.get("original"):
+        # written in German by hand, never overwrite with a machine translation
+        return False
     return meta.get("source-hash") != file_hash(source)
 
 

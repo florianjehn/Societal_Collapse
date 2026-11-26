@@ -3,7 +3,7 @@ layout: page
 title: Überblick
 permalink: /de/overview/
 source: overview.md
-source-hash: bd56fd1aa36dc659
+source-hash: 000a81d6b238c0a0
 ---
 
 In diesem Bereich geht es um den Blick von oben auf Kollaps. Also darum, Erkenntnisse zusammenzuführen oder übergeordnete Konzepte zu erkunden.
@@ -18,6 +18,7 @@ In diesem Bereich geht es um den Blick von oben auf Kollaps. Also darum, Erkennt
 * [Atomkrieg, nuklearer Winter und das Ernährungssystem](https://florianjehn.github.io/Societal_Collapse/2026-02-11-nuclear_panel/)
 * [Wie die Umweltpolitik die Zukunft verloren hat](https://florianjehn.github.io/Societal_Collapse/2026-04-07-captured_futures/)
 * [Kann man aus Romanen etwas über Kollaps lernen?](https://florianjehn.github.io/Societal_Collapse/2026-07-10-fiction/)
+* [Der trostlose Zustand der Forschung zu globalen Katastrophenrisiken](https://florianjehn.github.io/Societal_Collapse/2026-11-26-broken_gcr/)
 
 # Übergeordnete Konzepte
 * [Das universelle Anthropozän](https://florianjehn.github.io/Societal_Collapse/2022-04-26-anthropocene/)

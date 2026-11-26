@@ -3,7 +3,7 @@ layout: page
 title: Weiterlesen
 permalink: /de/further/
 source: further.md
-source-hash: d65e8846b0782c53
+source-hash: 8bb175b90c02a9b0
 ---
 
 Hier sammle ich andere Texte von mir, die für Teilaspekte von gesellschaftlichem Kollaps relevant sind, aber nicht zum fortlaufenden Literaturüberblick selbst gehören.
@@ -19,3 +19,4 @@ Hier sammle ich andere Texte von mir, die für Teilaspekte von gesellschaftliche
 * [Die 25 Forschenden mit den meisten Fachartikeln zu existenziellen Risiken](https://florianjehn.github.io/Societal_Collapse/2023-08-12-most_published/)
 * [Wissenschaftsleugnung und nuklearer Winter](https://florianjehn.github.io/Societal_Collapse/2023-09-28-nuclear_winter_denial/)
 * [Der Stand der Forschung zu globalen katastrophalen Risiken: eine bibliometrische Übersicht](https://esd.copernicus.org/articles/16/1053/2025/) (englisch)
+* [Globale Katastrophen sind ein Ernährungsproblem](https://florianjehn.github.io/Societal_Collapse/2026-11-25-germany_gcr/)

@@ -1,7 +1,8 @@
 {%- comment -%}
   Notice on top of every German post: auto translated, the English original is the source of truth.
+  Posts written in German by hand (`original: true`) get no notice.
 {%- endcomment -%}
-{%- if page.lang == "de" -%}
+{%- if page.lang == "de" and page.original != true -%}
   {%- include lang-counterpart.html -%}
   <aside class="translation-note" lang="de">
     <p class="label">Automatische Übersetzung</p>
