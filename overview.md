@@ -15,6 +15,7 @@ This section is concerned with a more bird's eye view of collapse. Aggregating i
 * [Nuclear war, nuclear winter, and the food system](https://florianjehn.github.io/Societal_Collapse/2026-02-11-nuclear_panel/)
 * [How environmental politics lost the future](https://florianjehn.github.io/Societal_Collapse/2026-04-07-captured_futures/)
 * [Can you learn about collapse from novels?](https://florianjehn.github.io/Societal_Collapse/2026-07-10-fiction/)
+* [The dismal state of global catastrophic risk research](https://florianjehn.github.io/Societal_Collapse/2026-11-26-broken_gcr/)
 
 # High level concepts
 * [The universal Anthropocene](https://florianjehn.github.io/Societal_Collapse/2022-04-26-anthropocene/)
