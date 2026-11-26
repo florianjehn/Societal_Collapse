@@ -16,3 +16,4 @@ Here I collect other documents I have written, which are relevant to facets of s
 * [The 25 researchers who have published the largest number of academic articles on existential risk](https://florianjehn.github.io/Societal_Collapse/2023-08-12-most_published/)
 * [Science denial and nuclear winter](https://florianjehn.github.io/Societal_Collapse/2023-09-28-nuclear_winter_denial/)
 * [The state of global catastrophic risk research: a bibliometric review](https://esd.copernicus.org/articles/16/1053/2025/)
+* [Global catastrophes are a food problem](https://florianjehn.github.io/Societal_Collapse/2026-11-25-germany_gcr/)
