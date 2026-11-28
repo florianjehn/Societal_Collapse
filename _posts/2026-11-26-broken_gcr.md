@@ -15,7 +15,7 @@ I am concerned about the field of global catastrophic risk (GCR) research. For r
 
 But is this actually true or am I just talking to the wrong people? I wanted to look into this for a while, but it always seemed like too much work to aggregate all the messy data. However, Claude is happy to do that all for me, and so I now have an aggregated state of the field based on funding (from Coefficient Giving, the Long Term Future Fund, Survival and Flourishing Fund and Future of Life Institute as the main funders) and staff numbers (based on snap shots of team pages from the Wayback Machine). You can find an interactive version [here](https://florianjehn.github.io/GCR-field-overview/index.html). 
  
-Generally, my impression seems to be tragically accurate. 69 million dollars for a whole research field over 10 years ain't much. Staffing levels hit their peak in 2021 and have been declining since then. The closure of the Future of Humanity Institute led to a significant decline in the number of people working on these topics. Only around 25 people do GCR research outside AI and bio in explicit GCR orgs. All the while nuclear arsenals are extended, the constant threat of geomagnetic storms and volcanoes lurks in the background and climate change is now beyond 1.5°C. So, these risks are either getting worse or staying constant. We need this research. 
+Generally, my impression seems to be tragically accurate. 69 million dollars for a whole research field over 10 years ain't much. Staffing levels hit their peak in 2021 and have been declining since then. The closure of the Future of Humanity Institute led to a significant decline in the number of people working on these topics. Only around 20 people do GCR research outside AI and bio in explicit GCR orgs. All the while nuclear arsenals are extended, the constant threat of geomagnetic storms and volcanoes lurks in the background and climate change is now beyond 1.5°C. So, these risks are either getting worse or staying constant. We need this research. 
 
 # What do I see as GCR research?
 When I say GCR for me this includes the work on those kinds of events that have the potential to kill 10 % or more of the global population. The hazards that are described often here are AI, bio (mostly pandemics), nuclear, volcanoes, geomagnetic storms and extreme climate change, but there is a long list of other potential GCR causes reaching from asteroids to nanotech to a nearby supernova (Figure 1). This excludes things like mainstream climate science, nuclear security, forecasting etc, as it all is usually not conducted from a GCR perspective. For example, non GCR climate research rarely concerns itself with higher-warming scenarios. 
@@ -63,7 +63,7 @@ The only positive thing I can say here is that there seems to be an increase in 
 # Conclusion
 
 To sum this up:
-* Only around 25 people do GCR outside AI and bio research from a GCR angle in explicit GCR orgs (4).
+* Only around 20 people do GCR outside AI and bio research from a GCR angle in explicit GCR orgs (4).
 * The peak of GCR work outside AI and bio was in 2021. 
 * The GCR work outside AI and bio receives very little money, while at the same time the funding for AI and bio is surging. 
 * There seems to be an uptick in teaching and policy work around GCR.
@@ -84,5 +84,5 @@ I also think that the timing is just abysmal. We are clearly in a world that is 
 
 (3) Though of course it is also quite good if people with GCR expertise end up working in more mainstream organisations.
 
-(4) Obviously, this is highly uncertain and it is also not the number of people that do research relevant to GCR, there are many many more people working on nuclear issues for example. 
+(4) Obviously, this is highly uncertain, depends a lot on what orgs you count and it is also not the number of people that do research relevant to GCR, there are many many more people working on nuclear issues for example. 
 
